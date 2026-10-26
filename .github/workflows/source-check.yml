@@ -1,0 +1,74 @@
+name: 関東版・参照URL確認
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 21 * * 0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kanto-source-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+
+    steps:
+      - name: ファイルを取得
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: 参照URLの接続を確認
+        run: python3 scripts/check_sources.py
+
+      - name: 確認結果を保存
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: kanto-source-check
+          path: reports/source-check.json
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: 結果を表示して要確認を判定
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          report = json.loads(
+              Path("reports/source-check.json").read_text(
+                  encoding="utf-8"
+              )
+          )
+
+          lines = [
+              "## 関東版・参照URL確認",
+              f"- 確認対象: {report['total']}件",
+              f"- 接続成功: {report['reachable']}件",
+              f"- 要確認: {report['needs_review']}件",
+              "",
+              "URLの接続確認のみです。",
+              "掲載内容の正確性は未検証です。",
+              "掲載データと内容確認日は変更していません。",
+              "",
+              "詳しい結果は kanto-source-check を開いてください。",
+          ]
+
+          with open(
+              os.environ["GITHUB_STEP_SUMMARY"],
+              "a",
+              encoding="utf-8",
+          ) as summary:
+              summary.write("\n".join(lines) + "\n")
+
+          if report["needs_review"] > 0:
+              print("::error::接続できない、または要確認のURLがあります。")
+              raise SystemExit(1)
+          PY
