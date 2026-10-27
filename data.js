@@ -1220,7 +1220,7 @@ const DATA={
       "note": "難度のあるコース。ティー選択と予約可能な組合せを確認。",
       "sources": [
         {
-          "url": "https://www.karasuyamajo.com/facilities/?id=1319448709-327366",
+          "url": "https://www.karasuyamajo.com/hotel.html",
           "label": "クラブハウスに隣接するホテルで宿泊ゴルフを楽しめる。"
         }
       ],
@@ -1233,13 +1233,13 @@ const DATA={
         },
         "rail": {
           "text": "JR氏家駅から車で約30分。",
-          "url": "https://www.karasuyamajo.com/access/",
+          "url": "https://www.karasuyamajo.com/access.html",
           "checked": "2026-10-24",
           "basis": "公式アクセス検索索引:氏家駅コースまで車約30分。烏山駅15分は2021大会バスのみでタクシーとしない"
         },
         "car": {
           "text": "矢板ICから車で約30分（26km）。",
-          "url": "https://www.karasuyamajo.com/access/images/yaita.pdf",
+          "url": "https://www.karasuyamajo.com/access.html",
           "checked": "2026-10-24",
           "basis": "公式アクセス矢板PDF:26kmお車約30分"
         },
@@ -1253,7 +1253,7 @@ const DATA={
         "budget": null,
         "scenery": {
           "text": "三の丸8番は、景観も見どころの打ち下ろしホール。大きくうねるフェアウェイとクリークが特徴です。",
-          "url": "https://www.karasuyamajo.com/course/3_8.html",
+          "url": "https://www.karasuyamajo.com/course_san.html",
           "checked": "2026-10-24",
           "basis": "公式:景観名物、打下ろし、FW大うねり、左クリーク"
         }
