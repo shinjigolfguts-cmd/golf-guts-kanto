@@ -2,6 +2,14 @@ name: 関東版・動作確認
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '*.js'
+      - '*.html'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/kanto-check.yml'
+  pull_request:
 
 permissions:
   contents: read
@@ -11,6 +19,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: 検索とURL点検処理を検査
+        run: |
+          node tests/test_selection.cjs
+          node --check finder.js
+          node --check access.js
+          python3 -m unittest discover -s tests -v
       - name: 公開サイトに接続できるか確認
         run: |
           curl --fail --show-error --silent --location \
