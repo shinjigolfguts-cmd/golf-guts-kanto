@@ -6692,7 +6692,7 @@ const DATA={
     {
       "name": "伊勢原カントリークラブ",
       "area": "神奈川県・伊勢原市",
-      "url": "http://www.pacificgolf.co.jp/isehara/",
+      "url": "https://booking.pacificgolf.co.jp/guide/154.html",
       "feature": "伊勢原市にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -6731,7 +6731,7 @@ const DATA={
           "basis": "公式PGM案内に眺望対象を明記"
         }
       },
-      "officialUrl": "http://www.pacificgolf.co.jp/isehara/"
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/154.html"
     },
     {
       "name": "小田原城カントリー倶楽部",
@@ -7624,7 +7624,7 @@ const DATA={
     {
       "name": "越生ゴルフクラブ",
       "area": "埼玉県・比企郡ときがわ町",
-      "url": "http://www.ogosegc.co.jp",
+      "url": "https://ogosegc.co.jp/",
       "feature": "比企郡ときがわ町にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -7683,7 +7683,7 @@ const DATA={
           "basis": "公式トップに秩父連峰眺望・池越えショート"
         }
       },
-      "officialUrl": "http://www.ogosegc.co.jp"
+      "officialUrl": "https://ogosegc.co.jp/"
     },
     {
       "name": "こだまゴルフクラブ",
@@ -7823,7 +7823,7 @@ const DATA={
     {
       "name": "飯能くすの樹カントリー倶楽部",
       "area": "埼玉県・飯能市",
-      "url": "http://www.pacificgolf.co.jp/hanno/",
+      "url": "https://booking.pacificgolf.co.jp/guide/75.html",
       "feature": "飯能市にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -7869,7 +7869,7 @@ const DATA={
           "basis": "公式PGM案内に奥武蔵自然・OUTフラット広々開放感"
         }
       },
-      "officialUrl": "http://www.pacificgolf.co.jp/hanno/"
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/75.html"
     },
     {
       "name": "飯能グリーンカントリークラブ",
@@ -8011,7 +8011,7 @@ const DATA={
     {
       "name": "阿見ゴルフクラブ",
       "area": "茨城県・稲敷郡阿見町",
-      "url": "http://www.pacificgolf.co.jp/ami/index.asp",
+      "url": "https://booking.pacificgolf.co.jp/guide/47.html",
       "feature": "稲敷郡阿見町にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -8057,7 +8057,7 @@ const DATA={
           "basis": "公式PGM案内に自然林・静かな雰囲気・フラット林間"
         }
       },
-      "officialUrl": "http://www.pacificgolf.co.jp/ami/index.asp"
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/47.html"
     },
     {
       "name": "江戸崎カントリー倶楽部",
@@ -8339,7 +8339,7 @@ const DATA={
     {
       "name": "美浦ゴルフ倶楽部",
       "area": "茨城県・稲敷郡美浦村",
-      "url": "http://www.pacificgolf.co.jp/miho",
+      "url": "https://www.pacificgolf.co.jp/miho/",
       "feature": "稲敷郡美浦村にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -8390,12 +8390,12 @@ const DATA={
           "basis": "公式16番ホール案内に両側の大きく美しい池"
         }
       },
-      "officialUrl": "http://www.pacificgolf.co.jp/miho"
+      "officialUrl": "https://www.pacificgolf.co.jp/miho/"
     },
     {
       "name": "セゴビアゴルフクラブ イン チヨダ",
       "area": "茨城県・かすみがうら市",
-      "url": "http://www.pacificgolf.co.jp/segovia",
+      "url": "https://www.pacificgolf.co.jp/segovia/",
       "feature": "かすみがうら市にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -8446,12 +8446,12 @@ const DATA={
           "basis": "PGM公式特集にスペインテーマ・ミロシンボルの4番バンカー"
         }
       },
-      "officialUrl": "http://www.pacificgolf.co.jp/segovia"
+      "officialUrl": "https://www.pacificgolf.co.jp/segovia/"
     },
     {
       "name": "大日向カントリー倶楽部",
       "area": "栃木県・さくら市",
-      "url": "http://www.pacificgolf.co.jp/ohinata/",
+      "url": "https://booking.pacificgolf.co.jp/guide/27.html",
       "feature": "さくら市にある27ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -8490,7 +8490,7 @@ const DATA={
           "basis": "公式PGM案内に日光那須連山一望・丘陵"
         }
       },
-      "officialUrl": "http://www.pacificgolf.co.jp/ohinata/"
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/27.html"
     },
     {
       "name": "ゴールド佐野カントリークラブ",
@@ -9096,7 +9096,7 @@ const DATA={
     {
       "name": "甘楽カントリークラブ",
       "area": "群馬県・甘楽郡甘楽町",
-      "url": "http://accordiagolf.com",
+      "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/",
       "feature": "甘楽郡甘楽町にある18ホールのゴルフ場。都県別の候補として、アクセスとプレー条件を比較できます。",
       "note": "予約方法・ビジター利用条件・料金は公式サイトで確認してください。会員の紹介や同伴が必要な場合があります。",
       "sources": [
@@ -20909,28 +20909,27 @@ const DATA={
           "basis": "公式サイト本文・公式案内図で確認"
         },
         "dining": {
-          "text": "公式メニューに「愛知県三河一色産うな重」を掲載。提供内容は季節や仕入れにより変わる場合があります。",
-          "url": "https://www.ogawacc.co.jp/restaurant/",
-          "checked": "2026-10-25",
-          "basis": "公式案内を確認",
-          "dish": "愛知県三河一色産うな重",
+          "text": "レストランを備えています。公式施設案内ではメニュー準備中のため、現在の提供料理はクラブへご確認ください。",
+          "url": "https://www.ogawacc.co.jp/facilities/",
+          "checked": "2026-10-27",
+          "basis": "公式施設案内にレストラン・メニュー準備中の記載",
           "sourceType": "official"
         },
         "budget": {
           "text": "9H参考：平日5,100円／土日祝6,200円。公式アフターヌーンハーフ・セルフ料金、税込・2名以上。午後1〜2時スタート、当日正午まで電話予約。18H料金とは異なります。通常1Rの総額は公式予約で確認。",
-          "url": "https://www.ogawacc.co.jp/fee/",
-          "checked": "2026-10-25",
-          "basis": "公式案内を確認",
+          "url": "https://www.ogawacc.co.jp/reserve/",
+          "checked": "2026-10-27",
+          "basis": "公式料金表の午後ハーフ料金・人数・予約時間条件を確認",
           "priceVerified": true,
           "priceLabel": "9H参考：平日5,100円／土日祝6,200円",
           "conditions": "公式アフターヌーンハーフ・セルフ料金、税込・2名以上。午後1〜2時スタート、当日正午まで電話予約。18H料金とは異なります。通常1Rの総額は公式予約で確認。",
           "holes": 9
         },
         "stay": {
-          "text": "浴室の利用時間はプレー終了後30分と案内しています。夏季サマータイム（7月1日〜9月15日）はシャワーのみの利用となります。",
-          "url": "https://www.ogawacc.co.jp/guide/",
-          "checked": "2026-10-25",
-          "basis": "公式guide営業時間表と https://www.ogawacc.co.jp/news/1476/ のサマータイム期間・シャワー限定を照合。"
+          "text": "クラブハウスにロッカールームと浴室を備えています。利用時間や営業条件は来場前にクラブへご確認ください。",
+          "url": "https://www.ogawacc.co.jp/facilities/",
+          "checked": "2026-10-27",
+          "basis": "公式施設案内にロッカールーム・浴室を確認。旧ページの利用時間は現在確認できず。"
         }
       },
       "id": 422
@@ -22048,14 +22047,14 @@ const DATA={
     {
       "name": "ヘリテイジゴルフコース",
       "area": "埼玉県・熊谷市",
-      "url": "https://hotel-heritage.co.jp/sports/course.html",
-      "officialUrl": "https://hotel-heritage.co.jp/sports/course.html",
+      "url": "https://www.hotel-heritage.co.jp/sports/course.html",
+      "officialUrl": "https://www.hotel-heritage.co.jp/sports/course.html",
       "feature": "510ヤードのロングホールを含む9ホール。9Hまたは同じコースを2周する18Hを選べます。",
       "note": "日程・予約条件は公式サイトをご確認ください。",
       "comparison": {
         "play": {
           "text": "510ヤードのロングホールを含む9ホール。9Hまたは同じコースを2周する18Hを選べます。",
-          "url": "https://hotel-heritage.co.jp/sports/course.html",
+          "url": "https://www.hotel-heritage.co.jp/sports/course.html",
           "checked": "2026-10-24",
           "basis": "公式サイト本文・公式案内図で確認"
         },
