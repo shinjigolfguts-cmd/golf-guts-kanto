@@ -56,6 +56,10 @@ def write_summary(report, folder):
     return text, complete
 
 
+def exit_status(report):
+    complete = report.get("complete") is True and report.get("pending") == 0 and len(report["results"]) == report["total"]
+    return 1 if not complete or any(r.get("http_status") in (404, 410) for r in report["results"]) else 0
+
 def main():
     folder = Path(__file__).resolve().parents[1] / 'reports'
     report = json.loads((folder / 'source-check.json').read_text(encoding='utf-8'))
@@ -66,9 +70,11 @@ def main():
     print(text)
     if not complete:
         raise SystemExit('確認未完了：途中結果を保存しました。')
-    if any(row.get('status') != 'reachable' for row in report['results']):
-        print('::error::要確認URLがあります。needs-review.csvを確認してください。')
+    if exit_status(report):
+        print('::error::404/410のURLがあります。needs-review.csvで個別確認してください。')
         raise SystemExit(1)
+    if any(row.get('status') != 'reachable' for row in report['results']):
+        print('::warning::通信上の要確認URLがあります。全件正常ではありません。needs-review.csvを確認してください。')
 
 
 if __name__ == '__main__':

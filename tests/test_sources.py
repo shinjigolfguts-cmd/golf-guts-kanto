@@ -4,9 +4,17 @@ import tempfile
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from check_sources import collect_urls, request_url
-from summarize_sources import classify, csv_cell, write_summary
+from summarize_sources import classify, csv_cell, write_summary, exit_status
 
 class SourceTests(unittest.TestCase):
+    def test_warning_is_not_incomplete_or_missing_page(self):
+        report = {"total":1,"pending":0,"complete":True,"results":[{"status":"fetch_failed","http_status":503}]}
+        self.assertEqual(exit_status(report),0)
+        report["results"][0]["http_status"] = 404
+        self.assertEqual(exit_status(report),1)
+        report.update(complete=False,pending=1)
+        self.assertEqual(exit_status(report),1)
+
     def test_nested_urls(self):
         urls = set()
         collect_urls({'url':'https://a.test/a#x','supportingUrls':['https://a.test/b#z','javascript:bad'], 'nested':[{'officialUrl':' https://a.test/c '}], 'text':'https://ignore.test'}, urls)
