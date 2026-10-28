@@ -1,0 +1,63 @@
+{
+  "baseSha256": "4bf8fe8e8a6c0a63e8261566d0fa90f3ed7200cd3969a829d1dc54e99fc180a1",
+  "reviewed": true,
+  "reviewer": "Codex: official page review 2026-10-28",
+  "updates": [
+    {
+      "id": 195,
+      "name": "長南カントリークラブ",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "圏央道・茂原長南ICが最寄り。公式案内では川崎浮島JCTからコースまで約45分です。所要時間は交通状況により変わります。",
+        "url": "https://www.chonan-cc.com/access",
+        "checked": "2026-10-28",
+        "basis": "公式交通案内で最寄りICと川崎浮島JCTから約45分を確認。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式交通案内で最寄りICと川崎浮島JCTから約45分を確認。"
+    },
+    {
+      "id": 214,
+      "name": "紫カントリークラブ すみれコース",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "常磐道・柏ICから国道16号を春日部・野田方面へ約7km進み、「野田市駅入口」交差点を右折。流山ICからの経路も公式で案内しています。",
+        "url": "https://www.murasaki-cc.co.jp/access.html",
+        "checked": "2026-10-28",
+        "basis": "すみれコース公式アクセスで国道16号を約7km進んだ後に右折する経路を確認。約7kmはゴルフ場までの総距離ではない。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "すみれコース公式アクセスで国道16号を約7km進んだ後に右折する経路を確認。約7kmはゴルフ場までの総距離ではない。"
+    },
+    {
+      "id": 249,
+      "name": "東京クラシッククラブ",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "千葉東金道路・中野ICから車で約3分。箱崎ICからは首都高速・京葉道路・千葉東金道路経由で約50分が公式の目安です。交通状況により変わります。",
+        "url": "https://tokyo-classic.jp/access/",
+        "checked": "2026-10-28",
+        "basis": "公式アクセスで中野ICから3分、箱崎ICからの経路と約50分を確認。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式アクセスで中野ICから3分、箱崎ICからの経路と約50分を確認。"
+    },
+    {
+      "id": 311,
+      "name": "富士カントリー笠間倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ゴルフ場併設のロッジに宿泊できます。客室はバス・トイレ付きで、全室無料Wi-Fiを利用できます。空室・料金は予約時にご確認ください。",
+        "url": "https://kasama-club.com/facility",
+        "checked": "2026-10-28",
+        "basis": "公式施設案内に併設ロッジ、バス・トイレ付き、全室無料Wi-Fiを確認。温泉や食事条件は推測していない。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式施設案内に併設ロッジ、バス・トイレ付き、全室無料Wi-Fiを確認。温泉や食事条件は推測していない。"
+    }
+  ]
+}
