@@ -2305,7 +2305,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "ゴルフ場・運営会社の公式アクセス案内を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式おすすめ料理に特製ビーフカレー、炭火焼鳥の親子丼を掲載。",
+          "url": "https://www.matsuogolfclub.jp/restaurant/",
+          "checked": "2026-10-27",
+          "sourceType": "official",
+          "conditions": "名物との断定はしない。価格・提供期間・昼食込み条件は未確認。",
+          "basis": "夜間の公式本文確認台帳 KANTO-20261027-G09 を施設名・都県照合して反映。原確認日を保持。"
+        },
         "stay": {
           "text": "総石造りの浴室とサウナを備えています。サウナは12:00〜16:00、女性浴室には個室パウダールームがあります。",
           "url": "https://matsuogolfclub.jp/facility/",
@@ -6840,7 +6847,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式会員募集アクセス：最寄IC 伊勢原大山IC 約3km 車約5分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "2026年9月1日から全日8～14時、ランチ終了後閉店。朝食なし。予約済パーティー・表彰式は対応との案内。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=154&news_id=61748&p=guide.news_detail",
+          "checked": "2026-10-27",
+          "sourceType": "official",
+          "conditions": "朝は酒類・おつまみ・ソフトドリンクのみ。8時開店を朝食提供ありにしない。",
+          "basis": "夜間の公式本文確認台帳 KANTO-20261027-D05 を施設名・都県照合して反映。原確認日を保持。"
+        },
         "stay": null,
         "budget": null,
         "scenery": {
@@ -8035,12 +8049,12 @@ const DATA={
           "basis": "PGM公式採用ページ、雇用主パシフィックゴルフマネージメント株式会社。「圏央自動車道/狭山日高IC10km(15分)」"
         },
         "dining": {
-          "text": "期間限定ランチに「くすの樹御膳」を公式掲載。提供期間と当日の内容は公式案内をご確認ください。",
-          "url": "https://booking.pacificgolf.co.jp/guide/75.html",
-          "checked": "2026-10-25",
-          "basis": "公式案内を確認",
-          "dish": "くすの樹御膳",
-          "sourceType": "official"
+          "text": "「くすの樹御膳」は2026年9月19～23日の限定ランチとして掲載されたもので、対象期間は終了しています。現在のメニューは公式案内でご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=75&news_id=62123&p=guide.news_detail",
+          "checked": "2026-10-27",
+          "sourceType": "official",
+          "conditions": "終了済み。10月の現行名物料理には採用しない。",
+          "basis": "夜間の公式本文確認台帳 KANTO-20261027-C14 を施設名・都県照合して反映。原確認日を保持。"
         },
         "stay": null,
         "budget": null,
@@ -8677,8 +8691,22 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "矢板ICから車で約15分。"
         },
-        "dining": null,
-        "stay": null,
+        "dining": {
+          "text": "ロッジにレストランを併設。",
+          "url": "https://booking.pacificgolf.co.jp/guide/27.html",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "conditions": "食事付きプランとは限らない。料理名・価格・営業時間は未確認。",
+          "basis": "公式本文を確認"
+        },
+        "stay": {
+          "text": "ザ・ロッジ大日向と、敷地内から湧く天然温泉を公式トップで案内。",
+          "url": "https://booking.pacificgolf.co.jp/guide/27.html",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "conditions": "宿泊・入浴の料金、日帰り利用、営業時間は未確認。",
+          "basis": "公式本文を確認"
+        },
         "budget": null,
         "scenery": {
           "text": "日光・那須連山を一望できる27ホール。丘陵のコースから広がる山並みが見どころです。",
@@ -22447,7 +22475,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文・料金表で確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "中華料理セドレはゴルフクラブハウス2階にあり、広東料理を中心に提供。",
+          "url": "https://www.hotel-heritage.co.jp/restaurants/cedre.html",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "conditions": "レストランの存在と、プレー料金の食事付きを区別。",
+          "basis": "公式本文を確認"
+        },
         "budget": {
           "text": "公式の季節別ビジター料金は18H（9Hを2周）・4バッグで平日5,000〜6,200円、土日祝8,900〜13,500円。消費税・利用税込。徒歩プレーで、食事や追加費用は予約時にご確認ください。",
           "url": "https://www.hotel-heritage.co.jp/sports/course.html",
