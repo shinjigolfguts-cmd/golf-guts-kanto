@@ -1,44 +1,53 @@
-name: 関東版・確認済み情報の更新案
+name: 関東版・確認済み情報を検証して公開
 on:
   workflow_dispatch:
-    inputs:
-      patch:
-        description: 'レビュー済みJSONのパス（updates/配下）'
-        required: true
-        type: string
   push:
     branches: [main]
-    paths: ['updates/*.json']
+    paths: ['updates/*.json', 'scripts/apply_verified_updates.py', 'scripts/build_seo.py', 'scripts/publish_verified.py', '.github/workflows/verified-update.yml']
 permissions:
-  contents: read
+  contents: write
+  pages: write
+concurrency:
+  group: kanto-verified-publication
+  cancel-in-progress: false
 jobs:
-  validate:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
         with:
-          persist-credentials: false
-      - name: 確認済みバッチを適用
-        env:
-          PATCH: ${{ inputs.patch }}
+          ref: main
+      - name: 公式根拠付き更新を適用
         run: |
           python3 - <<'PY'
-          import os,pathlib,subprocess
-          root=pathlib.Path.cwd(); requested=os.environ.get('PATCH','')
-          files=[root/requested] if requested else sorted((root/'updates').glob('*.json'))
-          if not files: raise SystemExit('更新バッチがありません')
-          for f in files:
-              if f.resolve().parent != (root/'updates').resolve() or f.suffix!='.json': raise SystemExit('updates/*.json のみ対応')
+          import pathlib,subprocess
+          archive=pathlib.Path('applied_updates');archive.mkdir(exist_ok=True)
+          for f in sorted(pathlib.Path('updates').glob('*.json')):
               subprocess.run(['python3','scripts/apply_verified_updates.py',str(f),'--apply'],check=True)
+              if (archive/f.name).exists(): raise SystemExit('Duplicate batch name')
+              f.rename(archive/f.name)
           PY
-      - name: 検索・データ・更新処理を検証
+          python3 scripts/build_seo.py
+      - name: 公開前検証
         run: |
           node tests/test_selection.cjs
           node --check data.js
+          node --check finder.js
           python3 -m unittest discover -s tests -v
-      - uses: actions/upload-artifact@v7
-        with:
-          name: kanto-verified-update
-          path: data.js
-          retention-days: 30
+          python3 tests/check_seo.py
+          git diff --check
+      - name: 検証済みファイルを保存
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html data.js sitemap.xml all-courses.html courses applied_updates
+          git add -u updates
+          if ! git diff --cached --quiet; then
+            git commit -m 'Apply verified course evidence and refresh search pages'
+            git push origin HEAD:main
+          fi
+      - name: Pages公開と反映確認
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish_verified.py

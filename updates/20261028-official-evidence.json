@@ -1,0 +1,826 @@
+{
+  "baseSha256": "c8ec161b3a5f3d5870f7b6b83d087ee18966d47da340bd33e7b60b48312e6aef",
+  "reviewed": true,
+  "reviewer": "Codex: exact facility and prefecture cross-check; preserve original verification dates",
+  "updates": [
+    {
+      "id": 18,
+      "name": "東京ベイサイドゴルフコース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式の2026年夏季案内で、浴槽とシャワー設備の設置を確認しています。浴槽休止の対象期間は7月1日～9月11日でした。現在の利用条件は予約先で確認してください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=159&news_id=60147&p=guide.news_detail_page",
+        "checked": "2026-10-26",
+        "basis": "公式PGMの当施設告知（cc_id159）。夏季制限の対象期間を明示し、現在休止中とは扱わない。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式PGMの当施設告知（cc_id159）。夏季制限の対象期間を明示し、現在休止中とは扱わない。"
+    },
+    {
+      "id": 29,
+      "name": "多摩カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスにバスルームとロッカールームがあります。",
+        "url": "https://tfn-style.jp/tcc/institution/",
+        "checked": "2026-10-26",
+        "basis": "公式施設案内の独立見出しにバスルーム・ロッカールームを明記。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設案内の独立見出しにバスルーム・ロッカールームを明記。"
+    },
+    {
+      "id": 35,
+      "name": "PGM総成ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "檜の壁に囲まれた浴槽を備え、外の庭園に流れる滝を眺められます。",
+        "url": "https://pacificgolf.co.jp/sohsei/facility.asp",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 38,
+      "name": "入間カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスに大浴場があります。浴槽と洗い場を備え、窓の外の自然を眺められます。",
+        "url": "https://www.resol-golf.jp/iruma/clubhouse/",
+        "checked": "2026-10-26",
+        "basis": "現公式施設本文の大浴場項目。温泉や宿泊の有無は推定しない。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。現公式施設本文の大浴場項目。温泉や宿泊の有無は推定しない。"
+    },
+    {
+      "id": 39,
+      "name": "中津川カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "午後ハーフのビジター料金は平日6,000円、土日祝8,000円（税込）。会員の同伴または紹介が必要です。",
+        "url": "https://nakatsugawanet.co.jp/fee.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "午後ハーフ 平日6,000円／土日祝8,000円",
+        "conditions": "午後ハーフ限定・税込・2名以上・会員同伴または紹介。1週間前から完全予約制、前金制。通常1ラウンド料金ではありません。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 42,
+      "name": "ゴールド木更津カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "午後ハーフは3〜4名の場合、平日4,200円、土日祝6,600円。2名利用は平日のみ1,100円増です。",
+        "url": "https://www.goldgolf.co.jp/kisarazu/fee.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "午後ハーフ 平日4,200円／土日祝6,600円",
+        "conditions": "午後ハーフ限定・当日予約のみ・3〜4名・セルフ乗用手動カート。浴室・ロッカー利用不可、プレー前精算。通常1R料金ではありません。税の取扱いは予約時確認。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 49,
+      "name": "ヌーヴェルゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "館内にお風呂、脱衣所、パウダールームがあります。",
+        "url": "https://www.nouvelle-gc.co.jp/clubhouse.html",
+        "checked": "2026-10-26",
+        "basis": "公式館内施設本文で各設備名を確認。",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式館内施設本文で各設備名を確認。"
+    },
+    {
+      "id": 60,
+      "name": "四街道ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "宿泊施設はありません。浴場の案内：あり 11:00～17:30 浴槽・シャワー シャンプーバー（シャンプー・コンディショナー）/ボディーソープ （女性のみシャワーヘッド：ReFa）。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/yotsukaido/detail",
+        "checked": "2026-10-25",
+        "basis": "公式施設詳細の「宿泊施設 なし」を明示本文で確認。浴場情報も当施設の欄から確認。",
+        "sourceType": "official",
+        "available": false
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設詳細の「宿泊施設 なし」を明示本文で確認。浴場情報も当施設の欄から確認。"
+    },
+    {
+      "id": 70,
+      "name": "サンヒルズカントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "粗挽きハンバーグや「日光秋御膳」を掲載しています。季節でメニューが変わるため、来場時の内容を確認してください。",
+        "url": "https://www.pacificgolf.co.jp/sunhills/restaurant.asp",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 74,
+      "name": "那須ちふり湖カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "2026年秋の夕食は、きのこの寄せ鍋を中心とした「ちふり御膳」を案内。宿泊日の5日前までの連絡が必要です。",
+        "url": "https://www.chifuriko.co.jp/news/931",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "ちふり御膳"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 85,
+      "name": "ダイナミックゴルフ成田",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "シャワールームあり。利用は1人500円・30分程度で、フロントで受付・精算。タオルとバスタオルは持参。",
+        "url": "https://dynamic-golf.jp/narita/facility_fee/",
+        "checked": "2026-10-26",
+        "basis": "公式施設・料金案内のシャワールーム欄",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設・料金案内のシャワールーム欄"
+    },
+    {
+      "id": 106,
+      "name": "東京湾カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "宿泊施設はありません。日帰りで利用するコースです。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/tokyowan/detail",
+        "checked": "2026-10-25",
+        "basis": "公式施設詳細の「宿泊施設 なし」を明示本文で確認。浴場情報も当施設の欄から確認。",
+        "sourceType": "official",
+        "available": false
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設詳細の「宿泊施設 なし」を明示本文で確認。浴場情報も当施設の欄から確認。"
+    },
+    {
+      "id": 117,
+      "name": "箱根園ゴルフ場",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "しょうが焼き定食、シーフードミックスフライ定食、カツカレーを掲載。麺類のセットには豚角煮丼・シラス丼・カレー丼のミニ丼を選べます。",
+        "url": "https://www.princehotels.co.jp/golf/hakone-en/facility/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "シーフードミックスフライ定食"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 118,
+      "name": "大箱根カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "箱根山麓豚のとんかつ定食や、箱根仙石原スタイルの黒カレーを掲載。鯵フライ定食も選べます。",
+        "url": "https://www.princehotels.co.jp/golf/daihakone/facility/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "箱根山麓豚のとんかつ定食"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 119,
+      "name": "太平洋クラブ 江南コース",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "会員同伴ゲストのキャディ付き掲載料金は平日26,400円、土日祝35,950円。紹介ゲストは各2,000円高くなります。",
+        "url": "https://www.taiheiyoclub.co.jp/course/kohnan/price.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "同伴ゲスト平日26,400円／土日祝35,950円",
+        "conditions": "公式掲載のキャディ付き料金。利用税1,100円・育成協力金50円の記載あり、総額と食事代の取扱いは予約時確認。平日は会員紹介、繁忙期の土曜は会員同伴・日祝は会員のみなど時期別利用制限あり。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 122,
+      "name": "桜ヶ丘カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスに浴室・脱衣所・パウダールームがあります。",
+        "url": "https://www.sakuragaoka-cc.com/facility/",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "basis": "現公式施設紹介本文の浴室・パウダールーム項目を確認。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。現公式施設紹介本文の浴室・パウダールーム項目を確認。"
+    },
+    {
+      "id": 122,
+      "name": "桜ヶ丘カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "ゲスト料金は3～6月・10～12月が平日29,800円、土日祝43,000円。1～2月・7～9月は平日26,500円、土日祝40,800円です。消費税・利用税等込み、飲食・練習ボールは別です。",
+        "url": "https://www.sakuragaoka-cc.com/guide/",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "basis": "現公式ゲスト料金表と予約条件を確認。会員料金を混用しない。",
+        "priceVerified": true,
+        "priceLabel": "平日26,500～29,800円／土日祝40,800～43,000円",
+        "conditions": "会員同伴または紹介が必要。税込・利用税1,200円・諸経費・キャディフィ・キャディ厚生費を含む。飲食・練習ボール代別。1R3名はキャディフィ1人330円追加。3～6月・10～12月は高い方、1～2月・7～9月は低い方の料金。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。現公式ゲスト料金表と予約条件を確認。会員料金を混用しない。"
+    },
+    {
+      "id": 131,
+      "name": "小田原湯本カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "「生粋かながわ牛 鉄板やきすき御膳」や、本日の鮮魚フライ御膳を掲載しています。",
+        "url": "https://www.odawarayumotocc.com/restaurant.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "生粋かながわ牛 鉄板やきすき御膳"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 135,
+      "name": "葉山国際カンツリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "クラブハウス2階の「ラ・メール」で和食・洋食・中華を提供。月替わりのランチメニューを用意しています。",
+        "url": "https://www.hayama-kokusai-cc.com/restaurant/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を確認"
+    },
+    {
+      "id": 135,
+      "name": "葉山国際カンツリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "1R・4Bのゲスト/ビジターセルフ料金は平日21,920円、土日祝34,620円（税込）。キャディ付きは各4,500円増です。",
+        "url": "https://www.hayama-kokusai-cc.com/fee/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "平日21,920円／土日祝34,620円（税込）",
+        "conditions": "2026年10月6日更新の通常1R・4B・セルフ料金。3Bセルフは1,200円追加。昼食代の包含は未確認。夏季限定・学生・会員料金は別。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 136,
+      "name": "レイクウッドゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "自家製デミグラスソースで仕上げた「ハンバーグチーズ焼き」や、根菜の炊き込み御飯と天麩羅御膳を掲載しています。",
+        "url": "https://lake-wood.co.jp/lakewood/restaurant.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "ハンバーグチーズ焼き"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 140,
+      "name": "鹿野山ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "隣接するかずさリゾート鹿野山ビューホテルが宿泊先の候補です。客室・空室・料金はホテルへ確認してください。",
+        "url": "https://www.kresortkanozan.jp/category/plan/",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "basis": "ホテル自身の公式本文に鹿野山ゴルフ倶楽部へ隣接と明記。場内宿泊とせず別施設として記載。掲載価格の適用年度が明確でないため料金・パックは採用しない。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。ホテル自身の公式本文に鹿野山ゴルフ倶楽部へ隣接と明記。場内宿泊とせず別施設として記載。掲載価格の適用年度が明確でないため料金・パックは採用しない。"
+    },
+    {
+      "id": 144,
+      "name": "森永高滝カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "「いも豚のカツサンド」や竹岡式ラーメンを掲載。数量限定の高滝御膳には季節の野菜天、タンシチュー、にぎり寿司などを組み合わせています。",
+        "url": "https://takatakicc.co.jp/restaurant/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "いも豚のカツサンド"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 145,
+      "name": "浦和ゴルフ倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年10～12月の4名・乗用カートセルフ優待料金は平日14,500円、土曜23,000円、日祝22,000円。12月28～31日は21,000円です。キャディ付きは各5,500円増です。",
+        "url": "https://www.urawagc.jp/use-guidance/",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "basis": "公式本文を直接開いて2026/10/1～12/31表を確認。検索索引の7～9月旧料金は不採用。",
+        "priceVerified": true,
+        "priceLabel": "平日14,500円／土曜23,000円／日祝22,000円",
+        "conditions": "2026年10月1日～12月31日・4B・乗用カートセルフ。12/28～31は21,000円。利用税800円・消費税等込み。食事込みの記載なし。2Bは1人2,200円増、3Bは880円増。キャディ付は各5,500円追加。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式本文を直接開いて2026/10/1～12/31表を確認。検索索引の7～9月旧料金は不採用。"
+    },
+    {
+      "id": 146,
+      "name": "大宮ゴルフコース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "男女別のお風呂・脱衣所・ロッカールームがあります。",
+        "url": "https://omiyagc.jp/facility/",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "basis": "現公式各施設案内で男女それぞれのお風呂・脱衣所を明記。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。現公式各施設案内で男女それぞれのお風呂・脱衣所を明記。"
+    },
+    {
+      "id": 148,
+      "name": "こだまゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "男性用浴室・ロッカールーム、女性用浴室・ドレッシングルームを備えています。",
+        "url": "https://www.kodama-gc.com/facilities",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 155,
+      "name": "大洗ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ロッジの個室に宿泊できます。2026年1月現在のビジター1泊掲載料金は5,500円（税込）。宿泊の手配条件は倶楽部へ確認してください。",
+        "url": "https://www.oarai-golf-club.co.jp/guide/fee/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 155,
+      "name": "大洗ゴルフ倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年1月現在のビジター1R料金は平日26,330円、土日祝35,130円。4Bキャディ、消費税・利用税等を含む合計額です。",
+        "url": "https://www.oarai-golf-club.co.jp/guide/fee/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "平日26,330円／土日祝35,130円",
+        "conditions": "2026年1月現在の公式掲載・4Bキャディ。食事代は含まれません。料金変更の場合あり。3B以下はキャディ料金増額。会員紹介等の利用資格は予約案内を確認。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 167,
+      "name": "プレステージカントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "プレステージ御膳や粗挽きハンバーグを掲載しています。季節・仕入れにより内容は変わります。",
+        "url": "https://www.pacificgolf.co.jp/prestige/restaurant.asp",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "プレステージ御膳"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 167,
+      "name": "プレステージカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ゆとりのある大浴場にサウナを併設しています。",
+        "url": "https://www.pacificgolf.co.jp/prestige/facility.asp",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 177,
+      "name": "南総カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "9〜12月のゲスト1Rセルフ掲載料金は平日15,550円、土日祝26,700円。ロッカー代・消費税込で、利用税と昼食は別です。",
+        "url": "https://nanso-cc.com/fee/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "平日15,550円／土日祝26,700円＋利用税",
+        "conditions": "9〜12月通常ゲスト1R・セルフ。税込、ロッカー込み、昼食・利用税別。2Bは平日2,200円、土日祝2,750円増。利用資格と予約日の適用料金を確認。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 184,
+      "name": "我孫子ゴルフ倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "食堂でプレー前後の食事とパーティー料理を提供。朝食・ランチ・ディナーの案内あり。",
+        "url": "https://www.abikogc.com/facility/",
+        "checked": "2026-10-27",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 188,
+      "name": "京葉カントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "4・5・10・11月のゲスト料金は平日21,600円、土曜34,600円、日祝33,900円。キャディ・乗用カート・消費税・利用税込です。",
+        "url": "https://www.keiyo-cc.co.jp/price",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "平日21,600円／土日祝33,900〜34,600円",
+        "conditions": "公式季節別料金表の4・5・10・11月、キャディ付き乗用カート。会員同伴または紹介が必要。2B3,300円、3B1,100円追加。昼食付コンペパックは別区分。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 192,
+      "name": "袖ヶ浦カンツリークラブ 袖ヶ浦コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式クラブハウス案内に浴室を掲載しています。",
+        "url": "https://www.sodegaura.co.jp/sodegaura-course/facility/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 204,
+      "name": "上総富士ゴルフクラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "アフタヌーンゴルフ0.5Rのビジター料金は平日5,000円、土日祝7,000円。予約受付は1週間前から。通常の1R料金とは異なります。",
+        "url": "https://www.kazusanet.co.jp/fee.html",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "午後0.5R 平日5,000円／土日祝7,000円",
+        "conditions": "公式掲載の午後0.5Rビジター料金、適用終了日明記なし。予約1週間前から。0.5R表に税・食事・カート・キャディーの内訳記載なし。通常料金注意事項に平日2B1100円、平日・休日3B550円の割増、土日祝2B不可があり、午後プランへの適用と当日総額は予約時に確認。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 204,
+      "name": "上総富士ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "男性浴室と女性浴室があります。",
+        "url": "https://www.kazusanet.co.jp/house.html",
+        "checked": "2026-10-27",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 224,
+      "name": "千葉バーディクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式クラブハウス案内に浴室を掲載しています。",
+        "url": "https://www.c-birdie.com/facility/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 227,
+      "name": "オーク・ヒルズカントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "朝食は全日対応。レストランは平日7:00〜16:00（L.O.15:30）、土日祝は7:00〜最終組終了30分後。終了時刻は当日のラウンド状況で早まる場合あり。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/oakhills/detail",
+        "checked": "2026-10-27",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 227,
+      "name": "オーク・ヒルズカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場あり。宿泊施設なし。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/oakhills/detail",
+        "checked": "2026-10-27",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 254,
+      "name": "イーグルポイントゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "昼食は四川麻婆豆腐のライスセット、ビーフカレー、天然めばち鮪の鉄火丼など。会員を除き、プレーしない方のレストラン利用はできません。",
+        "url": "https://www.eaglepoint.co.jp/?page_id=33",
+        "checked": "2026-10-27",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 275,
+      "name": "JGMセベバレステロスゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "「JGM名物 チャンポン麺」、牛肉入りのオリジナルカレー、セベオリジナルのスペインランチを掲載。季節によって内容が変わります。",
+        "url": "https://www.jgmgroup.co.jp/seve/restaurant/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を確認"
+    },
+    {
+      "id": 290,
+      "name": "常陽カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "料理長おすすめは牛すじのデミシチューオムライス、豚汁と手作りメンチカツ定食。ランチには鉄板ハンバーグや天ざる蕎麦も掲載しています。",
+        "url": "https://joyocc.com/restaurant/",
+        "checked": "2026-10-27",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 290,
+      "name": "常陽カントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式の現行ビジター料金は土曜・祝日26,070円、日曜31,570円（税込）。2月・8月は各25円加算。2027年1月2日から土曜・祝日は31,570円へ改定予定です。",
+        "url": "https://joyocc.com/wp-content/uploads/2026/10/neage2027.pdf",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "priceVerified": true,
+        "priceLabel": "現行ビジター 土祝26,070円／日曜31,570円（税込）",
+        "conditions": "2026年10月発表の現行料金と2027年1月2日改定。2月・8月は土祝現行26095円、日曜31595円。キャディフィ割増は現行2B2200円/人・3B1100円/人、改定後2B4400円/人・3B2200円/人。食事・カート・基本キャディフィの含有、利用資格、平日料金は当PDFに明示なし。当日の総額は予約時に確認。"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 296,
+      "name": "太平洋クラブロイヤルコース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "宿泊施設を備えています。美野里コースと組み合わせた1泊2プレー、夕食・朝食付きのプランも公式に案内しています。",
+        "url": "https://www.taiheiyoclub.co.jp/course/royal/topics/lrhh7f000000q57s.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 308,
+      "name": "ニッソーカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "窓越しに緑を眺められる浴室を備えています。",
+        "url": "https://nisso-cc.co.jp/facility",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "魚介塩ラーメンや欧風ビーフカレーを掲載。お土産用のカレーパンも案内しています。",
+        "url": "https://nscc.golftk.com/restaurant.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "魚介塩ラーメン"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 320,
+      "name": "筑波東急ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式クラブハウス案内に浴室を掲載しています。",
+        "url": "https://www.tokyu-golf-resort.com/tsukuba/facility/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 325,
+      "name": "利根パークゴルフ場",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式クラブハウス案内に浴室を掲載しています。",
+        "url": "https://www.tpg18.com/pages/index.cfm/course_facility",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 358,
+      "name": "ましこゴルフ倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "彩色野菜のカレー、鶏ハラミ焼き定食、煮込みハンバーグを掲載しています。",
+        "url": "https://mashiko-gc.sakura.ne.jp/house.html#restaurant",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "鶏ハラミ焼き定食"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "多幸コースのメニューにデミグラス煮込みハンバーグ、豚の角煮定食、佐野ラーメンを掲載しています。",
+        "url": "https://www.ashikaga-cc.com/information/restaurant/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "豚の角煮定食"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "飛駒コースのメニューにビーフシチューハンバーグ、サーモンと舞茸のバター焼き、佐野ラーメンを掲載しています。",
+        "url": "https://www.ashikaga-cc.com/information/restaurant/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official",
+        "dish": "ビーフシチューハンバーグ"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 409,
+      "name": "高麗川カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場を利用できます。セルフ営業日も通常の入浴は可能ですが、サウナは休止します。宿泊施設の有無は未確認です。",
+        "url": "https://www.komagawacc.co.jp/fee",
+        "checked": "2026-10-28",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 411,
+      "name": "さいたま梨花カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "男女の浴室を備え、浴室から木々の緑やスカイツリーなどの景色を眺められます。",
+        "url": "https://www.saitamarika.co.jp/facility.html",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 415,
+      "name": "東松山カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式クラブハウス案内に浴室を掲載しています。",
+        "url": "https://www.hmcc.co.jp/facility/",
+        "checked": "2026-10-25",
+        "basis": "施設公式ページの本文を直接確認",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。施設公式ページの本文を直接確認"
+    },
+    {
+      "id": 437,
+      "name": "武蔵カントリークラブ 笹井コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "2階のラウンジ・ダイニングからコースを見渡せ、天候によっては富士山も望めます。料理の内容・価格は来場前にご確認ください。",
+        "url": "https://www.musashi-cc.co.jp/courses/sasai_clubhouse/",
+        "checked": "2026-10-28",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    },
+    {
+      "id": 438,
+      "name": "武蔵カントリークラブ 豊岡コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "コースを見渡すダイニングルームがあります。食事の場とラウンド後のラウンジを分けた造りです。料理の内容・価格は来場前にご確認ください。",
+        "url": "https://www.musashi-cc.co.jp/courses/toyooka_clubhouse/",
+        "checked": "2026-10-28",
+        "sourceType": "official"
+      },
+      "evidenceNote": "公式本文確認済みの全国版根拠台帳から同一施設名・都県を照合して空欄に反映。元確認日を保持。公式施設本文を確認済み。"
+    }
+  ]
+}
