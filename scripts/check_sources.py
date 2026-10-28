@@ -49,7 +49,7 @@ def request_url(url):
     return urlunsplit((parts.scheme, host, path, query, ""))
 
 
-def check_url(url):
+def check_once(url):
     result = {"url": url, "checked_at": now(), "content_verified": False}
     try:
         encoded = request_url(url)
@@ -75,6 +75,23 @@ def check_url(url):
         result.update({"status": "fetch_failed",
                        "error": f"{type(error).__name__}: {error}"})
     return result
+
+
+def check_url(url):
+    # Retry transient failures once; keep TLS/auth errors and content dates intact.
+    first = check_once(url)
+    error = first.get("error", "").lower()
+    retryable = (first.get("http_status") in (500, 502, 503, 504)
+                 or "timed out" in error or "timeout" in error
+                 or "connection reset" in error)
+    if first.get("status") == "reachable" or not retryable:
+        first["attempts"] = 1
+        return first
+    time.sleep(3)
+    second = check_once(url)
+    second["attempts"] = 2
+    second["previous_attempt"] = first
+    return second
 
 
 def check_host(urls, queue):
