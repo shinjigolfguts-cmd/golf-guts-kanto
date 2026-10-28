@@ -11,12 +11,19 @@ def page(title,desc,path,body):
 for c in d['courses']:
  path=f'courses/{c["id"]}.html';urls.append(origin+path)
  body=f'<h1>{esc(c["name"])}</h1><p>{esc(c["area"])}</p><p>{esc(c.get("feature",""))}</p>'
+ missing=[label for key,label in labels.items() if not c.get('comparison',{}).get(key)]
+ if missing:
+  body+=f'<p>掲載情報が未確認の項目：{esc("・".join(missing))}。設備やサービスがないという意味ではありません。</p>'
  for key,label in labels.items():
   f=c.get('comparison',{}).get(key)
   if not f:continue
   body+=f'<section><h2>{label}</h2><p>{esc(f["text"])}</p>'
   if f.get('conditions'):body+=f'<p>{esc(f["conditions"])}</p>'
-  body+=f'<a href="{esc(f["url"])}" rel="noopener noreferrer">出典を確認する</a><small>情報確認：{esc(f.get("checked","未確認"))}</small></section>'
+  body+=f'<a href="{esc(f["url"])}" rel="noopener noreferrer">出典を確認する</a>'
+  for source in f.get('supportingUrls',[]):
+   body+=f' <a href="{esc(source)}" rel="noopener noreferrer">補足の出典</a>'
+  body+=f'<small>情報確認：{esc(f.get("checked","未確認"))}</small></section>'
+ body+=f'<p><a href="{esc(c.get("officialUrl") or c["url"])}" rel="noopener noreferrer">公式案内・予約条件を確認する</a></p>'
  body+='<p>料金・施設の利用条件は日程やプランによって変わります。予約前に公式情報をご確認ください。</p>'
  (R/path).write_text(page(c['name'],c['area']+'のゴルフコース。アクセス・食事・料金などの掲載情報と出典を確認できます。',path,body))
  links.append(f'<li><a href="{path}">{esc(c["name"])}</a> — {esc(c["area"])}</li>')

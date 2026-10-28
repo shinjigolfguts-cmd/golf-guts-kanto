@@ -24,6 +24,7 @@ jobs:
           persist-credentials: false
       - name: 検索とURL点検処理を検査
         run: |
+          python3 scripts/build_seo.py
           node tests/test_selection.cjs
           node --check finder.js
           node --check access.js
