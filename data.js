@@ -3092,10 +3092,11 @@ const DATA={
       "id": 56,
       "comparison": {
         "play": {
-          "text": "高低差がわずか3mのフラットな林間コース。起伏の負担を抑えてプレーできます。",
-          "url": "https://www.pacificgolf.co.jp/selection/practice/",
-          "checked": "2026-10-24",
-          "basis": "公式コース案内"
+          "text": "高低差約3mの平坦な林間コースに、15の池が配置されています。",
+          "url": "https://booking.pacificgolf.co.jp/guide/51.html",
+          "checked": "2026-10-28",
+          "basis": "公式施設紹介のコース説明に高低差3m・林間・池15を確認。一般特集ではなく当該施設の説明を出典にする。",
+          "sourceType": "official"
         },
         "rail": {
           "text": "石岡駅から車で約15分。",
@@ -4329,10 +4330,14 @@ const DATA={
       "id": 81,
       "comparison": {
         "play": {
-          "text": "LED照明とGPSナビカートを備え、ナイトゴルフに対応。",
-          "url": "https://ir.pacificgolf.co.jp/selection/night_game/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "全ホールにLED照明を備え、GPSナビ付き乗用カートでナイトゴルフを楽しめます。冬期はナイトゴルフの営業時間が短縮されます。",
+          "url": "https://booking.pacificgolf.co.jp/guide/143.html",
+          "checked": "2026-10-28",
+          "basis": "公式トップで全ホールLEDとナイトゴルフ、公式基本情報でGPSナビ付きカートと冬期短縮を確認。",
+          "sourceType": "official",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=143&p=guide.access_map"
+          ]
         },
         "rail": {
           "text": "確認した公式案内には駅からの車の所要時間の記載がありません。クラブバスはありません。",
@@ -4348,10 +4353,11 @@ const DATA={
         },
         "dining": null,
         "stay": {
-          "text": "ホテル併設で、ナイトゴルフ後の宿泊にも対応。",
-          "url": "https://ir.pacificgolf.co.jp/selection/night_game/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "鶴舞ムーンレイクホテルを併設。公式ページでは北欧スタイルの客室と夕食コースを紹介しています。宿泊プラン・利用条件は予約時にご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/guide/143.html",
+          "checked": "2026-10-28",
+          "basis": "鶴舞コースの公式トップ「TSURUMAI MOONLAKE HOTEL」を確認。ナイトゴルフ後の受付可否は推測していない。",
+          "sourceType": "official"
         },
         "budget": null,
         "scenery": {
@@ -4430,10 +4436,11 @@ const DATA={
       "id": 83,
       "comparison": {
         "play": {
-          "text": "全ホールにLED照明を備え、ナイトゴルフに対応。",
-          "url": "https://ir.pacificgolf.co.jp/selection/night_game/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "全ホールにLED照明を備え、ナイトゴルフに対応しています。",
+          "url": "https://booking.pacificgolf.co.jp/guide/141.html",
+          "checked": "2026-10-28",
+          "basis": "市原コースの公式トップに全ホールLED照明とナイトゴルフの記載を確認。",
+          "sourceType": "official"
         },
         "rail": {
           "text": "五井駅東口からタクシーで約15分。",
@@ -4449,10 +4456,14 @@ const DATA={
         },
         "dining": null,
         "stay": {
-          "text": "ゴルフ場内に鶴舞ムーンレイクホテルがあり、宿泊とプレーを組み合わせられます。公式ナイトゴルフ案内では浴室利用も可能とされています。",
-          "url": "https://www.pacificgolf.co.jp/selection/night_game/",
-          "checked": "2026-10-25",
-          "basis": "公式施設紹介・利用案内の本文または設備写真の見出しを確認。温泉・宿泊設備は明記のない限り追加していない。"
+          "text": "鶴舞ムーンレイクホテルは別施設の鶴舞コースにあります。市原コースでの宿泊可否・手配については、予約前に市原コースへお問い合わせください。",
+          "url": "https://booking.pacificgolf.co.jp/guide/141.html",
+          "checked": "2026-10-28",
+          "basis": "旧記載は市原コース内に鶴舞ムーンレイクホテルがあると誤っていた。公式で市原コースは市原市新生603、ホテル掲載の鶴舞コースは市原市小草畑577と確認。市原の宿泊設備不存在までは断定しない。",
+          "sourceType": "official",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/143.html"
+          ]
         },
         "budget": null,
         "scenery": {
@@ -4793,10 +4804,11 @@ const DATA={
       "id": 90,
       "comparison": {
         "play": {
-          "text": "LED照明によるナイトゴルフに対応。",
-          "url": "https://ir.pacificgolf.co.jp/selection/night_game/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "全ホールにLED照明を備え、ナイトゴルフに対応しています。",
+          "url": "https://booking.pacificgolf.co.jp/guide/60.html",
+          "checked": "2026-10-28",
+          "basis": "成田の森の公式トップに全ホールLED照明とナイトゴルフを確認。",
+          "sourceType": "official"
         },
         "rail": {
           "text": "確認した公式案内に駅から車・タクシーでの所要時間記載なし。クラブバスはありません。",
@@ -4819,10 +4831,11 @@ const DATA={
           "sourceType": "official"
         },
         "stay": {
-          "text": "ゴルフ場内のホテルに宿泊できます。洋室に加えて和室も用意。公式ナイトゴルフ案内では浴室利用も可能とされています。",
-          "url": "https://www.pacificgolf.co.jp/selection/night_game/",
-          "checked": "2026-10-25",
-          "basis": "公式施設紹介・利用案内の本文または設備写真の見出しを確認。温泉・宿泊設備は明記のない限り追加していない。"
+          "text": "ホテルを併設。公式ページではツインルームを主体とした客室を紹介しています。部屋タイプや宿泊条件は予約時にご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/guide/60.html",
+          "checked": "2026-10-28",
+          "basis": "成田の森の公式トップ「HOTEL」にホテル併設とツインルーム主体を確認。今回確認できない和室・浴室利用条件は新しい本文で断定しない。",
+          "sourceType": "official"
         },
         "budget": null,
         "scenery": {
