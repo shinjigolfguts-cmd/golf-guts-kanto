@@ -1,0 +1,104 @@
+{
+  "baseSha256": "e1c4b74a584c14b0c18584a09a2e83fc81daa82ccb0cdb6ac1c95591104536c4",
+  "reviewed": true,
+  "reviewer": "Codex official evidence review 2026-10-28",
+  "updates": [
+    {
+      "id": 41,
+      "name": "千葉松尾ゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式おすすめ料理に特製ビーフカレー、炭火焼鳥の親子丼を掲載。",
+        "url": "https://www.matsuogolfclub.jp/restaurant/",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "conditions": "名物との断定はしない。価格・提供期間・昼食込み条件は未確認。",
+        "basis": "夜間の公式本文確認台帳 KANTO-20261027-G09 を施設名・都県照合して反映。原確認日を保持。"
+      },
+      "evidenceNote": "夜間の公式本文確認台帳 KANTO-20261027-G09 を施設名・都県照合して反映。原確認日を保持。 名物との断定はしない。価格・提供期間・昼食込み条件は未確認。"
+    },
+    {
+      "id": 129,
+      "name": "伊勢原カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "2026年9月1日から全日8～14時、ランチ終了後閉店。朝食なし。予約済パーティー・表彰式は対応との案内。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=154&news_id=61748&p=guide.news_detail",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "conditions": "朝は酒類・おつまみ・ソフトドリンクのみ。8時開店を朝食提供ありにしない。",
+        "basis": "夜間の公式本文確認台帳 KANTO-20261027-D05 を施設名・都県照合して反映。原確認日を保持。"
+      },
+      "evidenceNote": "夜間の公式本文確認台帳 KANTO-20261027-D05 を施設名・都県照合して反映。原確認日を保持。 朝は酒類・おつまみ・ソフトドリンクのみ。8時開店を朝食提供ありにしない。"
+    },
+    {
+      "id": 161,
+      "name": "大日向カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ザ・ロッジ大日向と、敷地内から湧く天然温泉を公式トップで案内。",
+        "url": "https://booking.pacificgolf.co.jp/guide/27.html",
+        "checked": "2026-10-28",
+        "sourceType": "official",
+        "conditions": "宿泊・入浴の料金、日帰り利用、営業時間は未確認。",
+        "basis": "公式本文を確認"
+      },
+      "evidenceNote": "公式本文を確認 宿泊・入浴の料金、日帰り利用、営業時間は未確認。"
+    },
+    {
+      "id": 161,
+      "name": "大日向カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "ロッジにレストランを併設。",
+        "url": "https://booking.pacificgolf.co.jp/guide/27.html",
+        "checked": "2026-10-28",
+        "sourceType": "official",
+        "conditions": "食事付きプランとは限らない。料理名・価格・営業時間は未確認。",
+        "basis": "公式本文を確認"
+      },
+      "evidenceNote": "公式本文を確認 食事付きプランとは限らない。料理名・価格・営業時間は未確認。"
+    },
+    {
+      "id": 446,
+      "name": "ヘリテイジゴルフコース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "中華料理セドレはゴルフクラブハウス2階にあり、広東料理を中心に提供。",
+        "url": "https://www.hotel-heritage.co.jp/restaurants/cedre.html",
+        "checked": "2026-10-28",
+        "sourceType": "official",
+        "conditions": "レストランの存在と、プレー料金の食事付きを区別。",
+        "basis": "公式本文を確認"
+      },
+      "evidenceNote": "公式本文を確認 レストランの存在と、プレー料金の食事付きを区別。"
+    },
+    {
+      "id": 150,
+      "name": "飯能くすの樹カントリー倶楽部",
+      "field": "dining",
+      "before": {
+        "text": "期間限定ランチに「くすの樹御膳」を公式掲載。提供期間と当日の内容は公式案内をご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/guide/75.html",
+        "checked": "2026-10-25",
+        "basis": "公式案内を確認",
+        "dish": "くすの樹御膳",
+        "sourceType": "official"
+      },
+      "after": {
+        "text": "「くすの樹御膳」は2026年9月19～23日の限定ランチとして掲載されたもので、対象期間は終了しています。現在のメニューは公式案内でご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=75&news_id=62123&p=guide.news_detail",
+        "checked": "2026-10-27",
+        "sourceType": "official",
+        "conditions": "終了済み。10月の現行名物料理には採用しない。",
+        "basis": "夜間の公式本文確認台帳 KANTO-20261027-C14 を施設名・都県照合して反映。原確認日を保持。"
+      },
+      "evidenceNote": "夜間の公式本文確認台帳 KANTO-20261027-C14 を施設名・都県照合して反映。原確認日を保持。 終了済み。10月の現行名物料理には採用しない。"
+    }
+  ]
+}
