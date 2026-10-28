@@ -1,0 +1,44 @@
+name: 関東版・確認済み情報の更新案
+on:
+  workflow_dispatch:
+    inputs:
+      patch:
+        description: 'レビュー済みJSONのパス（updates/配下）'
+        required: true
+        type: string
+  push:
+    branches: [main]
+    paths: ['updates/*.json']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: 確認済みバッチを適用
+        env:
+          PATCH: ${{ inputs.patch }}
+        run: |
+          python3 - <<'PY'
+          import os,pathlib,subprocess
+          root=pathlib.Path.cwd(); requested=os.environ.get('PATCH','')
+          files=[root/requested] if requested else sorted((root/'updates').glob('*.json'))
+          if not files: raise SystemExit('更新バッチがありません')
+          for f in files:
+              if f.resolve().parent != (root/'updates').resolve() or f.suffix!='.json': raise SystemExit('updates/*.json のみ対応')
+              subprocess.run(['python3','scripts/apply_verified_updates.py',str(f),'--apply'],check=True)
+          PY
+      - name: 検索・データ・更新処理を検証
+        run: |
+          node tests/test_selection.cjs
+          node --check data.js
+          python3 -m unittest discover -s tests -v
+      - uses: actions/upload-artifact@v7
+        with:
+          name: kanto-verified-update
+          path: data.js
+          retention-days: 30
