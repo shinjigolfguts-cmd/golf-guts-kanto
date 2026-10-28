@@ -10877,7 +10877,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "レストランは9時からランチ終了まで営業し、朝食営業はありません。コンペ利用は事前予約制で、当日の受付はありません。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=161&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報のレストラン欄で営業時間・朝食なし・コンペ事前予約を確認。"
+        },
         "budget": null,
         "stay": null
       },
@@ -11965,7 +11971,13 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "scenery": null,
-        "dining": null,
+        "dining": {
+          "text": "レストランは9時から営業し、朝食の提供はありません。最新のメニューや営業条件は公式案内でご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報にレストラン9:00営業開始・朝食なしと明記。"
+        },
         "budget": null,
         "stay": {
           "text": "リニューアルした浴室・パウダールームを備えています。1階にはプレー前後に利用するストレッチルームもあります。",
@@ -12647,7 +12659,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "レストランはありません。軽食を販売し、飲食物の持ち込みが可能です。テーブル席・カウンター席を利用できます。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報でレストランなし・軽食販売・持ち込み可・座席を確認。"
+        },
         "budget": null,
         "stay": null
       },
@@ -12684,7 +12702,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "レストランは全日8時30分からランチ終了まで営業。コンペパーティーは事前予約で利用できます。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=168&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報のレストラン欄で全日8:30からランチ終了まで・パーティ事前予約と明記。"
+        },
         "budget": null,
         "stay": null
       },
@@ -12835,7 +12859,13 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "car": null,
-        "rail": null,
+        "rail": {
+          "text": "JR内房線・五井駅東口からクラブバス約30分。土日祝のみ運行し、平日は運休です。2名以上・電話での完全予約制で、往路は2日前の17時まで、復路は当日フロントで予約します。",
+          "url": "https://www.milgolf.co.jp/access.htm#clubbus",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式アクセスのクラブバス欄で駅、所要時間、運行曜日、人数、往復の予約条件を確認。列車時刻・運賃は転記しない。"
+        },
         "scenery": null,
         "dining": null,
         "budget": null,
@@ -15190,7 +15220,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "JR鹿島線・潮来駅、JR常磐線・土浦駅または石岡駅が公式の電車案内に掲載されています。潮来駅・石岡駅からはタクシー利用を案内しています。配車や当日の運賃は事前にご確認ください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/access",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "当該施設のアクセス本文で駅名と潮来駅・石岡駅からのタクシー案内を確認。所要時間・バス運行は推測していない。"
+        },
         "scenery": {
           "text": "霞ヶ浦湖畔に広がる18ホール。自然の地形を生かしたレイアウトと、緑豊かな風景が特徴です。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/",
@@ -18888,7 +18924,13 @@ const DATA={
         "rail": null,
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式案内では7〜9月の浴室はシャワーのみとし、土日祝日は浴槽を利用できる旨を掲載しています。利用日の浴室運用は予約時にご確認ください。宿泊の可否は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式クラブハウス欄の夏季シャワー・土日祝浴槽の記載を採用。他の季節や宿泊可否は推測しない。"
+        }
       },
       "id": 371
     },
@@ -18990,7 +19032,13 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。大沢ICから約3分。"
         },
         "rail": null,
-        "dining": null,
+        "dining": {
+          "text": "レストランはありません。コース内売店は飲料の自動販売機のみで、11時以降のスタートは売店を利用できないため、公式案内ではスタート前の館内自動販売機の利用を案内しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報でレストランなし、売店の販売内容と11時以降の利用条件を確認。"
+        },
         "budget": null,
         "stay": null
       },
@@ -19023,7 +19071,13 @@ const DATA={
           "basis": "PGM公式設計家特集のエヴァンタイユ欄に両IC所要時間を明記。"
         },
         "rail": null,
-        "dining": null,
+        "dining": {
+          "text": "レストランは昼食のみの提供で、朝食の提供はありません。最新のメニューは公式案内でご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.access_map",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報のレストラン欄で昼食のみ・朝食なしを確認。"
+        },
         "budget": null,
         "stay": null
       },
@@ -23316,7 +23370,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文または公式メニュー画像を確認。赤城ICから15km。公式アクセスは距離の案内です。"
         },
-        "rail": null,
+        "rail": {
+          "text": "JR上越線・渋川駅からタクシーで約30分。交通状況で所要時間は変わるため、配車と運賃は事前にご確認ください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/akagi/access",
+          "checked": "2026-10-28",
+          "sourceType": "official",
+          "basis": "当該施設のアクセス本文に渋川駅からタクシー約30分の記載を確認。"
+        },
         "dining": {
           "text": "おすすめメニューに「ソースカツ丼」や「カキフライ」を掲載しています。",
           "url": "https://reserve.accordiagolf.com/images/restaurantMenus/016_13_20260930141915.jpg.webp",
