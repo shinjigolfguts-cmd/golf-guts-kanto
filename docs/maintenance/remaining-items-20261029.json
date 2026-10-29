@@ -1,0 +1,4340 @@
+{
+  "baseline": "538d1586a27eabdc525e32e8bb8f2756a66b589d",
+  "note": "調査管理台帳。pendingは未調査または確認継続。公式情報不存在の判定ではない。過去調査の詳細はfollowup記録を参照。",
+  "items": [
+    {
+      "id": 0,
+      "name": "大原・御宿ゴルフコース",
+      "field": "stay",
+      "officialUrl": "https://www.princehotels.co.jp/golf/ohara/",
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029l.json"
+    },
+    {
+      "id": 0,
+      "name": "大原・御宿ゴルフコース",
+      "field": "budget",
+      "officialUrl": "https://www.princehotels.co.jp/golf/ohara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 2,
+      "name": "東我孫子カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.h-abiko-cc.com/information/price/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 2,
+      "name": "東我孫子カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.h-abiko-cc.com/information/price/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 5,
+      "name": "江戸川ラインゴルフショートコース",
+      "field": "dining",
+      "officialUrl": "https://edogawaline.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 5,
+      "name": "江戸川ラインゴルフショートコース",
+      "field": "stay",
+      "officialUrl": "https://edogawaline.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 6,
+      "name": "アジア取手カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.asia-toride.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 7,
+      "name": "紫塚ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.murasakigc.com/home",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 8,
+      "name": "伊香保ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.ikaho-gc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 8,
+      "name": "伊香保ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.ikaho-gc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.camelliahills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.camelliahills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.camelliahills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 13,
+      "name": "市原ゴルフクラブ 市原コース",
+      "field": "budget",
+      "officialUrl": "https://ichihara-gc.com/ichihara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 18,
+      "name": "東京ベイサイドゴルフコース",
+      "field": "dining",
+      "officialUrl": "https://www.pacificgolf.co.jp/tokyobayside/index.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 18,
+      "name": "東京ベイサイドゴルフコース",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/tokyobayside/index.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 19,
+      "name": "ベルセルバカントリークラブ 市原コース",
+      "field": "dining",
+      "officialUrl": "https://www.belle-co.com/ichihara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 19,
+      "name": "ベルセルバカントリークラブ 市原コース",
+      "field": "budget",
+      "officialUrl": "https://www.belle-co.com/ichihara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 21,
+      "name": "ムーンレイクゴルフクラブ 茂原コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/65.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 21,
+      "name": "ムーンレイクゴルフクラブ 茂原コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/65.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 22,
+      "name": "烏山城カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.karasuyamajo.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 23,
+      "name": "PGM石岡ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 23,
+      "name": "PGM石岡ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 28,
+      "name": "Jゴルフ鶴ヶ島",
+      "field": "stay",
+      "officialUrl": "https://jgt.tatemono-golf.com/access/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 28,
+      "name": "Jゴルフ鶴ヶ島",
+      "field": "budget",
+      "officialUrl": "https://jgt.tatemono-golf.com/access/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 30,
+      "name": "藤ヶ谷カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.fujigayacc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 32,
+      "name": "神奈川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://kanagawacc.com/access/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 34,
+      "name": "大厚木カントリークラブ 本コース",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 35,
+      "name": "PGM総成ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://pacificgolf.co.jp/sohsei/information.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 36,
+      "name": "相模原ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.sagamihara-gc.co.jp/access/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 40,
+      "name": "本千葉カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://honchiba-cc.co.jp/access/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 41,
+      "name": "千葉松尾ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://matsuogolfclub.jp/facility/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 42,
+      "name": "ゴールド木更津カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.goldgolf.co.jp/kisarazu/facility.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 43,
+      "name": "相模湖カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.sagamiko-cc.jp/concept/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 47,
+      "name": "水戸・ゴルフ・クラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 48,
+      "name": "真名カントリークラブ ゲーリー・プレーヤーコース",
+      "field": "budget",
+      "officialUrl": "https://www.mannacc.com/course/gp-course",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 49,
+      "name": "ヌーヴェルゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.nouvelle-gc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 50,
+      "name": "勝浦ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://katsuuragolf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 51,
+      "name": "ゴルフ5カントリー オークビレッヂ",
+      "field": "budget",
+      "officialUrl": "https://www.alpen-group.net/oakvillage/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 53,
+      "name": "木更津東カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.resol-golf.jp/kisarazuhigashi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 54,
+      "name": "豊里ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.toyosato-gc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 55,
+      "name": "米原ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://yoneharagc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 56,
+      "name": "千代田カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/chiyoda/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 57,
+      "name": "つつじヶ丘カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tsutsujicc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 58,
+      "name": "イーグルレイクゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 58,
+      "name": "イーグルレイクゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 59,
+      "name": "ブリストルヒル ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://bristol-hill.com/facility",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 60,
+      "name": "四街道ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/yotsukaido/detail",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 61,
+      "name": "アクアラインゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/aqualine/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 62,
+      "name": "藤岡ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/fujioka/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 63,
+      "name": "東京相武カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tokyo/sobu/detail",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 64,
+      "name": "さいたまゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/saitamagc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 65,
+      "name": "房州カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/boushu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 66,
+      "name": "宇都宮カンツリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.utsunomiya-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 70,
+      "name": "サンヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/sunhills/hotel.asp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 71,
+      "name": "城里ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://shirosato-gc.com/hotel.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 72,
+      "name": "那須陽光ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://golf.nasusunlight.jp/hotel",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 74,
+      "name": "那須ちふり湖カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.chifuriko.co.jp/hotel/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 75,
+      "name": "静ヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.hillsgolf.jp/shizu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 77,
+      "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
+      "field": "dining",
+      "officialUrl": "https://nasukasumigajo.com/ja",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 77,
+      "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
+      "field": "budget",
+      "officialUrl": "https://nasukasumigajo.com/ja",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 78,
+      "name": "真名カントリークラブ 真名コース",
+      "field": "dining",
+      "officialUrl": "https://www.mannacc.com/course/manna-course",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 78,
+      "name": "真名カントリークラブ 真名コース",
+      "field": "budget",
+      "officialUrl": "https://www.mannacc.com/course/manna-course",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 80,
+      "name": "初穂カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.hatsuhocc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 80,
+      "name": "初穂カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.hatsuhocc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 81,
+      "name": "ムーンレイクゴルフクラブ 鶴舞コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/143.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 82,
+      "name": "佐原カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/sawara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 83,
+      "name": "ムーンレイクゴルフクラブ 市原コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/141.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 84,
+      "name": "ダイナミックゴルフ千葉",
+      "field": "dining",
+      "officialUrl": "https://dynamic-golf.jp/chiba/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 84,
+      "name": "ダイナミックゴルフ千葉",
+      "field": "stay",
+      "officialUrl": "https://dynamic-golf.jp/chiba/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 86,
+      "name": "ダイナミックゴルフ茂原",
+      "field": "stay",
+      "officialUrl": "https://dynamic-golf.jp/mobara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "dining",
+      "officialUrl": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 88,
+      "name": "多摩川ゴルフ倶楽部",
+      "field": "dining",
+      "officialUrl": "https://tamagawagolfclub.com/facilities/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 88,
+      "name": "多摩川ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://tamagawagolfclub.com/facilities/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 89,
+      "name": "大厚木カントリークラブ 桜コース",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 89,
+      "name": "大厚木カントリークラブ 桜コース",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 90,
+      "name": "成田の森カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/60.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 91,
+      "name": "ザ・インペリアルカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/52.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 92,
+      "name": "岡部チサンカントリークラブ 美里コース",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 92,
+      "name": "岡部チサンカントリークラブ 美里コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 92,
+      "name": "岡部チサンカントリークラブ 美里コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 93,
+      "name": "東名厚木カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/68.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 94,
+      "name": "おかだいらゴルフリンクス",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 95,
+      "name": "石岡ウエストカントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 96,
+      "name": "ワイルドダックカントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 97,
+      "name": "霞台カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 97,
+      "name": "霞台カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 98,
+      "name": "関東国際カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 99,
+      "name": "ひととのやカントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 99,
+      "name": "ひととのやカントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 100,
+      "name": "アゼリアヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 100,
+      "name": "アゼリアヒルズカントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 101,
+      "name": "こだま神川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/kodama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 102,
+      "name": "おおむらさきゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/oomurasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 103,
+      "name": "千葉桜の里ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/sakuranosato/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 104,
+      "name": "取手桜が丘ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 105,
+      "name": "鴨川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/kamogawa/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 106,
+      "name": "東京湾カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/tokyowan/detail",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 108,
+      "name": "千葉夷隅ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.chibaisumi.jp/course.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 112,
+      "name": "吉見ゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://www.river-golf.com/yoshimi/fee.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 113,
+      "name": "朝霞パブリックゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://asaka-pab-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 116,
+      "name": "箱根湖畔ゴルフコース",
+      "field": "stay",
+      "officialUrl": "https://www.hakonekohan.com/courses",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 117,
+      "name": "箱根園ゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://www.princehotels.co.jp/golf/hakone-en/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 117,
+      "name": "箱根園ゴルフ場",
+      "field": "budget",
+      "officialUrl": "https://www.princehotels.co.jp/golf/hakone-en/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 118,
+      "name": "大箱根カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.princehotels.co.jp/golf/daihakone/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 119,
+      "name": "太平洋クラブ 江南コース",
+      "field": "stay",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/kohnan/information.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 123,
+      "name": "GMG八王子ゴルフ場",
+      "field": "stay",
+      "officialUrl": "http://www.kanbun-group.co.jp/gmg/index.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 125,
+      "name": "東京五日市カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "http://www.itukaiti.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 128,
+      "name": "八王子カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.hachiojicc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 128,
+      "name": "八王子カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.hachiojicc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 129,
+      "name": "伊勢原カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/154.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 129,
+      "name": "伊勢原カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/154.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 131,
+      "name": "小田原湯本カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.odawarayumotocc.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 132,
+      "name": "鎌倉カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.kamakura-cc.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 132,
+      "name": "鎌倉カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.kamakura-cc.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 133,
+      "name": "清川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.kiyokawa-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 134,
+      "name": "チェックメイトカントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://checkmate-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 134,
+      "name": "チェックメイトカントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://checkmate-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 136,
+      "name": "レイクウッドゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://lake-wood.co.jp/lakewood/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 137,
+      "name": "姉ヶ崎カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.heiwanosan.co.jp/anegasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 138,
+      "name": "一の宮カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.ichinomiya.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 139,
+      "name": "PGM市原カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/178.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 139,
+      "name": "PGM市原カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/178.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 139,
+      "name": "PGM市原カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/178.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 140,
+      "name": "鹿野山ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.kanozan.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 141,
+      "name": "大栄カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.taiei.cc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 142,
+      "name": "鶴舞カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.tokyu-golf-resort.com/tsurumai/index.php",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 143,
+      "name": "館山カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://tateyama-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 143,
+      "name": "館山カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://tateyama-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 144,
+      "name": "森永高滝カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.takatakicc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 146,
+      "name": "大宮ゴルフコース",
+      "field": "budget",
+      "officialUrl": "https://omiyagc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 150,
+      "name": "飯能くすの樹カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/75.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 150,
+      "name": "飯能くすの樹カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/75.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 153,
+      "name": "阿見ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/47.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 153,
+      "name": "阿見ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/47.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 154,
+      "name": "江戸崎カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.edosaki-cc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 156,
+      "name": "大利根カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.ohtone.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 156,
+      "name": "大利根カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.ohtone.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 157,
+      "name": "宍戸ヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.shishido.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 158,
+      "name": "東筑波カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.higashi-tsukuba.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 159,
+      "name": "美浦ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/miho/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 160,
+      "name": "セゴビアゴルフクラブ イン チヨダ",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/segovia/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 161,
+      "name": "大日向カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/27.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 162,
+      "name": "ゴールド佐野カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.goldgolf.co.jp/sano/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 162,
+      "name": "ゴールド佐野カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.goldgolf.co.jp/sano/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 163,
+      "name": "ゴールド栃木プレジデントカントリークラブ",
+      "field": "dining",
+      "officialUrl": "http://www.president-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 163,
+      "name": "ゴールド栃木プレジデントカントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.president-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 165,
+      "name": "西那須野カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.horai-kk.co.jp/golf/nishicc.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 167,
+      "name": "プレステージカントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://www.pacificgolf.co.jp/prestige/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 168,
+      "name": "ホウライカントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.horai-kk.co.jp/golf/horaicc.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 171,
+      "name": "伊香保カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.ikahocc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 171,
+      "name": "伊香保カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.ikahocc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 172,
+      "name": "小幡郷ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "http://obatago-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 173,
+      "name": "甘楽カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 175,
+      "name": "白水ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "http://www.shiromizu-gc.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 176,
+      "name": "妙義カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/myogi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 178,
+      "name": "加茂ゴルフ倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://kamogolfclub.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 178,
+      "name": "加茂ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://kamogolfclub.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 179,
+      "name": "ゴールデンクロスカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.goldencrosscc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 180,
+      "name": "成田フェアフィールドゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.naritaff.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 180,
+      "name": "成田フェアフィールドゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.naritaff.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 181,
+      "name": "千葉セントラルゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.chibacentral-gc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 182,
+      "name": "CPGカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.cpg.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 183,
+      "name": "鎌ヶ谷カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://kamagaya-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 184,
+      "name": "我孫子ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.abikogc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 186,
+      "name": "久能カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.kunocc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 188,
+      "name": "京葉カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.keiyo-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 189,
+      "name": "ゴルフ倶楽部 成田ハイツリー",
+      "field": "scenery",
+      "officialUrl": "https://www.hightree.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 189,
+      "name": "ゴルフ倶楽部 成田ハイツリー",
+      "field": "budget",
+      "officialUrl": "https://www.hightree.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 190,
+      "name": "ザ ナショナルカントリー倶楽部 千葉",
+      "field": "budget",
+      "officialUrl": "https://national-cc.jp/chiba/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 191,
+      "name": "袖ヶ浦カンツリークラブ 新袖コース",
+      "field": "budget",
+      "officialUrl": "https://www.sodegaura.co.jp/shinsode-course/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 192,
+      "name": "袖ヶ浦カンツリークラブ 袖ヶ浦コース",
+      "field": "scenery",
+      "officialUrl": "https://www.sodegaura.co.jp/sodegaura-course/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 192,
+      "name": "袖ヶ浦カンツリークラブ 袖ヶ浦コース",
+      "field": "budget",
+      "officialUrl": "https://www.sodegaura.co.jp/sodegaura-course/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 193,
+      "name": "大千葉カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.daichibacc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 193,
+      "name": "大千葉カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.daichibacc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 194,
+      "name": "千葉カントリークラブ 梅郷コース",
+      "field": "scenery",
+      "officialUrl": "https://www.chibacc.co.jp/umesato",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 194,
+      "name": "千葉カントリークラブ 梅郷コース",
+      "field": "budget",
+      "officialUrl": "https://www.chibacc.co.jp/umesato",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 194,
+      "name": "千葉カントリークラブ 梅郷コース",
+      "field": "stay",
+      "officialUrl": "https://www.chibacc.co.jp/umesato",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 195,
+      "name": "長南カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.chonan-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 196,
+      "name": "成田ヒルズカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://narita-hills.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 197,
+      "name": "白鳳カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.unimat-golf.jp/hakuho/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 198,
+      "name": "PGMマリアゴルフリンクス",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/maria/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 198,
+      "name": "PGMマリアゴルフリンクス",
+      "field": "stay",
+      "officialUrl": "https://www.pacificgolf.co.jp/maria/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 199,
+      "name": "紫カントリークラブ あやめコース",
+      "field": "stay",
+      "officialUrl": "https://www.murasaki-cc.co.jp/ayame/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 200,
+      "name": "大多喜カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/164.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 201,
+      "name": "南総ヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/161.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 201,
+      "name": "南総ヒルズカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/161.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 202,
+      "name": "大多喜城ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/ohtakijo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 203,
+      "name": "小見川東急ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/omigawa/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 203,
+      "name": "小見川東急ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.tokyu-golf-resort.com/omigawa/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 205,
+      "name": "勝浦東急ゴルフコース",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/katsuura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 206,
+      "name": "季美の森ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/kimi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 208,
+      "name": "キングフィールズゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.kingf-gc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 208,
+      "name": "キングフィールズゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.kingf-gc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 210,
+      "name": "芝山ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/shibayama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 211,
+      "name": "ジャパンPGAゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://zuien.net/pga/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 211,
+      "name": "ジャパンPGAゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://zuien.net/pga/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 211,
+      "name": "ジャパンPGAゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://zuien.net/pga/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 212,
+      "name": "千葉カントリークラブ 野田コース",
+      "field": "budget",
+      "officialUrl": "https://www.chibacc.co.jp/noda",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 212,
+      "name": "千葉カントリークラブ 野田コース",
+      "field": "stay",
+      "officialUrl": "https://www.chibacc.co.jp/noda",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 213,
+      "name": "千葉カントリークラブ 川間コース",
+      "field": "scenery",
+      "officialUrl": "https://www.chibacc.co.jp/kawama",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 213,
+      "name": "千葉カントリークラブ 川間コース",
+      "field": "budget",
+      "officialUrl": "https://www.chibacc.co.jp/kawama",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 213,
+      "name": "千葉カントリークラブ 川間コース",
+      "field": "stay",
+      "officialUrl": "https://www.chibacc.co.jp/kawama",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 214,
+      "name": "紫カントリークラブ すみれコース",
+      "field": "budget",
+      "officialUrl": "https://www.murasaki-cc.co.jp/sumire/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 215,
+      "name": "東急セブンハンドレッドクラブ",
+      "field": "budget",
+      "officialUrl": "https://tokyu700.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 215,
+      "name": "東急セブンハンドレッドクラブ",
+      "field": "stay",
+      "officialUrl": "https://tokyu700.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 216,
+      "name": "万木城カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.yc21.co.jp/mangijo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 216,
+      "name": "万木城カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.yc21.co.jp/mangijo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 216,
+      "name": "万木城カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.yc21.co.jp/mangijo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 217,
+      "name": "南茂原カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.yc21.co.jp/minamimobara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 217,
+      "name": "南茂原カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.yc21.co.jp/minamimobara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 218,
+      "name": "山田ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.yc21.co.jp/yamadagolf/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 220,
+      "name": "アバイディングクラブ ゴルフソサエティ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/61.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 220,
+      "name": "アバイディングクラブ ゴルフソサエティ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/61.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 221,
+      "name": "京カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 221,
+      "name": "京カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 221,
+      "name": "京カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 222,
+      "name": "千葉国際カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/152.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 223,
+      "name": "長太郎カントリークラブ",
+      "field": "car",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/58.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 223,
+      "name": "長太郎カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/58.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 223,
+      "name": "長太郎カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/58.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 224,
+      "name": "千葉バーディクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.c-birdie.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 225,
+      "name": "グレンオークスカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 226,
+      "name": "かずさカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfLinkCourseDetail/?gid=150",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 227,
+      "name": "オーク・ヒルズカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/oakhills/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 228,
+      "name": "アコーディア・ゴルフ 習志野カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 229,
+      "name": "東千葉カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/higashichiba/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 230,
+      "name": "ニュー南総ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/newnanso/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 231,
+      "name": "ラ・ヴィスタゴルフリゾート",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 231,
+      "name": "ラ・ヴィスタゴルフリゾート",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 232,
+      "name": "成田東カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/naritahigashi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 233,
+      "name": "花生カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/hanao/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 234,
+      "name": "富士市原ゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 234,
+      "name": "富士市原ゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 234,
+      "name": "富士市原ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 235,
+      "name": "丸の内倶楽部",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/56.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 235,
+      "name": "丸の内倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/56.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 235,
+      "name": "丸の内倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/56.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "car",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 237,
+      "name": "総武カントリークラブ 北コース",
+      "field": "car",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/64.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 237,
+      "name": "総武カントリークラブ 北コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/64.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 237,
+      "name": "総武カントリークラブ 北コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/64.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 238,
+      "name": "PGM南市原ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/168.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 238,
+      "name": "PGM南市原ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/168.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 239,
+      "name": "浜野ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.hamano-golf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 239,
+      "name": "浜野ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.hamano-golf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 240,
+      "name": "鷹之台カンツリー倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://www.takanodaicc.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 240,
+      "name": "鷹之台カンツリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.takanodaicc.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 240,
+      "name": "鷹之台カンツリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.takanodaicc.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "rail",
+      "officialUrl": "https://www.katoricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.katoricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.katoricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.katoricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.katoricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 242,
+      "name": "ミルフィーユゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.milgolf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 242,
+      "name": "ミルフィーユゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.milgolf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 242,
+      "name": "ミルフィーユゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.milgolf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "rail",
+      "officialUrl": "https://www.shinchiba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://www.shinchiba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.shinchiba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.shinchiba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.shinchiba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 244,
+      "name": "麻倉ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.asakura-gc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 245,
+      "name": "源氏山ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.genjiyamagolfclub.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 245,
+      "name": "源氏山ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.genjiyamagolfclub.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "car",
+      "officialUrl": "https://www.brickandwood.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "rail",
+      "officialUrl": "https://www.brickandwood.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.brickandwood.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.brickandwood.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.brickandwood.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 248,
+      "name": "銚子カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.unimat-golf.jp/choshi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 249,
+      "name": "東京クラシッククラブ",
+      "field": "dining",
+      "officialUrl": "https://tokyo-classic.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 249,
+      "name": "東京クラシッククラブ",
+      "field": "budget",
+      "officialUrl": "https://tokyo-classic.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 250,
+      "name": "船橋カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.funabashicc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 251,
+      "name": "中山カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.nakayamacc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 252,
+      "name": "浅見ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.asamigc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 254,
+      "name": "イーグルポイントゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.eaglepoint.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 256,
+      "name": "茨城ロイヤルカントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.ibarakiroyalcc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 258,
+      "name": "桂ヶ丘カントリークラブ",
+      "field": "rail",
+      "officialUrl": "https://www.katsuragaoka.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 259,
+      "name": "金砂郷カントリークラブ",
+      "field": "rail",
+      "officialUrl": "https://www.kanasago.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 259,
+      "name": "金砂郷カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.kanasago.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 259,
+      "name": "金砂郷カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.kanasago.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 260,
+      "name": "ゴルフ倶楽部セブンレイクス",
+      "field": "budget",
+      "officialUrl": "https://sevenlakes.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 260,
+      "name": "ゴルフ倶楽部セブンレイクス",
+      "field": "stay",
+      "officialUrl": "https://sevenlakes.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 261,
+      "name": "桜の宮ゴルフ倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://www.sakuranomiyagc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 261,
+      "name": "桜の宮ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.sakuranomiyagc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 261,
+      "name": "桜の宮ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.sakuranomiyagc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 262,
+      "name": "笠間カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/44.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 262,
+      "name": "笠間カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/44.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 262,
+      "name": "笠間カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/44.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 263,
+      "name": "霞ヶ浦カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/43.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 263,
+      "name": "霞ヶ浦カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/43.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 263,
+      "name": "霞ヶ浦カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/43.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 264,
+      "name": "内原カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/151.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 264,
+      "name": "内原カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/151.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 264,
+      "name": "内原カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/151.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 265,
+      "name": "扶桑カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/39.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 265,
+      "name": "扶桑カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/39.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 266,
+      "name": "カントリークラブ・ザ・レイクス",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/38.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 266,
+      "name": "カントリークラブ・ザ・レイクス",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/38.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 266,
+      "name": "カントリークラブ・ザ・レイクス",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/38.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 267,
+      "name": "グランドスラムカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/40.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 267,
+      "name": "グランドスラムカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/40.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 268,
+      "name": "勝田ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/45.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 268,
+      "name": "勝田ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/45.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 270,
+      "name": "鹿島の杜カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/157.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 270,
+      "name": "鹿島の杜カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/157.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 270,
+      "name": "鹿島の杜カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/157.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 271,
+      "name": "オールドオーチャードゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/172.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 271,
+      "name": "オールドオーチャードゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/172.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 271,
+      "name": "オールドオーチャードゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/172.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 272,
+      "name": "猿島カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/sashima/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 273,
+      "name": "スターツ笠間ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.starts-golf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 274,
+      "name": "JGM笠間ゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 274,
+      "name": "JGM笠間ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 274,
+      "name": "JGM笠間ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 277,
+      "name": "茨城ゴルフ倶楽部",
+      "field": "dining",
+      "officialUrl": "https://ibarakigc.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 277,
+      "name": "茨城ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://ibarakigc.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 278,
+      "name": "かすみがうらゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 278,
+      "name": "かすみがうらゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 279,
+      "name": "金乃台カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.kinnodai.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 279,
+      "name": "金乃台カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.kinnodai.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 280,
+      "name": "栗橋國際カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "http://www.kurikan.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 280,
+      "name": "栗橋國際カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "http://www.kurikan.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 281,
+      "name": "ゴルフ5カントリーかさまフォレスト",
+      "field": "budget",
+      "officialUrl": "https://www.alpen-group.net/kasama-forest/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 282,
+      "name": "ゴルフ5カントリーサニーフィールド",
+      "field": "budget",
+      "officialUrl": "https://www.alpen-group.net/sunnyfield/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 283,
+      "name": "桜ゴルフ倶楽部",
+      "field": "car",
+      "officialUrl": "http://www.sakurasgo.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 283,
+      "name": "桜ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.sakurasgo.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 283,
+      "name": "桜ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "http://www.sakurasgo.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 284,
+      "name": "サミットゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.summit-golf-club.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 286,
+      "name": "ザ・ゴルフクラブ竜ヶ崎",
+      "field": "rail",
+      "officialUrl": "https://www.pacificgolf.co.jp/ryugasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 286,
+      "name": "ザ・ゴルフクラブ竜ヶ崎",
+      "field": "budget",
+      "officialUrl": "https://www.pacificgolf.co.jp/ryugasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 287,
+      "name": "白帆カントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://shiraho.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 287,
+      "name": "白帆カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://shiraho.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 288,
+      "name": "JGMやさと石岡ゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.jgmgroup.co.jp/yasato/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 288,
+      "name": "JGMやさと石岡ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.jgmgroup.co.jp/yasato/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 289,
+      "name": "ジェイゴルフ霞ヶ浦",
+      "field": "dining",
+      "officialUrl": "http://jgk.tatemono-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 289,
+      "name": "ジェイゴルフ霞ヶ浦",
+      "field": "budget",
+      "officialUrl": "http://jgk.tatemono-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 289,
+      "name": "ジェイゴルフ霞ヶ浦",
+      "field": "stay",
+      "officialUrl": "http://jgk.tatemono-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 291,
+      "name": "スパ＆ゴルフリゾート久慈",
+      "field": "budget",
+      "officialUrl": "https://www.resol-golf.jp/kuji/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 292,
+      "name": "セントラルゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 292,
+      "name": "セントラルゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 292,
+      "name": "セントラルゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 293,
+      "name": "セントラルゴルフクラブ NEWコース",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 293,
+      "name": "セントラルゴルフクラブ NEWコース",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 294,
+      "name": "セントラルゴルフクラブ 麻生コース",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 294,
+      "name": "セントラルゴルフクラブ 麻生コース",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 295,
+      "name": "太平洋クラブ美野里コース",
+      "field": "dining",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/minori/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 295,
+      "name": "太平洋クラブ美野里コース",
+      "field": "stay",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/minori/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 296,
+      "name": "太平洋クラブロイヤルコース",
+      "field": "dining",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/royal/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 297,
+      "name": "高萩カントリークラブ",
+      "field": "dining",
+      "officialUrl": "http://www.takahagi-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 298,
+      "name": "玉造ゴルフ倶楽部 捻木コース",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/42.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 298,
+      "name": "玉造ゴルフ倶楽部 捻木コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/42.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 298,
+      "name": "玉造ゴルフ倶楽部 捻木コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/42.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 299,
+      "name": "玉造ゴルフ倶楽部 若海コース",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/41.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 299,
+      "name": "玉造ゴルフ倶楽部 若海コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/41.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 299,
+      "name": "玉造ゴルフ倶楽部 若海コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/41.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "car",
+      "officialUrl": "http://www.daiyagreen.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "rail",
+      "officialUrl": "http://www.daiyagreen.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "dining",
+      "officialUrl": "http://www.daiyagreen.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "stay",
+      "officialUrl": "http://www.daiyagreen.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 301,
+      "name": "筑波カントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.tsukuba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 303,
+      "name": "つくばねカントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.tukubane.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 304,
+      "name": "土浦カントリー倶楽部",
+      "field": "rail",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 304,
+      "name": "土浦カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 305,
+      "name": "出島ゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 305,
+      "name": "出島ゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 305,
+      "name": "出島ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 306,
+      "name": "利根ゴルフ倶楽部",
+      "field": "rail",
+      "officialUrl": "https://tonegc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 307,
+      "name": "取手国際ゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.tkg36.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "rail",
+      "officialUrl": "https://nscc.golftk.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://nscc.golftk.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://nscc.golftk.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "http://kabayagc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "http://kabayagc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "http://kabayagc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 311,
+      "name": "富士カントリー笠間倶楽部",
+      "field": "car",
+      "officialUrl": "https://kasama-club.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 311,
+      "name": "富士カントリー笠間倶楽部",
+      "field": "budget",
+      "officialUrl": "https://kasama-club.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 312,
+      "name": "フレンドシップカントリークラブ",
+      "field": "scenery",
+      "officialUrl": "http://www.friendship-cc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 312,
+      "name": "フレンドシップカントリークラブ",
+      "field": "stay",
+      "officialUrl": "http://www.friendship-cc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 313,
+      "name": "マナゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://managolf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 313,
+      "name": "マナゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://managolf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 314,
+      "name": "水戸グリーンカントリークラブ 山方コース",
+      "field": "rail",
+      "officialUrl": "https://www.mgcc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 314,
+      "name": "水戸グリーンカントリークラブ 山方コース",
+      "field": "budget",
+      "officialUrl": "https://www.mgcc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 314,
+      "name": "水戸グリーンカントリークラブ 山方コース",
+      "field": "stay",
+      "officialUrl": "https://www.mgcc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 315,
+      "name": "水戸レイクスカントリークラブ",
+      "field": "budget",
+      "officialUrl": "http://mitolakes.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 316,
+      "name": "龍ヶ崎カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.ryugasaki-cc.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 316,
+      "name": "龍ヶ崎カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "http://www.ryugasaki-cc.com",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 318,
+      "name": "ワンウェイゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "http://onewaygc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 318,
+      "name": "ワンウェイゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "http://onewaygc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 318,
+      "name": "ワンウェイゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "http://onewaygc.co.jp",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 320,
+      "name": "筑波東急ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/tsukuba/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 321,
+      "name": "潮来カントリー倶楽部",
+      "field": "rail",
+      "officialUrl": "https://www.itakocc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 321,
+      "name": "潮来カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.itakocc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 321,
+      "name": "潮来カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.itakocc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 322,
+      "name": "ウィンザーパークゴルフアンドカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.wpgcc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 323,
+      "name": "霞ヶ浦国際ゴルフコース",
+      "field": "dining",
+      "officialUrl": "https://www.kasumigaura-kokusai-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 323,
+      "name": "霞ヶ浦国際ゴルフコース",
+      "field": "stay",
+      "officialUrl": "https://www.kasumigaura-kokusai-golf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 324,
+      "name": "下館ゴルフ倶楽部",
+      "field": "rail",
+      "officialUrl": "https://shimodate.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "rail",
+      "officialUrl": "https://asia-shimodate.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://asia-shimodate.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://asia-shimodate.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://asia-shimodate.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 327,
+      "name": "アローエースゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.daiwaroyalgolf.jp/arrowace_gc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 328,
+      "name": "栃木ヶ丘ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://tgc18.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 330,
+      "name": "南摩城カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://nanmajo.golf-web.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 331,
+      "name": "鬼怒川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://kinugawacc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 333,
+      "name": "塩原カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.shiobara-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 334,
+      "name": "鷹ゴルフ倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.taka-golf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 334,
+      "name": "鷹ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.taka-golf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 335,
+      "name": "杉ノ郷カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.suginosato.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 335,
+      "name": "杉ノ郷カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.suginosato.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 335,
+      "name": "杉ノ郷カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.suginosato.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 337,
+      "name": "東都栃木カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.toto-motors.co.jp/golf/tochigi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 337,
+      "name": "東都栃木カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.toto-motors.co.jp/golf/tochigi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://www.mashikohills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.mashikohills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://www.mashikohills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.mashikohills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.mashikohills.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 340,
+      "name": "宇都宮ガーデンゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.uggc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 341,
+      "name": "思い川ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.omoigawa-gc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 342,
+      "name": "小山ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.oyamagolf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 342,
+      "name": "小山ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.oyamagolf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 345,
+      "name": "鹿沼72カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://kanuma72.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 347,
+      "name": "唐沢ゴルフ倶楽部 唐沢コース",
+      "field": "dining",
+      "officialUrl": "https://www.karasawa-golf.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 347,
+      "name": "唐沢ゴルフ倶楽部 唐沢コース",
+      "field": "stay",
+      "officialUrl": "https://www.karasawa-golf.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 348,
+      "name": "G7カントリー倶楽部",
+      "field": "rail",
+      "officialUrl": "https://www.g7cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 349,
+      "name": "新宇都宮カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://shinutsu.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 351,
+      "name": "鹿沼プレミアゴルフ倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://www.kanuma-premier.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 351,
+      "name": "鹿沼プレミアゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.kanuma-premier.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 351,
+      "name": "鹿沼プレミアゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.kanuma-premier.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 352,
+      "name": "足利城ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.ashikagajo.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 352,
+      "name": "足利城ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.ashikagajo.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 353,
+      "name": "佐野ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.sano-golfclub.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 354,
+      "name": "栃木カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://tochigicc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 355,
+      "name": "栃木ノースヒルズゴルフコース",
+      "field": "stay",
+      "officialUrl": "https://www.northhills.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 356,
+      "name": "トムソンカントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://thomson-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 356,
+      "name": "トムソンカントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://thomson-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 357,
+      "name": "桃里カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.touricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 357,
+      "name": "桃里カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.touricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 358,
+      "name": "ましこゴルフ倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://mashiko-gc.sakura.ne.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 358,
+      "name": "ましこゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://mashiko-gc.sakura.ne.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 360,
+      "name": "ニューセントラルゴルフ倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://www.new-cgc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 360,
+      "name": "ニューセントラルゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.new-cgc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 361,
+      "name": "ニュー・セントアンドリュースゴルフクラブ・ジャパン",
+      "field": "budget",
+      "officialUrl": "https://www.nsaj-gc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 362,
+      "name": "東ノ宮カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://banryugolf.com/higashinomiya/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 364,
+      "name": "益子カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.resol-golf.jp/mashiko/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 365,
+      "name": "矢板カントリークラブ",
+      "field": "rail",
+      "officialUrl": "https://yaita-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 366,
+      "name": "レイクランドカントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://lakelandcc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 367,
+      "name": "ロイヤルカントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.royalcc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 369,
+      "name": "あさひヶ丘カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/146.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 369,
+      "name": "あさひヶ丘カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/146.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 370,
+      "name": "皐月ゴルフ倶楽部 鹿沼コース",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/34.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 370,
+      "name": "皐月ゴルフ倶楽部 鹿沼コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/34.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 370,
+      "name": "皐月ゴルフ倶楽部 鹿沼コース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/34.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 371,
+      "name": "皐月ゴルフ倶楽部 佐野コース",
+      "field": "rail",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/35.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 371,
+      "name": "皐月ゴルフ倶楽部 佐野コース",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/35.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 371,
+      "name": "皐月ゴルフ倶楽部 佐野コース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/35.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 372,
+      "name": "千成ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/30.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "field": "scenery",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/31.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "field": "rail",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/31.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/31.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/31.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 374,
+      "name": "ピートダイゴルフクラブ ロイヤルコース",
+      "field": "rail",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/32.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 374,
+      "name": "ピートダイゴルフクラブ ロイヤルコース",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/32.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 374,
+      "name": "ピートダイゴルフクラブ ロイヤルコース",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/32.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 375,
+      "name": "エヴァンタイユゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/26.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 375,
+      "name": "エヴァンタイユゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/26.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 375,
+      "name": "エヴァンタイユゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/26.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 376,
+      "name": "ハーモニーヒルズゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/37.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 376,
+      "name": "ハーモニーヒルズゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/37.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 376,
+      "name": "ハーモニーヒルズゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/37.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 377,
+      "name": "岩舟ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/iwafune/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 378,
+      "name": "大平台カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/ohiradai/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 379,
+      "name": "喜連川カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/kitsuregawa/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 380,
+      "name": "広陵カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/koryo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 381,
+      "name": "ディアレイク・カントリー倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 381,
+      "name": "ディアレイク・カントリー倶楽部",
+      "field": "rail",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 381,
+      "name": "ディアレイク・カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 382,
+      "name": "皆川城カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/minagawajo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "rail",
+      "officialUrl": "https://www.ashikaga-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "budget",
+      "officialUrl": "https://www.ashikaga-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "stay",
+      "officialUrl": "https://www.ashikaga-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "rail",
+      "officialUrl": "https://www.ashikaga-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "budget",
+      "officialUrl": "https://www.ashikaga-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "stay",
+      "officialUrl": "https://www.ashikaga-cc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 386,
+      "name": "太平洋クラブ 益子PGAコース",
+      "field": "stay",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/mashiko/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 387,
+      "name": "太平洋クラブ 佐野ヒルクレストコース",
+      "field": "budget",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 387,
+      "name": "太平洋クラブ 佐野ヒルクレストコース",
+      "field": "stay",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 388,
+      "name": "イーストウッドカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.eastwoodcc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 389,
+      "name": "JGM宇都宮ゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.jgmgroup.co.jp/utsunomiya/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 389,
+      "name": "JGM宇都宮ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.jgmgroup.co.jp/utsunomiya/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 390,
+      "name": "LiVE MAX GOLF CLUB 栃木",
+      "field": "rail",
+      "officialUrl": "https://www.livemax-golfclub.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 390,
+      "name": "LiVE MAX GOLF CLUB 栃木",
+      "field": "budget",
+      "officialUrl": "https://www.livemax-golfclub.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 391,
+      "name": "東武藤が丘カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tobufujigaokacc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 393,
+      "name": "25那須ゴルフガーデン",
+      "field": "dining",
+      "officialUrl": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 393,
+      "name": "25那須ゴルフガーデン",
+      "field": "budget",
+      "officialUrl": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "car",
+      "officialUrl": "https://www.linehill2026.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "rail",
+      "officialUrl": "https://www.linehill2026.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://www.linehill2026.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.linehill2026.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 395,
+      "name": "城山カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://shiroyama.chateraisegolf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 396,
+      "name": "希望丘カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://014kibougaokacc.sakura.ne.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 396,
+      "name": "希望丘カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://014kibougaokacc.sakura.ne.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 397,
+      "name": "都賀カンツリー倶楽部",
+      "field": "budget",
+      "officialUrl": "http://www.tsugacc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 399,
+      "name": "ベルセルバカントリークラブ さくらコース",
+      "field": "dining",
+      "officialUrl": "http://www.belle-co.com/belleselva/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 400,
+      "name": "足利渡良瀬ゴルフ場",
+      "field": "stay",
+      "officialUrl": "http://ashikaga-watarase-golf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 401,
+      "name": "宮の森カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.miyanomoricc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 403,
+      "name": "久邇カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.princehotels.co.jp/golf/kuni/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 405,
+      "name": "石坂ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.ishizaka-gc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 406,
+      "name": "川越カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://kawagoecc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 407,
+      "name": "熊谷ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://kumagaya-gc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 408,
+      "name": "鴻巣カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://kcc.kanbun-group.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 409,
+      "name": "高麗川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.komagawacc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 412,
+      "name": "高根カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://takane-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 415,
+      "name": "東松山カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.hmcc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 415,
+      "name": "東松山カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.hmcc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 416,
+      "name": "日高カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.hidaka-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 419,
+      "name": "長瀞カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.kanbun-group.co.jp/ncc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 419,
+      "name": "長瀞カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.kanbun-group.co.jp/ncc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 419,
+      "name": "長瀞カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.kanbun-group.co.jp/ncc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 421,
+      "name": "嵐山カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.ranzan.cc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 421,
+      "name": "嵐山カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.ranzan.cc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 424,
+      "name": "オリムピックナショナルゴルフクラブ EAST",
+      "field": "budget",
+      "officialUrl": "https://www.olympicnational.co.jp/east/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 424,
+      "name": "オリムピックナショナルゴルフクラブ EAST",
+      "field": "stay",
+      "officialUrl": "https://www.olympicnational.co.jp/east/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 425,
+      "name": "オリムピックナショナルゴルフクラブ WEST",
+      "field": "budget",
+      "officialUrl": "https://www.olympicnational.co.jp/west/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 426,
+      "name": "霞ヶ関カンツリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.kasumigasekicc.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 426,
+      "name": "霞ヶ関カンツリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.kasumigasekicc.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 426,
+      "name": "霞ヶ関カンツリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.kasumigasekicc.or.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 427,
+      "name": "児玉カントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.kodama-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 427,
+      "name": "児玉カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.kodama-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 428,
+      "name": "彩の森カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/sainomori/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 430,
+      "name": "ザ ナショナルカントリー倶楽部 埼玉",
+      "field": "budget",
+      "officialUrl": "https://national-cc.jp/saitama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 430,
+      "name": "ザ ナショナルカントリー倶楽部 埼玉",
+      "field": "stay",
+      "officialUrl": "https://national-cc.jp/saitama/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 431,
+      "name": "玉川カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/tamagawa/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 432,
+      "name": "東京ゴルフ倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.tokyogolfclub.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 432,
+      "name": "東京ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.tokyogolfclub.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 432,
+      "name": "東京ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.tokyogolfclub.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 433,
+      "name": "ノーザンカントリークラブ 錦ヶ原ゴルフ場",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/nishikigahara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 434,
+      "name": "飯能ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.hannogc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 435,
+      "name": "平成倶楽部 鉢形城コース",
+      "field": "budget",
+      "officialUrl": "https://www.yc21.co.jp/heisei/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 435,
+      "name": "平成倶楽部 鉢形城コース",
+      "field": "stay",
+      "officialUrl": "https://www.yc21.co.jp/heisei/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 437,
+      "name": "武蔵カントリークラブ 笹井コース",
+      "field": "stay",
+      "officialUrl": "https://www.musashi-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 438,
+      "name": "武蔵カントリークラブ 豊岡コース",
+      "field": "stay",
+      "officialUrl": "https://www.musashi-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 439,
+      "name": "寄居カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/yorii/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 440,
+      "name": "PGM武蔵ゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/169.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 440,
+      "name": "PGM武蔵ゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/169.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 441,
+      "name": "富貴ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/71.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 443,
+      "name": "東都秩父カントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.toto-motors.co.jp/golf/chichibu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 443,
+      "name": "東都秩父カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.toto-motors.co.jp/golf/chichibu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 444,
+      "name": "東都飯能カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.toto-motors.co.jp/golf/hanno/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 449,
+      "name": "下仁田カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.shimonitacc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 450,
+      "name": "桐生カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.kiryucc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 452,
+      "name": "グリーンパークカントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://greenparkcc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 453,
+      "name": "髙梨子倶楽部",
+      "field": "rail",
+      "officialUrl": "https://www.takanashiclub.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 453,
+      "name": "髙梨子倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.takanashiclub.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "scenery",
+      "officialUrl": "https://www.yoshii-nanyodai.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "rail",
+      "officialUrl": "https://www.yoshii-nanyodai.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "stay",
+      "officialUrl": "https://www.yoshii-nanyodai.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "budget",
+      "officialUrl": "https://www.yoshii-nanyodai.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 457,
+      "name": "玉村ゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://www.tamamura-golf.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 458,
+      "name": "板倉ゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://www.tokyu-golf-resort.com/itakura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 458,
+      "name": "板倉ゴルフ場",
+      "field": "budget",
+      "officialUrl": "https://www.tokyu-golf-resort.com/itakura/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 459,
+      "name": "ツインレイクスカントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 459,
+      "name": "ツインレイクスカントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 460,
+      "name": "関越ハイランドゴルフクラブ",
+      "field": "scenery",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 460,
+      "name": "関越ハイランドゴルフクラブ",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 460,
+      "name": "関越ハイランドゴルフクラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 461,
+      "name": "緑野カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/midono/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 462,
+      "name": "ノーザンカントリークラブ 赤城ゴルフ場",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/akagi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 463,
+      "name": "ノーザンカントリークラブ 上毛ゴルフ場",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 463,
+      "name": "ノーザンカントリークラブ 上毛ゴルフ場",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.ota-futaba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "field": "rail",
+      "officialUrl": "https://www.ota-futaba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.ota-futaba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://www.ota-futaba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://www.ota-futaba-cc.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 466,
+      "name": "吉井カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://www.ycc-golf.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 467,
+      "name": "伊香保国際カンツリークラブ",
+      "field": "scenery",
+      "officialUrl": "https://www.ikahokokusai.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 468,
+      "name": "梅ノ郷ゴルフ倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.umenosato.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 469,
+      "name": "大間々ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://www.omama-gc.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 470,
+      "name": "霞山カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.kazancc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 471,
+      "name": "軽井沢高原ゴルフ倶楽部",
+      "field": "budget",
+      "officialUrl": "https://www.karuizawa-kogen.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 475,
+      "name": "ゴルフクラブスカイリゾート",
+      "field": "dining",
+      "officialUrl": "https://www.gcsr.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 475,
+      "name": "ゴルフクラブスカイリゾート",
+      "field": "budget",
+      "officialUrl": "https://www.gcsr.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 476,
+      "name": "THE CLUB golf village",
+      "field": "budget",
+      "officialUrl": "https://tcgv.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 477,
+      "name": "上武カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://jobu.cc/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 478,
+      "name": "シルクカントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://rfgr.jp/silk/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 478,
+      "name": "シルクカントリー倶楽部",
+      "field": "budget",
+      "officialUrl": "https://rfgr.jp/silk/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 480,
+      "name": "太平洋クラブ 高崎コース",
+      "field": "stay",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 480,
+      "name": "太平洋クラブ 高崎コース",
+      "field": "budget",
+      "officialUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 481,
+      "name": "嬬恋高原ゴルフ場",
+      "field": "budget",
+      "officialUrl": "https://www.princehotels.co.jp/golf/tsumagoi/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 484,
+      "name": "東京カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.tokyo-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 486,
+      "name": "相模野カントリー倶楽部",
+      "field": "scenery",
+      "officialUrl": "https://sagamino-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 486,
+      "name": "相模野カントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://sagamino-cc.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 487,
+      "name": "小田原ゴルフ倶楽部 松田コース",
+      "field": "dining",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 487,
+      "name": "小田原ゴルフ倶楽部 松田コース",
+      "field": "budget",
+      "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 488,
+      "name": "大秦野カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/153.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 488,
+      "name": "大秦野カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/153.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 489,
+      "name": "秦野カントリークラブ",
+      "field": "dining",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/66.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 489,
+      "name": "秦野カントリークラブ",
+      "field": "budget",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/66.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 489,
+      "name": "秦野カントリークラブ",
+      "field": "stay",
+      "officialUrl": "https://booking.pacificgolf.co.jp/guide/66.html",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 490,
+      "name": "武蔵野ゴルフクラブ",
+      "field": "stay",
+      "officialUrl": "https://musashinogolf.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 492,
+      "name": "青梅リバーサイドパーク",
+      "field": "dining",
+      "officialUrl": "https://www.riverside-park.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 493,
+      "name": "鎌倉パブリックゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://kamakura-pg.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 494,
+      "name": "川崎国際生田緑地ゴルフ場",
+      "field": "stay",
+      "officialUrl": "https://www.tokyu-golf-resort.com/kawasaki/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 495,
+      "name": "湘南シーサイドカントリー倶楽部",
+      "field": "dining",
+      "officialUrl": "https://www.shonanseaside.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 495,
+      "name": "湘南シーサイドカントリー倶楽部",
+      "field": "stay",
+      "officialUrl": "https://www.shonanseaside.com/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 496,
+      "name": "GDO茅ヶ崎ゴルフリンクス",
+      "field": "budget",
+      "officialUrl": "https://chigasaki.golfdigest.co.jp/",
+      "status": "pending_content_review"
+    },
+    {
+      "id": 498,
+      "name": "大磯ゴルフコース",
+      "field": "budget",
+      "officialUrl": "https://www.princehotels.co.jp/golf/oiso/",
+      "status": "pending_content_review"
+    }
+  ]
+}
