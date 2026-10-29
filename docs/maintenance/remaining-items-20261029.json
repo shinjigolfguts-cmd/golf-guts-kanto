@@ -490,7 +490,7 @@
       "name": "静ヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.hillsgolf.jp/shizu/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ao.json",
       "reviewRecord": "source-review-20261029ao.json"
     },
@@ -508,7 +508,7 @@
       "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
       "field": "budget",
       "officialUrl": "https://nasukasumigajo.com/ja",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ao.json",
       "reviewRecord": "source-review-20261029ao.json"
     },

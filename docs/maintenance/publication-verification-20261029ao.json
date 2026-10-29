@@ -1,0 +1,24 @@
+{
+  "commit": "43a6217ae42e6ec5282125a698d8c9599aa6cada",
+  "checkedAt": "2026-10-29T13:43:57.373783+00:00",
+  "files": [
+    {
+      "path": "data.js",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/data.js",
+      "sha256": "0fdf96a242d5fb639aa60eb635d152f3c7a2e39750f20937a7a52fe1569c38ca",
+      "matches": true
+    },
+    {
+      "path": "courses/75.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/75.html",
+      "sha256": "27f8986059ec2f9c4fb26314bf2e28c2d830f08ba5c32ab42fc3b78d9933a1a1",
+      "matches": true
+    },
+    {
+      "path": "courses/77.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/77.html",
+      "sha256": "39602a1b0e434cb21feb6aa593268b6ab04f20a92284a823325edbf8d8f7f3ba",
+      "matches": true
+    }
+  ]
+}
