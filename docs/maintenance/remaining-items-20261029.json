@@ -126,7 +126,8 @@
       "name": "東京ベイサイドゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/tokyobayside/index.asp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 19,
@@ -181,7 +182,8 @@
       "name": "PGM石岡ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 28,
@@ -424,7 +426,8 @@
       "name": "サンヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/sunhills/hotel.asp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 71,
@@ -1141,14 +1144,16 @@
       "name": "美浦ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/miho/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 160,
       "name": "セゴビアゴルフクラブ イン チヨダ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/segovia/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 161,
@@ -1205,7 +1210,8 @@
       "name": "プレステージカントリークラブ",
       "field": "budget",
       "officialUrl": "http://www.pacificgolf.co.jp/prestige/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 168,
@@ -1461,7 +1467,8 @@
       "name": "PGMマリアゴルフリンクス",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/maria/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 198,
@@ -2168,7 +2175,8 @@
       "name": "ブリック＆ウッドクラブ",
       "field": "scenery",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 246,
@@ -2300,8 +2308,9 @@
       "name": "桜の宮ゴルフ倶楽部",
       "field": "scenery",
       "officialUrl": "https://www.sakuranomiyagc.jp/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ad.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ad.json",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 261,
@@ -2722,7 +2731,8 @@
       "name": "ザ・ゴルフクラブ竜ヶ崎",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/ryugasaki/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 287,
@@ -3616,15 +3626,17 @@
       "name": "ニューセントラルゴルフ倶楽部",
       "field": "scenery",
       "officialUrl": "https://www.new-cgc.jp/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029af.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 360,
       "name": "ニューセントラルゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.new-cgc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
       "id": 361,
