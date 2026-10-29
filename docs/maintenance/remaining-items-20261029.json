@@ -702,7 +702,8 @@
       "name": "アゼリアヒルズカントリークラブ",
       "field": "scenery",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029af.json"
     },
     {
       "id": 101,
@@ -1443,14 +1444,18 @@
       "name": "大多喜城ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/ohtakijo/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 203,
       "name": "小見川東急ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/omigawa/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 203,
@@ -1464,14 +1469,18 @@
       "name": "勝浦東急ゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/katsuura/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 206,
       "name": "季美の森ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/kimi/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 208,
@@ -1493,7 +1502,9 @@
       "name": "芝山ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/shibayama/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 211,
@@ -1954,7 +1965,9 @@
       "name": "ミルフィーユゴルフクラブ",
       "field": "scenery",
       "officialUrl": "https://www.milgolf.co.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 242,
@@ -2098,8 +2111,9 @@
       "name": "船橋カントリークラブ",
       "field": "scenery",
       "officialUrl": "https://www.funabashicc.com/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ad.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 251,
@@ -2413,7 +2427,9 @@
       "name": "猿島カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/sashima/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 273,
@@ -3024,7 +3040,9 @@
       "name": "筑波東急ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/tsukuba/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 321,
@@ -3420,7 +3438,7 @@
       "field": "scenery",
       "officialUrl": "https://www.new-cgc.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ad.json"
+      "reviewRecord": "source-review-20261029af.json"
     },
     {
       "id": 360,
@@ -4328,7 +4346,9 @@
       "name": "板倉ゴルフ場",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/itakura/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029af.json"
     },
     {
       "id": 459,

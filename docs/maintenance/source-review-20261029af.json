@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": 242,
+      "field": "scenery",
+      "url": "https://www.milgolf.co.jp/",
+      "supportingUrls": [
+        "https://www.milgolf.co.jp/bxslider/images/slider001.jpg"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式トップからリンクされたコース写真を直接閲覧し、水面・樹木・芝地を確認。季節やホール番号は推定しない。"
+    },
+    {
+      "id": 250,
+      "field": "scenery",
+      "url": "https://www.funabashicc.com/course.html",
+      "supportingUrls": [
+        "https://www.funabashicc.com/images/course/coursekv.jpg"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式コース紹介の写真を直接閲覧。写真で確認できる樹木と芝地の配置だけを記載。"
+    },
+    {
+      "id": 202,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/ohtakijo/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=14",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45487&date=2026-11-04"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 205,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/katsuura/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=9",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=43997&date=2026-11-04"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 206,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/kimi/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=15",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=43754&date=2026-11-02"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 458,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/itakura/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=19",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=44633&date=2026-10-30"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 203,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/omigawa/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=16",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45681&date=2026-11-04"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 210,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/shibayama/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=3",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45319&date=2026-11-04"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 272,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/sashima/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=17",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=44182&date=2026-11-04"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 320,
+      "field": "budget",
+      "url": "https://www.tokyu-golf-resort.com/tsukuba/",
+      "supportingUrls": [
+        "https://reservation.tokyu-golf-resort.com/?golf_course_id=18",
+        "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45067&date=2026-11-04"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。"
+    },
+    {
+      "id": 100,
+      "field": "scenery",
+      "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "検索取得は本文サイズ上限超過。/course は実体が404案内のため採用せず。"
+    },
+    {
+      "id": 360,
+      "field": "scenery",
+      "url": "https://www.new-cgc.jp/course.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "ヤーデージ・動画リンクは取得できたが、景観の根拠となる写真・動画内容を未確認。"
+    }
+  ]
+}
