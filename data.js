@@ -4483,7 +4483,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載内容：茂原長柄スマートICから車で約3分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "2026年10月21日提供開始の公式ランチ例：鰻のひつまぶし御膳、鮪尽くし御膳、国産牛しゃぶしゃぶ御膳。いずれも追加料金メニューです。",
+          "url": "https://www.mannacc.com/restaurant/manna-grill/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "真名店の10/21開始メニューPDF1ページを目視確認。11/1開始の別メニューと混同しない。料理は予告なく変更される場合あり。"
+        },
         "stay": {
           "text": "リソルの森のホテル・ヴィラ滞在とゴルフを組み合わせられる。",
           "url": "https://www.mannacc.com/fee-competition/golf-stay",
@@ -26250,7 +26256,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。安中榛名駅からタクシーで約25分。高崎駅からは約40分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式掲載のグランドメニュー例：ゴロゴロビーフブラックカレー、きつねうどん（日替わりミニ丼付き）、上州麦豚一口ヒレカツ膳。",
+          "url": "https://rfgr.jp/silk/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "現行レストランページからリンクされるPDFを目視確認。適用期間の記載はなく、当日の提供内容は要確認。料理の評価・名物とは断定しない。"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式の施設案内で浴室を紹介しています。",
           "url": "https://rfgr.jp/silk/facility-2/",

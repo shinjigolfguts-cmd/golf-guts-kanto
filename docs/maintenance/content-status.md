@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `60e5fdb2b8eef40f14c4c81bc372f7a7aafb9e5fca6c619d53b2a385907aa937`
+data.js SHA256: `149bf3a937d57821d6992c01952329dcdb68f9cc8dc5cd14188e64b27e5cbfef`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,7 +9,7 @@ data.js SHA256: `60e5fdb2b8eef40f14c4c81bc372f7a7aafb9e5fca6c619d53b2a385907aa93
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 34 |
-| 食事 | 57 |
+| 食事 | 55 |
 | 宿泊・お風呂 | 72 |
 | 料金 | 260 |
 | 景色 | 18 |
@@ -63,7 +63,7 @@ data.js SHA256: `60e5fdb2b8eef40f14c4c81bc372f7a7aafb9e5fca6c619d53b2a385907aa93
 | 70 | [サンヒルズカントリークラブ](https://www.pacificgolf.co.jp/sunhills/hotel.asp) | 料金 |
 | 75 | [静ヒルズカントリークラブ](https://www.hillsgolf.jp/shizu/) | 料金 |
 | 77 | [那須霞ヶ城 ゴルフ＆ホテルリゾート](https://nasukasumigajo.com/ja) | 食事・料金 |
-| 78 | [真名カントリークラブ 真名コース](https://www.mannacc.com/course/manna-course) | 食事・料金 |
+| 78 | [真名カントリークラブ 真名コース](https://www.mannacc.com/course/manna-course) | 料金 |
 | 80 | [初穂カントリークラブ](https://www.hatsuhocc.co.jp/) | 食事・料金 |
 | 81 | [ムーンレイクゴルフクラブ 鶴舞コース](https://booking.pacificgolf.co.jp/guide/143.html) | 料金 |
 | 82 | [佐原カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/sawara/) | 料金 |
@@ -326,7 +326,7 @@ data.js SHA256: `60e5fdb2b8eef40f14c4c81bc372f7a7aafb9e5fca6c619d53b2a385907aa93
 | 469 | [大間々ゴルフクラブ](https://www.omama-gc.com/) | 宿泊・お風呂 |
 | 475 | [ゴルフクラブスカイリゾート](https://www.gcsr.jp/) | 食事 |
 | 476 | [THE CLUB golf village](https://tcgv.jp/) | 料金 |
-| 478 | [シルクカントリー倶楽部](https://rfgr.jp/silk/) | 食事・料金 |
+| 478 | [シルクカントリー倶楽部](https://rfgr.jp/silk/) | 料金 |
 | 480 | [太平洋クラブ 高崎コース](https://www.taiheiyoclub.co.jp/course/takasaki/) | 宿泊・お風呂・料金 |
 | 481 | [嬬恋高原ゴルフ場](https://www.princehotels.co.jp/golf/tsumagoi/) | 料金 |
 | 484 | [東京カントリー倶楽部](https://www.tokyo-cc.jp/) | 宿泊・お風呂 |
