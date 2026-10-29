@@ -1,6 +1,6 @@
 {
-  "baseline": "30629e06fb6fd7b54da2f9e395174b7bb5eb2726",
-  "note": "2026-10-29 batch ap published; unresolved items retain official-source review status and reasons.",
+  "baseline": "43394bf24fbf5d589129c904caad28247477a893",
+  "note": "2026-10-29 batch aq published; 9 rail fields verified and unresolved official-source review outcomes recorded.",
   "items": [
     {
       "id": 0,
@@ -92,14 +92,16 @@
       "name": "カメリアヒルズカントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.camelliahills.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 12,
       "name": "カメリアヒルズカントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.camelliahills.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 12,
@@ -122,7 +124,8 @@
       "name": "東京ベイサイドゴルフコース",
       "field": "dining",
       "officialUrl": "https://www.pacificgolf.co.jp/tokyobayside/index.asp",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 18,
@@ -602,8 +605,8 @@
       "name": "川崎リバーサイドパーク ゴルフ場",
       "field": "dining",
       "officialUrl": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
-      "status": "pending_content_review",
-      "reviewRecord": "source-review-20261029y.json"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 87,
@@ -1828,7 +1831,8 @@
       "name": "長太郎カントリークラブ",
       "field": "car",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/58.html",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 223,
@@ -1931,7 +1935,8 @@
       "name": "富士市原ゴルフクラブ",
       "field": "rail",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 234,
@@ -1979,7 +1984,8 @@
       "name": "総武カントリークラブ 印旛コース",
       "field": "car",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 236,
@@ -2012,7 +2018,8 @@
       "name": "総武カントリークラブ 北コース",
       "field": "car",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/64.html",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 237,
@@ -2093,21 +2100,24 @@
       "name": "香取カントリークラブ",
       "field": "rail",
       "officialUrl": "https://www.katoricc.com/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 241,
       "name": "香取カントリークラブ",
       "field": "scenery",
       "officialUrl": "https://www.katoricc.com/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 241,
       "name": "香取カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.katoricc.com/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 241,
@@ -2157,21 +2167,24 @@
       "name": "新千葉カントリー倶楽部",
       "field": "rail",
       "officialUrl": "https://www.shinchiba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 243,
       "name": "新千葉カントリー倶楽部",
       "field": "scenery",
       "officialUrl": "https://www.shinchiba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 243,
       "name": "新千葉カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.shinchiba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 243,
@@ -2550,7 +2563,9 @@
       "name": "スプリングフィルズゴルフクラブ",
       "field": "rail",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 269,
@@ -2790,7 +2805,9 @@
       "name": "ザ・ゴルフクラブ竜ヶ崎",
       "field": "rail",
       "officialUrl": "https://www.pacificgolf.co.jp/ryugasaki/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 286,
@@ -3059,7 +3076,8 @@
       "name": "土浦カントリー倶楽部",
       "field": "rail",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 304,
@@ -3161,7 +3179,8 @@
       "name": "富士カントリー笠間倶楽部",
       "field": "car",
       "officialUrl": "https://kasama-club.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 311,
@@ -3441,7 +3460,8 @@
       "name": "杉ノ郷カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.suginosato.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 335,
@@ -3481,7 +3501,8 @@
       "name": "益子ヒルズゴルフクラブ",
       "field": "rail",
       "officialUrl": "https://www.mashikohills.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 339,
@@ -3822,7 +3843,9 @@
       "name": "皐月ゴルフ倶楽部 佐野コース",
       "field": "rail",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/35.html",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 371,
@@ -3864,7 +3887,9 @@
       "name": "ピートダイゴルフクラブ VIPコース",
       "field": "rail",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/31.html",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 373,
@@ -3888,7 +3913,9 @@
       "name": "ピートダイゴルフクラブ ロイヤルコース",
       "field": "rail",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/32.html",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 374,
@@ -3912,7 +3939,9 @@
       "name": "エヴァンタイユゴルフクラブ",
       "field": "rail",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/26.html",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 375,
@@ -3936,7 +3965,9 @@
       "name": "ハーモニーヒルズゴルフクラブ",
       "field": "rail",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/37.html",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 376,
@@ -3996,7 +4027,8 @@
       "name": "ディアレイク・カントリー倶楽部",
       "field": "rail",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 381,
@@ -4017,7 +4049,9 @@
       "name": "足利カントリークラブ 多幸コース",
       "field": "rail",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 383,
@@ -4040,7 +4074,9 @@
       "name": "足利カントリークラブ 飛駒コース",
       "field": "rail",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029aq.json",
+      "evidenceBatch": "verified-followup-20261029aq.json"
     },
     {
       "id": 384,
@@ -4115,7 +4151,8 @@
       "name": "LiVE MAX GOLF CLUB 栃木",
       "field": "rail",
       "officialUrl": "https://www.livemax-golfclub.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 390,
@@ -4157,7 +4194,8 @@
       "name": "ラインヒルゴルフクラブ",
       "field": "car",
       "officialUrl": "https://www.linehill2026.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029aq.json"
     },
     {
       "id": 394,

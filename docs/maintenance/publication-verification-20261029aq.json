@@ -1,0 +1,24 @@
+{
+  "batch": "verified-followup-20261029aq.json",
+  "inputCommit": "9a550244ecd568d904589e7b9ed0376c85fc5d41",
+  "generatedMain": "43394bf24fbf5d589129c904caad28247477a893",
+  "workflowRunId": 40904622469,
+  "workflowConclusion": "success",
+  "dataSha256": "162ef4d85a7ae2556aa6fc11e79fdb27bb42cd45926256d6bae0f2077c3838b1",
+  "publicDataMatched": true,
+  "publicCoursePages": {
+    "checked": [269, 286, 371, 373, 374, 375, 376, 383, 384],
+    "matched": 9,
+    "mismatched": 0
+  },
+  "remaining": {
+    "total": 301,
+    "car": 8,
+    "rail": 24,
+    "dining": 45,
+    "stay": 64,
+    "budget": 152,
+    "scenery": 8
+  },
+  "checked": "2026-10-29"
+}
