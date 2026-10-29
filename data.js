@@ -3196,7 +3196,16 @@ const DATA={
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式スタートパックは平日8,500円、土日祝11,000円。練習ボール75球・昼食・午後ハーフプレー付きで、2人以上・ハーフは組合わせが前提です。通常1ラウンド料金ではありません。",
+          "url": "https://yoneharagc.jp/reservation/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約料金ページのスタートパック欄で含有項目・人数・時間・組合わせ条件を照合。通常1Rと混同しない。",
+          "priceVerified": true,
+          "priceLabel": "午後ハーフ＋練習・昼食8,500～11,000円",
+          "conditions": "練習ボール75球・昼食・午後ハーフのスタートパック。平日8,500円、土日祝11,000円。練習場10:00～12:30、2人から、ハーフは組合わせ前提。状況により受入不可。ロッカー・風呂利用可。税の内外・利用税・バッグ割増の当パックへの適用は未明記のため申込時確認。"
+        },
         "scenery": {
           "text": "高低差の少ない地形に、池やバンカーを多彩に配置。水面と芝、砂の造形が景観の特徴です。",
           "url": "https://yoneharagc.jp/course/",
@@ -4104,7 +4113,16 @@ const DATA={
             "https://golf.nasusunlight.jp/"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "公式ハーフ料金はビジター平日4,150円、土日祝6,250円。利用税・消費税・振興基金込み、昼食別です。通常1ラウンド料金とは異なります。",
+          "url": "https://golf.nasusunlight.jp/price2",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式料金のハーフ料金見出し、ビジターの行と税・昼食注記を照合。ジュニア料金や宿泊パックの表と区別。",
+          "priceVerified": true,
+          "priceLabel": "ビジターハーフ4,150～6,250円",
+          "conditions": "ビジターのハーフプレー。ゴルフ場利用税・消費税・ゴルフ振興基金込み、昼食別。通常1R・宿泊パック・ジュニアとは別。人数割増・特別期間への適用・施設利用条件はハーフ欄では未確認のため利用前確認。"
+        },
         "scenery": {
           "text": "那須の四季の彩りが映える丘陵に27ホールを配置。自然の地形を生かした起伏と緑を楽しめます。",
           "url": "https://golf.nasusunlight.jp/",
@@ -12771,7 +12789,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "高低差の少ない緩やかな丘陵に広いフェアウェイが続くコース。ドッグレッグも配置されています。",
+          "url": "https://booking.pacificgolf.co.jp/guide/58.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コースの特徴本文で地形・フェアウェイ・ドッグレッグの記述を確認。遠景や景勝地は推測しない。"
+        },
         "dining": {
           "text": "レストランは9時から営業し、朝食の提供はありません。最新のメニューや営業条件は公式案内でご確認ください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map",
@@ -13225,7 +13249,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "南欧風のリゾートをイメージしたコース。池越え、マウンドを配したホール、池の絡むホールなど、ホールごとに異なる景観を楽しめます。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース紹介で南欧風・池越え・マウンド・池絡みの記述を確認。海外の景勝地が実際に見えるとは記載しない。"
+        },
         "dining": {
           "text": "ご飯・ザーサイ・スープ付きの石焼麻婆豆腐を掲載。担担麺や粗挽きハンバーグも用意しています。 メニューは季節により変わります。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/restaurant",
@@ -13383,7 +13413,13 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "rail": null,
-        "scenery": null,
+        "scenery": {
+          "text": "広めのフェアウェイと穏やかなアップダウンが特徴。グリーン周辺にはバンカーや池が配置されています。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式冒頭のコース紹介で地形と池・バンカーの配置を確認。富士山の眺望はコース名から推測しない。"
+        },
         "dining": {
           "text": "小鉢・味噌汁・香物付きの味噌豚重を掲載。皿うどんや粗挽きハンバーグも用意しています。 メニューは季節により変わります。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/restaurant",
@@ -14632,7 +14668,16 @@ const DATA={
           "basis": "公式案内の本文を確認",
           "dish": "手打ちざる蕎麦"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式の薄暮ビジター1Rは3～7月・9～12月に平日5,000円、土日祝8,500円（税込み）。原則プレー当日予約・前金制で、風呂・シャワー・ロッカーは利用不可。ハーフ終了後に待ち時間があります。",
+          "url": "https://www.kanasago.com/reservation/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "薄暮料金の月区分・ビジター1R行と備考を確認。通常日中1R、ジュニアや0.5Rとは区別。",
+          "priceVerified": true,
+          "priceLabel": "指定月の薄暮ビジター1R5,000～8,500円",
+          "conditions": "3・4・5・6・7・9・10・11・12月の薄暮ビジター1R、税込み。原則当日予約、前金制、浴室・シャワー・ロッカー不可。ハーフ後に待ち時間がありスルー不可。食事・利用税・通常欄の人数割増の薄暮への適用は未明記、申込時確認。1・2・8月は別料金。"
+        },
         "stay": {
           "text": "日差しが入る脱衣ルームとバスルームを公式に案内。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
           "url": "https://www.kanasago.com/facility/",
@@ -15410,7 +15455,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式ランチメニューに「常陸牛100％ハンバーグステーキ」があります。デミグラスソースとイタリアントマトソースの掲載を確認。メニューは利用日に確認してください。",
+          "url": "https://ibarakigolf.jp/restaurant/lunch",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "倶楽部公式サイトからリンクされた公式レストランの2026年ランチ画像を目視確認。倶楽部直リンクを一次性の根拠とし、常陸牛100％の表記と料理名を照合。",
+          "dish": "常陸牛100％ハンバーグステーキ",
+          "supportingUrls": [
+            "https://ibarakigc.jp/archives/12404"
+          ]
+        },
         "budget": {
           "text": "公式基本料金は平日27,050〜27,930円、土日祝35,850〜36,730円。4名キャディ・税込、東西コースで異なります。食事別、3名は880円追加。",
           "url": "https://ibarakigc.jp/wp/wp-content/uploads/2026/03/guest-fee_2026.pdf",
@@ -15999,9 +16054,22 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "通常メニューに「ジュージュー料理 ジンギスカン」「酸辣湯麺」などがあります。月替わりフェアや季節のメニューもあり、提供内容は利用日に確認してください。",
+          "url": "https://jgk.tatemono-golf.com/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランのStandard menu欄で具体的料理名を確認。フェア商品を通年提供と誤認しない。",
+          "dish": "ジンギスカン、酸辣湯麺"
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "施設案内に、窓の外の緑を眺められる広い浴場があります。温泉・サウナ・宿泊設備、プラン別の利用制限は未確認です。",
+          "url": "https://jgk.tatemono-golf.com/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設紹介のBIG BATH見出しと窓外の緑・ゆったりとした風呂の本文を確認。温泉とは断定しない。"
+        }
       },
       "id": 289
     },
@@ -16137,7 +16205,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "東・西の36ホールで構成される丘陵コースです。具体的な遠景や季節の見どころは未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース概要のコース種別と公式トップの東西36H構成を照合。NEW・麻生の景観は転用しない。"
+        },
         "dining": null,
         "budget": null,
         "stay": {
@@ -16549,7 +16623,13 @@ const DATA={
           "priceLabel": "平日28,810円／土日祝37,060円",
           "conditions": "ゲスト基本料金。キャディ・消費税・利用税込。飲食と乗用カート別。予約条件あり。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介に男性浴場・女性浴場があります。温泉・サウナ・宿泊設備、利用時間やプラン別制限は未確認です。",
+          "url": "https://tsukuba-cc.co.jp/about/facility",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の男女浴場の見出しを照合。確認できた設備だけを記載。"
+        }
       },
       "id": 301
     },
@@ -16737,7 +16817,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式のコース種別は丘陵。OUT・IN各9ホールの18ホールで、総距離は7,072ヤードと案内されています。特定の遠景は未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース概要の種別とホール構成・距離を確認。池や眺望を未確認のまま追加しない。"
+        },
         "dining": null,
         "budget": null,
         "stay": {
@@ -17121,7 +17207,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・樹木・水景の記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食メニューに「マナ御膳」「リブロースステーキ」「ネバネバ丼」などがあります。一部メニューは差額が必要で、内容は変更される場合があります。夕食には瑞穂牛の鉄板焼き・しゃぶしゃぶのコースを案内。",
+          "url": "https://www.managolf.jp/restrant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文の昼食・夕食見出しと実料理名を確認。全日昼食付の案内を薄暮など別条件プランに一律適用しない。",
+          "dish": "マナ御膳、ネバネバ丼"
+        },
         "budget": {
           "text": "公式の薄暮ビジター1ラウンド料金は平日4,800円、土日祝6,900円（税込み）。1バッグは平日1,100円、土日祝1,650円を追加。当日の状況次第で受け入れ、事前予約制ではありません。",
           "url": "https://www.managolf.jp/chargeguidance/",
@@ -17615,7 +17708,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに「秘伝だれのまぐろ漬け丼」「鯖と野菜の黒酢炒め」「シーフードトマトスパゲッティ」などがあります。2026年7月からの掲載メニューを確認。提供内容は変更される場合があります。",
+          "url": "https://www.kasumigaura-kokusai-golf.com/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランに掲載された2026年7月以降のメニュー画像1枚目を目視確認。料理名を画像で照合し、料理の評判や名物という評価は加えない。",
+          "dish": "秘伝だれのまぐろ漬け丼、鯖と野菜の黒酢炒め"
+        },
         "budget": {
           "text": "10〜11月は平日12,500〜13,500円、土日22,900円の公式例。3〜4名の乗用セルフ・利用税込。2名利用は1人2,200円追加です。",
           "url": "https://www.kasumigaura-kokusai-golf.com/rates",
@@ -18610,7 +18710,16 @@ const DATA={
           "dish": "おとん豚の生姜焼き定食"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウス建替え中は浴室を利用できず、2026年5月1日から仮設シャワーを案内。ロッカー・シャワーは220円（税込）、希望者はチェックイン時に申告。別施設の小山 思川温泉との提携は新ハウス竣工まで継続予定です。",
+          "url": "https://www.oyamagolf.jp/images/info/shower_room.pdf?v=002",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年4月公式PDFを原画像でも確認。仮設シャワー開始日・料金・申告と浴室使用不可を照合。提携温泉をコース内温泉と混同しない。",
+          "supportingUrls": [
+            "https://www.oyamagolf.jp/images/info/omoi-gawa-onsen_teikei-plan.pdf"
+          ]
+        }
       },
       "id": 342
     },
@@ -19983,7 +20092,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。富澤誠造設計の27ホール。距離の富士、グリーン周りに変化のある日光、平坦な筑波の3コース。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "広い敷地の27ホール。富士・日光・筑波の3コースで構成され、筑波コースはフラットと案内されています。",
+          "url": "https://booking.pacificgolf.co.jp/guide/146.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コースの特徴で3コース構成と筑波の地形を確認。富士・日光というコース名を山の眺望と解釈しない。"
+        },
         "car": {
           "text": "公式では佐野藤岡ICから約30分（15km）の経路を案内。",
           "url": "https://www.pacificgolf.co.jp/teela/kwatch/",
@@ -20173,7 +20288,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。ピート・ダイ設計の18ホール。起伏やハザードを考える戦略的なコース。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "フラットな地形に距離の長いホールを配した、ピート・ダイ設計の18ホールです。",
+          "url": "https://booking.pacificgolf.co.jp/guide/31.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コースの特徴本文でフラット・長い距離を確認。ロイヤルコースの景観を転用しない。"
+        },
         "car": {
           "text": "大沢ICから約5分（4km）。",
           "url": "https://www.pacificgolf.co.jp/teela/kwatch/",
@@ -20537,7 +20658,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。OUT・INの18ホール。ベントグリーンを使用したコース。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式のコース種別は丘陵。OUT・IN各9ホールの18ホールです。特定の山の眺望や季節の見どころは未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース概要で丘陵の分類とホール構成を確認。アンケートの難易度・アップダウン目盛りは評価として採用しない。"
+        },
         "car": {
           "text": "鹿沼ICから約25分（10km）。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/access",
@@ -22773,7 +22900,13 @@ const DATA={
           "dish": "EASTオリジナルビーフカレー"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "毎週月曜日のサービスデーはサウナ室を利用できません。通常日のサウナ営業、浴室の詳細・温泉・宿泊設備は未確認です。",
+          "url": "https://www.olympicnational.co.jp/east/fee.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "EAST公式料金案内のサービスデー欄で毎週月曜・サウナ利用不可を確認。WESTへ転用せず、浴場全体が利用不可とも判断しない。"
+        }
       },
       "id": 424
     },
@@ -23056,7 +23189,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設案内に浴場があります。温泉・サウナ・宿泊設備、利用時間やプラン別制限は未確認です。",
+          "url": "https://national-cc.jp/saitama/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "埼玉コースの施設案内で浴場の写真見出しを確認。他のナショナルコース情報は使用しない。"
+        }
       },
       "id": 430
     },
@@ -24580,7 +24719,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。カエデ・ケヤキ・サザンカの3コース、27ホール。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "かえで・けやき・さざんかの27ホールで、公式のコース種別は丘陵です。特定の山の眺望や開花時期は未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース概要の27ホール・丘陵とコース名を確認。樹木名のコース名を実際の植生・開花時期とは解釈しない。"
+        },
         "car": {
           "text": "吉井ICから約5分（4km）。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/",
@@ -24899,7 +25044,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。赤城・榛名・伊香保の27ホール。広いフェアウェイや打ち下ろしなど変化があります。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "赤城コース9番は打ち下ろしのロングホールで、中央のフェアウェイに松があり、グリーンはバンカーに囲まれています。",
+          "url": "https://www.ikahokokusai.jp/course.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式赤城コースNo.9の攻略本文で打ち下ろし・中央の松・グリーン周囲のバンカーを確認。コース名から赤城山眺望は推測しない。"
+        },
         "car": {
           "text": "渋川伊香保ICから約15分。",
           "url": "https://www.ikahokokusai.jp/access.html",
@@ -24978,7 +25129,13 @@ const DATA={
           "dish": "ローストビーフサンド",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "2026年4月からのセルフデーはスループレーで風呂・ロッカーを利用できません。通常営業日の浴室条件・温泉・宿泊設備は未確認です。",
+          "url": "https://www.umenosato.co.jp/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "トップページのセルフデー変更告知と2026年4月開始を確認。限定日の制限を全営業日に適用しない。"
+        },
         "budget": {
           "text": "2026年10〜11月の通常1Rは平日8,500円、土日祝14,500円。昼食とドリンクバー付きです。",
           "url": "https://umenosato.co.jp/playfee.htm",
@@ -25369,7 +25526,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式宿泊案内。日曜〜木曜6050円、土日祝前日7150円。予約時確認。"
         },
-        "budget": null
+        "budget": {
+          "text": "2026年11月2日など料金区分Eの日は、昼食付き1R総額4,480円。通常1Rの2バッグは平日300円、土日祝600円を追加。日付ごとに料金区分が異なるためカレンダーを確認してください。",
+          "url": "https://www.gcsr.jp/img/news/2026fee.pdf?20260226",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026料金表PDFを原画像と照合し、11月2日E・上段E価格4,480円・E～K昼食付・総額表示と2B注記を確認。A～D昼食なし現金前払のスルー料金や割引後金額を混同しない。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例・昼食付1R4,480円",
+          "conditions": "公式2026年カレンダーの11月2日（料金区分E）の1R昼食付例、総額4,480円。通常1Rの2B割増は平日300円・土日祝600円。3組9名以上は500円引、1Rスルー・早朝薄暮は割引と人数注記の対象外。食事差額・税の内訳・特定日以外の料金は申込時確認。日付の異なるプランに一律適用しない。"
+        }
       },
       "id": 475
     },
@@ -25927,7 +26093,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式サイトの本文を確認"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "愛川は全体にフラットで距離のある9ホール、相模は山谷のある9ホール。城山は全体に幅の狭い設計と公式に案内されています。",
+          "url": "https://sagamino-cc.jp/course-introduction.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース紹介で愛川・相模・城山それぞれの地形を確認。山名の眺望は推測しない。"
+        },
         "dining": {
           "text": "公式メニューに「トリコロールライス」と「チキン南蛮定食」を掲載しています。",
           "url": "https://sagamino-cc.jp/images/lunch02_spring.jpg",
@@ -26120,7 +26292,16 @@ const DATA={
           "priceLabel": "平日 19,360円\n土日祝 29,260円",
           "conditions": "消費税込・利用税別。会員紹介が必要。飲食など別途料金を確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "コース外の推奨ホテルとして京王プラザホテル八王子を公式に案内しています。コース内宿泊・浴場・温泉の設備、ホテルへの送迎やゴルフ利用者向け特典は未確認です。",
+          "url": "https://musashinogolf.com/hotel/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "倶楽部の推奨ホテルページからのリンク先を開き、京王プラザホテル八王子の公式宿泊案内と同一施設であることを確認。推奨を特典付き提携やコース内ホテルと解釈しない。",
+          "supportingUrls": [
+            "https://www.keioplaza.co.jp/hachioji/"
+          ]
+        }
       },
       "id": 490
     },
@@ -26339,7 +26520,13 @@ const DATA={
           "priceLabel": "平日 15,130円\n土日祝 22,830〜23,930円",
           "conditions": "乗用カート・諸費用・税込、食事別。3名1,100円、2名3,300円追加。組合せとなる場合があり2・3名保証ではありません。季節変動。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設案内で女性用の風呂・脱衣所を確認できます。男性浴室の詳細、温泉・宿泊設備、プラン別利用制限は未確認です。",
+          "url": "https://www.tokyu-golf-resort.com/kawasaki/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設案内の女性風呂・女性脱衣所の見出しを確認。女性設備から男性浴室や温泉を推測しない。"
+        }
       },
       "id": 494
     },
