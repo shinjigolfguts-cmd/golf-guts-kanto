@@ -1,0 +1,70 @@
+{
+  "checked": "2026-10-29",
+  "baseline": "61a1272394a65a4bbd7891d2bc80a2627aa96d32",
+  "verified": [
+    {
+      "id": 75,
+      "field": "budget",
+      "text": "公式Web優待の平日セルフは11,300円（税込・昼食別）。ナビ付き乗用カートで、3名は660円、2名は1,980円の割増があります。確認時は2026年11月の対象日に掲載されています。",
+      "url": "https://wst1.asts.jp/golfnet/cc/0309CC/plan/plan_view.asp?p_no=847&src_kbn=2&keepThis=true&TB_iframe=true&height=650&width=850",
+      "checked": "2026-10-29",
+      "sourceType": "official",
+      "basis": "公式ホームからリンクする公開予約カレンダーの税込表示とプラン詳細の11,300円・昼食別・割増を照合。非選択アイコンの代替テキストは採用しない。",
+      "conditions": "2026年11月対象日のWeb優待。利用税の包含内訳は未確認。混雑時は組合せの場合あり。日程・プランで変動。"
+    },
+    {
+      "id": 77,
+      "field": "budget",
+      "text": "2026年11月4日の限定タイムセールは1Rセルフ・昼食付き8,200円（消費税・利用税・入湯税・振興基金込み）。2名保証で2名・3名とも割増なし。予約受付は10月28日～11月1日の限定企画です。",
+      "url": "https://www3.golfyoyaku.jp/rsv_sys/ionoresort/nasukasumigajo/mreservation/index/date:20261104/plan:1400245/setid:706397/pid:979398",
+      "checked": "2026-10-29",
+      "sourceType": "official",
+      "basis": "公式サイトの公開予約リンクから対象日のプラン詳細を読み、料金の税等包含・人数割増・販売期間・プレー日を確認。",
+      "conditions": "2026-11-04の掲載プラン。受付2026-10-28～11-01限定。18Hセルフ、GPS電磁誘導カート、昼休憩あり。通常料金・全日共通料金とは異なる。"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "id": 34,
+      "field": "budget",
+      "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access",
+      "reason": "料金カレンダーはJavaScript描画。静的本文から実料金未確認。"
+    },
+    {
+      "id": 47,
+      "field": "budget",
+      "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/",
+      "reason": "料金カレンダーはJavaScript描画。静的本文から実料金未確認。"
+    },
+    {
+      "id": 41,
+      "field": "budget",
+      "url": "https://matsuogolfclub.jp/reservation/",
+      "reason": "公式予約案内は公開料金なし。ビジターリンクの公開詳細を追加確認する必要あり。"
+    },
+    {
+      "id": 48,
+      "field": "budget",
+      "url": "https://wst1.asts.jp/golfnet/cc/06651CC/plan/index.asp?P=14616&ressv=11&D=20261101&m=e",
+      "reason": "公開カレンダーは100円未満四捨五入表示。プラン詳細は条件のみ、日付別金額のページが500（1回再試行も失敗）。概算から正確な料金を作らない。"
+    },
+    {
+      "id": 53,
+      "field": "budget",
+      "url": "https://wst1.asts.jp/golfnet/cc/0367cc/plan/index.asp?P=691&ressv=11&D=20261030&m=e",
+      "reason": "公開カレンダーは100円未満四捨五入表示。日付別金額のページが500（1回再試行も失敗）。人数割増だけで総額を作らない。"
+    },
+    {
+      "id": 59,
+      "field": "budget",
+      "url": "https://www.valuegolf.co.jp/rental/rental_top.cfm?rent_cid=120015701&page_flg=V",
+      "reason": "公開カレンダーは取得中表示。JavaScriptで取得する本文の確認が必要。"
+    },
+    {
+      "id": 80,
+      "field": "budget",
+      "url": "https://www.hatsuhocc.co.jp/",
+      "reason": "503、1回再試行も失敗。施設不存在とは判断しない。"
+    }
+  ]
+}

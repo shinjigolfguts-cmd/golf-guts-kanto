@@ -5,3 +5,5 @@
 全件未完了。残る食事・宿泊・交通・料金・景観をremaining-itemsとcontent-statusで管理。AMの公開証跡も同時保存。
 
 ローカル検証: 旧データ全体と6差分適用後の完全一致、500ID保持。Python11テスト、選択384組合せ、JS構文、SEO500ページ503URL、diff検査すべて成功。公開はワークフローで実施。
+
+公開完了: input 89422ed417f43c9ce31bfa773fc35fea8a7b97ca、生成main 61a1272394a65a4bbd7891d2bc80a2627aa96d32。verified-update 40883585602、Pages 40883615099 成功。公開data.js・6ページのSHA256一致。空欄320。

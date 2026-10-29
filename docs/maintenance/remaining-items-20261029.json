@@ -171,7 +171,7 @@
       "name": "烏山城カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.karasuyamajo.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029an.json",
       "evidenceBatch": "verified-followup-20261029an.json"
     },
@@ -205,7 +205,7 @@
       "name": "Jゴルフ鶴ヶ島",
       "field": "budget",
       "officialUrl": "https://jgt.tatemono-golf.com/access/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029an.json",
       "reviewRecord": "source-review-20261029an.json"
     },
@@ -222,7 +222,7 @@
       "name": "神奈川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://kanagawacc.com/access/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029an.json",
       "reviewRecord": "source-review-20261029an.json"
     },
@@ -231,7 +231,9 @@
       "name": "大厚木カントリークラブ 本コース",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "料金カレンダーはJavaScript描画。静的本文から実料金未確認。"
     },
     {
       "id": 35,
@@ -247,7 +249,7 @@
       "name": "相模原ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.sagamihara-gc.co.jp/access/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029an.json",
       "reviewRecord": "source-review-20261029an.json"
     },
@@ -256,7 +258,7 @@
       "name": "本千葉カントリークラブ",
       "field": "budget",
       "officialUrl": "https://honchiba-cc.co.jp/access/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029an.json",
       "evidenceBatch": "verified-followup-20261029an.json"
     },
@@ -265,7 +267,9 @@
       "name": "千葉松尾ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://matsuogolfclub.jp/facility/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "公式予約案内は公開料金なし。ビジターリンクの公開詳細を追加確認する必要あり。"
     },
     {
       "id": 42,
@@ -289,14 +293,18 @@
       "name": "水戸・ゴルフ・クラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "料金カレンダーはJavaScript描画。静的本文から実料金未確認。"
     },
     {
       "id": 48,
       "name": "真名カントリークラブ ゲーリー・プレーヤーコース",
       "field": "budget",
       "officialUrl": "https://www.mannacc.com/course/gp-course",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "公開カレンダーは100円未満四捨五入表示。プラン詳細は条件のみ、日付別金額のページが500（1回再試行も失敗）。概算から正確な料金を作らない。"
     },
     {
       "id": 49,
@@ -331,7 +339,9 @@
       "name": "木更津東カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.resol-golf.jp/kisarazuhigashi/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "公開カレンダーは100円未満四捨五入表示。日付別金額のページが500（1回再試行も失敗）。人数割増だけで総額を作らない。"
     },
     {
       "id": 54,
@@ -388,7 +398,9 @@
       "name": "ブリストルヒル ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://bristol-hill.com/facility",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "公開カレンダーは取得中表示。JavaScriptで取得する本文の確認が必要。"
     },
     {
       "id": 60,
@@ -478,7 +490,9 @@
       "name": "静ヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.hillsgolf.jp/shizu/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ao.json",
+      "reviewRecord": "source-review-20261029ao.json"
     },
     {
       "id": 77,
@@ -494,7 +508,9 @@
       "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
       "field": "budget",
       "officialUrl": "https://nasukasumigajo.com/ja",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ao.json",
+      "reviewRecord": "source-review-20261029ao.json"
     },
     {
       "id": 78,
@@ -525,7 +541,9 @@
       "name": "初穂カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.hatsuhocc.co.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029ao.json",
+      "reason": "503、1回再試行も失敗。施設不存在とは判断しない。"
     },
     {
       "id": 81,
@@ -3680,7 +3698,7 @@
       "name": "ニュー・セントアンドリュースゴルフクラブ・ジャパン",
       "field": "budget",
       "officialUrl": "https://www.nsaj-gc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029an.json",
       "evidenceBatch": "verified-followup-20261029an.json"
     },

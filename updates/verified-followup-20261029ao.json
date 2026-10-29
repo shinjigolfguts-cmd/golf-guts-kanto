@@ -1,0 +1,37 @@
+{
+  "baseSha256": "49559c3637ad53b422b464dcc2667f2e0c2f9553ae14ab834daea9ba53df9bb2",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 75,
+      "name": "静ヒルズカントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式Web優待の平日セルフは11,300円（税込・昼食別）。ナビ付き乗用カートで、3名は660円、2名は1,980円の割増があります。確認時は2026年11月の対象日に掲載されています。",
+        "url": "https://wst1.asts.jp/golfnet/cc/0309CC/plan/plan_view.asp?p_no=847&src_kbn=2&keepThis=true&TB_iframe=true&height=650&width=850",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式ホームからリンクする公開予約カレンダーの税込表示とプラン詳細の11,300円・昼食別・割増を照合。非選択アイコンの代替テキストは採用しない。",
+        "conditions": "2026年11月対象日のWeb優待。利用税の包含内訳は未確認。混雑時は組合せの場合あり。日程・プランで変動。"
+      },
+      "evidenceNote": "公式ホームからリンクする公開予約カレンダーの税込表示とプラン詳細の11,300円・昼食別・割増を照合。非選択アイコンの代替テキストは採用しない。"
+    },
+    {
+      "id": 77,
+      "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年11月4日の限定タイムセールは1Rセルフ・昼食付き8,200円（消費税・利用税・入湯税・振興基金込み）。2名保証で2名・3名とも割増なし。予約受付は10月28日～11月1日の限定企画です。",
+        "url": "https://www3.golfyoyaku.jp/rsv_sys/ionoresort/nasukasumigajo/mreservation/index/date:20261104/plan:1400245/setid:706397/pid:979398",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式サイトの公開予約リンクから対象日のプラン詳細を読み、料金の税等包含・人数割増・販売期間・プレー日を確認。",
+        "conditions": "2026-11-04の掲載プラン。受付2026-10-28～11-01限定。18Hセルフ、GPS電磁誘導カート、昼休憩あり。通常料金・全日共通料金とは異なる。"
+      },
+      "evidenceNote": "公式サイトの公開予約リンクから対象日のプラン詳細を読み、料金の税等包含・人数割増・販売期間・プレー日を確認。"
+    }
+  ]
+}
