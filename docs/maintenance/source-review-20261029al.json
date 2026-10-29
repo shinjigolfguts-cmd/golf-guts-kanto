@@ -1,0 +1,124 @@
+{
+  "checked": "2026-10-29",
+  "verified": [
+    {
+      "id": 261,
+      "field": "budget",
+      "url": "https://www.sakuranomiyagc.jp/guide_info.html",
+      "basis": "公式ビジター料金表と税・時季変更の注記を本文で照合。",
+      "conditions": "通常案内の掲載料金。少人数割増は未確認。予約料金は時季・プランで変動。"
+    },
+    {
+      "id": 274,
+      "field": "budget",
+      "url": "https://www.jgmgroup.co.jp/kasama/charge/",
+      "basis": "通常料金、少人数割増、利用税欄と表示価格税込の注記を確認。利用税を推測加算しない。",
+      "conditions": "通常セルフ料金。利用税450円の包含、食事代の包含は未確認。日程別料金は予約画面で確認。"
+    },
+    {
+      "id": 54,
+      "field": "budget",
+      "url": "https://www.toyosato-gc.jp/information/LS-202611.html",
+      "basis": "2026年11月の公式告知本文で対象者・日付・料金・食事・年齢証明・他優待併用不可を照合。",
+      "conditions": "対象日2026-11-05/09/10/16/17/19/24/30。女性又は60歳以上が1組2名以上。60歳以上は年齢証明提示、70歳以上は利用税免税。他優待併用不可。表示額への利用税包含・少人数割増は未確認。"
+    },
+    {
+      "id": 66,
+      "field": "budget",
+      "url": "https://www.utsunomiya-cc.co.jp/event.html#pairmatch",
+      "basis": "公式の2026年11月23日ペアマッチ案内の料金・参加費・対象・締切を確認。2020年通常料金表は不採用。",
+      "conditions": "先着80組160名。男性同士・女性同士・男女ペアとも可。キャディ希望は1人4,400円追加。消費税込、利用税の包含は本文で未確認。"
+    },
+    {
+      "id": 57,
+      "field": "budget",
+      "url": "https://www3.golfyoyaku.jp/rsv_sys/reiwagolfresort/tsutsujicc/mreservation/index/date:20261102/plan:1383493/setid:705197/pid:956581",
+      "basis": "公式サイトからリンクされた予約カレンダーを経由し、対象日・プラン名・料金内訳・人数変更割増・料理差額を公開詳細本文で照合。予約は実行していない。",
+      "conditions": "2026-11-02早遅時間限定4B優待、セルフ昼食付き。税込8,200円には消費税690円・利用税600円を含む。3B+2,000円、2B+3,000円。選択可能人数は取得時4名。少人数変更は事前に施設へ確認。"
+    },
+    {
+      "id": 288,
+      "field": "budget",
+      "url": "https://www.jgmgroup.co.jp/yasato/",
+      "basis": "公式トップページの対象日、プラン名、総額税込、2B保証、3B割増なしの表示を確認。詳細は本文取得できず追加条件未確認と明示。",
+      "conditions": "2026-12-16の7時台限定プラン。昼食付き、2B保証・3B割増なし。2B割増額と料理差額は未確認。空き枠・日程で料金変動。"
+    },
+    {
+      "id": 100,
+      "field": "scenery",
+      "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/detail",
+      "basis": "公式詳細本文のコース種別「丘陵」とホール構成を確認。写真から山名や眺望を推測しない。",
+      "conditions": null
+    }
+  ],
+  "unresolved": [
+    {
+      "id": 158,
+      "field": "budget",
+      "url": "https://www.higashi-tsukuba.co.jp/reserve/",
+      "reason": "公式予約は会員ログインが必要。認証回避せず、料金未確認。"
+    },
+    {
+      "id": 288,
+      "url": "https://www.jgmgroup.co.jp/yasato/charge/",
+      "reason": "403。通常料金表は利用せず、公開トップの指定日おすすめプランだけ採用。追加条件未確認。"
+    },
+    {
+      "id": 66,
+      "url": "https://www.utsunomiya-cc.co.jp/fee.html",
+      "reason": "通常価格に2020年表記。古い金額は使わず2026年開催イベントを採用。"
+    },
+    {
+      "id": 241,
+      "url": "https://www.katoricc.com/",
+      "reason": "本文取得502。全項目を未確認のまま保持。"
+    },
+    {
+      "id": 243,
+      "url": "https://www.shinchiba-cc.co.jp/smarts/index/17/",
+      "reason": "本文取得502。未確認のまま保持。"
+    },
+    {
+      "id": 269,
+      "field": "rail",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.access_map&cc_id=46",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    },
+    {
+      "id": 286,
+      "field": "rail",
+      "url": "https://www.pacificgolf.co.jp/ryugasaki/information.asp#access",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    },
+    {
+      "id": 371,
+      "field": "rail",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.access_map&cc_id=35",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    },
+    {
+      "id": 373,
+      "field": "rail",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.access_map&cc_id=31",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    },
+    {
+      "id": 374,
+      "field": "rail",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.access_map&cc_id=32",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    },
+    {
+      "id": 375,
+      "field": "rail",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.access_map&cc_id=26",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    },
+    {
+      "id": 376,
+      "field": "rail",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.access_map&cc_id=37",
+      "reason": "公式ゴルフ場情報を確認したが、駅からの経路・所要時間の本文が見つからない。クラブバスなしだけで経路や時間を推測しない。"
+    }
+  ]
+}

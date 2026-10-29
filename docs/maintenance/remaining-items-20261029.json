@@ -126,7 +126,7 @@
       "name": "東京ベイサイドゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/tokyobayside/index.asp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -182,7 +182,7 @@
       "name": "PGM石岡ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -321,7 +321,8 @@
       "name": "豊里ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.toyosato-gc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 55,
@@ -345,7 +346,8 @@
       "name": "つつじヶ丘カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tsutsujicc.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 58,
@@ -418,15 +420,16 @@
       "name": "宇都宮カンツリークラブ",
       "field": "budget",
       "officialUrl": "https://www.utsunomiya-cc.co.jp/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ae.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ae.json",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 70,
       "name": "サンヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/sunhills/hotel.asp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -737,8 +740,9 @@
       "name": "アゼリアヒルズカントリークラブ",
       "field": "scenery",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029af.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029af.json",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 101,
@@ -1144,7 +1148,7 @@
       "name": "美浦ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/miho/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -1152,7 +1156,7 @@
       "name": "セゴビアゴルフクラブ イン チヨダ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/segovia/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -1210,7 +1214,7 @@
       "name": "プレステージカントリークラブ",
       "field": "budget",
       "officialUrl": "http://www.pacificgolf.co.jp/prestige/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -1467,7 +1471,7 @@
       "name": "PGMマリアゴルフリンクス",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/maria/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -2175,7 +2179,7 @@
       "name": "ブリック＆ウッドクラブ",
       "field": "scenery",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -2308,7 +2312,7 @@
       "name": "桜の宮ゴルフ倶楽部",
       "field": "scenery",
       "officialUrl": "https://www.sakuranomiyagc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
@@ -2317,7 +2321,8 @@
       "name": "桜の宮ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.sakuranomiyagc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 261,
@@ -2598,7 +2603,8 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 274,
@@ -2731,7 +2737,7 @@
       "name": "ザ・ゴルフクラブ竜ヶ崎",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/ryugasaki/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
@@ -2764,7 +2770,8 @@
       "name": "JGMやさと石岡ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.jgmgroup.co.jp/yasato/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
       "id": 289,
@@ -3626,7 +3633,7 @@
       "name": "ニューセントラルゴルフ倶楽部",
       "field": "scenery",
       "officialUrl": "https://www.new-cgc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
@@ -3635,7 +3642,7 @@
       "name": "ニューセントラルゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.new-cgc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ak.json"
     },
     {
