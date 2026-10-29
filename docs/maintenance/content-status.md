@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55d`
+data.js SHA256: `b906a056091d96e9208e1578c39ed084342d70b8e8c67178eeb4594a3b50825e`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -11,10 +11,10 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 電車のアクセス | 33 |
 | 食事 | 45 |
 | 宿泊・お風呂 | 64 |
-| 料金 | 193 |
-| 景色 | 12 |
+| 料金 | 184 |
+| 景色 | 9 |
 
-空欄を含む施設：267 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：261 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -28,10 +28,10 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 7 | [紫塚ゴルフ倶楽部](https://www.murasakigc.com/home) | 料金 |
 | 12 | [カメリアヒルズカントリークラブ](https://www.camelliahills.com/) | 食事・宿泊・お風呂・料金 |
 | 13 | [市原ゴルフクラブ 市原コース](https://ichihara-gc.com/ichihara/) | 料金 |
-| 18 | [東京ベイサイドゴルフコース](https://www.pacificgolf.co.jp/tokyobayside/index.asp) | 食事・料金 |
+| 18 | [東京ベイサイドゴルフコース](https://www.pacificgolf.co.jp/tokyobayside/index.asp) | 食事 |
 | 19 | [ベルセルバカントリークラブ 市原コース](https://www.belle-co.com/ichihara/) | 食事・料金 |
 | 22 | [烏山城カントリークラブ](https://www.karasuyamajo.com/) | 料金 |
-| 23 | [PGM石岡ゴルフクラブ](https://www.pacificgolf.co.jp/ishioka/tournament.asp) | 宿泊・お風呂・料金 |
+| 23 | [PGM石岡ゴルフクラブ](https://www.pacificgolf.co.jp/ishioka/tournament.asp) | 宿泊・お風呂 |
 | 28 | [Jゴルフ鶴ヶ島](https://jgt.tatemono-golf.com/access/) | 料金 |
 | 32 | [神奈川カントリークラブ](https://kanagawacc.com/access/) | 料金 |
 | 34 | [大厚木カントリークラブ 本コース](https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access) | 料金 |
@@ -54,7 +54,6 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 64 | [さいたまゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/saitama/saitamagc/) | 料金 |
 | 65 | [房州カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/boushu/) | 料金 |
 | 66 | [宇都宮カンツリークラブ](https://www.utsunomiya-cc.co.jp/) | 料金 |
-| 70 | [サンヒルズカントリークラブ](https://www.pacificgolf.co.jp/sunhills/hotel.asp) | 料金 |
 | 75 | [静ヒルズカントリークラブ](https://www.hillsgolf.jp/shizu/) | 料金 |
 | 77 | [那須霞ヶ城 ゴルフ＆ホテルリゾート](https://nasukasumigajo.com/ja) | 料金 |
 | 78 | [真名カントリークラブ 真名コース](https://www.mannacc.com/course/manna-course) | 料金 |
@@ -95,12 +94,9 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 156 | [大利根カントリークラブ](http://www.ohtone.co.jp) | 宿泊・お風呂・料金 |
 | 157 | [宍戸ヒルズカントリークラブ](http://www.shishido.co.jp) | 料金 |
 | 158 | [東筑波カントリークラブ](https://www.higashi-tsukuba.co.jp/) | 料金 |
-| 159 | [美浦ゴルフ倶楽部](https://www.pacificgolf.co.jp/miho/) | 料金 |
-| 160 | [セゴビアゴルフクラブ イン チヨダ](https://www.pacificgolf.co.jp/segovia/) | 料金 |
 | 162 | [ゴールド佐野カントリークラブ](https://www.goldgolf.co.jp/sano/) | 宿泊・お風呂・料金 |
 | 163 | [ゴールド栃木プレジデントカントリークラブ](http://www.president-cc.jp/) | 食事・料金 |
 | 165 | [西那須野カントリー倶楽部](http://www.horai-kk.co.jp/golf/nishicc.html) | 料金 |
-| 167 | [プレステージカントリークラブ](http://www.pacificgolf.co.jp/prestige/) | 料金 |
 | 168 | [ホウライカントリー倶楽部](http://www.horai-kk.co.jp/golf/horaicc.html) | 料金 |
 | 171 | [伊香保カントリークラブ](https://www.ikahocc.co.jp/) | 料金 |
 | 172 | [小幡郷ゴルフ倶楽部](http://obatago-golf.com/) | 料金 |
@@ -118,7 +114,6 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 192 | [袖ヶ浦カンツリークラブ 袖ヶ浦コース](https://www.sodegaura.co.jp/sodegaura-course/) | 料金 |
 | 193 | [大千葉カントリー倶楽部](https://www.daichibacc.com/) | 宿泊・お風呂・料金 |
 | 195 | [長南カントリークラブ](https://www.chonan-cc.com/) | 料金 |
-| 198 | [PGMマリアゴルフリンクス](https://www.pacificgolf.co.jp/maria/) | 料金 |
 | 203 | [小見川東急ゴルフクラブ](https://www.tokyu-golf-resort.com/omigawa/) | 宿泊・お風呂 |
 | 208 | [キングフィールズゴルフクラブ](https://www.kingf-gc.jp/) | 料金 |
 | 211 | [ジャパンPGAゴルフクラブ](https://zuien.net/pga/) | 電車のアクセス・料金 |
@@ -148,7 +143,7 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 243 | [新千葉カントリー倶楽部](https://www.shinchiba-cc.co.jp/) | 電車のアクセス・食事・宿泊・お風呂・料金・景色 |
 | 244 | [麻倉ゴルフ倶楽部](https://www.asakura-gc.jp/) | 料金 |
 | 245 | [源氏山ゴルフクラブ](https://www.genjiyamagolfclub.com/) | 料金 |
-| 246 | [ブリック＆ウッドクラブ](https://www.brickandwood.jp/) | 車のアクセス・電車のアクセス・料金・景色 |
+| 246 | [ブリック＆ウッドクラブ](https://www.brickandwood.jp/) | 車のアクセス・電車のアクセス・料金 |
 | 248 | [銚子カントリークラブ](https://www.unimat-golf.jp/choshi/) | 料金 |
 | 249 | [東京クラシッククラブ](https://tokyo-classic.jp/) | 食事・料金 |
 | 252 | [浅見ゴルフ倶楽部](https://www.asamigc.com/) | 料金 |
@@ -157,7 +152,7 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 258 | [桂ヶ丘カントリークラブ](https://www.katsuragaoka.com/) | 電車のアクセス |
 | 259 | [金砂郷カントリークラブ](https://www.kanasago.com/) | 電車のアクセス |
 | 260 | [ゴルフ倶楽部セブンレイクス](https://sevenlakes.jp/) | 料金 |
-| 261 | [桜の宮ゴルフ倶楽部](https://www.sakuranomiyagc.jp/) | 宿泊・お風呂・料金・景色 |
+| 261 | [桜の宮ゴルフ倶楽部](https://www.sakuranomiyagc.jp/) | 宿泊・お風呂・料金 |
 | 262 | [笠間カントリークラブ](https://booking.pacificgolf.co.jp/guide/44.html) | 食事 |
 | 263 | [霞ヶ浦カントリー倶楽部](https://booking.pacificgolf.co.jp/guide/43.html) | 食事 |
 | 264 | [内原カントリー倶楽部](https://booking.pacificgolf.co.jp/guide/151.html) | 食事 |
@@ -173,7 +168,7 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 282 | [ゴルフ5カントリーサニーフィールド](https://www.alpen-group.net/sunnyfield/) | 料金 |
 | 283 | [桜ゴルフ倶楽部](http://www.sakurasgo.com) | 車のアクセス・宿泊・お風呂・料金 |
 | 284 | [サミットゴルフクラブ](https://www.summit-golf-club.jp/) | 料金 |
-| 286 | [ザ・ゴルフクラブ竜ヶ崎](https://www.pacificgolf.co.jp/ryugasaki/) | 電車のアクセス・料金 |
+| 286 | [ザ・ゴルフクラブ竜ヶ崎](https://www.pacificgolf.co.jp/ryugasaki/) | 電車のアクセス |
 | 287 | [白帆カントリークラブ](http://shiraho.jp) | 宿泊・お風呂・料金 |
 | 288 | [JGMやさと石岡ゴルフクラブ](https://www.jgmgroup.co.jp/yasato/) | 料金 |
 | 289 | [ジェイゴルフ霞ヶ浦](http://jgk.tatemono-golf.com/) | 料金 |
@@ -213,7 +208,6 @@ data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55
 | 354 | [栃木カントリークラブ](https://tochigicc.com/) | 料金 |
 | 356 | [トムソンカントリー倶楽部](https://thomson-cc.com/) | 宿泊・お風呂・料金 |
 | 357 | [桃里カントリー倶楽部](https://www.touricc.com/) | 宿泊・お風呂・料金 |
-| 360 | [ニューセントラルゴルフ倶楽部](https://www.new-cgc.jp/) | 料金・景色 |
 | 361 | [ニュー・セントアンドリュースゴルフクラブ・ジャパン](https://www.nsaj-gc.com/) | 料金 |
 | 362 | [東ノ宮カントリークラブ](https://banryugolf.com/higashinomiya/) | 宿泊・お風呂 |
 | 364 | [益子カントリー倶楽部](https://www.resol-golf.jp/mashiko/) | 料金 |
