@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `dcf93e6a62b24bd68c6320924547768554da5ae7cead6ed72ab01f86799917b9`
+data.js SHA256: `722c02a2b978680802f113825663f41f2291078db9fbe9e7191eee87694a1b22`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,12 +9,12 @@ data.js SHA256: `dcf93e6a62b24bd68c6320924547768554da5ae7cead6ed72ab01f86799917b
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 35 |
-| 食事 | 107 |
-| 宿泊・お風呂 | 176 |
-| 料金 | 286 |
+| 食事 | 101 |
+| 宿泊・お風呂 | 175 |
+| 料金 | 285 |
 | 景色 | 42 |
 
-空欄を含む施設：380 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：378 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -111,7 +111,7 @@ data.js SHA256: `dcf93e6a62b24bd68c6320924547768554da5ae7cead6ed72ab01f86799917b
 | 131 | [小田原湯本カントリークラブ](http://www.odawarayumotocc.com) | 料金 |
 | 132 | [鎌倉カントリークラブ](http://www.kamakura-cc.com) | 宿泊・お風呂・料金 |
 | 133 | [清川カントリークラブ](http://www.kiyokawa-cc.jp/) | 料金 |
-| 134 | [チェックメイトカントリークラブ](http://checkmate-cc.com/) | 食事・宿泊・お風呂・料金 |
+| 134 | [チェックメイトカントリークラブ](http://checkmate-cc.com/) | 宿泊・お風呂・料金 |
 | 136 | [レイクウッドゴルフクラブ](https://lake-wood.co.jp/lakewood/) | 料金 |
 | 137 | [姉ヶ崎カントリー倶楽部](http://www.heiwanosan.co.jp/anegasaki/) | 料金 |
 | 138 | [一の宮カントリークラブ](http://www.ichinomiya.co.jp) | 宿泊・お風呂 |
@@ -134,15 +134,13 @@ data.js SHA256: `dcf93e6a62b24bd68c6320924547768554da5ae7cead6ed72ab01f86799917b
 | 162 | [ゴールド佐野カントリークラブ](https://www.goldgolf.co.jp/sano/) | 宿泊・お風呂・料金 |
 | 163 | [ゴールド栃木プレジデントカントリークラブ](http://www.president-cc.jp/) | 食事・料金 |
 | 165 | [西那須野カントリー倶楽部](http://www.horai-kk.co.jp/golf/nishicc.html) | 料金 |
-| 166 | [日光カンツリー倶楽部](http://www.nikkocc.or.jp) | 食事・宿泊・お風呂・料金 |
 | 167 | [プレステージカントリークラブ](http://www.pacificgolf.co.jp/prestige/) | 料金 |
 | 168 | [ホウライカントリー倶楽部](http://www.horai-kk.co.jp/golf/horaicc.html) | 料金 |
 | 171 | [伊香保カントリークラブ](https://www.ikahocc.co.jp/) | 宿泊・お風呂・料金 |
-| 172 | [小幡郷ゴルフ倶楽部](http://obatago-golf.com/) | 食事・料金 |
-| 173 | [甘楽カントリークラブ](https://reserve.accordiagolf.com/golfCourse/gunma/kanra/) | 食事・料金 |
+| 172 | [小幡郷ゴルフ倶楽部](http://obatago-golf.com/) | 料金 |
+| 173 | [甘楽カントリークラブ](https://reserve.accordiagolf.com/golfCourse/gunma/kanra/) | 料金 |
 | 175 | [白水ゴルフ倶楽部](http://www.shiromizu-gc.com) | 宿泊・お風呂 |
-| 176 | [妙義カントリークラブ](https://reserve.accordiagolf.com/golfCourse/gunma/myogi/) | 食事・料金 |
-| 177 | [南総カントリークラブ](https://nanso-cc.com/) | 食事 |
+| 176 | [妙義カントリークラブ](https://reserve.accordiagolf.com/golfCourse/gunma/myogi/) | 料金 |
 | 178 | [加茂ゴルフ倶楽部](https://kamogolfclub.co.jp/) | 料金・景色 |
 | 179 | [ゴールデンクロスカントリークラブ](https://www.goldencrosscc.com/) | 料金 |
 | 180 | [成田フェアフィールドゴルフクラブ](https://www.naritaff.com/) | 宿泊・お風呂・景色 |

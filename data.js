@@ -7447,7 +7447,18 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス：大井松田IC6.2km約10分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食には牛リブロース小石焼膳、牛ひつまぶし膳などを掲載。セルフデーは昼食ミニバイキング付きで、レストランは昼食時のみ（プレー後利用不可）、朝食喫茶は9時までです。",
+          "url": "https://checkmate-cc.com/restaurantmenu.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "現行昼食画像20261003gmenu_page-0001.jpgを目視し料理名を確認。availability.htmlのセルフデー注意書きも確認。",
+          "conditions": "通常メニューとセルフデーの提供内容を区別。料理・営業条件は予約日の案内を確認。",
+          "supportingUrls": [
+            "https://checkmate-cc.com/_src/gmenu/20261003/20261003gmenu_page-0001.jpg",
+            "https://checkmate-cc.com/availability.html"
+          ]
+        },
         "stay": null,
         "budget": null,
         "scenery": {
@@ -7723,10 +7734,14 @@ const DATA={
       "id": 139,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=12004",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "自然の地形を生かした、アップダウンの少ない18ホールの丘陵コース。セルフ・キャディを選択できます。",
+          "url": "https://booking.pacificgolf.co.jp/guide/178.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "コーストップの18ホール・丘陵・起伏の説明と、ゴルフ場情報のセルフ・キャディ選択制を確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=178&p=guide.access_map"
+          ]
         },
         "rail": {
           "text": "五井駅からクラブバスを運行（公式時刻表で約25分）。車・タクシーの所要時間は確認した公式案内に記載がありません。",
@@ -9314,9 +9329,41 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載：今市ICから車で約15分（約6km）。"
         },
-        "dining": null,
-        "stay": null,
-        "budget": null,
+        "dining": {
+          "text": "2026年10月7日改定の昼食メニューに、ジンギスカン定食、那須豚の生姜焼き定食、野菜たっぷりタンメンなどを掲載。朝食は通常7時20分から。パーティーは事前予約が必要です。",
+          "url": "https://www.nikkocc.or.jp/guide/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設案内の朝食開始時刻・パーティー予約条件と、リンク先の2026.10.7改定昼食PDF本文・1頁目画像を確認。",
+          "conditions": "料理は確認日時点の掲載内容。提供内容は利用日に確認。",
+          "supportingUrls": [
+            "https://www.nikkocc.or.jp/guide/facilities/images/3-lanch20261007.pdf"
+          ]
+        },
+        "stay": {
+          "text": "クラブハウスと棟続きのロッヂはシングル28室・ツイン2室、最大32名。各室にシャワーがあり、宿泊者はクラブ浴室を22時まで利用できます。宿泊期間は3月1日〜12月29日と、1月2日〜1月月例杯前日。申込みはクラブへ。",
+          "url": "https://www.nikkocc.or.jp/guide/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設紹介に部屋数・定員・各室シャワー・宿泊時浴室22時まで。利用案内にロッヂ営業期間とクラブ申込みを明記。",
+          "conditions": "浴室22時まではロッヂ利用案内の条件。日帰り利用の終了時刻には一般化しない。",
+          "supportingUrls": [
+            "https://www.nikkocc.or.jp/guide/"
+          ]
+        },
+        "budget": {
+          "text": "2026年3月1日〜12月14日のビジター4Bキャディ付き概算は平日28,080円、土日祝35,780円。消費税・利用税・ロッカー代等込み。食事・乗用カートは別料金で、12月は寒冷時手当が加算されます。",
+          "url": "https://www.nikkocc.or.jp/guide/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2025年12月1日改定料金PDFを本文抽出と画像で照合。通常期ビジター4Bの内訳・概算・キャディ人数別料金・追加手当を確認。",
+          "conditions": "対象2026年3月1日〜12月14日、割引なしビジター4B。消費税10%、利用税1,200円、保険他100円、振興基金50円、ロッカー330円、諸経費2,200円、4Bキャディ4,400円を含む。食事・乗用カート別。キャディフィは3B4,950円、2B5,500円、1B7,150円へ変更。12月寒冷時手当220円増、荒天1R550円増（0.5R275円）、17時以降30分毎110円増。平日は会員紹介、土日祝は会員同伴が必要。乗用カートは年齢・身体条件等に制限あり。",
+          "supportingUrls": [
+            "https://www.nikkocc.or.jp/guide/images/20251201.pdf"
+          ],
+          "priceVerified": true,
+          "priceLabel": "通常期4B概算：平日28,080円／土日祝35,780円"
+        },
         "scenery": {
           "text": "赤松林と日光連山を借景にしたコース。天然の起伏が残るフェアウェイと山並みが調和しています。",
           "url": "https://www.nikkocc.or.jp/course/",
@@ -9653,7 +9700,18 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載：富岡ICから車で約10分（約5km）。"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食は豚ホルモン鉄板焼き定食、鶏南蛮唐揚定食など。昼食付きプランでは掲載の追加料金に注意。朝食にはおにぎりセットや洋定食があり、昼食のみの利用にも対応しています。",
+          "url": "https://www.obatago-golf.com/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "現行お食事メニューPDF1頁を画像・本文で確認。豚ホルモン定食+660円等は追加額で料理総額ではない。朝食料理はレストラン本文、昼食のみ利用は基本情報を確認。",
+          "conditions": "メニューの「+」金額を単品総額と解釈しない。プランの昼食条件・当日の提供内容を確認。",
+          "supportingUrls": [
+            "https://www.obatago-golf.com/pdf/menu.pdf",
+            "https://www.obatago-golf.com/detail/"
+          ]
+        },
         "stay": {
           "text": "お風呂に加え、サウナとパウダールームを備えています。併設宿泊施設はありませんが、宿の紹介に対応しています。",
           "url": "https://www.obatago-golf.com/detail/",
@@ -9702,7 +9760,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載：甘楽スマートICから車で約5分（2.8km・ETC専用）。"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食にはトンテキ、粗挽きハンバーグ、カキフライなど。通常は全日9時〜14時のランチ営業のみ。12月の土日祝は8時30分〜13時30分の案内です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ランチ画像118_24_20261004165048.jpg.webpを目視して料理名を確認。営業時間と12月土日祝の例外を本文確認。",
+          "conditions": "料理価格・昼食付きプランの差額はこの画像では確認できないため追記しない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/118_24_20261004165048.jpg.webp"
+          ]
+        },
         "stay": {
           "text": "浴場は通常12時〜17時30分頃（変動あり）。午後スルー・薄暮プレーは利用できません。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/detail",
@@ -9874,7 +9942,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "松井田妙義ICより約8km 所要時間：約15分。同住所併設ホテルの公式アクセス案内"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食には天ざるそばとミニネギトロ丼、カキフライ、明太クリームスパゲッティなど。全日9時〜14時の案内ですが、ラウンド状況により早く閉店する場合があります。外来利用は事前の営業時間確認が必要です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/myogi/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ランチ画像073_8_20261001073315.jpg.webpの料理名を目視確認。営業時間・早期閉店・外来事前問合せ条件を本文確認。",
+          "conditions": "外来の営業時間問合せは0274-73-3801。料理価格やプラン差額は画像で確認できず追記しない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/073_8_20261001073315.jpg.webp"
+          ]
+        },
         "stay": {
           "text": "浴場と宿泊施設「妙義グリーンホテル＆テラス」を案内しています。午後スルー・薄暮ハーフでは浴場を利用できません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/myogi/detail",
@@ -9923,7 +10001,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食には牛ロースステーキ180g、温玉のせチャーシュー丼、焼き魚膳などを掲載。食事付きプランは税込1,650円まで含む案内です。",
+          "url": "https://nanso-cc.com/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランからリンクされた2026/10/lunch01.jpgを目視。料理名と下端の食事付き1,650円までの条件を確認。",
+          "conditions": "通常プレー料金すべてに食事が含まれる意味ではない。食事付きプランの適用と超過料金は予約時に確認。台風復旧中のプレー運用に関する既存情報は変更しない。",
+          "supportingUrls": [
+            "https://nanso-cc.com/wp-content/uploads/2026/10/lunch01.jpg"
+          ]
+        },
         "budget": {
           "text": "9〜12月のゲスト1Rセルフ掲載料金は平日15,550円、土日祝26,700円。ロッカー代・消費税込で、利用税と昼食は別です。",
           "url": "https://nanso-cc.com/fee/",
