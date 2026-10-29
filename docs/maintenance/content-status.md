@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `ebe877a1b6f1d2b9980ebfd77497ca47436c10d2d1209f20e05559dcbd191848`
+data.js SHA256: `5a385caf321a30b97fd36629fcbf8167dd911c65228827b97308c7efa94ab55d`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,12 +9,12 @@ data.js SHA256: `ebe877a1b6f1d2b9980ebfd77497ca47436c10d2d1209f20e05559dcbd19184
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 33 |
-| 食事 | 46 |
-| 宿泊・お風呂 | 66 |
+| 食事 | 45 |
+| 宿泊・お風呂 | 64 |
 | 料金 | 193 |
 | 景色 | 12 |
 
-空欄を含む施設：268 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：267 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -82,7 +82,6 @@ data.js SHA256: `ebe877a1b6f1d2b9980ebfd77497ca47436c10d2d1209f20e05559dcbd19184
 | 118 | [大箱根カントリークラブ](https://www.princehotels.co.jp/golf/daihakone/) | 料金 |
 | 123 | [GMG八王子ゴルフ場](http://www.kanbun-group.co.jp/gmg/index.html) | 宿泊・お風呂 |
 | 125 | [東京五日市カントリー倶楽部](http://www.itukaiti.co.jp/) | 宿泊・お風呂 |
-| 128 | [八王子カントリークラブ](http://www.hachiojicc.co.jp) | 宿泊・お風呂 |
 | 133 | [清川カントリークラブ](http://www.kiyokawa-cc.jp/) | 料金 |
 | 134 | [チェックメイトカントリークラブ](http://checkmate-cc.com/) | 宿泊・お風呂・料金 |
 | 136 | [レイクウッドゴルフクラブ](https://lake-wood.co.jp/lakewood/) | 料金 |
@@ -167,7 +166,7 @@ data.js SHA256: `ebe877a1b6f1d2b9980ebfd77497ca47436c10d2d1209f20e05559dcbd19184
 | 270 | [鹿島の杜カントリー倶楽部](https://booking.pacificgolf.co.jp/guide/157.html) | 食事 |
 | 271 | [オールドオーチャードゴルフクラブ](https://booking.pacificgolf.co.jp/guide/172.html) | 食事 |
 | 273 | [スターツ笠間ゴルフ倶楽部](https://www.starts-golf.jp/) | 料金 |
-| 274 | [JGM笠間ゴルフクラブ](https://www.jgmgroup.co.jp/kasama/) | 食事・宿泊・お風呂・料金 |
+| 274 | [JGM笠間ゴルフクラブ](https://www.jgmgroup.co.jp/kasama/) | 料金 |
 | 278 | [かすみがうらゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/) | 料金 |
 | 280 | [栗橋國際カントリー倶楽部](http://www.kurikan.co.jp/) | 食事 |
 | 281 | [ゴルフ5カントリーかさまフォレスト](https://www.alpen-group.net/kasama-forest/) | 料金 |

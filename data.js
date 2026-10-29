@@ -7493,7 +7493,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式おすすめメニュー画像 c5682e64271e19b2ad3147015f9872ad-715x1024.jpg を実読"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設紹介に浴槽・洗い場のある浴室が掲載されています。利用時間・温泉の有無・宿泊設備は今回の資料では未確認です。",
+          "url": "https://www.hachiojicc.co.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式「その他施設」に掲載されたfaci06l.jpgを目視し、浴槽と洗い場を確認。画像から温泉や宿泊を推測しない。",
+          "supportingUrls": [
+            "https://www.hachiojicc.co.jp/wp3/wp-content/uploads/2020/12/faci06l.jpg"
+          ]
+        },
         "budget": {
           "text": "2026年11月2・9・16・30日と12月7・21・28日のセルフ営業日は、昼食付き1ラウンド18,620円（消費税込み、ゴルフ場利用税別）。人数条件は予約時に確認してください。",
           "url": "https://www.hachiojicc.co.jp/fee/",
@@ -16246,9 +16255,21 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式案内の本文を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューには、かさまザンギ、笠間御膳、特製ロースカツカレー、チャンポンなどが掲載されています。朝食は開場～9:45、昼食は9:30～およそ13:30（プレー進行で変動）。季節によって料理は変更され、昼食付きプランでも料理により差額があります。",
+          "url": "https://www.jgmgroup.co.jp/kasama/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文の料理名・提供時間・季節変更・差額表示を確認。ランキングや名物の断定は採用しない。"
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "大理石の大浴場があり、女性用には大風量ドライヤーが用意されています。浴場の営業時間・宿泊設備の有無は今回の資料では未確認です。",
+          "url": "https://www.jgmgroup.co.jp/kasama/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の大浴場欄に大理石の大浴場と女性用ドライヤーを明記。"
+        }
       },
       "id": 274
     },
