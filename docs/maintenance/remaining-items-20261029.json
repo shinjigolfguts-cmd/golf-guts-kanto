@@ -1,6 +1,6 @@
 {
-  "baseline": "0381425d4c5ff11a5593432b743a5499fd51ae23",
-  "note": "2026-10-30 batch ay published; eight official-source dining fields verified and public SHA256 matched.",
+  "baseline": "7341059f78b217c552812fc6d2ce277f382a8b66",
+  "note": "az公開検証済み。空欄217。未確認を施設なしと扱わない。",
   "items": [
     {
       "id": 0,
@@ -1252,12 +1252,13 @@
       "name": "ゴールド佐野カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.goldgolf.co.jp/sano/",
-      "status": "reviewed_unconfirmed",
-      "checked": "2026-10-29",
+      "status": "published_verified",
+      "checked": "2026-10-30",
       "reviewedUrls": [
         "https://www.goldgolf.co.jp/sano/facility.html"
       ],
-      "reason": "確認した公式施設案内に浴室・宿泊の明確な本文なし。施設なしとは判断しない。詳細はfollowup-20261029m.md。"
+      "evidenceBatch": "verified-followup-20261029az.json",
+      "reviewRecord": "followup-20261029az.md"
     },
     {
       "id": 162,
@@ -1906,8 +1907,10 @@
       "name": "千葉バーディクラブ",
       "field": "dining",
       "officialUrl": "https://www.c-birdie.com/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029y.json"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029az.md",
+      "evidenceBatch": "verified-followup-20261029az.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 225,
@@ -2480,9 +2483,10 @@
       "name": "笠間カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/44.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029az.md",
+      "evidenceBatch": "verified-followup-20261029az.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 262,
@@ -2575,9 +2579,10 @@
       "name": "カントリークラブ・ザ・レイクス",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/38.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029az.md",
+      "evidenceBatch": "verified-followup-20261029az.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 266,
@@ -4500,8 +4505,10 @@
       "name": "嵐山カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.ranzan.cc/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ap.json"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029az.md",
+      "evidenceBatch": "verified-followup-20261029az.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 421,
@@ -5218,8 +5225,10 @@
       "name": "湘南シーサイドカントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.shonanseaside.com/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ap.json"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029az.md",
+      "evidenceBatch": "verified-followup-20261029az.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 495,

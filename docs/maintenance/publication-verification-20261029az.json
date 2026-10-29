@@ -1,0 +1,33 @@
+{
+  "batch": "verified-followup-20261029az.json",
+  "checked": "2026-10-30",
+  "inputCommit": "c208c971f4045507bac0246900bd7cc66420635a",
+  "generatedMainCommit": "7341059f78b217c552812fc6d2ce277f382a8b66",
+  "verifiedUpdateRun": {
+    "id": 40973328301,
+    "conclusion": "success"
+  },
+  "pagesRun": {
+    "id": 40973351210,
+    "conclusion": "success"
+  },
+  "files": {
+    "data.js": "f261fade4025908b5a6d6d5b7d28d6731ad14c9e21b626d455e572467e0ba032",
+    "courses/162.html": "35d152b58777467808dbd22900509fd03b0acac8d9fd3d3cf9e4990a397d785a",
+    "courses/224.html": "17f6459bd829755acac5e988397ae411f697224deff70088d7f20e2420bbf2d4",
+    "courses/262.html": "36f1febe53f8898905c51e7daf1665bf33d29163b0e42678b5ea14fd6f9c2742",
+    "courses/266.html": "6222973ef110e3d2c3d467a2e78a5450a02372d41df924d7b2e5da401f458a62",
+    "courses/421.html": "2a6723e787ff1dce7e5a7720addf81bb72d2a47223c33e828129acf153b1531b",
+    "courses/495.html": "c61a7a12e587b49c98dbde826e8b316ee43f9896901321af3037ccd8378ef422"
+  },
+  "result": "public_sha256_match",
+  "remaining": {
+    "total": 217,
+    "car": 8,
+    "rail": 24,
+    "dining": 26,
+    "stay": 61,
+    "budget": 90,
+    "scenery": 8
+  }
+}
