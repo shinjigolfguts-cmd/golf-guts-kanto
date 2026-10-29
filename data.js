@@ -385,7 +385,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式:谷和原10km以内。タクシー取手駅から10分。都心50分はIC所要時間ではないため不使用"
         },
-        "dining": null,
+        "dining": {
+          "text": "ランチはバイキング形式で、おかわり自由と公式に案内しています。具体的な料理・当日の提供内容は要確認です。",
+          "url": "https://www.asia-toride.com/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設案内のレストラン本文を確認。料理名や料金への含有は未確認のため追加しない。"
+        },
         "stay": {
           "text": "男性浴室・女性浴室を備えています。宿泊設備の有無と、利用プラン別の浴室営業時間は未確認です。",
           "url": "https://www.asia-toride.com/facility.html",
@@ -4814,7 +4820,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載内容：大宮ICから車で約10分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "千葉店にイタリアンレストラン「かぼちゃハウス」を併設。ゴルフをしない方も利用でき、各種パーティーの相談も受け付けています。具体的な料理は要確認です。",
+          "url": "https://dynamic-golf.jp/chiba/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式千葉店ページのレストラン本文を確認。成田・茂原店と区別。PC版メニュー詳細は取得不能のため料理名を補わない。"
+        },
         "stay": null,
         "budget": {
           "text": "平日 2,900円、土日祝 3,900円。9Hショートコース1周・一般ビジター料金。食事・レンタル等は別途。2026年8月改定後の掲載料金。",
@@ -14190,7 +14202,13 @@ const DATA={
         "car": null,
         "rail": null,
         "scenery": null,
-        "dining": null,
+        "dining": {
+          "text": "18ホールスループレーのハーフターンに、サンドイッチ・おにぎりなどの軽食を案内しています。火曜日の休場日サービスデーはレストラン・ラウンジ休業です。",
+          "url": "https://www.brickandwood.jp/official/qa/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式FAQの食事休憩と定休日の本文を確認。一般の昼食付きプランや毎日の同一メニューとは断定しない。"
+        },
         "budget": null,
         "stay": {
           "text": "ゴルフと宿泊を組み合わせられる「ザ・ホテルインミュアヘッドフィールズ」を案内。宿泊だけの利用も可能です。予約はブリック＆ウッドクラブ窓口へ。",
@@ -16822,7 +16840,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース・施設紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式グランドメニュー例：ジャンボエビフライ、鰻重、ローズポークのとんかつ、ジャンボチキンカツカレー。実際の提供内容は予約時・当日にご確認ください。",
+          "url": "https://www.takahagi-cc.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設紹介のグランドメニュー本文を確認。季節のランチとは分けて記載。料理の評判・名物は推測しない。"
+        },
         "budget": {
           "text": "10〜11月の通常日は平日5,500円、土日10,500円の公式掲載例。1R乗用セルフ・昼食・税込。土日祝の2名利用は割増があります。",
           "url": "https://www.takahagi-cc.jp/play-fee/",
@@ -16833,10 +16857,11 @@ const DATA={
           "conditions": "2026年10〜11月通常日3〜4B・1R乗用カートセルフ・昼食利用税消費税込。特定日コンペスルー除く。休日2B割増。"
         },
         "stay": {
-          "text": "宿泊施設を案内しています。",
-          "url": "https://www.takahagi-cc.jp/",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文の記載を確認"
+          "text": "宿泊施設としてロッジとコテージを案内しています。宿泊料金表は1泊食事なしの条件で、予約は電話受付です。",
+          "url": "https://www.takahagi-cc.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の宿泊欄を確認。既存の宿泊施設ありという情報を保持して施設種別・食事条件・予約方法を補足。"
         }
       },
       "id": 297
@@ -17483,7 +17508,13 @@ const DATA={
           "dish": "豚バラスタミナ定食"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブの宿泊施設は2026年9月12日で営業終了。浴槽は同年9月18日から利用再開と公式告知されています。脱衣場のビニール袋は必要に応じて持参してください。",
+          "url": "https://kabayagc.com/info/detail.php?p=1525",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026/8/18付の宿泊終了告知と浴槽再開告知を本文確認。浴槽の出典：https://kabayagc.com/info/detail.php?p=1523 。宿泊利用約款が残っていても営業中とは判断しない。"
+        }
       },
       "id": 310
     },
@@ -21774,7 +21805,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。黒磯駅から車で約20分、那須塩原駅から約30分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "併設ホテル「ウェルネスの森 那須」の夕食は、栃木県産和牛のローストビーフなどを含むフレンチコース、朝食は和洋食バイキング。ゴルフの日帰り昼食とは別の案内です。",
+          "url": "https://dormy-hotels.com/resort/hotels/nasu/cuisine/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "ホテル公式の食事本文を確認。宿泊プラン・予約条件を確認して利用。仕入れによりメニュー変更あり。ゴルフ料金に含まれるとは記載しない。"
+        },
         "budget": null,
         "stay": {
           "text": "隣接する「ウェルネスの森 那須」で宿泊ゴルフを楽しめます。",
@@ -24379,7 +24416,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式サイト本文・公式案内図で確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "休憩室では食事の持ち込みが可能です。氷・トースター・ポットのお湯・電子レンジを利用できます。提供料理やレストランの営業有無は未確認です。",
+          "url": "https://www.toto-motors.co.jp/golf/chichibu/facility.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の休憩室本文を確認。持ち込み可能をレストランなしと解釈しない。"
+        },
         "budget": {
           "text": "公式基本料金は18Hセルフ平日5,300円〜、土日祝9,500円〜（消費税・利用税込）。季節で変動し、2名割増・食事等はプラン別に確認。",
           "url": "https://www.toto-motors.co.jp/golf/chichibu/ryokin.php",
