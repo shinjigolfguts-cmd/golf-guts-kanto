@@ -1,0 +1,40 @@
+{
+  "batch": "verified-followup-20261029au.json",
+  "checked": "2026-10-30",
+  "inputCommit": "3571d552e4c6fae9d2f12999f28fb806bd64c698",
+  "generatedMainCommit": "1e33a21410db8491e3dce2a599789eef872b95c5",
+  "verifiedUpdateRun": {
+    "id": 40943395799,
+    "conclusion": "success"
+  },
+  "pagesRun": {
+    "id": 40943433976,
+    "conclusion": "success"
+  },
+  "publicBase": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/",
+  "files": {
+    "data.js": "16ab94f75babefb29aaa48b437b358044c248720793b9d1695491665b851ecea",
+    "courses/231.html": "32a7f0456e8fab19895ef8b44cd83d731e6b72cd85b8bd0afc182d0869b7f275",
+    "courses/232.html": "9e4776fa8dd6226f44ed019952beeac2d9f25978f58199d79f39627bc8cd4471",
+    "courses/233.html": "f4f7a43aa25ef53d2a7b1d8d7de517b547173f3179cee7fef5d33b2fc2bc0a8b",
+    "courses/234.html": "a65debd0176fba660a57e64531975ee5e980e8b393fd611893fa1a7a25b60f4e",
+    "courses/278.html": "b7d23950fe7820ded5ec912cdfc142913a30566bd5640731a6b8219557b46a6c",
+    "courses/292.html": "c55c19ffa042e31844dd40a8d8f3d1cb182e83f9c7ff9593fe2ecefb1d9c58d2",
+    "courses/293.html": "d5f1e64d37ac2991692cbb7b40efc02d7c99cdd19b33542c94b6ae0c92f745e4",
+    "courses/294.html": "ba2a755c960236007f1f5ab53884f3b87f79a0b7a52d715e1e1529cd9faae046",
+    "courses/304.html": "71a032d7e7568ec667c2387f4cd78a69dc577cef56e6a3b267fa154027026212",
+    "courses/305.html": "385f0c150ef889d5da19e117ff0ea72feb0f6ba229f3ed945d672c1f85e2236d",
+    "courses/377.html": "1a35dc035dd49e5b9014d3a825eb1f8523fbe0679bfaa96d50b443d41975e3f5",
+    "courses/378.html": "f128b745e191de80125686b1d71c629f42ac684f2c6b3afd007fd3b4ff37b7ee"
+  },
+  "result": "public_sha256_match",
+  "remaining": {
+    "total": 259,
+    "car": 8,
+    "rail": 24,
+    "dining": 45,
+    "stay": 64,
+    "budget": 110,
+    "scenery": 8
+  }
+}

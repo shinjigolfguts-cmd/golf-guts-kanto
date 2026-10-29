@@ -1,6 +1,6 @@
 {
-  "baseline": "ef80c1831b8c8df2276dcdc0846c4a6754f88f41",
-  "note": "2026-10-30 batch at published; eleven official booking-calendar budget fields verified, one contradictory cart-condition item retained for deeper review.",
+  "baseline": "1e33a21410db8491e3dce2a599789eef872b95c5",
+  "note": "2026-10-30 batch au published; twelve official booking-calendar budget fields verified and public SHA256 matched.",
   "items": [
     {
       "id": 0,
@@ -1964,21 +1964,27 @@
       "name": "ラ・ヴィスタゴルフリゾート",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 232,
       "name": "成田東カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/naritahigashi/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 233,
       "name": "花生カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/hanao/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 234,
@@ -2001,7 +2007,9 @@
       "name": "富士市原ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 235,
@@ -2775,7 +2783,9 @@
       "name": "かすみがうらゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 279,
@@ -2961,7 +2971,9 @@
       "name": "セントラルゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 293,
@@ -2976,7 +2988,9 @@
       "name": "セントラルゴルフクラブ NEWコース",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 294,
@@ -2991,7 +3005,9 @@
       "name": "セントラルゴルフクラブ 麻生コース",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 295,
@@ -3141,7 +3157,9 @@
       "name": "土浦カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 305,
@@ -3164,7 +3182,9 @@
       "name": "出島ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 306,
@@ -4052,14 +4072,18 @@
       "name": "岩舟ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/iwafune/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 378,
       "name": "大平台カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/ohiradai/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029au.json",
+      "evidenceBatch": "verified-followup-20261029au.json"
     },
     {
       "id": 379,
