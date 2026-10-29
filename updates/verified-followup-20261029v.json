@@ -1,0 +1,231 @@
+{
+  "baseSha256": "da99e333312e47f1319074289c1196ce41c47a35b721661fc0c062a5e4b36cf0",
+  "reviewed": true,
+  "reviewer": "Codex official menu image content review",
+  "updates": [
+    {
+      "id": 294,
+      "name": "セントラルゴルフクラブ 麻生コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューにトンテキ、カキフライ膳を掲載。昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、トンテキ、カキフライ膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/158_3_20261002112403.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、トンテキ、カキフライ膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/158_3_20261002112403.jpg 昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 293,
+      "name": "セントラルゴルフクラブ NEWコース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに豚骨醤油ラーメンと炒飯を掲載。昼食補助付きプランでも追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、豚骨醤油ラーメンと炒飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/080_29_20261010170128.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、豚骨醤油ラーメンと炒飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/080_29_20261010170128.jpg 昼食補助付きプランでも追加料金あり。"
+    },
+    {
+      "id": 459,
+      "name": "ツインレイクスカントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに天ざるそばとミニうな丼、石焼麻婆豆腐を掲載。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、天ざるそばとミニうな丼、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/019_25_20261008152538.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、天ざるそばとミニうな丼、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/019_25_20261008152538.jpg 料金・プラン別の条件は予約時に確認。"
+    },
+    {
+      "id": 97,
+      "name": "霞台カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに豚の生姜焼き、オムカツカレーを掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、豚の生姜焼き、オムカツカレーの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/094_12_20261005111347.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、豚の生姜焼き、オムカツカレーの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/094_12_20261005111347.jpg 昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 487,
+      "name": "小田原ゴルフ倶楽部 松田コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに甘だれ小天重とお蕎麦のセットを掲載。そばは温・冷を選択。昼食補助付きプランでも追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、甘だれ小天重とお蕎麦のセットの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/090_7_20261012095546.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、甘だれ小天重とお蕎麦のセットの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/090_7_20261012095546.jpg そばは温・冷を選択。昼食補助付きプランでも追加料金あり。"
+    },
+    {
+      "id": 463,
+      "name": "ノーザンカントリークラブ 上毛ゴルフ場",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューにカキフライ、天婦羅そばとミニネギトロ丼を掲載。10月からのランチメニュー。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、天婦羅そばとミニネギトロ丼の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/017_2_20260930094806.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、天婦羅そばとミニネギトロ丼の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/017_2_20260930094806.jpg 10月からのランチメニュー。料金・プラン別の条件は予約時に確認。"
+    },
+    {
+      "id": 292,
+      "name": "セントラルゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューにカキフライ、銀ひらす西京焼きを掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、銀ひらす西京焼きの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/081_16_20261002120227.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、銀ひらす西京焼きの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/081_16_20261002120227.jpg 昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 94,
+      "name": "おかだいらゴルフリンクス",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに花籠膳を掲載。限定20食。五目ごはん・たぬきそば・小鉢4種・デザート付き。追加料金や当日の提供状況は確認が必要。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、花籠膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/315_9_20261019165747.jpeg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、花籠膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/315_9_20261019165747.jpeg 限定20食。五目ごはん・たぬきそば・小鉢4種・デザート付き。追加料金や当日の提供状況は確認が必要。"
+    },
+    {
+      "id": 305,
+      "name": "出島ゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに粗びきハンバーグ、ロースとんかつを掲載。昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、粗びきハンバーグ、ロースとんかつの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/311_2_20260804094502.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、粗びきハンバーグ、ロースとんかつの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/311_2_20260804094502.jpg 昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 460,
+      "name": "関越ハイランドゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに鉄板ビーフガーリックライス、明太クリームスパゲッティを掲載。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、鉄板ビーフガーリックライス、明太クリームスパゲッティの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/127_14_20260930103238.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、鉄板ビーフガーリックライス、明太クリームスパゲッティの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/127_14_20260930103238.jpg 料金・プラン別の条件は予約時に確認。"
+    },
+    {
+      "id": 99,
+      "name": "ひととのやカントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューにひととのや花籠ランチを掲載。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、ひととのや花籠ランチの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/314_7_20260401090314.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、ひととのや花籠ランチの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/314_7_20260401090314.jpg 料金・プラン別の条件は予約時に確認。"
+    },
+    {
+      "id": 96,
+      "name": "ワイルドダックカントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに天婦羅そばとミニネギトロ丼、ルーロー飯を掲載。昼食のみ・セルフサービス。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、天婦羅そばとミニネギトロ丼、ルーロー飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/128_2_20261011151424.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、天婦羅そばとミニネギトロ丼、ルーロー飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/128_2_20261011151424.jpg 昼食のみ・セルフサービス。昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 98,
+      "name": "関東国際カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューにうな重を掲載。数量限定。味噌汁・香の物付き。昼食補助付きプランでも追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、うな重の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/079_18_20260119143051.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、うな重の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/079_18_20260119143051.jpg 数量限定。味噌汁・香の物付き。昼食補助付きプランでも追加料金あり。"
+    },
+    {
+      "id": 89,
+      "name": "大厚木カントリークラブ 桜コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに高座豚の鉄板焼き膳、高座豚カツ煮を掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、高座豚の鉄板焼き膳、高座豚カツ煮の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/037_26_20261001201144.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、高座豚の鉄板焼き膳、高座豚カツ煮の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/037_26_20261001201144.jpg 昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 95,
+      "name": "石岡ウエストカントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに明太クリームスパゲッティ、石焼麻婆豆腐を掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、明太クリームスパゲッティ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/062_11_20261001082947.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、明太クリームスパゲッティ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/062_11_20261001082947.jpg 昼食補助付きプランでも料理により追加料金あり。"
+    },
+    {
+      "id": 278,
+      "name": "かすみがうらゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューにロースとんかつ、石焼麻婆豆腐を掲載。昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストランページに掲載されたメニュー画像を目視し、ロースとんかつ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/319_4_20261001171821.jpg"
+      },
+      "evidenceNote": "公式レストランページに掲載されたメニュー画像を目視し、ロースとんかつ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/319_4_20261001171821.jpg 昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。"
+    }
+  ]
+}

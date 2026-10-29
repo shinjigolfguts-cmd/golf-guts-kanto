@@ -1,0 +1,54 @@
+{
+  "commit": "7416e12fcd1d74ba732a3a3c0fbc6895af39dfb3",
+  "checkedAt": "2026-10-29T09:15:48.870254+00:00",
+  "files": [
+    {
+      "path": "data.js",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/data.js",
+      "sha256": "da99e333312e47f1319074289c1196ce41c47a35b721661fc0c062a5e4b36cf0",
+      "matches": true
+    },
+    {
+      "path": "courses/30.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/30.html",
+      "sha256": "d859c3c68a850a229559d46e3c708dbc5438e784140065bc2d028742ed074bae",
+      "matches": true
+    },
+    {
+      "path": "courses/239.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/239.html",
+      "sha256": "c6aff0f6bbd2911df3da142f50d0b4199111b2db290c647cfde0a4db3dc45adf",
+      "matches": true
+    },
+    {
+      "path": "courses/383.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/383.html",
+      "sha256": "0caa87bf23ae3ffb8b263ca0f8955e8ae0f54099570ae9d68b78e702964a4d24",
+      "matches": true
+    },
+    {
+      "path": "courses/384.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/384.html",
+      "sha256": "13b1bd998fbe3ccaf31ae60424a2cb18413a3578708127567db9d08c25217c06",
+      "matches": true
+    },
+    {
+      "path": "courses/388.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/388.html",
+      "sha256": "7f7aaffbf9386a7e2bb00c216f91808d6f9666817185e219905de728792789bd",
+      "matches": true
+    },
+    {
+      "path": "courses/416.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/416.html",
+      "sha256": "35294b20d7f46e160ada507e4be8d82c534b5db79a1ce957f9db3c092c21e67d",
+      "matches": true
+    },
+    {
+      "path": "courses/457.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/457.html",
+      "sha256": "d89e5cdb1c463c75b5d94d243714f4f2ca5dc6e5843a13cfd8f73686036d5b70",
+      "matches": true
+    }
+  ]
+}

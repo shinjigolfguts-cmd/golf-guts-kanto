@@ -187,7 +187,7 @@
       "name": "藤ヶ谷カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.fujigayacc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -554,7 +554,8 @@
       "name": "大厚木カントリークラブ 桜コース",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 89,
@@ -611,28 +612,32 @@
       "name": "おかだいらゴルフリンクス",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 95,
       "name": "石岡ウエストカントリークラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 96,
       "name": "ワイルドダックカントリークラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 97,
       "name": "霞台カントリークラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 97,
@@ -646,14 +651,16 @@
       "name": "関東国際カントリークラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 99,
       "name": "ひととのやカントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 99,
@@ -1847,7 +1854,7 @@
       "name": "浜野ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.hamano-golf.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -2406,7 +2413,8 @@
       "name": "かすみがうらゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 278,
@@ -2576,7 +2584,8 @@
       "name": "セントラルゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 292,
@@ -2590,7 +2599,8 @@
       "name": "セントラルゴルフクラブ NEWコース",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 293,
@@ -2604,7 +2614,8 @@
       "name": "セントラルゴルフクラブ 麻生コース",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 294,
@@ -2757,7 +2768,8 @@
       "name": "出島ゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 305,
@@ -3611,7 +3623,7 @@
       "name": "足利カントリークラブ 多幸コース",
       "field": "stay",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -3633,7 +3645,7 @@
       "name": "足利カントリークラブ 飛駒コース",
       "field": "stay",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -3663,7 +3675,7 @@
       "name": "イーストウッドカントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.eastwoodcc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -3869,7 +3881,7 @@
       "name": "日高カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.hidaka-cc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -4184,7 +4196,7 @@
       "name": "玉村ゴルフ場",
       "field": "stay",
       "officialUrl": "https://www.tamamura-golf.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
@@ -4206,7 +4218,8 @@
       "name": "ツインレイクスカントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 459,
@@ -4228,7 +4241,8 @@
       "name": "関越ハイランドゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 460,
@@ -4256,7 +4270,8 @@
       "name": "ノーザンカントリークラブ 上毛ゴルフ場",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 463,
@@ -4442,7 +4457,8 @@
       "name": "小田原ゴルフ倶楽部 松田コース",
       "field": "dining",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029v.json"
     },
     {
       "id": 487,
