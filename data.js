@@ -25396,9 +25396,23 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式サイト本文・公式案内図で確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式ランチメニューには、サイボクゴールデンポークのひれかつ御膳、霞ヶ関プレミアムバーガーがあり、それぞれ限定20食です。提供時間は10:00～14:00と案内されています。",
+          "url": "https://www.kasumigasekicc.or.jp/information/menuSouvenirs.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式食堂メニューの定番ランチ欄を実読し、料理名・各20食・10:00～14:00を確認。",
+          "conditions": "週替わりメニューは期間ごとに変わります。料理は売り切れ・変更の可能性があります。食物アレルギーはスタッフへ申し出るよう案内されています。"
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式「倶楽部の一日」では、プレーを終えた後に風呂場を利用する様子が紹介されており、浴場の存在を確認できます。",
+          "url": "https://www.kasumigasekicc.or.jp/membershipClub/02.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "現行の公式倶楽部ライフ本文にあるプレー後の風呂場利用の記述を実読。",
+          "conditions": "浴場の利用時間、温泉・サウナ・宿泊施設の有無は未確認です。ゲストの利用は倶楽部の予約・同伴条件に従います。"
+        }
       },
       "id": 426
     },

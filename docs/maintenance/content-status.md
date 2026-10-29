@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `f261fade4025908b5a6d6d5b7d28d6731ad14c9e21b626d455e572467e0ba032`
+data.js SHA256: `df7595ca17f0de43b6970583c4223d571d32d41d4ad47a8e49fdd0ad2b9dfe52`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,8 +9,8 @@ data.js SHA256: `f261fade4025908b5a6d6d5b7d28d6731ad14c9e21b626d455e572467e0ba03
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 24 |
-| 食事 | 26 |
-| 宿泊・お風呂 | 61 |
+| 食事 | 25 |
+| 宿泊・お風呂 | 60 |
 | 料金 | 90 |
 | 景色 | 8 |
 
@@ -153,7 +153,7 @@ data.js SHA256: `f261fade4025908b5a6d6d5b7d28d6731ad14c9e21b626d455e572467e0ba03
 | 421 | [嵐山カントリークラブ](https://www.ranzan.cc/) | 宿泊・お風呂 |
 | 424 | [オリムピックナショナルゴルフクラブ EAST](https://www.olympicnational.co.jp/east/) | 料金 |
 | 425 | [オリムピックナショナルゴルフクラブ WEST](https://www.olympicnational.co.jp/west/) | 料金 |
-| 426 | [霞ヶ関カンツリー倶楽部](https://www.kasumigasekicc.or.jp/) | 食事・宿泊・お風呂・料金 |
+| 426 | [霞ヶ関カンツリー倶楽部](https://www.kasumigasekicc.or.jp/) | 料金 |
 | 427 | [児玉カントリー倶楽部](https://www.kodama-cc.jp/) | 宿泊・お風呂・料金 |
 | 430 | [ザ ナショナルカントリー倶楽部 埼玉](https://national-cc.jp/saitama/) | 料金 |
 | 432 | [東京ゴルフ倶楽部](https://www.tokyogolfclub.jp/) | 食事・宿泊・お風呂・料金 |
