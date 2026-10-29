@@ -1128,7 +1128,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "PGM公式クワッチ一覧:東京ベイサイド富津竹岡IC3km約5分"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式案内では、レストランは9:00～15:00営業です。食事は14:00、ドリンクは14:30がラストオーダーで、朝食は提供していません。クラブハウス開場から9:00までは有料のセルフ式ソフトドリンクバーのみ利用できます。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=159&news_id=58728&p=guide.news_detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の2026年3月22日付案内で、2026年4月以降の営業時間、ラストオーダー、朝食なし、9時前の提供内容を確認。",
+          "conditions": "コンペパーティは事前予約制です。個別の料理名と価格は未確認です。"
+        },
         "stay": {
           "text": "公式の2026年夏季案内で、浴槽とシャワー設備の設置を確認しています。浴槽休止の対象期間は7月1日～9月11日でした。現在の利用条件は予約先で確認してください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=159&news_id=60147&p=guide.news_detail_page",
@@ -13649,7 +13656,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式案内では、2026年10月1日以降のレストラン営業は8:30からランチ終了までです。朝食メニューはなく、午後は予約客のみ利用できます。コンペパーティは従来どおり予約できます。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=55&news_id=62500&p=guide.news_detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の2026年10月1日付営業時間変更案内で、開始時刻、終了条件、朝食廃止、午後利用条件を確認。",
+          "conditions": "ランチのラストオーダーは最終組の昼食オーダー時。個別の料理名と価格は未確認です。"
+        },
         "budget": {
           "text": "2026年11月4日の指定昼食付きGPSカートセルフは4名1組で1人10,490円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=55&p=guide.coursecalendar",
@@ -16142,7 +16156,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式案内では、平日のレストランは8:30からランチ終了まで、土日祝はクラブハウス開場から16:30まで営業し、土日祝のラストオーダーは16:00です。週替わりランチも案内されています。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=43&news_id=60461&p=guide.news_detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の2026年6月14日付営業時間変更本文と公式週替わりランチ案内を確認。",
+          "conditions": "週替わり料理は期間ごとに変わります。コンペパーティは事前予約制です。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/sp/?cc_id=43&p=guide.news_list"
+          ]
+        },
         "budget": {
           "text": "2026年11月20日の指定昼食・ナビ付きカートのキャディ付きプレーは1人14,030円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=43&p=guide.coursecalendar",
@@ -16202,7 +16226,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式案内では、レストランは平日7:30～16:30、土日祝6:30～16:30営業で、ラストオーダーはいずれも16:00です。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=151&news_id=59782&p=guide.news_detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の2026年5月19日付営業時間変更本文で、6月1日以降の曜日別営業時間とラストオーダーを確認。",
+          "conditions": "個別の料理名、価格、朝食区分は公式本文で未確認です。"
+        },
         "budget": {
           "text": "2026年11月2日の時間帯限定・指定昼食付きナビカートセルフは1人7,400円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=151&p=guide.coursecalendar",
@@ -16592,7 +16623,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式案内では、レストランは平日7:00～16:00、土日祝6:30～16:30営業です。ラストオーダーは平日15:30、土日祝16:00です。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=157&news_id=57697&p=guide.news_detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の2026年2月1日付レストラン営業時間案内で、曜日別営業時間とラストオーダーを確認。",
+          "conditions": "パーティ予約時は順次対応。個別の料理名と価格は未確認です。"
+        },
         "budget": {
           "text": "2026年11月8日の遅めの時間帯限定・指定昼食付きカートセルフは1人16,990円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=157&p=guide.coursecalendar",
@@ -18171,7 +18209,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式予約には、ゴルフ場指定の昼食を含むプランがあります。指定昼食の内容は予約プランにより異なります。昼食別プランで飲食する場合はレストラン営業時間内の利用が必要です。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=42&date=&p=search.result_plan&sort=3",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の現行予約プラン本文で、指定昼食付きプランと昼食別プランの利用条件を確認。",
+          "conditions": "料理名、価格、営業時間は未確認です。プラン・日程・公開枠により昼食条件が異なります。"
+        },
         "budget": {
           "text": "2026年11月2日の指定昼食付きGPSカートの1Rセルフは1人7,990円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=42&p=guide.coursecalendar",
@@ -18231,7 +18276,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式予約では、昼食別プランで飲食を希望する場合はレストラン営業時間内に利用するよう案内しています。早朝ハーフなど、表示料金に昼食を含まないプランがあります。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=41&date=&p=search.result_plan&sort=1",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の現行予約プラン本文で、昼食別条件とレストラン利用条件を確認。",
+          "conditions": "料理名、価格、営業時間は未確認です。プラン・日程・公開枠により昼食条件が異なります。"
+        },
         "budget": {
           "text": "2026年11月5日の午前1Rスルー・プレー後指定昼食付きGPSカートセルフは1人7,390円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=41&p=guide.coursecalendar",
@@ -28726,7 +28778,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式サイトの本文を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式案内では、2026年10月10日以降、土日祝のレストランは8:00～16:30営業で、ラストオーダーは16:00です。テイクアウトの提供も8:00からです。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=153&news_id=62622&p=guide.news_detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式の2026年10月4日付営業時間・営業内容変更本文で、土日祝の開始時刻、終了時刻、ラストオーダー、テイクアウト開始時刻を確認。",
+          "conditions": "平日の営業時間に変更なしとの案内ですが、本文に具体的な平日時刻はありません。個別の料理名と価格は未確認です。"
+        },
         "budget": {
           "text": "2026年11月4日のWeb公開枠限定・指定昼食付きGPS乗用カートセルフは1人14,790円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=153&p=guide.coursecalendar",
