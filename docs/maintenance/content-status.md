@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429fd`
+data.js SHA256: `da99e333312e47f1319074289c1196ce41c47a35b721661fc0c062a5e4b36cf0`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -10,11 +10,11 @@ data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429f
 | 車のアクセス | 8 |
 | 電車のアクセス | 34 |
 | 食事 | 73 |
-| 宿泊・お風呂 | 79 |
+| 宿泊・お風呂 | 72 |
 | 料金 | 265 |
 | 景色 | 18 |
 
-空欄を含む施設：328 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：324 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -36,7 +36,6 @@ data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429f
 | 22 | [烏山城カントリークラブ](https://www.karasuyamajo.com/) | 料金 |
 | 23 | [PGM石岡ゴルフクラブ](https://www.pacificgolf.co.jp/ishioka/tournament.asp) | 宿泊・お風呂・料金 |
 | 28 | [Jゴルフ鶴ヶ島](https://jgt.tatemono-golf.com/access/) | 料金 |
-| 30 | [藤ヶ谷カントリークラブ](https://www.fujigayacc.co.jp/) | 宿泊・お風呂 |
 | 32 | [神奈川カントリークラブ](https://kanagawacc.com/access/) | 料金 |
 | 34 | [大厚木カントリークラブ 本コース](https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access) | 料金 |
 | 35 | [PGM総成ゴルフクラブ](https://pacificgolf.co.jp/sohsei/information.asp) | 料金 |
@@ -177,7 +176,7 @@ data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429f
 | 236 | [総武カントリークラブ 印旛コース](https://booking.pacificgolf.co.jp/guide/63.html) | 車のアクセス・食事・料金 |
 | 237 | [総武カントリークラブ 北コース](https://booking.pacificgolf.co.jp/guide/64.html) | 車のアクセス・宿泊・お風呂・料金 |
 | 238 | [PGM南市原ゴルフクラブ](https://booking.pacificgolf.co.jp/guide/168.html) | 料金 |
-| 239 | [浜野ゴルフクラブ](https://www.hamano-golf.co.jp/) | 宿泊・お風呂・料金 |
+| 239 | [浜野ゴルフクラブ](https://www.hamano-golf.co.jp/) | 料金 |
 | 240 | [鷹之台カンツリー倶楽部](https://www.takanodaicc.or.jp/) | 宿泊・お風呂・料金・景色 |
 | 241 | [香取カントリークラブ](https://www.katoricc.com/) | 電車のアクセス・食事・宿泊・お風呂・料金・景色 |
 | 242 | [ミルフィーユゴルフクラブ](https://www.milgolf.co.jp/) | 食事・料金・景色 |
@@ -282,10 +281,9 @@ data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429f
 | 380 | [広陵カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tochigi/koryo/) | 料金 |
 | 381 | [ディアレイク・カントリー倶楽部](https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/) | 電車のアクセス・料金 |
 | 382 | [皆川城カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tochigi/minagawajo/) | 料金 |
-| 383 | [足利カントリークラブ 多幸コース](https://www.ashikaga-cc.com/) | 電車のアクセス・宿泊・お風呂・料金 |
-| 384 | [足利カントリークラブ 飛駒コース](https://www.ashikaga-cc.com/) | 電車のアクセス・宿泊・お風呂・料金 |
+| 383 | [足利カントリークラブ 多幸コース](https://www.ashikaga-cc.com/) | 電車のアクセス・料金 |
+| 384 | [足利カントリークラブ 飛駒コース](https://www.ashikaga-cc.com/) | 電車のアクセス・料金 |
 | 387 | [太平洋クラブ 佐野ヒルクレストコース](https://www.taiheiyoclub.co.jp/course/hillcrest/) | 宿泊・お風呂・料金 |
-| 388 | [イーストウッドカントリークラブ](https://www.eastwoodcc.jp/) | 宿泊・お風呂 |
 | 389 | [JGM宇都宮ゴルフクラブ](https://www.jgmgroup.co.jp/utsunomiya/) | 宿泊・お風呂・景色 |
 | 390 | [LiVE MAX GOLF CLUB 栃木](https://www.livemax-golfclub.com/) | 電車のアクセス・料金 |
 | 391 | [東武藤が丘カントリー倶楽部](https://www.tobufujigaokacc.com/) | 料金 |
@@ -302,7 +300,6 @@ data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429f
 | 409 | [高麗川カントリークラブ](https://www.komagawacc.co.jp/) | 料金 |
 | 412 | [高根カントリー倶楽部](https://takane-cc.co.jp/) | 宿泊・お風呂 |
 | 415 | [東松山カントリークラブ](https://www.hmcc.co.jp/) | 料金 |
-| 416 | [日高カントリークラブ](https://www.hidaka-cc.jp/) | 宿泊・お風呂 |
 | 419 | [長瀞カントリークラブ](https://www.kanbun-group.co.jp/ncc/) | 宿泊・お風呂・料金・景色 |
 | 421 | [嵐山カントリークラブ](https://www.ranzan.cc/) | 食事・宿泊・お風呂 |
 | 424 | [オリムピックナショナルゴルフクラブ EAST](https://www.olympicnational.co.jp/east/) | 料金 |
@@ -326,7 +323,6 @@ data.js SHA256: `31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429f
 | 450 | [桐生カントリークラブ](https://www.kiryucc.com/) | 料金 |
 | 453 | [髙梨子倶楽部](https://www.takanashiclub.jp/) | 電車のアクセス・料金 |
 | 455 | [吉井南陽台ゴルフコース](https://www.yoshii-nanyodai.jp/) | 電車のアクセス・宿泊・お風呂・料金・景色 |
-| 457 | [玉村ゴルフ場](https://www.tamamura-golf.jp/) | 宿泊・お風呂 |
 | 458 | [板倉ゴルフ場](https://www.tokyu-golf-resort.com/itakura/) | 宿泊・お風呂・料金 |
 | 459 | [ツインレイクスカントリー倶楽部](https://reserve.accordiagolf.com/golfCourse/gunma/twin/) | 食事・料金 |
 | 460 | [関越ハイランドゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/) | 食事・料金 |

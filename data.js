@@ -1786,7 +1786,13 @@ const DATA={
           "dish": "藤ヶ谷弁当",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "浴場あり。公式施設写真で屋内浴槽を確認。利用時間・宿泊設備の有無は未確認。",
+          "url": "https://www.fujigayacc.co.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内に掲載の浴槽写真を目視確認。"
+        },
         "budget": {
           "text": "公式掲載のゲスト料金は平日21,550〜24,850円、土日36,620円、祝日27,820円（税込）。キャディ・乗用カート付、飲食別。",
           "url": "https://www.fujigayacc.co.jp/information/",
@@ -13820,7 +13826,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場あり。公式施設写真で屋内浴槽を確認。利用時間・宿泊設備の有無は未確認。",
+          "url": "https://www.hamano-golf.co.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内に掲載の浴槽写真を目視確認。"
+        }
       },
       "researchSources": [
         "https://www.hamano-golf.co.jp/",
@@ -21141,7 +21153,13 @@ const DATA={
           "dish": "豚の角煮定食"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽利用の案内あり。公式料金案内にロッカー・浴槽使用料の記載。現在の利用条件・追加料金は予約時に確認。宿泊設備は未確認。",
+          "url": "https://www.ashikaga-cc.com/information/price/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+        }
       },
       "id": 383
     },
@@ -21181,7 +21199,13 @@ const DATA={
           "dish": "ビーフシチューハンバーグ"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽利用の案内あり。公式料金案内にロッカー・浴槽使用料の記載。現在の利用条件・追加料金は予約時に確認。宿泊設備は未確認。",
+          "url": "https://www.ashikaga-cc.com/information/price/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+        }
       },
       "id": 384
     },
@@ -21397,7 +21421,13 @@ const DATA={
           "priceLabel": "平日 11,000円\n土日祝 18,000〜19,000円",
           "conditions": "2025年4月からの公式基本料金・諸税込・食事別。季節・プランで変動。"
         },
-        "stay": null
+        "stay": {
+          "text": "浴場あり。公式施設写真で屋内浴槽を確認。利用時間・宿泊設備の有無は未確認。",
+          "url": "https://www.eastwoodcc.jp/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の浴場写真を目視確認。写真だけで温泉や現在の営業条件を断定しない。"
+        }
       },
       "id": 388
     },
@@ -22862,7 +22892,13 @@ const DATA={
           "priceLabel": "平日30,680円／土日祝32,880円",
           "conditions": "通常ゲスト4B料金は平日30,680円、土日祝32,880円。キャディ・ロッカー・利用税込の費用概算で、食事代は別途。"
         },
-        "stay": null
+        "stay": {
+          "text": "大浴場あり。天井に天然の檜を使用。利用時間・宿泊設備の有無は未確認。",
+          "url": "https://www.hidaka-cc.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブハウス案内の「大浴場」で設備と天井の檜を確認。浴槽が檜製とは解釈しない。"
+        }
       },
       "id": 416
     },
@@ -24984,7 +25020,13 @@ const DATA={
           "dish": "ソースかつ丼ミニセット",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "浴槽・シャワーの案内あり。2026年6月1日〜9月30日はシャワーのみとの公式告知。現在の浴槽利用条件・宿泊設備の有無は未確認。",
+          "url": "https://www.tamamura-golf.jp/topics/2026/000256.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年3月31日付「浴槽のご利用について」で浴槽とシャワー営業を確認。終了済みの夏季制限を現在の制限とは扱わない。"
+        },
         "budget": {
           "text": "10月後半の掲載料金は平日7,900円、日曜14,300円、土曜14,900円。乗用カートセルフ・税込・食事付きの料金です。",
           "url": "https://www.tamamura-golf.jp/reserve/index.shtml",
