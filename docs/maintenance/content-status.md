@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `b7dbbd0426f66e31b9fd5e32b413553487a9346a7d9ed935eb12c8fb87a71abc`
+data.js SHA256: `bc36fa1f910b1018508439edc1937452deac75bff72ae4742d5a7cfde98cadd3`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -10,7 +10,7 @@ data.js SHA256: `b7dbbd0426f66e31b9fd5e32b413553487a9346a7d9ed935eb12c8fb87a71ab
 | 車のアクセス | 8 |
 | 電車のアクセス | 34 |
 | 食事 | 84 |
-| 宿泊・お風呂 | 168 |
+| 宿泊・お風呂 | 167 |
 | 料金 | 285 |
 | 景色 | 40 |
 
@@ -22,7 +22,7 @@ data.js SHA256: `b7dbbd0426f66e31b9fd5e32b413553487a9346a7d9ed935eb12c8fb87a71ab
 
 | ID | 施設 | 未確認の項目 |
 |---:|---|---|
-| 0 | [大原・御宿ゴルフコース](https://www.princehotels.co.jp/golf/ohara/) | 宿泊・お風呂・料金 |
+| 0 | [大原・御宿ゴルフコース](https://www.princehotels.co.jp/golf/ohara/) | 料金 |
 | 2 | [東我孫子カントリークラブ](https://www.h-abiko-cc.com/information/price/) | 宿泊・お風呂・景色 |
 | 5 | [江戸川ラインゴルフショートコース](https://edogawaline.or.jp/) | 食事・宿泊・お風呂 |
 | 6 | [アジア取手カントリー倶楽部](https://www.asia-toride.com/) | 食事 |

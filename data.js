@@ -34,7 +34,17 @@ const DATA={
           "dish": "炙りチーズのカレーうどんエビフライ添え",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式サイトが周辺宿泊先として御宿海楽を紹介しています。御宿海楽は素泊まりや食事を組み合わせた宿泊を案内しています。コース併設施設ではなく、別途予約が必要です。コース内浴場の利用条件は未確認です。",
+          "url": "https://www.princehotels.co.jp/golf/ohara/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "コース公式の周辺案内リンクと、リンク先の御宿海楽公式本文で2階宿泊・素泊まりの提供を照合。",
+          "conditions": "宿泊料金、送迎、ゴルフとのセット条件は未確認。周辺宿泊先をコース併設と扱わない。",
+          "supportingUrls": [
+            "https://onjuku-kairaku.com/"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "南房総の高台に広がる、南国風の丘陵コース。広いフェアウェイと白いバンカーの配置が景観の特徴です。",
