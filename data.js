@@ -487,7 +487,13 @@ const DATA={
           "dish": "もつ煮",
           "reviewSummary": ""
         },
-        "stay": null,
+        "stay": {
+          "text": "コース外の宿泊先として、伊香保温泉のホテル天坊、塚越屋七兵衛、晴観荘などを公式に紹介。コース内の宿泊設備や現在の浴室利用条件は未確認です。",
+          "url": "https://www.ikaho-gc.co.jp/topix",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式「お勧めのお宿」の施設名・住所を確認。宿泊先紹介とコース内設備を区別。2026年7月20日～9月18日のシャワー限定案内は終了済みなので現在の制限に転用しない。"
+        },
         "budget": null,
         "scenery": {
           "text": "標高611mの丘陵に広がる27ホール。広いフェアウェイと、四季で移り変わる自然の風景を楽しめます。",
@@ -2440,7 +2446,13 @@ const DATA={
           "dish": "千葉県産ポークのロースカツカレー",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "午後ハーフは浴室・ロッカーを利用できません。公式の早朝スルー案内では風呂等の館内施設は利用不可、シャワーのみ利用可。通常ラウンドの浴室条件と宿泊設備は未確認です。",
+          "url": "https://www.goldgolf.co.jp/kisarazu/fee.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "料金ページの午後ハーフ・早朝スルーの設備制限を確認。早朝スルーは5～8月の案内で、現在の販売を保証しない。施設ページのロッジ風という建築表現を宿泊設備と解釈しない。"
+        },
         "budget": {
           "text": "午後ハーフは3〜4名の場合、平日4,200円、土日祝6,600円。2名利用は平日のみ1,100円増です。",
           "url": "https://www.goldgolf.co.jp/kisarazu/fee.html",
@@ -6445,7 +6457,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "施設公式レストランページのメニュー本文を確認"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式料金案内に浴室の記載あり。冬季セルフ営業の1月12日～2月28日の平日は浴室を利用できず、土日祝は通常営業です。宿泊設備は未確認。",
+          "url": "https://www.hakonekohan.com/fp/price",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年4月1日～2027年3月31日の料金案内内「冬季セルフ営業」で浴室休止期間と曜日、土日祝通常営業を確認。年次営業変更は予約時確認。"
+        },
         "budget": {
           "text": "2026年度の4名セルフ・カート利用は平日11,700～15,500円、土日祝17,300～23,300円。税込・利用税込、食事別。2名は3,300円、3名は880円追加。季節により変動します。",
           "url": "https://www.hakonekohan.com/fp/price",
@@ -6498,7 +6516,13 @@ const DATA={
           "sourceType": "official",
           "dish": "シーフードミックスフライ定食"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式サイトが付帯宿泊施設を案内し、周辺の宿泊先としてザ・プリンス 箱根芦ノ湖、日帰り温泉として龍宮殿本館を紹介。ゴルフ場内の浴室利用条件や宿泊・温泉の料金込みは未確認です。",
+          "url": "https://www.princehotels.co.jp/golf/hakone-en/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "ゴルフ場トップの付帯宿泊施設表示と周辺おすすめ施設欄を確認。周辺ホテル・日帰り温泉をクラブハウス内設備やプレー料金込みとは記載しない。"
+        },
         "budget": null,
         "scenery": {
           "text": "駒ヶ岳を背に、芦ノ湖を見下ろす山裾のコース。天候がよければ富士山と湖を一緒に望めます。",
@@ -7165,7 +7189,16 @@ const DATA={
           "basis": "公式おすすめメニュー画像 c5682e64271e19b2ad3147015f9872ad-715x1024.jpg を実読"
         },
         "stay": null,
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2・9・16・30日と12月7・21・28日のセルフ営業日は、昼食付き1ラウンド18,620円（消費税込み、ゴルフ場利用税別）。人数条件は予約時に確認してください。",
+          "url": "https://www.hachiojicc.co.jp/fee/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式各種料金のセルフ営業日表と注記を確認。対象日・1ラウンド・昼食付き・消費税10%込み・利用税別を区別。人数条件、人数割増、利用税額は同ページで確認できず、最終支払総額とはしない。",
+          "priceVerified": true,
+          "priceLabel": "指定セルフ営業日18,620円＋利用税",
+          "conditions": "2026年11月2・9・16・30日、12月7・21・28日限定のゲスト向けセルフ営業日。1ラウンド、昼食付き、消費税10%込み、ゴルフ場利用税別。人数条件・人数割増・利用税額は未確認で予約時確認。通常日の総額には適用しない。"
+        },
         "scenery": {
           "text": "展望レストランからコースを見渡せます。休憩中にも、開放的な空間からコースの風景を楽しめます。",
           "url": "https://www.hachiojicc.co.jp/restaurant/",
@@ -8025,7 +8058,17 @@ const DATA={
           "dish": "鯵づくし膳",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "クラブハウスに太平洋を望む大浴場があります。コース外の提携宿泊先も案内。宿泊予約は各施設へ直接連絡し、館山CCでのプレーを伝える方式です。",
+          "url": "https://tateyama-cc.com/shisetsu.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設案内の大浴場と眺望を確認。公式宿泊案内で予約方法・割引条件を確認。提携宿泊者のプレー割引は特別営業日除外、ネット予約・他割引・優待券との併用不可。割引額は未掲載のため金額を推測しない。",
+          "supportingUrls": [
+            "https://tateyama-cc.com/shukuhaku.html"
+          ],
+          "conditions": "提携宿泊のプレー割引は特別営業日除外。ネット予約・他割引・優待券との併用不可。宿泊施設へ直接予約。"
+        },
         "budget": null,
         "scenery": {
           "text": "太平洋と伊豆諸島を望むパノラマ。南房総の海の景色を楽しめるコースです。",
@@ -9706,7 +9749,13 @@ const DATA={
           "dish": "水沢うどん",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設案内に浴室を掲載しています。温泉かどうか、営業時間、プラン別の利用制限、宿泊設備は未確認です。",
+          "url": "https://www.ikahocc.co.jp/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の浴室見出し・案内文・写真キャプションを確認。温泉や宿泊施設の有無を推測しない。"
+        },
         "budget": null,
         "scenery": {
           "text": "杉や桧の林、大きな樹木に囲まれたフェアウェイ。水沢山を間近に、遠くに赤城山を望みます。",
@@ -9940,7 +9989,13 @@ const DATA={
           "dish": "上州牛ステーキ御膳",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設案内にお風呂と脱衣所を掲載しています。温泉かどうか、営業時間、プラン別の利用制限、宿泊設備は未確認です。",
+          "url": "https://www.shiromizu-gc.com/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の脱衣所・お風呂の写真キャプションを確認。温泉・宿泊や利用条件を推測しない。"
+        },
         "budget": {
           "text": "10月の公式予約プラン例は平日9,430円、土曜15,590円。1ラウンド・乗用セルフ・昼食とドリンクバー付きです。",
           "url": "https://www.shiromizu-gc.com/fee.html",
