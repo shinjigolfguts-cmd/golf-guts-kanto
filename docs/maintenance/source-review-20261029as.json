@@ -1,0 +1,16 @@
+{
+  "items": [
+    {"id": 60, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/chiba/yotsukaido/", "finding": "公式予約カレンダーで11月4日の早朝9H総額4,990円と人数・食事・カート条件、空き枠を確認。"},
+    {"id": 61, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/chiba/aqualine/", "finding": "公式予約カレンダーで11月4日の初心者応援9H総額3,500円と動画視聴・人数・食事・カート条件、空き枠を確認。"},
+    {"id": 62, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/gunma/fujioka/", "finding": "公式予約カレンダーで11月2日の初心者応援9H総額2,100円と動画視聴・人数・食事・カート条件、空き枠を確認。"},
+    {"id": 63, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/tokyo/sobu/", "finding": "公式予約カレンダーで10月30日のナイト9H総額7,990円と人数・食事・カート条件、当日空き枠を確認。"},
+    {"id": 64, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/saitama/saitamagc/", "finding": "公式予約カレンダーで11月2日の午前9H総額5,550円と乗入・浴室・人数・食事・カート条件、空き枠を確認。"},
+    {"id": 65, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/chiba/boushu/", "finding": "公式予約カレンダーで11月4日の初心者応援9H総額2,800円と動画視聴・人数・食事・カート条件、空き枠を確認。"},
+    {"id": 82, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/chiba/sawara/", "finding": "公式予約カレンダーで11月2日の薄暮9H総額3,500円と人数・食事・カート条件、空き枠を確認。"},
+    {"id": 89, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/", "finding": "公式予約カレンダーで10月30日の薄暮9H総額6,490円と人数割増・食事・カート条件、当日空き枠を確認。"},
+    {"id": 97, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/", "finding": "公式予約カレンダーで10月30日の初心者応援9H総額4,500円と動画視聴・人数・食事・カート条件、当日空き枠を確認。"},
+    {"id": 99, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/", "finding": "公式予約カレンダーで10月30日の午後スルー総額5,990円と人数割増・食事・施設・カート条件、当日空き枠を確認。"},
+    {"id": 100, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/", "finding": "公式予約カレンダーで10月30日の午後9H総額3,990円と日没・人数・食事・施設・カート条件、当日空き枠を確認。"},
+    {"id": 101, "field": "budget", "checked": "2026-10-30", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/saitama/kodama/", "finding": "公式予約カレンダーで11月2日の初心者応援9H総額2,005円と動画視聴・人数・食事・カート条件、空き枠を確認。"}
+  ]
+}
