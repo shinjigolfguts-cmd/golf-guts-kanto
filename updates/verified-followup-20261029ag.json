@@ -1,0 +1,160 @@
+{
+  "baseSha256": "00105e36993d8a4189f040c670cc12d548222d7df2f1cdd8067d5bb72808a0de",
+  "reviewed": true,
+  "reviewer": "Codex official tariff and booking content review",
+  "updates": [
+    {
+      "id": 391,
+      "name": "東武藤が丘カントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年11月の昼食付き1R・4名料金は、指定の平日感謝デー14,000円、通常平日15,000円、土曜25,900円、日曜25,400円、3日・23日の祝日は23,400円です。",
+        "url": "https://www.tobufujigaokacc.com/news.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式11月料金本文で対象日別価格と4B・1人・税込・予約経路・割増条件を実読。PDFは502で取得できなかったため本文を根拠にした。",
+        "conditions": "2026年11月、1人あたり、昼食・利用税800円・消費税10%込み。感謝デーは2・9・16・24・30日、11日は貸切。3名770円、2名2,310円追加。キャディ希望は4名で1人4,290円追加。電話または自社HP予約限定。予約時に最新条件を確認。",
+        "priceVerified": true,
+        "priceLabel": "2026年11月・4名 平日14,000～15,000円／土曜25,900円"
+      },
+      "evidenceNote": "公式11月料金本文で対象日別価格と4B・1人・税込・予約経路・割増条件を実読。PDFは502で取得できなかったため本文を根拠にした。"
+    },
+    {
+      "id": 401,
+      "name": "宮の森カントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年11月の一般料金は、昼食付き1R乗用セルフで平日9,800円、土日18,800円、3日・23日の祝日は17,300円（消費税・利用税込）です。",
+        "url": "https://www.miyanomoricc.com/news.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式11月料金本文と一般・同伴・友の会を区別したPDFを照合。一般料金のみ採用。",
+        "supportingUrls": [
+          "https://www.miyanomoricc.com/img/fee/fee_202611.pdf"
+        ],
+        "conditions": "2026年11月の一般料金、1R乗用セルフ・昼食・消費税・利用税600円込み。2名は1人あたり平日1,100円、土日祝2,200円追加。キャディ希望は4名4,290円、3名5,720円、2名8,580円を各1人に追加。予約時に最新条件を確認。",
+        "priceVerified": true,
+        "priceLabel": "2026年11月 一般平日9,800円／土日18,800円"
+      },
+      "evidenceNote": "公式11月料金本文と一般・同伴・友の会を区別したPDFを照合。一般料金のみ採用。"
+    },
+    {
+      "id": 342,
+      "name": "小山ゴルフクラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年10～12月のビジター通常期・4名料金表では、平日15,850円、土日祝27,950円。消費税10%込みの表示で、キャディ・カート等の内訳を掲載しています。",
+        "url": "https://www.oyamagolf.jp/info.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "2026/10/02更新の公式料金PDFを原画像で確認し、4B料金欄と内訳・工事中の注意事項を照合。",
+        "supportingUrls": [
+          "https://www.oyamagolf.jp/images/info/2026_ryoukin_v.pdf?v=011"
+        ],
+        "conditions": "2026/10/1～12/31のビジター通常期4名料金。3名1,100円、2名4,400円追加（キャディ・カート割増を含む）、1名不可。利用税通常900円の記載。特定日・セルフデー等は別料金。建替え中はレストラン休業。定休日セルフデーは現金前払い・クラブバスなし。予約時に最新条件を確認。",
+        "priceVerified": true,
+        "priceLabel": "2026年10～12月通常期4名 平日15,850円／土日祝27,950円"
+      },
+      "evidenceNote": "2026/10/02更新の公式料金PDFを原画像で確認し、4B料金欄と内訳・工事中の注意事項を照合。"
+    },
+    {
+      "id": 342,
+      "name": "小山ゴルフクラブ",
+      "field": "dining",
+      "before": {
+        "text": "地元のおとん豚を使った「おとん豚の生姜焼き定食」を掲載。",
+        "url": "https://www.oyamagolf.jp/restaurant.html",
+        "checked": "2026-10-24",
+        "basis": "公式ページの本文・メニュー・料金表を確認。地元のおとん豚を使った「おとん豚の生姜焼き定食」を掲載。",
+        "dish": "おとん豚の生姜焼き定食"
+      },
+      "after": {
+        "text": "クラブハウス建替え中はレストランを営業していない旨が、2026年10～12月の公式料金表に明記されています。既存の公式メニュー紹介には「おとん豚の生姜焼き定食」がありますが、工事期間中の提供を確認した情報ではありません。",
+        "url": "https://www.oyamagolf.jp/info.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "既存料理情報を履歴として保持しつつ、最新料金PDFのレストラン休業条件を優先して明示。",
+        "supportingUrls": [
+          "https://www.oyamagolf.jp/images/info/2026_ryoukin_v.pdf?v=011",
+          "https://www.oyamagolf.jp/restaurant.html"
+        ],
+        "dish": "おとん豚の生姜焼き定食"
+      },
+      "evidenceNote": "既存料理情報を履歴として保持しつつ、最新料金PDFのレストラン休業条件を優先して明示。"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年11月10日のビジター昼食付き1Rセルフは総額6,000円（消費税・利用税込）。GPS乗用カート付きで、2～4名、2・3名の割増はありません。",
+        "url": "https://firstee.jp/linehill-gc/linehill-gc/plans/224125/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式サイトの埋込予約表からプラン詳細・11月10日ページへ進み、消費税490円・利用税600円を含む総額と人数条件を確認。",
+        "supportingUrls": [
+          "https://www.linehill2026.com/",
+          "https://firstee.jp/linehill-gc/linehill-gc/plans/224125?date=2026-11-10"
+        ],
+        "conditions": "2026年11月10日のビジター料金例。1Rセルフ、昼食・GPS乗用カート・ロッカー込み。2サム保証、2・3名割増0円。コース内カート乗入れ無料だが天候・芝の状態で不可の場合あり。特別日・別プランは料金が異なる。クーポン・ポイント利用不可。予約時に最新条件を確認。",
+        "priceVerified": true,
+        "priceLabel": "2026年11月10日例 昼食付6,000円／2～4名"
+      },
+      "evidenceNote": "公式サイトの埋込予約表からプラン詳細・11月10日ページへ進み、消費税490円・利用税600円を含む総額と人数条件を確認。"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "東武線・新鹿沼駅9:05発の送迎を、プレー1週間前までの電話予約で案内。競技開催日は8:00発のみで、レッドマンデー・カレーデーは運休です。",
+        "url": "https://firstee.jp/linehill-gc/linehill-gc/plans/224125/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式予約詳細の送迎条件を実読。駅からの所要時間は記載がないため推定せず。ゴルフバッグ積載不可の条件も記録。",
+        "conditions": "ゴルフバッグは積載できないため往復宅配便を利用。直前予約では運転手を手配できない場合あり。競技日の発車時刻は要問い合わせ。"
+      },
+      "evidenceNote": "公式予約詳細の送迎条件を実読。駅からの所要時間は記載がないため推定せず。ゴルフバッグ積載不可の条件も記録。"
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式プラン案内では10月～翌5月は浴室とシャワーを利用でき、6～9月はシャワーのみです。ロッカー使用料は無料と案内されています。",
+        "url": "https://firstee.jp/linehill-gc/linehill-gc/plans/224125/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式予約詳細の施設利用欄を実読。浴室の季節条件のみ採用し、宿泊施設の有無は断定しない。"
+      },
+      "evidenceNote": "公式予約詳細の施設利用欄を実読。浴室の季節条件のみ採用し、宿泊施設の有無は断定しない。"
+    },
+    {
+      "id": 328,
+      "name": "栃木ヶ丘ゴルフ倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "2026年11月2日のゲスト4名限定・昼食付きセルフは8,800円（消費税・利用税・振興基金等込み）。GPS乗用カートとロッカー代を含みます。",
+        "url": "https://tgc18.com/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式予約カレンダーから11月2日のプラン詳細を実読。4名限定、料金内訳、昼食差額、ロッカー込みを照合。",
+        "supportingUrls": [
+          "https://www3.golfyoyaku.jp/rsv_sys/kanuma-g/tgc18/mcalendar/",
+          "https://www3.golfyoyaku.jp/rsv_sys/kanuma-g/tgc18/mreservation/index/date:20261102/plan:1383145/setid:703655/pid:956036"
+        ],
+        "conditions": "2026年11月2日の4名限定プラン例。消費税727円、利用税700円、振興基金＋ゴルファー保険100円を含む。昼食は差額メニューあり。他優待併用不可。詳細には3名850円・2名1,900円割増の記載もあるが、少人数で予約できる保証とは扱わない。キャディ希望は4名で1人4,400円追加。遅いスタートは日没の可能性あり。予約時に最新条件を確認。",
+        "priceVerified": true,
+        "priceLabel": "2026年11月2日・4名限定 昼食付8,800円"
+      },
+      "evidenceNote": "公式予約カレンダーから11月2日のプラン詳細を実読。4名限定、料金内訳、昼食差額、ロッカー込みを照合。"
+    }
+  ]
+}

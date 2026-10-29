@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": 391,
+      "field": "budget",
+      "url": "https://www.tobufujigaokacc.com/news.html",
+      "supportingUrls": [],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式11月料金本文で対象日別価格と4B・1人・税込・予約経路・割増条件を実読。PDFは502で取得できなかったため本文を根拠にした。"
+    },
+    {
+      "id": 401,
+      "field": "budget",
+      "url": "https://www.miyanomoricc.com/news.html",
+      "supportingUrls": [
+        "https://www.miyanomoricc.com/img/fee/fee_202611.pdf"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式11月料金本文と一般・同伴・友の会を区別したPDFを照合。一般料金のみ採用。"
+    },
+    {
+      "id": 342,
+      "field": "budget",
+      "url": "https://www.oyamagolf.jp/info.html",
+      "supportingUrls": [
+        "https://www.oyamagolf.jp/images/info/2026_ryoukin_v.pdf?v=011"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "2026/10/02更新の公式料金PDFを原画像で確認し、4B料金欄と内訳・工事中の注意事項を照合。"
+    },
+    {
+      "id": 342,
+      "field": "dining",
+      "url": "https://www.oyamagolf.jp/info.html",
+      "supportingUrls": [
+        "https://www.oyamagolf.jp/images/info/2026_ryoukin_v.pdf?v=011",
+        "https://www.oyamagolf.jp/restaurant.html"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "既存料理情報を履歴として保持しつつ、最新料金PDFのレストラン休業条件を優先して明示。"
+    },
+    {
+      "id": 394,
+      "field": "budget",
+      "url": "https://firstee.jp/linehill-gc/linehill-gc/plans/224125/detail",
+      "supportingUrls": [
+        "https://www.linehill2026.com/",
+        "https://firstee.jp/linehill-gc/linehill-gc/plans/224125?date=2026-11-10"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトの埋込予約表からプラン詳細・11月10日ページへ進み、消費税490円・利用税600円を含む総額と人数条件を確認。"
+    },
+    {
+      "id": 394,
+      "field": "rail",
+      "url": "https://firstee.jp/linehill-gc/linehill-gc/plans/224125/detail",
+      "supportingUrls": [],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式予約詳細の送迎条件を実読。駅からの所要時間は記載がないため推定せず。ゴルフバッグ積載不可の条件も記録。"
+    },
+    {
+      "id": 394,
+      "field": "stay",
+      "url": "https://firstee.jp/linehill-gc/linehill-gc/plans/224125/detail",
+      "supportingUrls": [],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式予約詳細の施設利用欄を実読。浴室の季節条件のみ採用し、宿泊施設の有無は断定しない。"
+    },
+    {
+      "id": 328,
+      "field": "budget",
+      "url": "https://tgc18.com/",
+      "supportingUrls": [
+        "https://www3.golfyoyaku.jp/rsv_sys/kanuma-g/tgc18/mcalendar/",
+        "https://www3.golfyoyaku.jp/rsv_sys/kanuma-g/tgc18/mreservation/index/date:20261102/plan:1383145/setid:703655/pid:956036"
+      ],
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式予約カレンダーから11月2日のプラン詳細を実読。4名限定、料金内訳、昼食差額、ロッカー込みを照合。"
+    },
+    {
+      "id": 334,
+      "field": "budget",
+      "url": "https://www.taka-golf.co.jp/",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "reason": "取得タイムアウト。3秒以上経過後の1回再試行もタイムアウト。"
+    },
+    {
+      "id": 335,
+      "field": "budget",
+      "url": "https://www.suginosato.co.jp/",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "reason": "初回タイムアウト、3秒以上経過後の1回再試行は502。"
+    },
+    {
+      "id": 330,
+      "field": "budget",
+      "url": "https://nanmajo.golf-web.jp/",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "reason": "初回502、3秒以上経過後の1回再試行も502。"
+    },
+    {
+      "id": 356,
+      "field": "budget",
+      "url": "https://thomson-cc.com/fee.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "検索取得では料金表がJavaScript表示で金額なし。HTML直接取得は503、3秒以上経過後の再試行も503。"
+    },
+    {
+      "id": 357,
+      "field": "budget",
+      "url": "https://www.touricc.com/playguide.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式利用案内は会員同伴・紹介原則で会員から予約。公式ニュースは特別室料金のみで基本プレー料金は確認できず。"
+    }
+  ]
+}

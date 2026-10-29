@@ -1444,7 +1444,7 @@
       "name": "大多喜城ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/ohtakijo/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -1453,7 +1453,7 @@
       "name": "小見川東急ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/omigawa/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -1469,7 +1469,7 @@
       "name": "勝浦東急ゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/katsuura/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -1478,7 +1478,7 @@
       "name": "季美の森ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/kimi/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -1502,7 +1502,7 @@
       "name": "芝山ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/shibayama/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -1965,7 +1965,7 @@
       "name": "ミルフィーユゴルフクラブ",
       "field": "scenery",
       "officialUrl": "https://www.milgolf.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -2111,7 +2111,7 @@
       "name": "船橋カントリークラブ",
       "field": "scenery",
       "officialUrl": "https://www.funabashicc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -2427,7 +2427,7 @@
       "name": "猿島カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/sashima/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -3040,7 +3040,7 @@
       "name": "筑波東急ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/tsukuba/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
@@ -3143,14 +3143,17 @@
       "name": "栃木ヶ丘ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://tgc18.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 330,
       "name": "南摩城カントリークラブ",
       "field": "budget",
       "officialUrl": "https://nanmajo.golf-web.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029ag.json"
     },
     {
       "id": 331,
@@ -3182,7 +3185,8 @@
       "name": "鷹ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.taka-golf.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029ag.json"
     },
     {
       "id": 335,
@@ -3196,7 +3200,8 @@
       "name": "杉ノ郷カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.suginosato.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029ag.json"
     },
     {
       "id": 335,
@@ -3279,7 +3284,9 @@
       "name": "小山ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.oyamagolf.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 342,
@@ -3393,7 +3400,8 @@
       "name": "トムソンカントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://thomson-cc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ag.json"
     },
     {
       "id": 356,
@@ -3407,7 +3415,8 @@
       "name": "桃里カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.touricc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ag.json"
     },
     {
       "id": 357,
@@ -3826,7 +3835,9 @@
       "name": "東武藤が丘カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tobufujigaokacc.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 393,
@@ -3858,21 +3869,27 @@
       "name": "ラインヒルゴルフクラブ",
       "field": "rail",
       "officialUrl": "https://www.linehill2026.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 394,
       "name": "ラインヒルゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.linehill2026.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 394,
       "name": "ラインヒルゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.linehill2026.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 395,
@@ -3926,7 +3943,9 @@
       "name": "宮の森カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.miyanomoricc.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ag.json",
+      "evidenceBatch": "verified-followup-20261029ag.json"
     },
     {
       "id": 403,
@@ -4346,7 +4365,7 @@
       "name": "板倉ゴルフ場",
       "field": "budget",
       "officialUrl": "https://www.tokyu-golf-resort.com/itakura/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029af.json"
     },
