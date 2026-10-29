@@ -1,0 +1,35 @@
+{
+  "baseSha256": "3f8fbd9f1791130b5ab4390194013e968cf96af5d0b58b3b2d5e02dee624c9e1",
+  "reviewed": true,
+  "reviewer": "Codex official content review",
+  "updates": [
+    {
+      "id": 119,
+      "name": "太平洋クラブ 江南コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "2026年12月31日と2027年1月1日の特別営業日は、浴室を利用できません。通常日の浴室利用条件、温泉・宿泊設備は未確認です。",
+        "url": "https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q1qz.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "各コースの大晦日・元日特別営業告知で対象年月日と浴室利用不可を確認。元日の出典：https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q26x.html 。特別日の制限を通常営業へ一般化しない。"
+      },
+      "evidenceNote": "各コースの大晦日・元日特別営業告知で対象年月日と浴室利用不可を確認。元日の出典：https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q26x.html 。特別日の制限を通常営業へ一般化しない。"
+    },
+    {
+      "id": 295,
+      "name": "太平洋クラブ美野里コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "2026年12月31日と2027年1月1日の特別営業日は、浴室を利用できません。通常日の浴室利用条件、温泉・宿泊設備は未確認です。",
+        "url": "https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000q3ef.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "各コースの大晦日・元日特別営業告知で対象年月日と浴室利用不可を確認。元日の出典：https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000qbbf.html 。特別日の制限を通常営業へ一般化しない。"
+      },
+      "evidenceNote": "各コースの大晦日・元日特別営業告知で対象年月日と浴室利用不可を確認。元日の出典：https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000qbbf.html 。特別日の制限を通常営業へ一般化しない。"
+    }
+  ]
+}

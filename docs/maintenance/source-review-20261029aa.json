@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": 119,
+      "field": "stay",
+      "url": "https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q1qz.html",
+      "additionalUrl": "https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q26x.html",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "2026年12月31日と2027年1月1日の特別営業日は、浴室を利用できません。通常日の浴室利用条件、温泉・宿泊設備は未確認です。",
+      "scope": "partial: special-date bath restrictions only; ordinary bath and lodging unconfirmed"
+    },
+    {
+      "id": 295,
+      "field": "stay",
+      "url": "https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000q3ef.html",
+      "additionalUrl": "https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000qbbf.html",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "2026年12月31日と2027年1月1日の特別営業日は、浴室を利用できません。通常日の浴室利用条件、温泉・宿泊設備は未確認です。",
+      "scope": "partial: special-date bath restrictions only; ordinary bath and lodging unconfirmed"
+    },
+    {
+      "id": 261,
+      "field": "stay",
+      "url": "https://www.sakuranomiyagc.jp/facility_other.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "施設ページの写真を目視確認。受付・ロビー・レストラン等の写真から浴場・宿泊設備を確認できず、設備なしとは判定しない。",
+      "imagesReviewed": [
+        "https://www.sakuranomiyagc.jp/images/faci01.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci16.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci03.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci17.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci05.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci06.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci07.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci08.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci09.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci10.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci11.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci18.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci19.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci14.jpg",
+        "https://www.sakuranomiyagc.jp/images/faci20.jpg"
+      ]
+    },
+    {
+      "id": 287,
+      "field": "stay",
+      "url": "https://shiraho.jp/house.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "施設ページの写真を目視確認。受付・ロビー・レストラン等の写真から浴場・宿泊設備を確認できず、設備なしとは判定しない。",
+      "imagesReviewed": [
+        "https://shiraho.jp/images/house/house01.jpg",
+        "https://shiraho.jp/images/house/house02.jpg",
+        "https://shiraho.jp/images/house/house03.jpg",
+        "https://shiraho.jp/images/house/house06.jpg"
+      ]
+    },
+    {
+      "id": 486,
+      "field": "stay",
+      "url": "https://sagamino-cc.jp/club-house.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "施設ページの写真を目視確認。受付・ロビー・レストラン等の写真から浴場・宿泊設備を確認できず、設備なしとは判定しない。",
+      "imagesReviewed": [
+        "https://sagamino-cc.jp/images/img_1488237x158.jpg?crc=3758734184",
+        "https://sagamino-cc.jp/images/_jjj2503237x186.jpg?crc=244760441",
+        "https://sagamino-cc.jp/images/_rrr3555237x158.jpg?crc=426613785",
+        "https://sagamino-cc.jp/images/img_1482237x158.jpg?crc=4175962138",
+        "https://sagamino-cc.jp/images/_rrr3483237x158.jpg?crc=3972695535",
+        "https://sagamino-cc.jp/images/_rrr3494237x158.jpg?crc=137501554",
+        "https://sagamino-cc.jp/images/_rrr3501237x158.jpg?crc=3870504984",
+        "https://sagamino-cc.jp/images/_rrr3509237x158.jpg?crc=4063552991",
+        "https://sagamino-cc.jp/images/_rrr3512237x158.jpg?crc=347012132",
+        "https://sagamino-cc.jp/images/_rrr3532237x158.jpg?crc=69589595",
+        "https://sagamino-cc.jp/images/_rrr3549237x158.jpg?crc=36913220",
+        "https://sagamino-cc.jp/images/_rrr3567237x158.jpg?crc=4191484557",
+        "https://sagamino-cc.jp/images/_rrr3553237x158.jpg?crc=319732740",
+        "https://sagamino-cc.jp/images/img_1483237x158.jpg?crc=347473201",
+        "https://sagamino-cc.jp/images/_rrr3571237x158.jpg?crc=3967807436"
+      ]
+    },
+    {
+      "id": 437,
+      "field": "stay",
+      "url": "https://www.musashi-cc.co.jp/courses/sasai_clubhouse/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式ドメインの浴室情報を検索。2020～2023年の感染症対策告知は発見したが現在の営業時間に転用しない。現行利用約款だけでは設備・営業状況を確定しない。"
+    },
+    {
+      "id": 438,
+      "field": "stay",
+      "url": "https://www.musashi-cc.co.jp/courses/toyooka_clubhouse/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式ドメインの浴室情報を検索。2020～2023年の感染症対策告知は発見したが現在の営業時間に転用しない。現行利用約款だけでは設備・営業状況を確定しない。"
+    }
+  ]
+}

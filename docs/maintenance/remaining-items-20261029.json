@@ -800,7 +800,10 @@
       "name": "太平洋クラブ 江南コース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/kohnan/information.html",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029aa.json",
+      "evidenceBatch": "verified-followup-20261029aa.json",
+      "remainingDetail": "通常日の浴室利用条件、温泉・宿泊設備は未確認"
     },
     {
       "id": 123,
@@ -2178,7 +2181,7 @@
       "field": "stay",
       "officialUrl": "https://www.sakuranomiyagc.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029u.json",
+      "reviewRecord": "source-review-20261029aa.json",
       "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
@@ -2559,7 +2562,7 @@
       "field": "stay",
       "officialUrl": "http://shiraho.jp",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029u.json",
+      "reviewRecord": "source-review-20261029aa.json",
       "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
@@ -2674,7 +2677,10 @@
       "name": "太平洋クラブ美野里コース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/minori/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029aa.json",
+      "evidenceBatch": "verified-followup-20261029aa.json",
+      "remainingDetail": "通常日の浴室利用条件、温泉・宿泊設備は未確認"
     },
     {
       "id": 296,
@@ -3719,7 +3725,7 @@
       "name": "太平洋クラブ 佐野ヒルクレストコース",
       "field": "budget",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029z.json",
       "evidenceBatch": "verified-followup-20261029z.json"
     },
@@ -4133,7 +4139,7 @@
       "field": "stay",
       "officialUrl": "https://www.musashi-cc.co.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029u.json",
+      "reviewRecord": "source-review-20261029aa.json",
       "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
@@ -4142,7 +4148,7 @@
       "field": "stay",
       "officialUrl": "https://www.musashi-cc.co.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029u.json",
+      "reviewRecord": "source-review-20261029aa.json",
       "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
@@ -4498,7 +4504,7 @@
       "name": "太平洋クラブ 高崎コース",
       "field": "budget",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029z.json",
       "evidenceBatch": "verified-followup-20261029z.json"
     },
@@ -4532,7 +4538,7 @@
       "field": "stay",
       "officialUrl": "https://sagamino-cc.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029u.json",
+      "reviewRecord": "source-review-20261029aa.json",
       "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
