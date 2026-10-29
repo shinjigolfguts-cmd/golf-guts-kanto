@@ -1260,7 +1260,17 @@ const DATA={
             "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec488.jpg"
           ]
         },
-        "stay": null,
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=65&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r64f91a87.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=65"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "平坦で緑豊かな18ホール。夜は全ホールのLED照明がコースを照らし、昼間とは違う景色でプレーできます。",
@@ -4059,7 +4069,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式ホテル案内で徒歩1分、全室バス・トイレ、入退室時刻を確認。客室の浴室をクラブハウス大浴場と混同しない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の公式カレンダー例は昼食付き1R乗用カートセルフ7,900円（利用税・消費税込み）。ロッカーは300円別。日別特別料金や人数割増があるため、予約日の条件を確認してください。",
+          "url": "https://shirosato-gc.com/fee.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年11月カレンダー画像で2日7,900円を目視し、本文の1R・昼食・4Bカート・税とロッカー別料金を照合。日付別の通常料金とサービス日を区別。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例・1R昼食付7,900円",
+          "conditions": "2026年11月2日の公式料金例、1R乗用カートセルフ、4B基準・昼食付。グリーンフィ・諸経費・4Bカートフィ・利用税400円・消費税10％を含む。ロッカー300円別、2Bは平日1,100円・土日祝1,100～3,300円の割増案内。食事の追加料金・3Bの扱いは利用前確認。料金変更や特定日あり、別日に一律適用しない。"
+        },
         "scenery": {
           "text": "フラットで広々としたコースの見通しが特徴。開放的なフェアウェイの広がりを楽しむタイプのコースです。",
           "url": "https://shirosato-gc.com/course.html",
@@ -4236,7 +4255,16 @@ const DATA={
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の基本料金は1組3～4人の1Rセルフ7,990円、昼食付き。利用税600円・入湯税50円・消費税込み。2人利用は別条件です。",
+          "url": "https://www.chifuriko.co.jp/reserve/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026年11月画像の2日7,990円・昼食付と左欄3～4名セルフ1R・税の説明を目視照合。会員・年齢・県民限定の割引料金を使用しない。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例・3～4人セルフ7,990円",
+          "conditions": "2026年11月2日、1組3～4人のセルフ1ラウンド基本料金、昼食付、ゴルフ場利用税600円・入湯税50円・消費税込み。2B割増・メニュー差額・ロッカー等の別費用は利用前確認。別日やイベント参加費・会員/年齢/居住地別優待とは区別。"
+        },
         "scenery": {
           "text": "標高500mの那須高原から那須連山を望むロケーション。山並みと高原の緑を楽しめます。",
           "url": "https://www.chifuriko.co.jp/",
@@ -7278,7 +7306,17 @@ const DATA={
           "conditions": "朝は酒類・おつまみ・ソフトドリンクのみ。8時開店を朝食提供ありにしない。",
           "basis": "夜間の公式本文確認台帳 KANTO-20261027-D05 を施設名・都県照合して反映。原確認日を保持。"
         },
-        "stay": null,
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=154&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/154/r64f06118.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=154"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "クラブハウスから伊勢原・平塚の街並みを見渡す眺望。相模湾や湘南・江の島まで広がる景色が特徴です。",
@@ -8574,7 +8612,17 @@ const DATA={
           "conditions": "終了済み。10月の現行名物料理には採用しない。",
           "basis": "夜間の公式本文確認台帳 KANTO-20261027-C14 を施設名・都県照合して反映。原確認日を保持。"
         },
-        "stay": null,
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=75&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/75/r65371627.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=75"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "奥武蔵の自然を楽しめるコース。アウトコースには平坦で広々とした、開放感のある景観が広がります。",
@@ -8762,7 +8810,17 @@ const DATA={
           "dish": "担々麺",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=47&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/47/r64f1872d.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=47"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "自然林に包まれたフラットな林間コース。静かな雰囲気の中で木立の風景を楽しめます。",
@@ -10486,7 +10544,19 @@ const DATA={
           "basis": "公式レストランメニュー本文",
           "dish": "いちはらチャーシューの濃厚海老みそラーメン"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の公式セルフ料金例は昼食付き14,500円。グリーンフィ・利用税・ゴルファー保険・カート費・消費税込み。2バッグは平日1,700円、土日祝4,600円を追加します。",
+          "url": "https://www.cpg.co.jp/wp/wp-content/uploads/2026/10/1792970146.pdf",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年10月15日更新の公式料金案内からリンクされたPDF原画像を確認。2026年11月2日の14,500円と、セルフ料金の含有費用・2B割増を照合。年齢・コンペ割引後の価格と混同しない。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例・セルフ昼食付14,500円",
+          "conditions": "2026年11月2日のセルフ料金例。昼食・グリーンフィ・利用税・ゴルファー保険・カート費・消費税込み。2B平日+1,700円、土日祝+4,600円。11月2日は3組9名以上500円引・5組以上1,500円引の記載あり、各種割引併用不可。ホール数・3B割増・ロッカー等は表で未明記のため予約時確認。別日やセルフデーには一律適用しない。",
+          "supportingUrls": [
+            "https://www.cpg.co.jp/news/211/"
+          ]
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式施設案内でラウンド後に利用する浴室を紹介しています。",
           "url": "https://www.cpg.co.jp/facility/",
@@ -11587,7 +11657,17 @@ const DATA={
           "basis": "公式ゴルフ場情報のレストラン欄で営業時間・朝食なし・コンペ事前予約を確認。"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=161&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r64f02db7.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=161"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/161.html"
@@ -12651,7 +12731,17 @@ const DATA={
           ]
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=61&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r64eef7e8.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=61"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/61.html",
@@ -12694,7 +12784,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=55&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/55/r64ffc611.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=55"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/55.html"
@@ -13478,7 +13578,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=56&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/56/r64ee9ca9.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=56"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/56.html"
@@ -13515,7 +13625,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/63/r64f02dc2.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=63"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/63.html",
@@ -13609,7 +13729,17 @@ const DATA={
           "basis": "公式ゴルフ場情報のレストラン欄で全日8:30からランチ終了まで・パーティ事前予約と明記。"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=168&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/168/r64eeb042.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=168"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/168.html"
@@ -14811,7 +14941,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=44&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee86d8.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=44"
+          ]
+        }
       },
       "id": 262
     },
@@ -14849,7 +14989,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=43&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/43/r64ec5201.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=43"
+          ]
+        }
       },
       "id": 263
     },
@@ -14887,7 +15037,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=151&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/151/r64ef034d.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=151"
+          ]
+        }
       },
       "id": 264
     },
@@ -14932,7 +15092,17 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=39&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r64ec275b.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=39"
+          ]
+        }
       },
       "id": 265
     },
@@ -14970,7 +15140,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=38&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/38/r64f02d43.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=38"
+          ]
+        }
       },
       "id": 266
     },
@@ -15015,7 +15195,17 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=40&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r64f18018.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=40"
+          ]
+        }
       },
       "id": 267
     },
@@ -15060,7 +15250,17 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=45&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r64ec5074.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=45"
+          ]
+        }
       },
       "id": 268
     },
@@ -15093,7 +15293,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=46&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/46/r64f5824a.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=46"
+          ]
+        }
       },
       "id": 269
     },
@@ -15131,7 +15341,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=157&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/157/r64eed90f.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=157"
+          ]
+        }
       },
       "id": 270
     },
@@ -15169,7 +15389,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=172&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/172/r64efc196.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=172"
+          ]
+        }
       },
       "id": 271
     },
@@ -16496,7 +16726,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=42&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/42/r64eda118.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=42"
+          ]
+        }
       },
       "id": 298
     },
@@ -16534,7 +16774,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=41&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/41/r64ed088c.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=41"
+          ]
+        }
       },
       "id": 299
     },
@@ -20175,7 +20425,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=34&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/34/r64ef1d5f.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=34"
+          ]
+        }
       },
       "id": 370
     },
@@ -20317,7 +20577,17 @@ const DATA={
           ]
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r64f186a8.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=31"
+          ]
+        }
       },
       "id": 373
     },
@@ -20356,7 +20626,17 @@ const DATA={
           "basis": "公式ゴルフ場情報でレストランなし、売店の販売内容と11時以降の利用条件を確認。"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設写真で、シャワー付きの洗い場を確認できます。浴槽・温泉・サウナ・宿泊設備、利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、壁のシャワー設備・洗い場を確認。浴槽は写真の範囲で未確認のためあるとは記載しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/32/r64f67dda.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=32"
+          ]
+        }
       },
       "id": 374
     },
@@ -20395,7 +20675,17 @@ const DATA={
           "basis": "公式ゴルフ場情報のレストラン欄で昼食のみ・朝食なしを確認。"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/26/r64ec440f.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=26"
+          ]
+        }
       },
       "id": 375
     },
@@ -20441,7 +20731,17 @@ const DATA={
           ]
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r64f02348.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=37"
+          ]
+        }
       },
       "id": 376
     },
@@ -24740,10 +25040,14 @@ const DATA={
         },
         "dining": null,
         "stay": {
-          "text": "浴場があり、ボディソープ・シャンプー・コンディショナーを備えています。宿泊施設はありません。",
-          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/detail",
-          "checked": "2026-10-25",
-          "basis": "公式施設案内の浴室・宿泊設備欄を確認"
+          "text": "浴場があり、ボディソープ・シャンプー・コンディショナーを備えています。宿泊施設はありません。 2026年10月29日の公式告知では男性浴槽の営業を自粛し、男性はシャワーのみと案内。女性浴室は問題なしとされています。再開時期は未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/notice/#notice_12716630",
+          "checked": "2026-10-29",
+          "basis": "10月29日付公式告知の男性浴槽営業自粛・シャワーのみ・女性浴室問題なしを確認。既存の設備と宿泊情報を保持し、現在の営業制限を追記。",
+          "sourceType": "official",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/detail"
+          ]
         },
         "budget": null
       },
@@ -25309,7 +25613,16 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。宿泊施設と源泉掛け流しの天然温泉「優游の湯」を備えています。"
         },
-        "budget": null
+        "budget": {
+          "text": "2026年11月2日のゲスト4バッグ・セルフは11,000円（ゴルフ場利用税・入湯税・消費税込み）。2～3バッグは追加料金があり、2バッグでは組合わせの場合があります。",
+          "url": "https://www.karuizawa-kogen.com/price/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026年ゲスト料金見出し、11月画像の2日11,000円、4バッグセルフと税の注記を目視照合。食事マークのない通常日を昼食付サービス日と混同しない。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例・4Bセルフ11,000円",
+          "conditions": "2026年11月2日ゲスト4バッグセルフ。ゴルフ場利用税・入湯税・消費税込み。4～6・10・11月（4/29～5/5除く）のセルフ3B+800円、2B+1,500円。2Bは組合わせの場合あり。通常日の昼食含否・ホール数・日別変更は予約時確認。サービスデーや宿泊パックとは別。"
+        }
       },
       "id": 471
     },
@@ -26240,7 +26553,17 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=66&p=guide.gallery#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿のクラブハウス写真を目視し、浴槽のある浴室を確認。写真だけで温泉・サウナや営業時刻、全プランでの利用可を推測しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/66/r64ee7f8c.jpg",
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=66"
+          ]
+        }
       },
       "id": 489
     },
