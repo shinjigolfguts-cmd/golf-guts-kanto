@@ -10721,10 +10721,15 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "car": {
-          "text": "木更津東ICから約15分、市原ICから約20分。",
-          "url": "https://national-cc.jp/chiba/access/",
-          "checked": "2026-10-24",
-          "basis": "公式アクセス案内。所要時間は目安。"
+          "text": "通常の目安は木更津東ICから約15分、市原ICから約20分。ただし2026年10月15日の公式案内では、木更津東ICからの経路に通行止めがあり、市原ICまたは姉崎袖ケ浦IC経由を案内しています。来場前に最新の道路状況を確認してください。",
+          "url": "https://national-cc.jp/chiba/news/%E3%80%90%E5%8F%B0%E9%A2%A825%E5%8F%B7%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85%E3%80%91/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "通常アクセス本文と2026/10/15の台風25号・周辺道路案内を読み合わせた。従来の目安を保持し、日付付き規制情報を補足。",
+          "conditions": "10/15時点の公式発表。規制解除や迂回時の所要時間は未確認。",
+          "supportingUrls": [
+            "https://national-cc.jp/chiba/access/"
+          ]
         },
         "rail": {
           "text": "JR内房線・五井駅東口からクラブバス約25分。前日16時までの完全予約制。",
@@ -10738,7 +10743,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食には海老天重、肉味噌担々麺、豚バラキムチ鉄板炒めなど。海老天重は税込1,870円、食事付きプランでは追加330円の掲載です。仕入れ状況で内容が変わる場合があります。",
+          "url": "https://national-cc.jp/chiba/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設案内から現行14頁PDFに進み、1〜3頁を画像で目視。料理名、税込表示、通常価格と食事付き追加額を区別。",
+          "conditions": "食事付きプランの適用は予約内容を確認。日付固定の特別料金や全プラン共通とは扱わない。",
+          "supportingUrls": [
+            "https://national-cc.jp/chiba1/wp-content/uploads/2026/10/chiba.menu_lunch-.pdf"
+          ]
+        },
         "budget": null,
         "stay": {
           "text": "クラブハウスに浴場を備えています。公式施設案内に浴場の写真が掲載されています。",
@@ -11711,10 +11726,15 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "car": {
-          "text": "木更津東ICから約10分。姉崎袖ケ浦ICから約20分。",
+          "text": "通常の目安は木更津東ICから約10分、姉崎袖ケ浦ICから約20分。公式は正門側の県道160号線を案内し、北側の狭い経路を推奨していません。2026年10月8日掲載の案内では、手前に通行止め看板があっても指定経路でゴルフ場まで通行できるとしています。",
           "url": "https://www.ccjapan.jp/access.html",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文を確認。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "アクセス本文の所要時間と正門側指定、およびトップ2026/10/8掲載の交通案内を確認。案内には土砂崩れによる片側1車線通行箇所がある。",
+          "conditions": "当日の規制・所要時間は変動するため最新の公式案内を確認。通行止め看板を任意に無視する案内ではなく、クラブ指定経路の説明。",
+          "supportingUrls": [
+            "https://www.ccjapan.jp/pg1442011.html"
+          ]
         },
         "rail": {
           "text": "木更津駅東口からクラブバス約35分。前日の営業時間内までの完全予約制。",
@@ -11722,8 +11742,21 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "scenery": null,
-        "dining": null,
+        "scenery": {
+          "text": "バックナインには大地の起伏があり、樹木と空を背景にしたホールが続きます。",
+          "url": "https://www.ccjapan.jp/course/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップからリンクされたコース説明の、バックナインの地形・樹木・空の記載を確認。"
+        },
+        "dining": {
+          "text": "公式掲載の昼食に、15食限定のジャパン寿司会席御膳、国産牛フィレステーキ御膳、揚げ立て特選天丼などがあります。",
+          "url": "https://www.ccjapan.jp/cn7/pg937030.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップから現行ランチページに進み、料理名と寿司会席15食限定を確認。夏限定と明示された別料理は現在提供と断定せず不採用。",
+          "conditions": "掲載メニューには季節限定品が含まれるため、当日の提供内容はクラブへ確認。"
+        },
         "budget": {
           "text": "ゲスト4名キャディ付き1Rは平日24,250円、土曜46,250円、日祝44,050円。カート・諸経費・利用税・消費税込み、食事別。3名は1,430円、2名は6,600円追加。",
           "url": "https://www.ccjapan.jp/cn3/season-fee.html",
@@ -11733,7 +11766,14 @@ const DATA={
           "priceLabel": "平日24,250円／土日祝44,050～46,250円",
           "conditions": "公式基本料金、ゲスト4B、キャディ付き乗用カート1R。食事別。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスには浴室があります。迎賓館にはスイートルームとスタンダードルームの客室を案内しています。宿泊の利用資格・予約方法・料金、浴室の営業時間は未確認です。",
+          "url": "https://www.ccjapan.jp/cn6/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介のクラブハウス本文に浴室、迎賓館の客室見出しにスイート・スタンダードの記載を確認。",
+          "conditions": "客室の存在と予約可能条件を区別。一般利用可、温泉、営業時刻は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.ccjapan.jp/",
@@ -12433,12 +12473,27 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "car": {
-          "text": "佐倉ICから約15分（12km）。",
+          "text": "佐倉ICから約15分（12km）。山田ICからは約10分（7km）が公式経路図の目安です。",
           "url": "https://www.c-birdie.com/access/",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文を確認。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存の佐倉IC所要時間・距離を保持し、公式経路図route.jpgに記載された山田IC10分7kmを補足。",
+          "conditions": "交通状況によって所要時間は変動。都市からICまでの時間をコースまでの時間に流用しない。",
+          "supportingUrls": [
+            "https://www.c-birdie.com/assets/img/access/route.jpg"
+          ]
         },
-        "rail": null,
+        "rail": {
+          "text": "JR総武本線の八街駅からタクシーで約15分（公式経路図の目安）。",
+          "url": "https://www.c-birdie.com/access/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式アクセスページのroute.jpgを目視。電車欄に東京→八街、八街からタクシー約15分と明記。",
+          "conditions": "所要時間は交通状況により変動。図のタクシー料金目安は改定日が不明のため追記しない。",
+          "supportingUrls": [
+            "https://www.c-birdie.com/assets/img/access/route.jpg"
+          ]
+        },
         "scenery": {
           "text": "季節ごとに表情を変える、自然豊かなコース。",
           "url": "https://www.c-birdie.com/access/",
@@ -12501,7 +12556,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "朝食に焼き魚・納豆などの和朝食、卵・ベーコン・トーストなどの洋朝食を掲載。レストランは7時〜16時、ラストオーダー15時30分の案内です。昼食の具体的な料理は今回未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "現行朝食画像902_27_20250930191004.jpg.webpを目視。和朝食・洋朝食の内容と本文の営業時間を確認。",
+          "conditions": "7時〜16時はレストラン全体の営業時間であり、朝食を終日提供するとは扱わない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/902_27_20250930191004.jpg.webp"
+          ]
+        },
         "budget": null,
         "stay": {
           "text": "浴場にはシャワーブースがあり、女性用の個室パウダールームも備えています。午前スループレーはシャワーのみです。宿泊施設はありません。",
@@ -12659,7 +12724,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "朝食は7時〜9時30分、昼食は9時30分〜14時の案内（季節で変動）。パーティーは冷製・温製料理、麺類またはご飯などのプランがあり、2組6名以上・プレー日の1週間前までの予約が必要です。通常昼食の料理名は今回未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式本文の朝昼営業時間・予約期限と、現行パーティー画像012_23_20250903141109.jpg.webpの料理構成・2組6名以上条件を目視確認。",
+          "conditions": "昼食ラストオーダーはレギュラー最終組終了まで。レストラン全体は7時〜16時、ラストオーダー15時30分。仕入れ状況で料理変更あり。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/012_23_20250903141109.jpg.webp"
+          ]
+        },
         "budget": null,
         "stay": {
           "text": "入浴の利用時間は10:00〜18:00です。日の出スルーはシャワーのみ、午後スルーもシャワーのみとなる場合があります。宿泊施設はありません。",
