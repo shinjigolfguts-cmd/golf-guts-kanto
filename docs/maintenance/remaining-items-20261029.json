@@ -52,7 +52,7 @@
       "name": "アジア取手カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.asia-toride.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "evidenceBatch": "verified-followup-20261029y.json"
     },
@@ -290,7 +290,8 @@
       "name": "ゴルフ5カントリー オークビレッヂ",
       "field": "budget",
       "officialUrl": "https://www.alpen-group.net/oakvillage/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 53,
@@ -397,7 +398,8 @@
       "name": "宇都宮カンツリークラブ",
       "field": "budget",
       "officialUrl": "https://www.utsunomiya-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 70,
@@ -509,7 +511,7 @@
       "name": "ダイナミックゴルフ千葉",
       "field": "dining",
       "officialUrl": "https://dynamic-golf.jp/chiba/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "evidenceBatch": "verified-followup-20261029y.json"
     },
@@ -1202,7 +1204,8 @@
       "name": "加茂ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://kamogolfclub.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 179,
@@ -1358,7 +1361,8 @@
       "name": "長南カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.chonan-cc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 196,
@@ -2036,7 +2040,7 @@
       "name": "ブリック＆ウッドクラブ",
       "field": "dining",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "evidenceBatch": "verified-followup-20261029y.json"
     },
@@ -2052,7 +2056,8 @@
       "name": "銚子カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.unimat-golf.jp/choshi/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 249,
@@ -2142,7 +2147,8 @@
       "name": "ゴルフ倶楽部セブンレイクス",
       "field": "budget",
       "officialUrl": "https://sevenlakes.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 260,
@@ -2485,14 +2491,16 @@
       "name": "ゴルフ5カントリーかさまフォレスト",
       "field": "budget",
       "officialUrl": "https://www.alpen-group.net/kasama-forest/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 282,
       "name": "ゴルフ5カントリーサニーフィールド",
       "field": "budget",
       "officialUrl": "https://www.alpen-group.net/sunnyfield/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 283,
@@ -2520,7 +2528,8 @@
       "name": "サミットゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.summit-golf-club.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 286,
@@ -2541,7 +2550,8 @@
       "name": "白帆カントリークラブ",
       "field": "budget",
       "officialUrl": "http://shiraho.jp",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 287,
@@ -2679,7 +2689,7 @@
       "name": "高萩カントリークラブ",
       "field": "dining",
       "officialUrl": "http://www.takahagi-cc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "evidenceBatch": "verified-followup-20261029y.json"
     },
@@ -2864,7 +2874,7 @@
       "name": "ひたち大宮ゴルフクラブ",
       "field": "stay",
       "officialUrl": "http://kabayagc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。",
       "evidenceBatch": "verified-followup-20261029y.json"
@@ -2973,7 +2983,7 @@
       "field": "budget",
       "officialUrl": "http://onewaygc.co.jp",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029w.json"
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 318,
@@ -3018,7 +3028,8 @@
       "name": "ウィンザーパークゴルフアンドカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.wpgcc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 323,
@@ -3102,7 +3113,8 @@
       "name": "鬼怒川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://kinugawacc.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 333,
@@ -3267,7 +3279,8 @@
       "name": "新宇都宮カントリークラブ",
       "field": "budget",
       "officialUrl": "https://shinutsu.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 351,
@@ -3419,7 +3432,8 @@
       "name": "レイクランドカントリークラブ",
       "field": "budget",
       "officialUrl": "https://lakelandcc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 367,
@@ -3658,7 +3672,8 @@
       "name": "足利カントリークラブ 多幸コース",
       "field": "budget",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 383,
@@ -3680,7 +3695,8 @@
       "name": "足利カントリークラブ 飛駒コース",
       "field": "budget",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 384,
@@ -3703,7 +3719,9 @@
       "name": "太平洋クラブ 佐野ヒルクレストコース",
       "field": "budget",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029z.json",
+      "evidenceBatch": "verified-followup-20261029z.json"
     },
     {
       "id": 387,
@@ -3761,7 +3779,7 @@
       "name": "25那須ゴルフガーデン",
       "field": "dining",
       "officialUrl": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "evidenceBatch": "verified-followup-20261029y.json"
     },
@@ -3829,7 +3847,8 @@
       "name": "都賀カンツリー倶楽部",
       "field": "budget",
       "officialUrl": "http://www.tsugacc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 399,
@@ -3971,7 +3990,8 @@
       "name": "オリムピックナショナルゴルフクラブ EAST",
       "field": "budget",
       "officialUrl": "https://www.olympicnational.co.jp/east/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 424,
@@ -3986,7 +4006,8 @@
       "name": "オリムピックナショナルゴルフクラブ WEST",
       "field": "budget",
       "officialUrl": "https://www.olympicnational.co.jp/west/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 426,
@@ -4094,7 +4115,8 @@
       "name": "平成倶楽部 鉢形城コース",
       "field": "budget",
       "officialUrl": "https://www.yc21.co.jp/heisei/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 435,
@@ -4156,7 +4178,7 @@
       "name": "東都秩父カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.toto-motors.co.jp/golf/chichibu/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029y.json",
       "evidenceBatch": "verified-followup-20261029y.json"
     },
@@ -4181,14 +4203,16 @@
       "name": "下仁田カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.shimonitacc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 450,
       "name": "桐生カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.kiryucc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 452,
@@ -4211,7 +4235,8 @@
       "name": "髙梨子倶楽部",
       "field": "budget",
       "officialUrl": "https://www.takanashiclub.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029z.json"
     },
     {
       "id": 455,
@@ -4473,7 +4498,9 @@
       "name": "太平洋クラブ 高崎コース",
       "field": "budget",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029z.json",
+      "evidenceBatch": "verified-followup-20261029z.json"
     },
     {
       "id": 481,

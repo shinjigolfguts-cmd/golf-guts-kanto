@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "id": 387,
+      "field": "budget",
+      "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/price.html",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "finding": "ゲストのセルフ料金は平日15,900円、土日祝26,000円。消費税込みで、ゴルフ場利用税1,000円・育成協力金50円は別途。",
+      "conditions": "4～6月・10～12月は平日メンバー紹介、土日祝メンバー同伴。7～9月・1～3月は全日メンバー紹介。4～6月・10～12月の日曜日にはメンバー専用枠あり。食事の含有・人数条件・適用日は予約時に確認。"
+    },
+    {
+      "id": 480,
+      "field": "budget",
+      "url": "https://www.taiheiyoclub.co.jp/course/takasaki/price.html",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "finding": "ゲストのセルフ料金は平日8,420円、土日祝15,240円。消費税込みで、ゴルフ場利用税600円・振興基金30円・育成協力金50円は別途。",
+      "conditions": "全日メンバー紹介が必要。食事の含有・人数条件・適用日は予約時に確認。"
+    },
+    {
+      "id": 51,
+      "field": "budget",
+      "url": "https://www.alpen-group.net/oakvillage/reserve/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "一般ゲスト料金は予約カレンダー参照。掲載の会員料金をゲスト料金に転用しない。"
+    },
+    {
+      "id": 260,
+      "field": "budget",
+      "url": "https://sevenlakes.jp/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "取得した料金本文では基本プレー料金が確認できず、キャンセル料金のみ。カレンダー等の追加確認が必要。"
+    },
+    {
+      "id": 281,
+      "field": "budget",
+      "url": "https://www.alpen-group.net/kasama-forest/reserve/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "基本プレー料金を本文から確認できず、2B割増・追加ハーフ料金を基本料金に転用しない。"
+    },
+    {
+      "id": 282,
+      "field": "budget",
+      "url": "https://www.alpen-group.net/sunnyfield/reserve/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "キャディフィ・バッグ割増・レンタル料金のみ確認。基本プレー料金は別途予約情報の確認が必要。"
+    },
+    {
+      "id": 318,
+      "field": "budget",
+      "url": "https://onewaygc.co.jp/fee/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "公式rates/の2026年10～12月料金画像を追加調査。10月平日画像を目視しWEB会員8,500～10,500円を確認したが、基本料金の税・食事等の条件は未確認。2B割増の税込表記を全体へ転用しない。"
+    },
+    {
+      "id": 349,
+      "field": "budget",
+      "url": "https://shinutsu.com/fee/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "料金本文はGoogleカレンダー参照。キャディ料金・宿泊料金を基本プレー料金に転用しない。"
+    },
+    {
+      "id": 424,
+      "field": "budget",
+      "url": "https://www.olympicnational.co.jp/east/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "公式本文はゲスト4B料金の税条件と追加料金のみ。基本金額は予約ページ確認が必要。"
+    },
+    {
+      "id": 435,
+      "field": "budget",
+      "url": "https://www.yc21.co.jp/heisei/fee.html#event",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "料金・イベント部分はJavaScript表示で本文に基本金額なし。キャンセル料をプレー料金に転用しない。"
+    },
+    {
+      "id": 449,
+      "field": "budget",
+      "url": "https://www.shimonitacc.com/reservation.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "公式料金ページはオンライン料金カレンダーへの案内。ポイント特典・レンタル料金をプレー料金に転用しない。"
+    },
+    {
+      "id": 450,
+      "field": "budget",
+      "url": "https://www.kiryucc.com/reservation.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "公式予約案内は料金カレンダーへ誘導。基本金額を本文で確認できない。"
+    },
+    {
+      "id": 453,
+      "field": "budget",
+      "url": "https://www.takanashiclub.jp/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "公式料金本文はバッグ割増・キャディ料金・ジュニア条件。ジュニア限定料金を一般料金に転用しない。"
+    },
+    {
+      "id": 178,
+      "field": "budget",
+      "url": "https://kamogolfclub.co.jp/fee/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "取得した料金ページの掲載期間は2020～2021年。現在の料金として採用しない。"
+    },
+    {
+      "id": 66,
+      "field": "budget",
+      "url": "https://www.utsunomiya-cc.co.jp/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "取得した料金ページは2020年記念料金。現在の料金として採用しない。"
+    },
+    {
+      "id": 248,
+      "field": "budget",
+      "url": "https://www.unimat-golf.jp/choshi/price/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "通常料金カレンダーの内容確認が残る。宿泊料金を日帰り料金に転用しない。"
+    },
+    {
+      "id": 284,
+      "field": "budget",
+      "url": "https://www.summit-golf-club.jp/playfee/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "外部予約案内。送迎バスパック・宿泊費を日帰りゴルフ基本料金に転用しない。"
+    },
+    {
+      "id": 322,
+      "field": "budget",
+      "url": "https://www.wpgcc.com/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "1泊1R3食の宿泊プランを通常日帰り料金に転用しない。"
+    },
+    {
+      "id": 331,
+      "field": "budget",
+      "url": "https://kinugawacc.jp/reservation/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "キャディ追加料金のみでは基本プレー料金を確定できない。"
+    },
+    {
+      "id": 366,
+      "field": "budget",
+      "url": "https://lakelandcc.co.jp/price/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "バッグ割増・追加ハーフ料金を基本プレー料金に転用しない。"
+    },
+    {
+      "id": 397,
+      "field": "budget",
+      "url": "http://www.tsugacc.co.jp/reservation.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "取得できたHTTP予約ページの追加料金のみでは基本料金を確定できない。HTTPS出典も未確認。"
+    },
+    {
+      "id": 425,
+      "field": "budget",
+      "url": "https://www.olympicnational.co.jp/west/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "追加料金のみでは基本プレー料金を確定できない。"
+    },
+    {
+      "id": 195,
+      "field": "budget",
+      "url": "https://www.chonan-cc.com/fp/fee",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "2026年料金表は確認したが税・食事・人数条件の確認が残る。11月土曜金額に他月との大差があるため推測で修正しない。"
+    },
+    {
+      "id": 383,
+      "field": "budget",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "料金表の期間4/1～6/30は終了済み。10月料金へ転用しない。"
+    },
+    {
+      "id": 384,
+      "field": "budget",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "料金表の期間4/1～6/30は終了済み。10月料金へ転用しない。"
+    },
+    {
+      "id": 287,
+      "field": "budget",
+      "url": "https://shiraho.jp/fee.html",
+      "status": "reviewed_unconfirmed",
+      "checked": "2026-10-29",
+      "reason": "12月・1月・2月の料金表は対象年未確認。曜日と2026年の整合性も確認できず採用しない。"
+    }
+  ]
+}
