@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `5be5c2c375d6671b3b16cb1d846f19368592fb852a6bb14867321a7825e30d17`
+data.js SHA256: `49559c3637ad53b422b464dcc2667f2e0c2f9553ae14ab834daea9ba53df9bb2`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -11,10 +11,10 @@ data.js SHA256: `5be5c2c375d6671b3b16cb1d846f19368592fb852a6bb14867321a7825e30d1
 | 電車のアクセス | 33 |
 | 食事 | 45 |
 | 宿泊・お風呂 | 64 |
-| 料金 | 168 |
+| 料金 | 162 |
 | 景色 | 8 |
 
-空欄を含む施設：248 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：242 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -28,13 +28,8 @@ data.js SHA256: `5be5c2c375d6671b3b16cb1d846f19368592fb852a6bb14867321a7825e30d1
 | 12 | [カメリアヒルズカントリークラブ](https://www.camelliahills.com/) | 食事・宿泊・お風呂・料金 |
 | 18 | [東京ベイサイドゴルフコース](https://www.pacificgolf.co.jp/tokyobayside/index.asp) | 食事 |
 | 19 | [ベルセルバカントリークラブ 市原コース](https://www.belle-co.com/ichihara/) | 食事・料金 |
-| 22 | [烏山城カントリークラブ](https://www.karasuyamajo.com/) | 料金 |
 | 23 | [PGM石岡ゴルフクラブ](https://www.pacificgolf.co.jp/ishioka/tournament.asp) | 宿泊・お風呂 |
-| 28 | [Jゴルフ鶴ヶ島](https://jgt.tatemono-golf.com/access/) | 料金 |
-| 32 | [神奈川カントリークラブ](https://kanagawacc.com/access/) | 料金 |
 | 34 | [大厚木カントリークラブ 本コース](https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access) | 料金 |
-| 36 | [相模原ゴルフクラブ](https://www.sagamihara-gc.co.jp/access/) | 料金 |
-| 40 | [本千葉カントリークラブ](https://honchiba-cc.co.jp/access/) | 料金 |
 | 41 | [千葉松尾ゴルフクラブ](https://matsuogolfclub.jp/facility/) | 料金 |
 | 47 | [水戸・ゴルフ・クラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/) | 料金 |
 | 48 | [真名カントリークラブ ゲーリー・プレーヤーコース](https://www.mannacc.com/course/gp-course) | 料金 |
@@ -197,7 +192,6 @@ data.js SHA256: `5be5c2c375d6671b3b16cb1d846f19368592fb852a6bb14867321a7825e30d1
 | 354 | [栃木カントリークラブ](https://tochigicc.com/) | 料金 |
 | 356 | [トムソンカントリー倶楽部](https://thomson-cc.com/) | 宿泊・お風呂・料金 |
 | 357 | [桃里カントリー倶楽部](https://www.touricc.com/) | 宿泊・お風呂・料金 |
-| 361 | [ニュー・セントアンドリュースゴルフクラブ・ジャパン](https://www.nsaj-gc.com/) | 料金 |
 | 362 | [東ノ宮カントリークラブ](https://banryugolf.com/higashinomiya/) | 宿泊・お風呂 |
 | 364 | [益子カントリー倶楽部](https://www.resol-golf.jp/mashiko/) | 料金 |
 | 365 | [矢板カントリークラブ](https://yaita-cc.com/) | 電車のアクセス |
