@@ -1,0 +1,211 @@
+{
+  "checked": "2026-10-29",
+  "baseline": "bd00367dc68dd702f33d40c2fe7fa1991161597b",
+  "verifiedBatch": "verified-followup-20261029ap.json",
+  "verified": [
+    {
+      "id": 146,
+      "field": "budget",
+      "url": "https://omiyagc.jp/information/"
+    },
+    {
+      "id": 162,
+      "field": "budget",
+      "url": "https://www.goldgolf.co.jp/sano/fee.html"
+    },
+    {
+      "id": 245,
+      "field": "budget",
+      "url": "https://www.genjiyamagolfclub.com/reservation/"
+    },
+    {
+      "id": 252,
+      "field": "budget",
+      "url": "https://firstee.jp/asamigc/asamigc"
+    },
+    {
+      "id": 273,
+      "field": "budget",
+      "url": "https://www.starts-golf.jp/information/"
+    },
+    {
+      "id": 289,
+      "field": "budget",
+      "url": "https://jgk.tatemono-golf.com/user"
+    },
+    {
+      "id": 321,
+      "field": "budget",
+      "url": "https://www.itakocc.jp/use-guidance"
+    },
+    {
+      "id": 364,
+      "field": "budget",
+      "url": "https://wst1.asts.jp/golfnet/cc/0657CC/plan/"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "id": 88,
+      "field": "dining",
+      "url": "https://tamagawagolfclub.com/facilities/",
+      "reason": "公式施設案内はコース設備のみで料理名・レストラン提供内容を確認できない。"
+    },
+    {
+      "id": 139,
+      "field": "dining",
+      "url": "https://booking.pacificgolf.co.jp/guide/178.html",
+      "reason": "公式ギャラリー本文から料理名・提供内容を確認できない。"
+    },
+    {
+      "id": 211,
+      "field": "rail",
+      "url": "https://zuien.net/pga/access/",
+      "reason": "金谷港からの予約制送迎は確認したが、鉄道最寄駅からの所要時間は公式本文にない。港送迎を鉄道アクセスへ置換しない。"
+    },
+    {
+      "id": 258,
+      "field": "rail",
+      "url": "https://www.katsuragaoka.com/access/",
+      "reason": "公式アクセスは自動車経路のみ。鉄道最寄駅・所要時間を確認できない。"
+    },
+    {
+      "id": 259,
+      "field": "rail",
+      "url": "https://www.kanasago.com/access/",
+      "reason": "公式アクセスは自動車経路のみ。鉄道最寄駅・所要時間を確認できない。"
+    },
+    {
+      "id": 283,
+      "field": "car",
+      "url": "http://www.sakurasgo.com/access.html",
+      "reason": "公式本文は経路を掲載するがICからの距離・時間がなく、推測しない。"
+    },
+    {
+      "id": 300,
+      "field": "car",
+      "url": "http://www.daiyagreen.com/access/index.html",
+      "reason": "都心から80分の案内のみ。ICからの距離・時間を確認できない。"
+    },
+    {
+      "id": 310,
+      "field": "rail",
+      "url": "https://kabayagc.com/access/",
+      "reason": "公式アクセスは自動車経路のみ。鉄道最寄駅・所要時間を確認できない。"
+    },
+    {
+      "id": 335,
+      "field": "rail",
+      "url": "https://www.suginosato.co.jp/",
+      "reason": "HTTP 503。3秒後の1回再試行も503。不存在とは判断しない。"
+    },
+    {
+      "id": 339,
+      "field": "dining",
+      "url": "https://www.mashikohills.com/restaurant.html",
+      "reason": "公式レストランページは『メニュー準備中』のみで料理名を確認できない。"
+    },
+    {
+      "id": 421,
+      "field": "dining",
+      "url": "https://www.ranzan.cc/",
+      "reason": "公式本文から料理名・提供内容を確認できない。"
+    },
+    {
+      "id": 426,
+      "field": "dining",
+      "url": "https://www.kasumigasekicc.or.jp/",
+      "reason": "公式サイトは一部再開案内中で、料理名・提供内容を確認できない。"
+    },
+    {
+      "id": 432,
+      "field": "dining",
+      "url": "https://www.tokyogolfclub.jp/",
+      "reason": "公式本文から料理名・提供内容を確認できない。"
+    },
+    {
+      "id": 465,
+      "field": "dining",
+      "url": "https://www.ota-futaba-cc.co.jp/",
+      "reason": "HTTP 403。認証・制限を回避せず未確認として保持。"
+    },
+    {
+      "id": 495,
+      "field": "dining",
+      "url": "https://www.shonanseaside.com/",
+      "reason": "昼食付きプランは確認したが料理名・レストラン提供内容を確認できない。"
+    },
+    {
+      "id": 140,
+      "field": "budget",
+      "url": "http://www.kanozan.co.jp/fee.html",
+      "reason": "公式本文のゲスト料金表は抽出時に区分見出しが欠落して2組の価格を対応付けられない。料金を推測しない。"
+    },
+    {
+      "id": 163,
+      "field": "budget",
+      "url": "http://www.president-cc.jp/fee.html",
+      "reason": "キャディフィ・人数割増は確認したが、プレー総額を確認できない。"
+    },
+    {
+      "id": 172,
+      "field": "budget",
+      "url": "https://webpack2.jp/reserve/calendar/visitor/330503",
+      "reason": "公式リンク先でキャンセル料は確認したが、公開本文からプレー総額を確認できない。"
+    },
+    {
+      "id": 216,
+      "field": "budget",
+      "url": "https://www.yc21.co.jp/mangijo/fee.html",
+      "reason": "公式料金ページはJavaScript表示で、静的本文に実料金がない。"
+    },
+    {
+      "id": 217,
+      "field": "budget",
+      "url": "https://www.yc21.co.jp/minamimobara/fee.html",
+      "reason": "公式料金ページはJavaScript表示で、静的本文に実料金がない。"
+    },
+    {
+      "id": 218,
+      "field": "budget",
+      "url": "https://www.yc21.co.jp/yamadagolf/fee.html",
+      "reason": "公式料金ページはJavaScript表示で、静的本文に実料金がない。"
+    },
+    {
+      "id": 326,
+      "field": "budget",
+      "url": "https://asia-shimodate.com/fee.html",
+      "reason": "公式料金案内はベストレート案内のみで、プレー総額を確認できない。"
+    },
+    {
+      "id": 345,
+      "field": "budget",
+      "url": "https://kanuma72.jp/guide/",
+      "reason": "公式利用案内に予約条件はあるが、プレー総額を確認できない。"
+    },
+    {
+      "id": 427,
+      "field": "budget",
+      "url": "https://www.kodama-cc.jp/",
+      "reason": "HTTP 503。3秒後の1回再試行も503。不存在とは判断しない。"
+    },
+    {
+      "id": 478,
+      "field": "budget",
+      "url": "https://rfgr.jp/silk/?page_id=1595",
+      "reason": "公式トップからの料金リンクが404。別URLの再調査が必要で、404を施設なし扱いしない。"
+    },
+    {
+      "id": 496,
+      "field": "budget",
+      "url": "https://chigasaki.golfdigest.co.jp/guide",
+      "reason": "レンタル・帯同料金は確認したが、プレー総額を確認できない。"
+    },
+    {
+      "id": 163,
+      "field": "dining",
+      "url": "http://www.president-cc.jp/restaurant.html",
+      "reason": "公式HTTP本文で料理名を確認したがHTTPS取得は503。公開ワークフローの公式証拠URL要件を満たさないため未公開。証明書・制限を回避しない。"
+    }
+  ]
+}
