@@ -11269,9 +11269,34 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、ハンバーグ、カツカレー、トンテキなどを掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=164&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ページが公開取得するギャラリーデータの公式投稿（is_user=0）を確認。料理名の説明を読み取り、利用者投稿と区別した。",
+          "conditions": "掲載料理例。季節や仕入れによる変更、当日の提供・金額・食事付きプランの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=164",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/164/r6a4b246d.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/164/r6a4b25cc.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/164/r6a4b2677.jpg"
+          ]
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設ギャラリーに女性用の浴槽とシャワーブースを掲載しています。利用時間・プラン別制限・宿泊設備は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=164&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式投稿の女子浴槽・女子シャワーブースという説明と各写真を目視照合。",
+          "conditions": "浴場設備の存在を確認。温泉・宿泊なし・全プラン利用可能とは推測しない。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=164",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/164/r6614cda6.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/164/r6614cf3a.jpg"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/164.html",
@@ -12321,7 +12346,20 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、醤油ラーメンとミニ炒飯、ルーロー飯、カツサンドなどを掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=61&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ページが公開取得するギャラリーデータの公式投稿（is_user=0）を確認。料理名の説明を読み取り、利用者投稿と区別した。",
+          "conditions": "掲載料理例。季節や仕入れによる変更、当日の提供・金額・食事付きプランの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=61",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6e2fd.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6e9e6.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6f118.jpg"
+          ]
+        },
         "budget": null,
         "stay": null
       },
@@ -12405,9 +12443,34 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、ステーキ鉄板焼き、鶏もも肉の唐揚げ膳、豚バラ肉のスタミナ丼などを掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=152&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ページが公開取得するギャラリーデータの公式投稿（is_user=0）を確認。料理名の説明を読み取り、利用者投稿と区別した。",
+          "conditions": "掲載料理例。季節や仕入れによる変更、当日の提供・金額・食事付きプランの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=152",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/152/r6acacdc3.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/152/r6acacdf2.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/152/r6ad87fd5.jpg"
+          ]
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウスに男性用・女性用の浴室を掲載しています。利用時間・プラン別制限・宿泊設備は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=152&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの男性風呂・女性風呂という説明と各写真を目視照合。",
+          "conditions": "温泉や宿泊設備の有無、全プランでの入浴可否は確認していない。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=152",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/152/r64ec5297.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/152/r64ec5449.jpg"
+          ]
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/152.html",
@@ -13738,7 +13801,18 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式案内の東京クラシックキャンプに、宿泊用キャビンとグランピングテントがあります。キャビンにはアウトドアバスとシャワー、テントにはバスを備えています。キャンプは会員制で、体験宿泊などには別途条件があります。",
+          "url": "https://tokyo-classic.jp/camp/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "ゴルフクラブ公式からリンクされたキャンプ公式の客室設備とFAQを確認。キャビンとテントの浴室設備、会員制を読み合わせた。",
+          "conditions": "ゴルフ予約に宿泊が含まれるとは扱わない。キャンプの利用資格・体験宿泊枠は別途確認。通常予約は利用3日前まで、当日予約不可のFAQ記載。ゴルフクラブ浴室の利用条件は未確認。",
+          "supportingUrls": [
+            "https://tokyo-classic-camp.jp/cabin-tent/",
+            "https://tokyo-classic-camp.jp/faq/"
+          ]
+        }
       },
       "researchSources": [
         "https://tokyo-classic.jp/"
@@ -13772,7 +13846,14 @@ const DATA={
           "basis": "公式電車アクセス図確認。駅から所要分数未記載。"
         },
         "scenery": null,
-        "dining": null,
+        "dining": {
+          "text": "定休日のセルフプレーでは、昼食を5品限定メニューから選ぶ方式です。具体的な料理名・通常営業日のメニューは未確認です。",
+          "url": "https://www.funabashicc.com/price.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式料金案内の定休日セルフ営業欄に昼食5品限定と明記。",
+          "conditions": "通常営業日の食事内容や全プランの昼食込みとは扱わない。"
+        },
         "budget": {
           "text": "2026年10～11月の会員同伴・紹介ゲスト料金例は、通常平日24,000円、土日35,000円、祝日30,000円。指定セルフデーは18,000円。昼食付きはカレンダーの指定日のみです。",
           "url": "https://www.funabashicc.com/images/20260619.jpg",
@@ -13782,7 +13863,14 @@ const DATA={
           "priceLabel": "会員同伴・紹介 平日24,000円／土日35,000円",
           "conditions": "2026年10～11月の会員同伴または紹介ゲスト料金表。指定セルフデー18,000円、祝日30,000円。昼マーク日のみ昼食付き。2B割増4,400円、3B1,650円税込。税の内訳・予約日総額は確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "浴場があります。公式の定休日セルフプレー案内でも、ロッカー・浴場は通常通り利用できると明記しています。宿泊設備や浴場の営業時間は未確認です。",
+          "url": "https://www.funabashicc.com/price.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "定休日セルフプレー営業案内のロッカー・浴場の利用可を本文で確認。",
+          "conditions": "確認した条件は公式の定休日セルフ営業。ほかの特別プランまで一律に拡張しない。"
+        }
       },
       "researchSources": [
         "https://www.funabashicc.com/",
@@ -14029,8 +14117,22 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式案内の本文を確認"
         },
-        "scenery": null,
-        "dining": null,
+        "scenery": {
+          "text": "敷地内の高台にあるグリーンパークホテルから大津港を一望でき、客室は全室太平洋向きと案内しています。",
+          "url": "https://www.ipcc.co.jp/hotel.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "ホテルの位置と客室方向を公式本文で確認。",
+          "conditions": "ホテルからの景観。全ホールから海が見えるとは推測しない。"
+        },
+        "dining": {
+          "text": "併設ホテルの食事付き宿泊プランに、季節のお食事、常陸牛、鮑とキンキ、伊勢海老のプランを掲載しています。通常のゴルフ昼食の具体的な料理名は未確認です。",
+          "url": "https://www.ipcc.co.jp/hotel.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "現行ホテル案内の1泊2食プラン名を確認。ゴルフ昼食との混同を避けた。",
+          "conditions": "プランごとに予約期限があります。夕食内容や提供日は予約時に確認。宿泊食を通常プレーの昼食として扱わない。"
+        },
         "budget": {
           "text": "乗用セルフ・昼食サービス付きの基本料金は平日7,500円、土日祝12,500円。",
           "url": "https://www.ipcc.co.jp/fee.html",
@@ -14041,10 +14143,15 @@ const DATA={
           "conditions": "消費税込の基本料金。キャディ付きは追加。特定日・プランで変動。"
         },
         "stay": {
-          "text": "グリーンパークホテルを併設。",
-          "url": "https://www.ipcc.co.jp/",
-          "checked": "2026-10-24",
-          "basis": "公式案内の本文を確認"
+          "text": "グリーンパークホテルを敷地内に併設。シングル16室・ツイン11室・和室1室を案内し、ゴルフ以外の宿泊も受け付けています。最終チェックインは22時。薄暮プレーではロッカー・風呂を利用できません。",
+          "url": "https://www.ipcc.co.jp/hotel.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存のホテル併設情報を保持し、公式客室内訳・一般宿泊受付・最終チェックインを確認。公式薄暮案内で浴場利用不可を確認。",
+          "conditions": "宿泊とゴルフ予約は別途確認。薄暮の制限を通常プレーへ拡張しない。浴場の通常営業時間は未確認。",
+          "supportingUrls": [
+            "https://www.ipcc.co.jp/news.html"
+          ]
         }
       },
       "id": 255
