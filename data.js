@@ -11867,7 +11867,20 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "「大多喜城」城下町御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の平日パスポート付き1Rセルフは1人11,700円（税込・利用税込）。朝食バイキング、昼食と1ドリンク、コース売店の午前・午後各1ドリンク付き。3名は550円、2名は2,200円の割増です。",
+          "url": "https://www.tokyu-golf-resort.com/ohtakijo/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=14",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45487&date=2026-11-04"
+          ],
+          "conditions": "GPS乗用カート・2サム保証。朝食は9:30までに入場、9:45まで提供。フェアウェイ走行希望時はカート単位で申込み、1人1R1,100円別途、天候・コース状態による制限あり。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日例 11,700円＋人数別割増"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式施設案内に浴室の写真が掲載されています。",
           "url": "https://www.tokyu-golf-resort.com/ohtakijo/facility/",
@@ -11920,7 +11933,20 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "なのはなポークのロースカツ御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の4名限定・昼食付き1Rセルフは1人11,670円（税込・利用税込）。乗用カート付きです。",
+          "url": "https://www.tokyu-golf-resort.com/omigawa/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=16",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45681&date=2026-11-04"
+          ],
+          "conditions": "4名未満は表示額に1,000円加算し、さらに3名550円・2名1,650円の割増、プラン特典も対象外。同伴者登録は1週間前まで、直前予約は予約当日。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日・4名限定 11,670円"
+        },
         "stay": null
       },
       "researchSources": [
@@ -12032,7 +12058,20 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "潮風お刺身御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の4名限定・昼食付き1Rセルフは1人8,580円（税込・利用税込）。GPS乗用カート付きで、ロッカー代330円は別途です。",
+          "url": "https://www.tokyu-golf-resort.com/katsuura/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=9",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=43997&date=2026-11-04"
+          ],
+          "conditions": "4名限定優待。人数減少時は通常料金と割増（3名770円、2名1,650円）へ変更。ハーフ休憩あり。フェアウェイ走行希望時は1人1,100円別途・カート単位申込、コース状況により不可。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日・4名限定 8,580円／ロッカー別"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式施設案内に浴室の写真が掲載されています。",
           "url": "https://www.tokyu-golf-resort.com/katsuura/facility/",
@@ -12086,7 +12125,20 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "なのはなポークのロースカツ御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の3名以上限定・昼食付き1Rセルフは1人14,500円（税込・利用税込）。GPS付き乗用カートとセット昼食付きで、3名の場合は880円の割増です。",
+          "url": "https://www.tokyu-golf-resort.com/kimi/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=15",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=43754&date=2026-11-02"
+          ],
+          "conditions": "3名以上限定、2サム保証なし。本文には2名割増2,640円も記載されるが、2名でこの限定プランを予約可能とは扱わない。同伴者登録は1週間前まで、直前予約は予約当日。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 14,500円／3名は880円追加"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式施設案内に浴室の写真が掲載されています。",
           "url": "https://www.tokyu-golf-resort.com/kimi/facility/",
@@ -12327,7 +12379,20 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "鶏せいろ御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の空き枠限定・4名用プランは、昼食付き1Rセルフ1人10,900円（税込・利用税込）。GPSナビ付き乗用カートを利用します。",
+          "url": "https://www.tokyu-golf-resort.com/shibayama/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=3",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45319&date=2026-11-04"
+          ],
+          "conditions": "4名未満は通常料金へ変更し、人数割増が別途発生。掲載の10～12月平日通常料金は昼食付き12,000円、3名880円・2名2,200円割増。9:30以降は日没にかかる場合あり。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日・4名限定 10,900円"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式施設案内に浴室の写真が掲載されています。",
           "url": "https://www.tokyu-golf-resort.com/shibayama/facility/",
@@ -14080,7 +14145,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式アクセスのクラブバス欄で駅、所要時間、運行曜日、人数、往復の予約条件を確認。列車時刻・運賃は転記しない。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式掲載写真では、池の水面を囲む樹木と、その奥に広がる芝生・緑の丘陵が見られます。",
+          "url": "https://www.milgolf.co.jp/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップからリンクされたコース写真を直接閲覧し、水面・樹木・芝地を確認。季節やホール番号は推定しない。",
+          "supportingUrls": [
+            "https://www.milgolf.co.jp/bxslider/images/slider001.jpg"
+          ]
+        },
         "dining": {
           "text": "2026年12月7・14・21日のカジュアルマンデーと12月31日の年末カジュアルデーは、昼食時のみレストラン営業、カレーライス限定です。通常日のメニューは未確認です。",
           "url": "https://www.milgolf.co.jp/playfee.htm",
@@ -14492,7 +14566,16 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式電車アクセス図確認。駅から所要分数未記載。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式コース写真では、グリーンや芝地の周囲に背の高い樹木が並び、林に囲まれた景観が見られます。",
+          "url": "https://www.funabashicc.com/course.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース紹介の写真を直接閲覧。写真で確認できる樹木と芝地の配置だけを記載。",
+          "supportingUrls": [
+            "https://www.funabashicc.com/images/course/coursekv.jpg"
+          ]
+        },
         "dining": {
           "text": "定休日のセルフプレーでは、昼食を5品限定メニューから選ぶ方式です。具体的な料理名・通常営業日のメニューは未確認です。",
           "url": "https://www.funabashicc.com/price.html",
@@ -15645,7 +15728,20 @@ const DATA={
           "basis": "公式案内の本文を確認",
           "dish": "猿島茶入り白玉抹茶あんみつ"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日のゲスト1Rセルフは1人16,000円（税込・利用税込）、乗用カート付き・昼食別。3名は550円、2名は2,750円の割増です。",
+          "url": "https://www.tokyu-golf-resort.com/sashima/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=17",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=44182&date=2026-11-04"
+          ],
+          "conditions": "2サム保証なし。税込総額内訳は税抜13,591円、消費税1,359円、利用税1,050円。キャディ付きプランとは別料金。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日例 16,000円／昼食別・人数割増あり"
+        },
         "stay": {
           "text": "クラブハウスに浴室とパウダールームを備えています。男性ロッカー・脱衣所も公式施設写真で紹介されています。",
           "url": "https://www.tokyu-golf-resort.com/sashima/facility/",
@@ -18110,7 +18206,20 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "ブラックヒレカツカレー"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の昼食付き1Rセルフは3～4名で1人12,000円（税込・利用税込）。リモコン・GPSナビ付き乗用カートを利用し、3名の割増はありません。",
+          "url": "https://www.tokyu-golf-resort.com/tsukuba/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=18",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=45067&date=2026-11-04"
+          ],
+          "conditions": "昼食は差額メニューあり。2名割増2,200円の記載あり、ただし2サム保証なし。他の優待との併用不可。同伴者登録は1週間前まで、直前予約は予約当日。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日・3～4名 12,000円"
+        },
         "stay": {
           "text": "公式クラブハウス案内に浴室を掲載しています。",
           "url": "https://www.tokyu-golf-resort.com/tsukuba/facility/",
@@ -25396,7 +25505,20 @@ const DATA={
           "sourceType": "official"
         },
         "stay": null,
-        "budget": null
+        "budget": {
+          "text": "2026年10月30日の昼食付き1Rセルフは1人9,950円（消費税・利用税・振興基金込み）。GPS付き乗用カート利用、3名から受付で、3名の場合は550円の割増です。",
+          "url": "https://www.tokyu-golf-resort.com/itakura/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの予約リンクから予約表へ進み、公開プラン詳細の施設名・対象日・1人あたり税込料金・人数条件・付帯料金を実読。",
+          "supportingUrls": [
+            "https://reservation.tokyu-golf-resort.com/?golf_course_id=19",
+            "https://reservation.tokyu-golf-resort.com/reservation/plan/_ajax_plan_show?price_set=44633&date=2026-10-30"
+          ],
+          "conditions": "3名以上受付・2サム保証なし。総額内訳は税抜8,473円、消費税847円、利用税600円、振興基金30円。9:37以降スタートは日没で18H完了できない場合あり。 掲載日限定の料金例であり、全日共通料金ではありません。予約時に最新料金・空き枠・キャンセル条件をご確認ください。",
+          "priceVerified": true,
+          "priceLabel": "2026年10月30日例 9,950円／3名は550円追加"
+        }
       },
       "id": 458
     },
