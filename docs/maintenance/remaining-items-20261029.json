@@ -125,8 +125,8 @@
       "name": "ベルセルバカントリークラブ 市原コース",
       "field": "dining",
       "officialUrl": "https://www.belle-co.com/ichihara/",
-      "status": "access_failed",
-      "reviewRecord": "source-review-20261029x.json"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 19,
@@ -444,8 +444,9 @@
       "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
       "field": "dining",
       "officialUrl": "https://nasukasumigajo.com/ja",
-      "status": "pending_content_review",
-      "reviewRecord": "source-review-20261029x.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ac.json",
+      "evidenceBatch": "verified-followup-20261029ac.json"
     },
     {
       "id": 77,
@@ -475,8 +476,8 @@
       "name": "初穂カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.hatsuhocc.co.jp/",
-      "status": "access_failed",
-      "reviewRecord": "source-review-20261029x.json"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 80,
@@ -800,7 +801,7 @@
       "name": "太平洋クラブ 江南コース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/kohnan/information.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029aa.json",
       "evidenceBatch": "verified-followup-20261029aa.json",
       "remainingDetail": "通常日の浴室利用条件、温泉・宿泊設備は未確認"
@@ -1948,15 +1949,18 @@
       "name": "ミルフィーユゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://www.milgolf.co.jp/",
-      "status": "pending_content_review",
-      "reviewRecord": "source-review-20261029x.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ac.json",
+      "evidenceBatch": "verified-followup-20261029ac.json"
     },
     {
       "id": 242,
       "name": "ミルフィーユゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.milgolf.co.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ac.json",
+      "evidenceBatch": "verified-followup-20261029ac.json"
     },
     {
       "id": 243,
@@ -2677,7 +2681,7 @@
       "name": "太平洋クラブ美野里コース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/minori/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029aa.json",
       "evidenceBatch": "verified-followup-20261029aa.json",
       "remainingDetail": "通常日の浴室利用条件、温泉・宿泊設備は未確認"
@@ -2980,8 +2984,9 @@
       "name": "ワンウェイゴルフクラブ",
       "field": "dining",
       "officialUrl": "http://onewaygc.co.jp",
-      "status": "published_verified",
-      "evidenceBatch": "verified-followup-20261029p.json"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ac.json",
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 318,
@@ -2989,15 +2994,16 @@
       "field": "budget",
       "officialUrl": "http://onewaygc.co.jp",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029z.json"
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 318,
       "name": "ワンウェイゴルフクラブ",
       "field": "stay",
       "officialUrl": "http://onewaygc.co.jp",
-      "status": "published_verified",
-      "evidenceBatch": "verified-followup-20261029p.json"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029ac.json",
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 320,
@@ -3135,8 +3141,8 @@
       "name": "鷹ゴルフ倶楽部",
       "field": "dining",
       "officialUrl": "https://www.taka-golf.co.jp/",
-      "status": "access_failed",
-      "reviewRecord": "source-review-20261029x.json"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 334,
@@ -4403,8 +4409,9 @@
       "name": "吉井カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.ycc-golf.co.jp/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029x.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ac.json",
+      "evidenceBatch": "verified-followup-20261029ac.json"
     },
     {
       "id": 467,
@@ -4451,7 +4458,7 @@
       "field": "dining",
       "officialUrl": "https://www.gcsr.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029x.json"
+      "reviewRecord": "source-review-20261029ac.json"
     },
     {
       "id": 475,

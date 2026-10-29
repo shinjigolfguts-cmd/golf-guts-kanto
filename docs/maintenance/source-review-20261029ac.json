@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": 77,
+      "field": "dining",
+      "url": "https://nasukasumigajo.com/ja/golf",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "昼食はレストランWOODSで10:30〜13:30（ラストオーダー13:00）。ホテルのSienaでは地元・旬の食材を使うフレンチを夕食時に提供しています。具体的な料理名・料金は未確認です。"
+    },
+    {
+      "id": 77,
+      "field": "stay",
+      "url": "https://nasukasumigajo.com/ja/golf",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "全30室のホテルを併設し、宿泊のみの予約も可能です。天然温泉の大浴場、露天風呂、サウナ、水風呂を案内。入浴時間は6:00〜8:30・13:00〜23:00です。宿泊・日帰りのプラン別条件は予約時にご確認ください。"
+    },
+    {
+      "id": 466,
+      "field": "dining",
+      "url": "https://www.ycc-golf.co.jp/institution/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "洋食・中華を中心に季節の料理を提供。ドリンクは搾りたて果汁のレモンスカッシュやドリップしたアイスコーヒーを案内しています。具体的な料理名・料金は未確認です。"
+    },
+    {
+      "id": 242,
+      "field": "dining",
+      "url": "https://www.milgolf.co.jp/playfee.htm",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "2026年12月7・14・21日のカジュアルマンデーと12月31日の年末カジュアルデーは、昼食時のみレストラン営業、カレーライス限定です。通常日のメニューは未確認です。"
+    },
+    {
+      "id": 242,
+      "field": "budget",
+      "url": "https://www.milgolf.co.jp/playfee.htm",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "2026年11月のWEB会員掲載例は、平日11,000円、土曜22,200円。1R・4バッグ・昼食付き、消費税と利用税込。キャディ付きは別料金です。日程・人数によって変わります。"
+    },
+    {
+      "id": 242,
+      "field": "stay",
+      "url": "https://www.milgolf.co.jp/stay.htm",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "ゴルフ場から車で約10分のコミュニケーションハウスを利用する宿泊プランがあります。送迎はありません。客室にはバス・トイレを備えています。宿泊料金や温浴施設の利用条件は公式案内をご確認ください。 2026年12月7・14・21・31日の特別営業日は、コースのお風呂を利用できます。"
+    },
+    {
+      "id": 318,
+      "field": "stay",
+      "url": "https://onewaygc.co.jp/faq/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "公式施設案内に大浴場と女性用パウダールームを掲載。FAQでは浴場を利用可能と案内していますが、季節により一部のサンセットプランは利用できません。温泉・宿泊設備や営業時間は未確認です。"
+    },
+    {
+      "id": 318,
+      "field": "dining",
+      "url": "https://onewaygc.co.jp/faq/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "公式が名物として紹介するスパムおにぎりはテイクアウトも可能。カレーやうどんなどの昼食も案内しています。 FAQでは全プラン指定食事付き（パン3つ、またはパン2つと1ドリンク）と案内。昼食休憩はなく、レストランは火・水曜以外に利用できます。"
+    },
+    {
+      "id": 80,
+      "field": "dining",
+      "url": "https://www.hatsuhocc.co.jp/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップは503。再試行でも取得不可。検索でも現在の公式メニュー本文を確認できず。"
+    },
+    {
+      "id": 19,
+      "field": "dining",
+      "url": "https://www.belle-co.com/ichihara/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップ503、再試行でも取得不可。"
+    },
+    {
+      "id": 334,
+      "field": "dining",
+      "url": "https://www.taka-golf.co.jp/restaurant.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "検索索引に料理名はあるが、直接取得は503・web取得は502。現在性を確かめられず採用保留。"
+    },
+    {
+      "id": 475,
+      "field": "dining",
+      "url": "https://www.gcsr.jp/restaurant.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式本文は日替わりおすすめの案内のみ。料理名は掲載を確認できず、名物や評価を推測しない。"
+    },
+    {
+      "id": 318,
+      "field": "budget",
+      "url": "https://onewaygc.co.jp/faq/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "FAQで指定食事条件は確認。基本料金の税条件は確認できず、前回の画像料金はまだ採用しない。"
+    }
+  ]
+}
