@@ -581,7 +581,13 @@ const DATA={
           "dish": "北武蔵オリジナルビーフカレー",
           "reviewSummary": ""
         },
-        "stay": null,
+        "stay": {
+          "text": "クラブハウスに大浴場があります。利用時間・営業条件は公式サイトでご確認ください。宿泊施設の有無は未確認です。",
+          "url": "https://www.resol-golf.jp/kitamusashi/clubhouse/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+        },
         "budget": {
           "text": "冬季プラン15,500円。2027年1月4日〜2月26日の平日・7時台限定（一部除外日あり）。最大36Hのカートセルフ、税・利用税・バイキング昼食込み。3B割増なし、2Bは2,200円追加、ロッカー330円別。36H完走保証はありません。",
           "url": "https://www.resol-golf.jp/uploads/recommend/2026/p5_260701130541.pdf",
@@ -2964,7 +2970,13 @@ const DATA={
           "dish": "カレーたんたん麺",
           "reviewSummary": ""
         },
-        "stay": null,
+        "stay": {
+          "text": "クラブハウスに大浴場があります。利用時間・営業条件は公式サイトでご確認ください。宿泊施設の有無は未確認です。",
+          "url": "https://www.resol-golf.jp/kisarazuhigashi/clubhouse/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+        },
         "budget": null,
         "scenery": {
           "text": "亀山湖畔の自然に囲まれたコース。入口を彩る花木や、池越えとなる17番の景色が見どころです。",

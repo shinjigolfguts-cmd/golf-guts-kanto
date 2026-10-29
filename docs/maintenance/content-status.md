@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `da79a060a20097c85f0e5848ee6dd2779922e6ad1afb54df19034c7f02a9420c`
+data.js SHA256: `fb44fd2422d94f6ba24be84b82c555c08d6c12568ab9afed9c2cda2be38216fc`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -10,11 +10,11 @@ data.js SHA256: `da79a060a20097c85f0e5848ee6dd2779922e6ad1afb54df19034c7f02a9420
 | 車のアクセス | 9 |
 | 電車のアクセス | 38 |
 | 食事 | 128 |
-| 宿泊・お風呂 | 209 |
+| 宿泊・お風呂 | 207 |
 | 料金 | 287 |
 | 景色 | 42 |
 
-空欄を含む施設：387 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：386 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -28,7 +28,6 @@ data.js SHA256: `da79a060a20097c85f0e5848ee6dd2779922e6ad1afb54df19034c7f02a9420
 | 6 | [アジア取手カントリー倶楽部](https://www.asia-toride.com/) | 食事・宿泊・お風呂 |
 | 7 | [紫塚ゴルフ倶楽部](https://www.murasakigc.com/home) | 料金 |
 | 8 | [伊香保ゴルフ倶楽部](https://www.ikaho-gc.co.jp/) | 宿泊・お風呂・料金 |
-| 10 | [北武蔵カントリークラブ](https://www.resol-golf.jp/kitamusashi/) | 宿泊・お風呂 |
 | 12 | [カメリアヒルズカントリークラブ](https://www.camelliahills.com/) | 食事・宿泊・お風呂・料金 |
 | 13 | [市原ゴルフクラブ 市原コース](https://ichihara-gc.com/ichihara/) | 料金 |
 | 18 | [東京ベイサイドゴルフコース](https://www.pacificgolf.co.jp/tokyobayside/index.asp) | 食事・料金 |
@@ -52,7 +51,7 @@ data.js SHA256: `da79a060a20097c85f0e5848ee6dd2779922e6ad1afb54df19034c7f02a9420
 | 49 | [ヌーヴェルゴルフ倶楽部](https://www.nouvelle-gc.co.jp/) | 料金 |
 | 50 | [勝浦ゴルフ倶楽部](https://katsuuragolf.com/) | 宿泊・お風呂 |
 | 51 | [ゴルフ5カントリー オークビレッヂ](https://www.alpen-group.net/oakvillage/) | 料金 |
-| 53 | [木更津東カントリークラブ](https://www.resol-golf.jp/kisarazuhigashi/) | 宿泊・お風呂・料金 |
+| 53 | [木更津東カントリークラブ](https://www.resol-golf.jp/kisarazuhigashi/) | 料金 |
 | 54 | [豊里ゴルフクラブ](https://www.toyosato-gc.jp/) | 料金 |
 | 55 | [米原ゴルフ倶楽部](https://yoneharagc.jp/) | 料金 |
 | 56 | [千代田カントリークラブ](https://www.pacificgolf.co.jp/chiyoda/) | 料金 |
