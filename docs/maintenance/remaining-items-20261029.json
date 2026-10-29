@@ -1225,7 +1225,7 @@
       "name": "京葉カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.keiyo-cc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
@@ -1296,14 +1296,15 @@
       "name": "千葉カントリークラブ 梅郷コース",
       "field": "budget",
       "officialUrl": "https://www.chibacc.co.jp/umesato",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029o.json"
     },
     {
       "id": 194,
       "name": "千葉カントリークラブ 梅郷コース",
       "field": "stay",
       "officialUrl": "https://www.chibacc.co.jp/umesato",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
@@ -1318,7 +1319,7 @@
       "name": "成田ヒルズカントリークラブ",
       "field": "stay",
       "officialUrl": "https://narita-hills.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
@@ -1326,7 +1327,7 @@
       "name": "白鳳カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.unimat-golf.jp/hakuho/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
@@ -1453,14 +1454,15 @@
       "name": "千葉カントリークラブ 野田コース",
       "field": "budget",
       "officialUrl": "https://www.chibacc.co.jp/noda",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029o.json"
     },
     {
       "id": 212,
       "name": "千葉カントリークラブ 野田コース",
       "field": "stay",
       "officialUrl": "https://www.chibacc.co.jp/noda",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
@@ -1475,14 +1477,15 @@
       "name": "千葉カントリークラブ 川間コース",
       "field": "budget",
       "officialUrl": "https://www.chibacc.co.jp/kawama",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029o.json"
     },
     {
       "id": 213,
       "name": "千葉カントリークラブ 川間コース",
       "field": "stay",
       "officialUrl": "https://www.chibacc.co.jp/kawama",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
@@ -1511,7 +1514,7 @@
       "name": "万木城カントリークラブ",
       "field": "scenery",
       "officialUrl": "https://www.yc21.co.jp/mangijo/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029n.json"
     },
     {
