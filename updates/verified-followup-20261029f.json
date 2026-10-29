@@ -1,0 +1,165 @@
+{
+  "baseSha256": "fe95ef5ae9d057a9dcfe0ee58c27c21e18c75e908122ef3c5a4210867b43be89",
+  "reviewed": true,
+  "reviewer": "Codex official-source review 2026-10-29",
+  "updates": [
+    {
+      "id": 58,
+      "name": "イーグルレイクゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "レストランは9:00〜15:30（ラストオーダー15:00）。2026年5月11日から朝食営業はありません。コンペパーティーは事前予約制です。具体的な料理名は未確認です。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=59&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式ゴルフ場情報のレストラン欄を確認。料理内容まで確認済みとは扱わない。"
+      },
+      "evidenceNote": "公式ゴルフ場情報のレストラン欄を確認。料理内容まで確認済みとは扱わない。"
+    },
+    {
+      "id": 58,
+      "name": "イーグルレイクゴルフクラブ",
+      "field": "play",
+      "before": {
+        "text": "OUTは戦略的な林間風、INは湖畔風のレイアウト。前後半で異なる攻略を楽しめます。",
+        "url": "https://booking.pacificgolf.co.jp/guide/59.html",
+        "checked": "2026-10-24",
+        "basis": "公式コース紹介・ホール解説を確認。"
+      },
+      "after": {
+        "text": "OUTは戦略的な林間風、INは湖畔風のレイアウト。前後半で異なる攻略を楽しめます。 GPSナビ付き乗用カートのセルフプレー。フェアウェイ乗り入れは1人880円・組単位で、天候・コース状態による制限があり、ショートホールは対象外です。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=59&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式ラウンドスタイル・乗り入れ条件を確認。既存OUT/INの説明を保持。",
+        "supportingUrls": [
+          "https://booking.pacificgolf.co.jp/guide/59.html"
+        ]
+      },
+      "evidenceNote": "公式ラウンドスタイル・乗り入れ条件を確認。既存OUT/INの説明を保持。"
+    },
+    {
+      "id": 63,
+      "name": "東京相武カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "レストランは平日7:30〜16:30、土日祝7:00〜16:00で、ラストオーダーは各15分前。以降の利用は別途予約が必要です。公式メニュー画像の料理内容は取得できず未確認です。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tokyo/sobu/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式本文の営業時間・予約条件を確認。ランチ画像は403のため料理名を推測しない。"
+      },
+      "evidenceNote": "公式本文の営業時間・予約条件を確認。ランチ画像は403のため料理名を推測しない。"
+    },
+    {
+      "id": 81,
+      "name": "ムーンレイクゴルフクラブ 鶴舞コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "ホテル夕食は和洋折衷のコース料理で、利用日を含まない4日前までの予約が必要です。予約不要のアラカルトも案内。夕食営業17:00〜22:00、最終入店20:00、ラストオーダー21:00。昼食の具体的料理名は未確認です。",
+        "url": "https://www.pacificgolf.co.jp/moonlake_t/stay/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式宿泊施設のレストラン本文を確認。昼食とホテル夕食を区別。仕入れ・季節でメニュー変更あり。"
+      },
+      "evidenceNote": "公式宿泊施設のレストラン本文を確認。昼食とホテル夕食を区別。仕入れ・季節でメニュー変更あり。"
+    },
+    {
+      "id": 81,
+      "name": "ムーンレイクゴルフクラブ 鶴舞コース",
+      "field": "stay",
+      "before": {
+        "text": "鶴舞ムーンレイクホテルを併設。公式ページでは北欧スタイルの客室と夕食コースを紹介しています。宿泊プラン・利用条件は予約時にご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/guide/143.html",
+        "checked": "2026-10-28",
+        "basis": "鶴舞コースの公式トップ「TSURUMAI MOONLAKE HOTEL」を確認。ナイトゴルフ後の受付可否は推測していない。",
+        "sourceType": "official"
+      },
+      "after": {
+        "text": "鶴舞ムーンレイクホテルを併設。北欧スタイルの客室は全室禁煙で、バス・トイレ・Wi-Fiを完備。チェックイン15:00から（深夜受付可）、チェックアウト10:00まで。2026年9月1日以降、スタンダードツイン2名1室利用の1名宿泊料金は日〜木6,600円、金・土・祝前日7,700円（税込）。",
+        "url": "https://www.pacificgolf.co.jp/moonlake_t/stay/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式客室・宿泊料金本文を確認。9月改定前の価格は不採用。料金は1名あたり、プレー総額ではない。",
+        "conditions": "スタンダードツイン2名1室の1名宿泊料金。2026年9月1日以降。祝前日は日〜木でも祝前日料金。年末年始・GW・盆は異なる場合あり。シングルユースは2,200円税込増。ゴルフ・食事を含む宿泊パック料金とは区別。",
+        "supportingUrls": [
+          "https://booking.pacificgolf.co.jp/guide/143.html"
+        ]
+      },
+      "evidenceNote": "公式客室・宿泊料金本文を確認。9月改定前の価格は不採用。料金は1名あたり、プレー総額ではない。"
+    },
+    {
+      "id": 83,
+      "name": "ムーンレイクゴルフクラブ 市原コース",
+      "field": "play",
+      "before": {
+        "text": "全ホールにLED照明を備え、ナイトゴルフに対応しています。",
+        "url": "https://booking.pacificgolf.co.jp/guide/141.html",
+        "checked": "2026-10-28",
+        "basis": "市原コースの公式トップに全ホールLED照明とナイトゴルフの記載を確認。",
+        "sourceType": "official"
+      },
+      "after": {
+        "text": "全ホールにLED照明を備え、ナイトゴルフに対応しています。 ナイトゴルフは通年営業で、GPSナビ付き乗用カートによるセルフプレーです。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=141&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式ラウンドスタイルで通年営業・GPSナビ付きセルフを確認。既存の全ホールLED記載を保持。",
+        "supportingUrls": [
+          "https://booking.pacificgolf.co.jp/guide/141.html"
+        ]
+      },
+      "evidenceNote": "公式ラウンドスタイルで通年営業・GPSナビ付きセルフを確認。既存の全ホールLED記載を保持。"
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "play",
+      "before": {
+        "text": "ロング1・ミドル5・ショート3の9ホール、パー34。",
+        "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "ロング1・ミドル5・ショート3の9ホール、パー34。 1名から受付可能ですが4名1組でプレーします。平日は当日到着順受付（午後スタートは当日電話予約も可）、土日祝・特定日は予約制。天然芝のアプローチ練習場は有料、パター練習場は無料です。",
+        "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式ABOUT・受付方法・練習場欄を確認。1名予約可を1名単独ラウンド可とは書かない。"
+      },
+      "evidenceNote": "公式ABOUT・受付方法・練習場欄を確認。1名予約可を1名単独ラウンド可とは書かない。"
+    },
+    {
+      "id": 92,
+      "name": "岡部チサンカントリークラブ 美里コース",
+      "field": "rail",
+      "before": {
+        "text": "岡部駅から車で約10分（岡部クラブハウスまで）。通常の美里コースは受付後、クラブバスで約3〜4分移動します。",
+        "url": "https://www.pacificgolf.co.jp/membership/seikaiin/okabe/",
+        "checked": "2026-10-24",
+        "basis": "公式会員募集は岡部駅10分。美里ナイト等は別受付のため注記。受付区別は現行PGM美里通常プランの2026年6月1日変更案内：岡部で朝受付・着替え、美里へバス3〜4分。ナイトは美里レストハウス専用受付。",
+        "supportingUrls": [
+          "https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=72&date=&p=search.result_plan&page=2",
+          "https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=72&date=&p=search.result_plan&sort=1"
+        ]
+      },
+      "after": {
+        "text": "岡部駅から車で約10分（岡部クラブハウスまで）。通常の美里コースは受付後、クラブバスで約3〜4分移動します。 岡部駅からのクラブバスは約12分と案内されています。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=72&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブバス欄で岡部駅から約12分を確認。既存の車約10分、岡部で受付後の美里への移動条件・出典を保持。",
+        "supportingUrls": [
+          "https://www.pacificgolf.co.jp/membership/seikaiin/okabe/",
+          "https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=72&date=&p=search.result_plan&page=2",
+          "https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=72&date=&p=search.result_plan&sort=1"
+        ]
+      },
+      "evidenceNote": "公式クラブバス欄で岡部駅から約12分を確認。既存の車約10分、岡部で受付後の美里への移動条件・出典を保持。"
+    }
+  ]
+}
