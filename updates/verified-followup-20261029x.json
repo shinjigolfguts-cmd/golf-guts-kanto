@@ -1,0 +1,35 @@
+{
+  "baseSha256": "60e5fdb2b8eef40f14c4c81bc372f7a7aafb9e5fca6c619d53b2a385907aa937",
+  "reviewed": true,
+  "reviewer": "Codex official menu PDF visual review",
+  "updates": [
+    {
+      "id": 78,
+      "name": "真名カントリークラブ 真名コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "2026年10月21日提供開始の公式ランチ例：鰻のひつまぶし御膳、鮪尽くし御膳、国産牛しゃぶしゃぶ御膳。いずれも追加料金メニューです。",
+        "url": "https://www.mannacc.com/restaurant/manna-grill/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "真名店の10/21開始メニューPDF1ページを目視確認。11/1開始の別メニューと混同しない。料理は予告なく変更される場合あり。"
+      },
+      "evidenceNote": "真名店の10/21開始メニューPDF1ページを目視確認。11/1開始の別メニューと混同しない。料理は予告なく変更される場合あり。 出典PDF: https://www.mannacc.com/images/restaurant/detail/4e34965207040787efabf80ba784912b.pdf"
+    },
+    {
+      "id": 478,
+      "name": "シルクカントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式掲載のグランドメニュー例：ゴロゴロビーフブラックカレー、きつねうどん（日替わりミニ丼付き）、上州麦豚一口ヒレカツ膳。",
+        "url": "https://rfgr.jp/silk/restaurant/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "現行レストランページからリンクされるPDFを目視確認。適用期間の記載はなく、当日の提供内容は要確認。料理の評価・名物とは断定しない。"
+      },
+      "evidenceNote": "現行レストランページからリンクされるPDFを目視確認。適用期間の記載はなく、当日の提供内容は要確認。料理の評価・名物とは断定しない。 出典PDF: https://rfgr.jp/silk/wp-content/uploads/2021/03/menu-1.pdf"
+    }
+  ]
+}

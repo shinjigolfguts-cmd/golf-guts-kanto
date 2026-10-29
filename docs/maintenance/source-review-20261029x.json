@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": 78,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "url": "https://www.mannacc.com/restaurant/manna-grill/",
+      "sources": [
+        {
+          "url": "https://www.mannacc.com/images/restaurant/detail/4e34965207040787efabf80ba784912b.pdf",
+          "sha256": "77fea64f3ff07efa32df7f0ba5020c747c1f7466d596adc9b0539e199b1dee51"
+        }
+      ],
+      "finding": "2026年10月21日提供開始の公式ランチ例：鰻のひつまぶし御膳、鮪尽くし御膳、国産牛しゃぶしゃぶ御膳。いずれも追加料金メニューです。",
+      "conditions": "真名店の10/21開始メニューPDF1ページを目視確認。11/1開始の別メニューと混同しない。料理は予告なく変更される場合あり。"
+    },
+    {
+      "id": 478,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "url": "https://rfgr.jp/silk/restaurant/",
+      "sources": [
+        {
+          "url": "https://rfgr.jp/silk/wp-content/uploads/2021/03/menu-1.pdf",
+          "sha256": "ee0106966e7bb82d05bef1d808299aaddd04cd726af9a70531875674a51c81c7"
+        }
+      ],
+      "finding": "公式掲載のグランドメニュー例：ゴロゴロビーフブラックカレー、きつねうどん（日替わりミニ丼付き）、上州麦豚一口ヒレカツ膳。",
+      "conditions": "現行レストランページからリンクされるPDFを目視確認。適用期間の記載はなく、当日の提供内容は要確認。料理の評価・名物とは断定しない。"
+    },
+    {
+      "id": 19,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "url": "https://www.belle-co.com/ichihara/",
+      "reason": "HTTP Error 503: Service Unavailable。3秒後の1回再試行後も取得不能。料理なしとは判断しない。"
+    },
+    {
+      "id": 399,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "url": "https://www.belle-co.com/belleselva/house.html",
+      "reason": "HTTP Error 503: Service Unavailable。3秒後の1回再試行後も取得不能。料理なしとは判断しない。"
+    },
+    {
+      "id": 334,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "url": "https://www.taka-golf.co.jp/",
+      "reason": "HTTP Error 503: Service Unavailable。3秒後の1回再試行後も取得不能。料理なしとは判断しない。"
+    },
+    {
+      "id": 80,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "access_failed",
+      "url": "https://www.hatsuhocc.co.jp/",
+      "reason": "HTTP Error 503: Service Unavailable。3秒後の1回再試行後も取得不能。料理なしとは判断しない。"
+    },
+    {
+      "id": 77,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "pending_content_review",
+      "url": "https://nasukasumigajo.com/ja",
+      "reason": "取得本文はLoadingと連絡先のみ。動的メニュー未確認。"
+    },
+    {
+      "id": 242,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "pending_content_review",
+      "url": "https://www.milgolf.co.jp/",
+      "reason": "トップ本文は料理5品のコンペパック案内のみ。料理名未確認。推測したrestaurant.htmは404で採用せず。"
+    },
+    {
+      "id": 466,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.ycc-golf.co.jp/institution/restaurant/",
+      "reason": "公式レストラン本文を確認。飲料名はあるが料理名がないため料理情報を補完せず。"
+    },
+    {
+      "id": 475,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.gcsr.jp/restaurant.html",
+      "sources": [
+        "https://www.gcsr.jp/img/news/202604_self.pdf"
+      ],
+      "reason": "レストラン本文は日替わり内容を当日スタッフに確認する案内。完全セルフPDFは4/11〜24の終了済み案内のため現在のレストラン閉鎖と解釈しない。"
+    }
+  ]
+}

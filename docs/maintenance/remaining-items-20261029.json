@@ -122,7 +122,8 @@
       "name": "ベルセルバカントリークラブ 市原コース",
       "field": "dining",
       "officialUrl": "https://www.belle-co.com/ichihara/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 19,
@@ -266,7 +267,7 @@
       "name": "ヌーヴェルゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.nouvelle-gc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029w.json"
     },
     {
@@ -438,7 +439,8 @@
       "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
       "field": "dining",
       "officialUrl": "https://nasukasumigajo.com/ja",
-      "status": "pending_content_review"
+      "status": "pending_content_review",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 77,
@@ -452,7 +454,9 @@
       "name": "真名カントリークラブ 真名コース",
       "field": "dining",
       "officialUrl": "https://www.mannacc.com/course/manna-course",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029x.json",
+      "evidenceBatch": "verified-followup-20261029x.json"
     },
     {
       "id": 78,
@@ -466,7 +470,8 @@
       "name": "初穂カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.hatsuhocc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 80,
@@ -1532,7 +1537,7 @@
       "name": "紫カントリークラブ すみれコース",
       "field": "budget",
       "officialUrl": "https://www.murasaki-cc.co.jp/sumire/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029w.json"
     },
     {
@@ -1928,7 +1933,8 @@
       "name": "ミルフィーユゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://www.milgolf.co.jp/",
-      "status": "pending_content_review"
+      "status": "pending_content_review",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 242,
@@ -3084,7 +3090,8 @@
       "name": "鷹ゴルフ倶楽部",
       "field": "dining",
       "officialUrl": "https://www.taka-golf.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 334,
@@ -3119,7 +3126,7 @@
       "name": "東都栃木カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.toto-motors.co.jp/golf/tochigi/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029w.json"
     },
     {
@@ -3710,7 +3717,7 @@
       "name": "LiVE MAX GOLF CLUB 栃木",
       "field": "budget",
       "officialUrl": "https://www.livemax-golfclub.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029w.json"
     },
     {
@@ -3775,7 +3782,7 @@
       "name": "希望丘カントリークラブ",
       "field": "budget",
       "officialUrl": "https://014kibougaokacc.sakura.ne.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029w.json"
     },
     {
@@ -3798,7 +3805,8 @@
       "name": "ベルセルバカントリークラブ さくらコース",
       "field": "dining",
       "officialUrl": "http://www.belle-co.com/belleselva/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 400,
@@ -4328,7 +4336,8 @@
       "name": "吉井カントリークラブ",
       "field": "dining",
       "officialUrl": "https://www.ycc-golf.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 467,
@@ -4374,7 +4383,8 @@
       "name": "ゴルフクラブスカイリゾート",
       "field": "dining",
       "officialUrl": "https://www.gcsr.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029x.json"
     },
     {
       "id": 475,
@@ -4404,7 +4414,9 @@
       "name": "シルクカントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://rfgr.jp/silk/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029x.json",
+      "evidenceBatch": "verified-followup-20261029x.json"
     },
     {
       "id": 478,
