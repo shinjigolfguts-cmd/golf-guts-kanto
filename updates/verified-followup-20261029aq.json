@@ -1,0 +1,133 @@
+{
+  "baseSha256": "cb3d7a829c9df49600ea263209032ac675c8ece8c170a7ca90c12e3031210dbc",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=46&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 286,
+      "name": "ザ・ゴルフクラブ竜ヶ崎",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=44&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 371,
+      "name": "皐月ゴルフ倶楽部 佐野コース",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 374,
+      "name": "ピートダイゴルフクラブ ロイヤルコース",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 375,
+      "name": "エヴァンタイユゴルフクラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 376,
+      "name": "ハーモニーヒルズゴルフクラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+      },
+      "evidenceNote": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式アクセスでは、浅草駅から東武伊勢崎線を利用し、足利駅で下車する経路を案内しています。駅からコースまでの所要時間・送迎条件は未確認です。",
+        "url": "https://www.ashikaga-cc.com/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+      },
+      "evidenceNote": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式アクセスでは、浅草駅から東武伊勢崎線を利用し、足利駅で下車する経路を案内しています。駅からコースまでの所要時間・送迎条件は未確認です。",
+        "url": "https://www.ashikaga-cc.com/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+      },
+      "evidenceNote": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+    }
+  ]
+}

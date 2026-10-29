@@ -1,0 +1,29 @@
+{
+  "items": [
+    {"id": 269, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=46&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 286, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=44&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 371, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 373, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 374, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 375, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 376, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.access_map", "finding": "公式クラブバス欄は『なし』。駅名・所要時間は本文にない。"},
+    {"id": 383, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://www.ashikaga-cc.com/", "finding": "公式ACCESS欄は浅草駅から東武伊勢崎線・足利駅下車を案内。駅からの所要時間と送迎は未掲載。"},
+    {"id": 384, "field": "rail", "checked": "2026-10-29", "status": "content_verified", "url": "https://www.ashikaga-cc.com/", "finding": "公式ACCESS欄は浅草駅から東武伊勢崎線・足利駅下車を案内。駅からの所要時間と送迎は未掲載。"},
+    {"id": 12, "field": "dining/stay", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://www.camelliahills.com/", "finding": "緊急メンテナンス画面と営業状況告知のみ。食事・宿泊設備の現行本文を確認できない。"},
+    {"id": 18, "field": "dining", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://booking.pacificgolf.co.jp/?cc_id=157&p=guide.gallery#restaurant_official", "finding": "公式フォトギャラリーはレストラン区分を表示するが、料理名・提供条件の本文がない。"},
+    {"id": 87, "field": "dining", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html", "finding": "公式利用案内本文に飲食施設・料理の現行案内を確認できない。不存在とは判断しない。"},
+    {"id": 223, "field": "car", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map", "finding": "公式本文はクラブバスの駅・予約条件を掲載するが、ICからの距離・時間は掲載しない。"},
+    {"id": 234, "field": "rail", "checked": "2026-10-29", "status": "needs_deeper_review", "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access", "finding": "当該アクセスページ本文は自施設の鉄道案内を表示せず、近隣施設の案内のみ。転用しない。"},
+    {"id": 236, "field": "car", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map", "finding": "公式本文は駅バスと総武コースからの移動を掲載するが、ICからの距離・時間は掲載しない。"},
+    {"id": 237, "field": "car", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map", "finding": "公式本文は駅バスと印旛コース下車条件を掲載するが、ICからの距離・時間は掲載しない。"},
+    {"id": 241, "field": "rail/dining/scenery", "checked": "2026-10-29", "status": "access_failed", "url": "https://www.katoricc.com/access/", "finding": "HTTP 503。3秒後の1回再試行も503。認証・証明書検証は迂回していない。"},
+    {"id": 243, "field": "rail/dining/scenery", "checked": "2026-10-29", "status": "access_failed", "url": "https://www.shinchiba-cc.co.jp/access/", "finding": "HTTP 503。3秒後の1回再試行も503。認証・証明書検証は迂回していない。"},
+    {"id": 304, "field": "rail", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/access", "finding": "公式アクセス本文は車の案内のみ。鉄道・送迎の有無を推測しない。"},
+    {"id": 311, "field": "car", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://kasama-club.com/access/", "finding": "公式アクセス本文は友部駅送迎時刻のみ。ICからの距離・時間を確認できない。"},
+    {"id": 335, "field": "dining", "checked": "2026-10-29", "status": "access_failed", "url": "https://www.suginosato.co.jp/", "finding": "HTTP 503。3秒後の1回再試行も503。"},
+    {"id": 339, "field": "rail", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://www.mashikohills.com/access/", "finding": "アクセス候補URLは404。公式トップの既確認本文にも駅からの所要時間はない。"},
+    {"id": 381, "field": "rail", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/access", "finding": "公式アクセス本文は鹿沼ICから10km・25分のみ。鉄道・送迎の有無を推測しない。"},
+    {"id": 390, "field": "rail", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://www.livemax-golfclub.com/access/", "finding": "公式アクセス本文は栃木ICから約17kmの車経路のみ。鉄道・送迎の有無を推測しない。"},
+    {"id": 394, "field": "car", "checked": "2026-10-29", "status": "reviewed_unconfirmed", "url": "https://www.linehill2026.com/", "finding": "公式トップと施設案内にICからの距離・時間を確認できない。既存の駅送迎情報を車欄へ転用しない。"}
+  ]
+}
