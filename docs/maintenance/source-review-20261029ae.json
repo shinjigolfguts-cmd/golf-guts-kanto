@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": 331,
+      "field": "budget",
+      "url": "https://kinugawacc.jp/reservation/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイトから案内された11月予約表の人数別プランと税込表示、公式料金説明の1Rセルフ・カート・昼食・利用税・消費税込を照合。"
+    },
+    {
+      "id": 331,
+      "field": "stay",
+      "url": "https://kinugawacc.jp/facility/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "既存の天然温泉紹介を保持し、公式11月予約表で明示された完全セルフデーの利用制限を追加。"
+    },
+    {
+      "id": 393,
+      "field": "budget",
+      "url": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "公式サイト経由の予約詳細と両日付ページを実読。料金は2名合計と明示されているため1人料金に誤転記せず、総額をそのまま掲載。"
+    },
+    {
+      "id": 393,
+      "field": "stay",
+      "url": "https://firstee.jp/25nasu-golf/25nasu-golf/plans/233048/detail",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "reason": "既存宿泊紹介を保持。公式サイトから遷移するプラン本文のロッカー・温泉・時刻・当日制限を確認。料金500円の人数単位は明記がないため補わない。"
+    },
+    {
+      "id": 453,
+      "field": "rail",
+      "url": "https://www.takanashiclub.jp/access.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "所在地と地図のみで鉄道の所要時間・送迎条件の本文を確認できず。"
+    },
+    {
+      "id": 66,
+      "field": "budget",
+      "url": "https://www.utsunomiya-cc.co.jp/fee.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "主料金は2020年企画。現在の成人1R料金として採用しない。"
+    },
+    {
+      "id": 178,
+      "field": "budget",
+      "url": "https://kamogolfclub.co.jp/fee/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "2020・2021年料金表のため現在料金には採用しない。"
+    },
+    {
+      "id": 171,
+      "field": "budget",
+      "url": "https://www.ikahocc.co.jp/guidance.html#cartfee",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "割増・利用税・キャンセル料金だけでは成人1Rの基本料金を確定できず。"
+    },
+    {
+      "id": 366,
+      "field": "budget",
+      "url": "https://lakelandcc.co.jp/price/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "人数割増・追加ハーフ・レンタルの料金を基本1R料金へ転用しない。"
+    },
+    {
+      "id": 281,
+      "field": "budget",
+      "url": "https://www.alpen-group.net/kasama-forest/reserve/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "人数割増等のみ。現在の基本料金の確認は未完了。"
+    },
+    {
+      "id": 354,
+      "field": "budget",
+      "url": "https://tochigicc.com/fee.html#pro",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "レッスン・レンタル・練習場料金からプレー基本料金を推定しない。"
+    },
+    {
+      "id": 409,
+      "field": "budget",
+      "url": "https://www.komagawacc.co.jp/fee",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "基本料金は別の営業カレンダー参照。浴場条件は既存掲載済みで重複更新しない。"
+    }
+  ]
+}

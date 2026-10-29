@@ -71,7 +71,7 @@
       "name": "伊香保ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://www.ikaho-gc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ad.json",
       "reviewRecord": "source-review-20261029ad.json"
     },
@@ -80,7 +80,7 @@
       "name": "伊香保ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.ikaho-gc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ad.json"
     },
@@ -405,7 +405,7 @@
       "field": "budget",
       "officialUrl": "https://www.utsunomiya-cc.co.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029z.json"
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 70,
@@ -1170,7 +1170,8 @@
       "name": "伊香保カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.ikahocc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 172,
@@ -1215,7 +1216,7 @@
       "field": "budget",
       "officialUrl": "https://kamogolfclub.co.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029z.json"
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 179,
@@ -1348,7 +1349,7 @@
       "name": "千葉カントリークラブ 梅郷コース",
       "field": "scenery",
       "officialUrl": "https://www.chibacc.co.jp/umesato",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ad.json"
     },
@@ -1537,7 +1538,7 @@
       "name": "千葉カントリークラブ 川間コース",
       "field": "scenery",
       "officialUrl": "https://www.chibacc.co.jp/kawama",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ad.json"
     },
@@ -2512,7 +2513,7 @@
       "field": "budget",
       "officialUrl": "https://www.alpen-group.net/kasama-forest/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029z.json"
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 282,
@@ -3138,8 +3139,9 @@
       "name": "鬼怒川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://kinugawacc.jp/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029z.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ae.json",
+      "evidenceBatch": "verified-followup-20261029ae.json"
     },
     {
       "id": 333,
@@ -3312,7 +3314,7 @@
       "name": "鹿沼プレミアゴルフ倶楽部",
       "field": "scenery",
       "officialUrl": "https://www.kanuma-premier.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ad.json"
     },
@@ -3357,7 +3359,8 @@
       "name": "栃木カントリークラブ",
       "field": "budget",
       "officialUrl": "https://tochigicc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 355,
@@ -3461,7 +3464,7 @@
       "field": "budget",
       "officialUrl": "https://lakelandcc.co.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029z.json"
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 367,
@@ -3772,7 +3775,7 @@
       "name": "JGM宇都宮ゴルフクラブ",
       "field": "scenery",
       "officialUrl": "https://www.jgmgroup.co.jp/utsunomiya/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ad.json"
     },
@@ -3781,7 +3784,7 @@
       "name": "JGM宇都宮ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.jgmgroup.co.jp/utsunomiya/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ad.json",
       "evidenceBatch": "verified-followup-20261029ad.json"
     },
@@ -3821,7 +3824,9 @@
       "name": "25那須ゴルフガーデン",
       "field": "budget",
       "officialUrl": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029ae.json",
+      "evidenceBatch": "verified-followup-20261029ae.json"
     },
     {
       "id": 394,
@@ -3949,7 +3954,8 @@
       "name": "高麗川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.komagawacc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 412,
@@ -4262,7 +4268,7 @@
       "field": "rail",
       "officialUrl": "https://www.takanashiclub.jp/",
       "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029y.json"
+      "reviewRecord": "source-review-20261029ae.json"
     },
     {
       "id": 453,
