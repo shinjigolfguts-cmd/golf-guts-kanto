@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"id":18,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=159&news_id=58728&p=guide.news_detail","finding":"2026年4月以降の営業時間、ラストオーダー、朝食なし、9時前の提供区分を公式案内で確認。"},
+    {"id":221,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=55&news_id=62500&p=guide.news_detail","finding":"2026年10月1日以降の営業時間、朝食廃止、午後の予約条件を公式案内で確認。"},
+    {"id":263,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=43&news_id=60461&p=guide.news_detail","finding":"曜日別営業時間、ラストオーダー、週替わりランチ提供を公式案内で確認。"},
+    {"id":264,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=151&news_id=59782&p=guide.news_detail","finding":"平日・土日祝の営業時間とラストオーダーを公式案内で確認。"},
+    {"id":270,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=157&news_id=57697&p=guide.news_detail","finding":"曜日別営業時間とラストオーダーを公式案内で確認。"},
+    {"id":298,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=42&date=&p=search.result_plan&sort=3","finding":"現行予約プランで指定昼食付き・昼食別の利用条件を確認。"},
+    {"id":299,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=41&date=&p=search.result_plan&sort=1","finding":"現行予約プランで昼食別条件とレストラン利用条件を確認。"},
+    {"id":488,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=153&news_id=62622&p=guide.news_detail","finding":"2026年10月10日以降の土日祝営業時間、ラストオーダー、テイクアウト開始時刻を公式案内で確認。"}
+  ]
+}
