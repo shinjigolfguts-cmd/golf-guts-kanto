@@ -16164,7 +16164,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=46&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "scenery": {
           "text": "フラットな林間に10個の池が点在。四季の自然に、日本建築のクラブハウスが調和しています。",
           "url": "https://booking.pacificgolf.co.jp/guide/46.html",
@@ -17095,7 +17101,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=44&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "scenery": {
           "text": "背の高い木々が立ち並ぶ林間コース。広い敷地で四季折々の自然や花木の変化を楽しめます。",
           "url": "https://www.pacificgolf.co.jp/ryugasaki/information.asp",
@@ -21708,7 +21720,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス本文・画像/PDFを実読確認。佐野田沼ICから約15分（7km）。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "dining": null,
         "budget": {
           "text": "2026年11月3日の時間帯限定・指定昼食付きナビカートセルフは1人12,980円（消費税・利用税等込み）です。",
@@ -21828,7 +21846,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス本文・画像/PDFを実読確認。大沢ICから約5分（4km）。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "dining": {
           "text": "公式レストランギャラリーには、ロースとんかつ、ちゃんぽん、酸辣湯麺などの料理例を掲載しています。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.gallery",
@@ -21896,7 +21920,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。大沢ICから約3分。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "dining": {
           "text": "レストランはありません。コース内売店は飲料の自動販売機のみで、11時以降のスタートは売店を利用できないため、公式案内ではスタート前の館内自動販売機の利用を案内しています。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.access_map",
@@ -21957,7 +21987,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "PGM公式設計家特集のエヴァンタイユ欄に両IC所要時間を明記。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "dining": {
           "text": "レストランは昼食のみの提供で、朝食の提供はありません。最新のメニューは公式案内でご確認ください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.access_map",
@@ -22018,7 +22054,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス本文・画像/PDFを実読確認。栃木ICから約11分（8km）。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は公式案内で確認できないため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名・タクシー所要時間は本文にないため推測しない。"
+        },
         "dining": {
           "text": "公式レストランギャラリーには、醤油ラーメンとミニ炒飯、ルーロー飯、カツサンドなどの料理例を掲載しています。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.gallery",
@@ -22381,7 +22423,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。公式アクセスでは佐野田沼ICから14km、足利ICから15kmと案内。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセスでは、浅草駅から東武伊勢崎線を利用し、足利駅で下車する経路を案内しています。駅からコースまでの所要時間・送迎条件は未確認です。",
+          "url": "https://www.ashikaga-cc.com/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+        },
         "dining": {
           "text": "多幸コースのメニューにデミグラス煮込みハンバーグ、豚の角煮定食、佐野ラーメンを掲載しています。",
           "url": "https://www.ashikaga-cc.com/information/restaurant/",
@@ -22427,7 +22475,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。公式アクセスでは佐野田沼ICから14km、足利ICから15kmと案内。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセスでは、浅草駅から東武伊勢崎線を利用し、足利駅で下車する経路を案内しています。駅からコースまでの所要時間・送迎条件は未確認です。",
+          "url": "https://www.ashikaga-cc.com/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+        },
         "dining": {
           "text": "飛駒コースのメニューにビーフシチューハンバーグ、サーモンと舞茸のバター焼き、佐野ラーメンを掲載しています。",
           "url": "https://www.ashikaga-cc.com/information/restaurant/",
