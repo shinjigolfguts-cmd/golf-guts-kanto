@@ -1,6 +1,6 @@
 {
-  "baseline": "26cb1d3fc1887ca4c806f72975dfcb85c6ea3ad6",
-  "note": "2026-10-30 batch av published; twelve official booking-calendar budget fields verified and public SHA256 matched.",
+  "baseline": "b9a8f6a5ac6068fa83e3794534a606f2970e313b",
+  "note": "2026-10-30 batch aw published; eight official-source budget fields verified and public SHA256 matched.",
   "items": [
     {
       "id": 0,
@@ -535,7 +535,9 @@
       "name": "真名カントリークラブ 真名コース",
       "field": "budget",
       "officialUrl": "https://www.mannacc.com/course/manna-course",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 80,
@@ -1692,7 +1694,9 @@
       "name": "ジャパンPGAゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://zuien.net/pga/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 211,
@@ -1917,7 +1921,9 @@
       "name": "かずさカントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfLinkCourseDetail/?gid=150",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 227,
@@ -2848,7 +2854,9 @@
       "name": "桜ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "http://www.sakurasgo.com",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 283,
@@ -3240,7 +3248,9 @@
       "name": "ひたち大宮ゴルフクラブ",
       "field": "budget",
       "officialUrl": "http://kabayagc.com/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 310,
@@ -4809,7 +4819,9 @@
       "name": "吉井南陽台ゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.yoshii-nanyodai.jp/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 457,
@@ -4910,7 +4922,9 @@
       "name": "ノーザンカントリークラブ 上毛ゴルフ場",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 465,
@@ -5118,7 +5132,9 @@
       "name": "小田原ゴルフ倶楽部 松田コース",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029aw.json",
+      "reviewRecord": "source-review-20261029aw.json"
     },
     {
       "id": 488,
