@@ -1,0 +1,1610 @@
+{
+  "items": [
+    {
+      "id": 123,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "url": "http://www.kanbun-group.co.jp/gmg/facility.html",
+      "checked": "2026-10-29",
+      "evidenceNote": "公式施設案内の浴室欄に大理石のバスルームと明記。隣接するレストランの開場時間を浴室時間に転用しない。",
+      "reason": "HTTP公式本文の施設説明は確認済みだが既存適用処理はHTTPS出典必須。HTTPSは初回・再試行とも取得失敗。検証処理を緩和せず今回の適用から除外。HTTPS公式資料の追加確認が必要。"
+    },
+    {
+      "id": 128,
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://www.hachiojicc.co.jp/facility/",
+      "checked": "2026-10-29",
+      "evidenceNote": "公式「その他施設」に掲載されたfaci06l.jpgを目視し、浴槽と洗い場を確認。画像から温泉や宿泊を推測しない。"
+    },
+    {
+      "id": 283,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "url": "http://www.sakurasgo.com/facility.html",
+      "checked": "2026-10-29",
+      "evidenceNote": "公式本文の「浴室（男性）」「浴室（女性）」「サウナ」各欄と設備説明を照合。",
+      "reason": "HTTP公式本文の施設説明は確認済みだが既存適用処理はHTTPS出典必須。HTTPSは初回・再試行とも取得失敗。検証処理を緩和せず今回の適用から除外。HTTPS公式資料の追加確認が必要。"
+    },
+    {
+      "id": 274,
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://www.jgmgroup.co.jp/kasama/facility/",
+      "checked": "2026-10-29",
+      "evidenceNote": "公式施設案内の大浴場欄に大理石の大浴場と女性用ドライヤーを明記。"
+    },
+    {
+      "id": 274,
+      "field": "dining",
+      "status": "content_verified",
+      "url": "https://www.jgmgroup.co.jp/kasama/restaurant/",
+      "checked": "2026-10-29",
+      "evidenceNote": "公式レストラン本文の料理名・提供時間・季節変更・差額表示を確認。ランキングや名物の断定は採用しない。"
+    },
+    {
+      "id": 112,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.river-golf.com/yoshimi/fee.html",
+          "finalUrl": "https://www.river-golf.com/yoshimi/fee.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.river-golf.com/yoshimi/fee.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://asaka-pab-golf.com/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://asaka-pab-golf.com/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://asaka-pab-golf.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "http://checkmate-cc.com/",
+          "finalUrl": "https://checkmate-cc.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://checkmate-cc.com/faci.html",
+          "finalUrl": "https://checkmate-cc.com/faci.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://checkmate-cc.com/",
+          "excerpts": []
+        },
+        {
+          "url": "https://checkmate-cc.com/faci.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://booking.pacificgolf.co.jp/guide/178.html",
+          "finalUrl": "https://booking.pacificgolf.co.jp/guide/178.html",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=178#house_official",
+          "finalUrl": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=178#house_official",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://booking.pacificgolf.co.jp/guide/178.html",
+          "excerpts": [
+            "京カントリークラブ\nクリアビューゴルフクラブ＆ホテル\n成田の森カントリークラブ\n長太郎カントリークラブ",
+            "京カントリークラブ\nクリアビューゴルフクラブ＆ホテル\n成田の森カントリークラブ\n長太郎カントリークラブ"
+          ]
+        },
+        {
+          "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=178#house_official",
+          "excerpts": [
+            "京カントリークラブ\nクリアビューゴルフクラブ＆ホテル\n成田の森カントリークラブ\n長太郎カントリークラブ",
+            "京カントリークラブ\nクリアビューゴルフクラブ＆ホテル\n成田の森カントリークラブ\n長太郎カントリークラブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.naritaff.com/",
+          "finalUrl": "https://www.naritaff.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.naritaff.com/course/",
+          "finalUrl": "https://www.naritaff.com/course/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.naritaff.com/course/clubhouse/",
+          "finalUrl": "https://www.naritaff.com/course/clubhouse/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.naritaff.com/rules/",
+          "finalUrl": "https://www.naritaff.com/rules/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.naritaff.com/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.naritaff.com/course/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.naritaff.com/course/clubhouse/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.naritaff.com/rules/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.abikogc.com/",
+          "finalUrl": "https://www.abikogc.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.abikogc.com/facility/",
+          "finalUrl": "https://www.abikogc.com/facility/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.abikogc.com/facility/#menu01",
+          "error": "<urlopen error timed out>",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.abikogc.com/facility/#menu01",
+          "finalUrl": "https://www.abikogc.com/facility/#menu01",
+          "status": 200,
+          "attempt": 2
+        },
+        {
+          "url": "https://www.abikogc.com/facility/#menu02",
+          "finalUrl": "https://www.abikogc.com/facility/#menu02",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.abikogc.com/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.abikogc.com/facility/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.abikogc.com/facility/#menu01",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.abikogc.com/facility/#menu02",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.daichibacc.com/",
+          "finalUrl": "https://www.daichibacc.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.daichibacc.com/club-house.html",
+          "finalUrl": "https://www.daichibacc.com/club-house.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.daichibacc.com/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.daichibacc.com/club-house.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.tokyu-golf-resort.com/omigawa/",
+          "finalUrl": "https://www.tokyu-golf-resort.com/omigawa/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/omigawa/facility/",
+          "finalUrl": "https://www.tokyu-golf-resort.com/omigawa/facility/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.tokyu-golf-resort.com/omigawa/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/omigawa/facility/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.yc21.co.jp/mangijo/",
+          "finalUrl": "https://www.yc21.co.jp/mangijo/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.yc21.co.jp/mangijo/house.html",
+          "finalUrl": "https://www.yc21.co.jp/mangijo/house.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.yc21.co.jp/mangijo/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.yc21.co.jp/mangijo/house.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.yc21.co.jp/minamimobara/",
+          "finalUrl": "https://www.yc21.co.jp/minamimobara/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.yc21.co.jp/minamimobara/house.html",
+          "finalUrl": "https://www.yc21.co.jp/minamimobara/house.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.yc21.co.jp/minamimobara/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.yc21.co.jp/minamimobara/house.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
+          "finalUrl": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.pacificgolf.co.jp/ishioka/facility.asp",
+          "finalUrl": "https://www.pacificgolf.co.jp/ishioka/facility.asp",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.pacificgolf.co.jp/ishioka/facility/viproom.asp",
+          "finalUrl": "https://www.pacificgolf.co.jp/ishioka/facility/viproom.asp",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.pacificgolf.co.jp/ishioka/facility.asp",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.pacificgolf.co.jp/ishioka/facility/viproom.asp",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.katoricc.com/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.katoricc.com/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.katoricc.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "http://www.daiyagreen.com",
+          "finalUrl": "http://www.daiyagreen.com",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "http://www.daiyagreen.com/facilities/index.html",
+          "finalUrl": "http://www.daiyagreen.com/facilities/index.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "http://www.daiyagreen.com",
+          "excerpts": []
+        },
+        {
+          "url": "http://www.daiyagreen.com/facilities/index.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "http://www.tukubane.com/",
+          "finalUrl": "https://www.tukubane.com/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.tukubane.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://nscc.golftk.com/",
+          "error": "HTTP Error 403: Forbidden",
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://nscc.golftk.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.mgcc.jp/",
+          "finalUrl": "https://www.mgcc.jp/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.mgcc.jp/",
+          "excerpts": [
+            "大きな窓からの朝日を\n浴びて一日をスタート。\n淹れたての香り\n高いコーヒーをどうぞ。",
+            "大きな窓からの朝日を\n浴びて一日をスタート。\n淹れたての香り\n高いコーヒーをどうぞ。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.suginosato.co.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.suginosato.co.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.suginosato.co.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.mashikohills.com/",
+          "finalUrl": "https://www.mashikohills.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.mashikohills.com/facility.html",
+          "finalUrl": "https://www.mashikohills.com/facility.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.mashikohills.com/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.mashikohills.com/facility.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "浴室改修告知は三好コースの情報。唐沢コースには転用せず、唐沢施設ページだけでは浴室条件未確認。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.karasawa-golf.or.jp/",
+          "finalUrl": "https://www.karasawa-golf.or.jp/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.karasawa-golf.or.jp/facility-miyoshi/",
+          "finalUrl": "https://www.karasawa-golf.or.jp/facility-miyoshi/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.karasawa-golf.or.jp/facility-karasawa/",
+          "finalUrl": "https://www.karasawa-golf.or.jp/facility-karasawa/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.karasawa-golf.or.jp/%e7%94%b7%e5%ad%90%e6%b5%b4%e5%ae%a4%e3%82%92%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82/",
+          "finalUrl": "https://www.karasawa-golf.or.jp/%e7%94%b7%e5%ad%90%e6%b5%b4%e5%ae%a4%e3%82%92%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.karasawa-golf.or.jp/",
+          "excerpts": [
+            "唐沢ゴルフ倶楽部三好コース\n男子浴室をリニューアルいたしました。\n男子浴室の改修工事を2026年1月6日から実施し、2月末に完成し3月1日よりご利用を開…\n2026-03-27",
+            "男子浴室をリニューアルいたしました。\n男子浴室の改修工事を2026年1月6日から実施し、2月末に完成し3月1日よりご利用を開…\n2026-03-27\nお知らせ一覧"
+          ]
+        },
+        {
+          "url": "https://www.karasawa-golf.or.jp/facility-miyoshi/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.karasawa-golf.or.jp/facility-karasawa/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.karasawa-golf.or.jp/%e7%94%b7%e5%ad%90%e6%b5%b4%e5%ae%a4%e3%82%92%e3%83%aa%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%83%ab%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82/",
+          "excerpts": [
+            "男子浴室をリニューアルいたしました。 – 唐沢ゴルフ倶楽部｜栃木県佐野市｜栃木県ゴルフ場\nMENU\nお知らせ",
+            "唐沢ゴルフ倶楽部三好コース\n男子浴室をリニューアルいたしました。\n男子浴室をリニューアルいたしました。\n2026",
+            "男子浴室をリニューアルいたしました。\n男子浴室をリニューアルいたしました。\n2026\n3/27",
+            "2026-03-27\n男子浴室の改修工事を2026年1月6日から実施し、2月末に完成し3月1日よりご利用を開始しました。\n唐沢ゴルフ倶楽部三好コース\nフェアウェイ乗入れ可能に"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.ashikagajo.jp/",
+          "error": "HTTP Error 403: Forbidden",
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.ashikagajo.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://thomson-cc.com/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://thomson-cc.com/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://thomson-cc.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.touricc.com/",
+          "finalUrl": "https://www.touricc.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.touricc.com/clubhouse.html",
+          "finalUrl": "https://www.touricc.com/clubhouse.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.touricc.com/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.touricc.com/clubhouse.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://banryugolf.com/higashinomiya/",
+          "finalUrl": "https://banryugolf.com/higashinomiya/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://banryugolf.com/higashinomiya/facility/index.html",
+          "finalUrl": "https://banryugolf.com/higashinomiya/facility/index.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://banryugolf.com/higashinomiya/",
+          "excerpts": []
+        },
+        {
+          "url": "https://banryugolf.com/higashinomiya/facility/index.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+          "error": "<urlopen error timed out>",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+          "finalUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+          "status": 200,
+          "attempt": 2
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/guide.html",
+          "finalUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/guide.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/guide.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "夏季シャワー改修に伴う休場告知あり。現在の利用条件・再開状況を告知だけで確定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "http://ashikaga-watarase-golf.jp/",
+          "finalUrl": "http://ashikaga-watarase-golf.jp/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "http://ashikaga-watarase-golf.jp/",
+          "excerpts": [
+            "8月17日(月)～8月31日(月)\n上記期間、クラブハウス内シャワー室の改修工事のため、ゴルフ場をクローズさせていただきます。\nご理解・ご了承くださいますよう何卒よろしくお願い申し上げます。\nREAD MORE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "2022年の浴室ビニール袋廃止告知だけで現在の浴室利用条件は確定しない。施設案内の詳細確認が必要。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://kumagaya-gc.com/",
+          "finalUrl": "https://kumagaya-gc.com/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility",
+          "finalUrl": "https://kumagaya-gc.com/facility/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/#p07box02",
+          "finalUrl": "https://kumagaya-gc.com/facility/#p07box02",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/#p07box03",
+          "finalUrl": "https://kumagaya-gc.com/facility/#p07box03",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://kumagaya-gc.com/",
+          "excerpts": [
+            "2022.06.01\n浴室用ビニール袋配布終了について\n2022.03.21\n新型コロナウィルス感染症対策について（レストラン）"
+          ]
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/",
+          "excerpts": []
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/#p07box02",
+          "excerpts": []
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/#p07box03",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.kanbun-group.co.jp/ncc/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.kanbun-group.co.jp/ncc/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.kanbun-group.co.jp/ncc/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.ranzan.cc/",
+          "finalUrl": "https://www.ranzan.cc/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.ranzan.cc/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.kasumigasekicc.or.jp/",
+          "finalUrl": "https://www.kasumigasekicc.or.jp/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.kasumigasekicc.or.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.kodama-cc.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.kodama-cc.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.kodama-cc.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.tokyogolfclub.jp/",
+          "finalUrl": "https://www.tokyogolfclub.jp/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.tokyogolfclub.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "error": "HTTP Error 503: Service Unavailable",
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/",
+          "finalUrl": "https://www.tokyu-golf-resort.com/itakura/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/facility/",
+          "error": "<urlopen error timed out>",
+          "attempt": 1
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/facility/",
+          "finalUrl": "https://www.tokyu-golf-resort.com/itakura/facility/",
+          "status": 200,
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/facility/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "error": "HTTP Error 403: Forbidden",
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.omama-gc.com/",
+          "finalUrl": "https://www.omama-gc.com/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.omama-gc.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/",
+          "finalUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/guide.html",
+          "finalUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/guide.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/",
+          "excerpts": []
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/guide.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.shonanseaside.com/",
+          "finalUrl": "https://www.shonanseaside.com/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.shonanseaside.com/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://edogawaline.or.jp/",
+          "error": "<urlopen error timed out>",
+          "attempt": 1
+        },
+        {
+          "url": "https://edogawaline.or.jp/",
+          "finalUrl": "https://edogawaline.or.jp/",
+          "status": 200,
+          "attempt": 2
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://edogawaline.or.jp/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://dynamic-golf.jp/chiba/",
+          "finalUrl": "https://dynamic-golf.jp/chiba/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://dynamic-golf.jp/chiba/facility_fee/",
+          "finalUrl": "https://dynamic-golf.jp/chiba/facility_fee/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://dynamic-golf.jp/chiba/",
+          "excerpts": []
+        },
+        {
+          "url": "https://dynamic-golf.jp/chiba/facility_fee/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://dynamic-golf.jp/mobara/",
+          "finalUrl": "https://dynamic-golf.jp/mobara/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://dynamic-golf.jp/mobara/facility_fee/",
+          "finalUrl": "https://dynamic-golf.jp/mobara/facility_fee/",
+          "status": 200,
+          "attempt": 1
+        },
+        {
+          "url": "https://dynamic-golf.jp/mobara/news/m-facilities",
+          "finalUrl": "https://dynamic-golf.jp/mobara/news/m-facilities/",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://dynamic-golf.jp/mobara/",
+          "excerpts": []
+        },
+        {
+          "url": "https://dynamic-golf.jp/mobara/facility_fee/",
+          "excerpts": []
+        },
+        {
+          "url": "https://dynamic-golf.jp/mobara/news/m-facilities/",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。",
+      "checked": "2026-10-29",
+      "requests": [
+        {
+          "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+          "finalUrl": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+          "status": 200,
+          "attempt": 1
+        }
+      ],
+      "reviewedPages": [
+        {
+          "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+          "excerpts": []
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=43#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=43",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 7,
+      "imageDates": [
+        "2023年08月28日",
+        "2023年09月11日",
+        "2023年10月16日",
+        "2023年10月23日"
+      ],
+      "responseSha256": "dfe46ffaa7e069fc212536d5b20e855fa0c4b249542ad477164f83b509d64c01"
+    },
+    {
+      "id": 440,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=169#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=169",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 0,
+      "imageDates": [],
+      "responseSha256": "1ecdb64f337d47e092440685836782f4337a7e96285caba3aa7b8ae595b68ee4"
+    },
+    {
+      "id": 370,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=34#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=34",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 4,
+      "imageDates": [
+        "2023年08月30日",
+        "2024年02月29日"
+      ],
+      "responseSha256": "b21bba81bc28c97361f6888ac2c0ed76893c8b7804896053c08468b4d92827a4"
+    },
+    {
+      "id": 235,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=56#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=56",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 7,
+      "imageDates": [
+        "2023年08月30日",
+        "2023年09月18日",
+        "2023年12月16日"
+      ],
+      "responseSha256": "60272f1a396d7cde6eaf165f4ff86c79a20b52e821f7a85fefc0cd91e334f9e8"
+    },
+    {
+      "id": 489,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=66#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=66",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 17,
+      "imageDates": [
+        "2023年08月30日",
+        "2023年09月03日",
+        "2023年09月04日",
+        "2024年04月07日",
+        "2024年10月10日",
+        "2025年03月10日",
+        "2025年12月06日"
+      ],
+      "responseSha256": "b4276cbebe4880c6f61d13281d181f1b2ee0cee21eb1b34b79b88a7545d54bac"
+    },
+    {
+      "id": 221,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=55#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=55",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 6,
+      "imageDates": [
+        "2023年09月12日",
+        "2023年10月20日"
+      ],
+      "responseSha256": "d50490336ea7ac9e90db07ec898aa6a18db7bb7919f22dc88120729461e75b7e"
+    },
+    {
+      "id": 270,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=157#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=157",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 4,
+      "imageDates": [
+        "2023年08月30日",
+        "2023年09月15日",
+        "2023年10月25日"
+      ],
+      "responseSha256": "2c939eda0e4cb53c055e4d75c5946f034d6364f39ec1e58a6f384781ffd8ce33"
+    },
+    {
+      "id": 271,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=172#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=172",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 9,
+      "imageDates": [
+        "2023年08月31日",
+        "2023年09月04日",
+        "2024年07月03日"
+      ],
+      "responseSha256": "3a9a9892c97f441492996c8e556d8c69e703fa07a5793683440c597f341bb30a"
+    },
+    {
+      "id": 488,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=153#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=153",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 18,
+      "imageDates": [
+        "2025年03月24日",
+        "2025年04月05日",
+        "2026年09月28日",
+        "2026年09月29日",
+        "2026年10月01日"
+      ],
+      "responseSha256": "a3a518f9913d6e8dc63dfb5a0b416b860e092c638cdaf5a064d0e92724acd441"
+    },
+    {
+      "id": 262,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=44#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=44",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 8,
+      "imageDates": [
+        "2023年08月30日",
+        "2023年09月01日",
+        "2023年10月12日"
+      ],
+      "responseSha256": "53d56d7e03601f9d9d485839edcc8b1f602efe641378c59ca974f40d1312641b"
+    },
+    {
+      "id": 236,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=63#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=63",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 5,
+      "imageDates": [
+        "2023年08月31日",
+        "2023年09月05日"
+      ],
+      "responseSha256": "21a62178d22ff3c8033fe6830deb56df75cd3db7331afa74f22912d24c073bc4"
+    },
+    {
+      "id": 264,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=151#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=151",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 7,
+      "imageDates": [
+        "2023年08月30日",
+        "2023年08月31日"
+      ],
+      "responseSha256": "9ea0c7b3c9b532dbf6c5ed0fe14ae574fd90ed5a6f3f8ae915c48f828b75b551"
+    },
+    {
+      "id": 299,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=41#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=41",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 4,
+      "imageDates": [
+        "2023年08月29日",
+        "2023年10月23日",
+        "2026年06月11日"
+      ],
+      "responseSha256": "68ab250a459cdc1f245269e48cce3ee4b2fb262b611f0dc72cd17782cf17b229"
+    },
+    {
+      "id": 92,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=72#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=72",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 7,
+      "imageDates": [
+        "2023年08月30日",
+        "2023年09月18日"
+      ],
+      "responseSha256": "aa32de493d382963c5380a4a7d8c16382e9f3912d5b2aa074b9bb56f0d9fb277"
+    },
+    {
+      "id": 269,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=46#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=46",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 6,
+      "imageDates": [
+        "2023年09月04日",
+        "2023年12月16日",
+        "2025年08月07日",
+        "2026年06月15日"
+      ],
+      "responseSha256": "d81ab2dfa34e17ebe0c25572f16a1786eab838df47d75306fc2b748cef4ceda4"
+    },
+    {
+      "id": 266,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=38#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=38",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 15,
+      "imageDates": [
+        "2023年08月31日",
+        "2023年09月12日",
+        "2023年09月16日",
+        "2023年11月06日",
+        "2024年04月22日"
+      ],
+      "responseSha256": "bda4536ed23bcceac8de7b77aa6eea716c54b538215123ed62cb9304bb418a09"
+    },
+    {
+      "id": 298,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=42#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=42",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 5,
+      "imageDates": [
+        "2023年08月29日",
+        "2023年08月31日"
+      ],
+      "responseSha256": "1a17f71028c093ce3c1d809ee43024439f16721ef7c2f8cfaa15bc3b5c7f0076"
+    },
+    {
+      "id": 371,
+      "field": "dining",
+      "status": "needs_deeper_review",
+      "checked": "2026-10-29",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=35#restaurant_official",
+      "endpoint": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=35",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。",
+      "officialImageCount": 8,
+      "imageDates": [
+        "2023年09月04日",
+        "2023年09月07日",
+        "2026年09月30日"
+      ],
+      "responseSha256": "5286288f0cfc2222db412035eafac34713dbbe905177ef9fe8ec9dc1d131551e"
+    },
+    {
+      "id": 215,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "url": "https://tokyu700.jp/facilities/",
+      "checked": "2026-10-29",
+      "reason": "公式施設案内はクラブハウス・ロッカー・レストラン等の説明。浴場・宿泊の記載を確認できず。"
+    },
+    {
+      "id": 108,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "url": "https://www.chibaisumi.jp/news/summer_operating_hours.html",
+      "checked": "2026-10-29",
+      "reason": "2026年7・8月の浴室利用時間案内は存在するが、現在の営業時間に転用しない。通常期の資料を追加調査。"
+    },
+    {
+      "id": 240,
+      "field": "stay",
+      "status": "needs_deeper_review",
+      "url": "https://www.takanodaicc.or.jp/",
+      "checked": "2026-10-29",
+      "reason": "公式トップ取得時HTTP503。今回の記録では追加取得していない。"
+    }
+  ]
+}

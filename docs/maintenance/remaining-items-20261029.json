@@ -47,7 +47,9 @@
       "name": "江戸川ラインゴルフショートコース",
       "field": "stay",
       "officialUrl": "https://edogawaline.or.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 6,
@@ -154,7 +156,7 @@
       "name": "ムーンレイクゴルフクラブ 茂原コース",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/65.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -170,7 +172,9 @@
       "name": "PGM石岡ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.pacificgolf.co.jp/ishioka/tournament.asp",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 23,
@@ -221,7 +225,7 @@
       "name": "PGM総成ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://pacificgolf.co.jp/sohsei/information.asp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -330,7 +334,7 @@
       "name": "千代田カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/chiyoda/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -354,7 +358,7 @@
       "name": "イーグルレイクゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -505,7 +509,7 @@
       "name": "ムーンレイクゴルフクラブ 鶴舞コース",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/143.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -521,7 +525,7 @@
       "name": "ムーンレイクゴルフクラブ 市原コース",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/141.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -539,14 +543,18 @@
       "name": "ダイナミックゴルフ千葉",
       "field": "stay",
       "officialUrl": "https://dynamic-golf.jp/chiba/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 86,
       "name": "ダイナミックゴルフ茂原",
       "field": "stay",
       "officialUrl": "https://dynamic-golf.jp/mobara/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 87,
@@ -561,7 +569,9 @@
       "name": "川崎リバーサイドパーク ゴルフ場",
       "field": "stay",
       "officialUrl": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 88,
@@ -602,7 +612,7 @@
       "name": "成田の森カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/60.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -611,7 +621,7 @@
       "name": "ザ・インペリアルカントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/52.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -620,7 +630,9 @@
       "name": "岡部チサンカントリークラブ 美里コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 92,
@@ -635,7 +647,7 @@
       "name": "岡部チサンカントリークラブ 美里コース",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -644,7 +656,7 @@
       "name": "東名厚木カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/68.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -772,26 +784,31 @@
       "name": "千葉夷隅ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.chibaisumi.jp/course.html",
-      "status": "reviewed_unconfirmed",
+      "status": "needs_deeper_review",
       "checked": "2026-10-29",
       "reviewedUrls": [
         "https://www.chibaisumi.jp/house.html"
       ],
-      "reason": "確認した公式施設案内に浴室・宿泊の明確な本文なし。施設なしとは判断しない。詳細はfollowup-20261029m.md。"
+      "reason": "2026年7・8月の浴室利用時間案内は存在するが、現在の営業時間に転用しない。通常期の資料を追加調査。",
+      "reviewRecord": "source-review-20261029aj.json"
     },
     {
       "id": 112,
       "name": "吉見ゴルフ場",
       "field": "stay",
       "officialUrl": "https://www.river-golf.com/yoshimi/fee.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 113,
       "name": "朝霞パブリックゴルフ場",
       "field": "stay",
       "officialUrl": "https://asaka-pab-golf.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 116,
@@ -838,7 +855,9 @@
       "name": "GMG八王子ゴルフ場",
       "field": "stay",
       "officialUrl": "http://www.kanbun-group.co.jp/gmg/index.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "HTTP公式本文の施設説明は確認済みだが既存適用処理はHTTPS出典必須。HTTPSは初回・再試行とも取得失敗。検証処理を緩和せず今回の適用から除外。HTTPS公式資料の追加確認が必要。"
     },
     {
       "id": 125,
@@ -857,12 +876,14 @@
       "name": "八王子カントリークラブ",
       "field": "stay",
       "officialUrl": "http://www.hachiojicc.co.jp",
-      "status": "reviewed_unconfirmed",
+      "status": "verified_pending_publication",
       "checked": "2026-10-29",
       "reviewedUrls": [
         "https://www.hachiojicc.co.jp/facility/"
       ],
-      "reason": "確認した公式施設案内に浴室・宿泊の明確な本文なし。施設なしとは判断しない。詳細はfollowup-20261029m.md。"
+      "reason": "確認した公式施設案内に浴室・宿泊の明確な本文なし。施設なしとは判断しない。詳細はfollowup-20261029m.md。",
+      "reviewRecord": "source-review-20261029aj.json",
+      "evidenceBatch": "verified-followup-20261029aj.json"
     },
     {
       "id": 128,
@@ -885,7 +906,7 @@
       "name": "伊勢原カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/154.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -925,7 +946,9 @@
       "name": "チェックメイトカントリークラブ",
       "field": "stay",
       "officialUrl": "http://checkmate-cc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 134,
@@ -972,7 +995,9 @@
       "name": "PGM市原カントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/178.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 139,
@@ -1049,7 +1074,7 @@
       "name": "飯能くすの樹カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/75.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1066,7 +1091,7 @@
       "name": "阿見ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/47.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1130,7 +1155,7 @@
       "name": "大日向カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/27.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1270,7 +1295,9 @@
       "name": "成田フェアフィールドゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.naritaff.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 181,
@@ -1301,7 +1328,9 @@
       "name": "我孫子ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://www.abikogc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 186,
@@ -1374,7 +1403,9 @@
       "name": "大千葉カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.daichibacc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 194,
@@ -1453,7 +1484,7 @@
       "name": "大多喜カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/164.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1462,7 +1493,7 @@
       "name": "南総ヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/161.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1497,7 +1528,9 @@
       "name": "小見川東急ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.tokyu-golf-resort.com/omigawa/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 205,
@@ -1624,7 +1657,9 @@
       "name": "東急セブンハンドレッドクラブ",
       "field": "stay",
       "officialUrl": "https://tokyu700.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式施設案内はクラブハウス・ロッカー・レストラン等の説明。浴場・宿泊の記載を確認できず。"
     },
     {
       "id": 216,
@@ -1646,7 +1681,9 @@
       "name": "万木城カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.yc21.co.jp/mangijo/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 217,
@@ -1660,7 +1697,9 @@
       "name": "南茂原カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.yc21.co.jp/minamimobara/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 218,
@@ -1674,7 +1713,7 @@
       "name": "アバイディングクラブ ゴルフソサエティ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/61.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1691,14 +1730,16 @@
       "name": "京カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 221,
       "name": "京カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1715,7 +1756,7 @@
       "name": "千葉国際カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/152.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1739,7 +1780,7 @@
       "name": "長太郎カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/58.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1849,14 +1890,16 @@
       "name": "丸の内倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/56.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 235,
       "name": "丸の内倶楽部",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/56.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1880,14 +1923,16 @@
       "name": "総武カントリークラブ 印旛コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 236,
       "name": "総武カントリークラブ 印旛コース",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1911,7 +1956,7 @@
       "name": "総武カントリークラブ 北コース",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/64.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1920,7 +1965,7 @@
       "name": "総武カントリークラブ 北コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/64.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json"
     },
     {
@@ -1928,7 +1973,7 @@
       "name": "PGM南市原ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/168.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -1975,7 +2020,9 @@
       "name": "鷹之台カンツリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.takanodaicc.or.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式トップ取得時HTTP503。今回の記録では追加取得していない。"
     },
     {
       "id": 241,
@@ -2010,7 +2057,9 @@
       "name": "香取カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.katoricc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 242,
@@ -2072,7 +2121,9 @@
       "name": "新千葉カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.shinchiba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 244,
@@ -2273,7 +2324,9 @@
       "name": "笠間カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/44.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 262,
@@ -2297,7 +2350,9 @@
       "name": "霞ヶ浦カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/43.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 263,
@@ -2321,7 +2376,9 @@
       "name": "内原カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/151.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 264,
@@ -2345,7 +2402,7 @@
       "name": "扶桑カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/39.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -2362,7 +2419,9 @@
       "name": "カントリークラブ・ザ・レイクス",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/38.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 266,
@@ -2386,7 +2445,7 @@
       "name": "グランドスラムカントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/40.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -2403,7 +2462,7 @@
       "name": "勝田ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/45.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -2427,7 +2486,9 @@
       "name": "スプリングフィルズゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 269,
@@ -2451,7 +2512,9 @@
       "name": "鹿島の杜カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/157.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 270,
@@ -2475,7 +2538,9 @@
       "name": "オールドオーチャードゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/172.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 271,
@@ -2515,8 +2580,9 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "access_failed",
-      "reviewRecord": "source-review-20261029y.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029aj.json",
+      "evidenceBatch": "verified-followup-20261029aj.json"
     },
     {
       "id": 274,
@@ -2530,7 +2596,9 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029aj.json",
+      "evidenceBatch": "verified-followup-20261029aj.json"
     },
     {
       "id": 277,
@@ -2630,7 +2698,9 @@
       "name": "桜ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "http://www.sakurasgo.com",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "HTTP公式本文の施設説明は確認済みだが既存適用処理はHTTPS出典必須。HTTPSは初回・再試行とも取得失敗。検証処理を緩和せず今回の適用から除外。HTTPS公式資料の追加確認が必要。"
     },
     {
       "id": 284,
@@ -2810,7 +2880,9 @@
       "name": "玉造ゴルフ倶楽部 捻木コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/42.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 298,
@@ -2834,7 +2906,9 @@
       "name": "玉造ゴルフ倶楽部 若海コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/41.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 299,
@@ -2879,7 +2953,9 @@
       "name": "ダイヤグリーン倶楽部",
       "field": "stay",
       "officialUrl": "http://www.daiyagreen.com",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 301,
@@ -2894,7 +2970,9 @@
       "name": "つくばねカントリークラブ",
       "field": "stay",
       "officialUrl": "http://www.tukubane.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 304,
@@ -2969,7 +3047,9 @@
       "name": "ノースショアカントリークラブ",
       "field": "stay",
       "officialUrl": "https://nscc.golftk.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 310,
@@ -3061,7 +3141,9 @@
       "name": "水戸グリーンカントリークラブ 山方コース",
       "field": "stay",
       "officialUrl": "https://www.mgcc.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 315,
@@ -3284,7 +3366,9 @@
       "name": "杉ノ郷カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.suginosato.co.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 337,
@@ -3337,7 +3421,9 @@
       "name": "益子ヒルズゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.mashikohills.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 340,
@@ -3392,7 +3478,9 @@
       "name": "唐沢ゴルフ倶楽部 唐沢コース",
       "field": "stay",
       "officialUrl": "https://www.karasawa-golf.or.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "浴室改修告知は三好コースの情報。唐沢コースには転用せず、唐沢施設ページだけでは浴室条件未確認。"
     },
     {
       "id": 348,
@@ -3446,7 +3534,9 @@
       "name": "足利城ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://www.ashikagajo.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 353,
@@ -3484,7 +3574,9 @@
       "name": "トムソンカントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://thomson-cc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 357,
@@ -3499,7 +3591,9 @@
       "name": "桃里カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.touricc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 358,
@@ -3544,7 +3638,9 @@
       "name": "東ノ宮カントリークラブ",
       "field": "stay",
       "officialUrl": "https://banryugolf.com/higashinomiya/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 364,
@@ -3590,7 +3686,7 @@
       "name": "あさひヶ丘カントリークラブ",
       "field": "budget",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/146.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029ai.json",
       "reviewRecord": "source-review-20261029ai.json"
     },
@@ -3599,7 +3695,9 @@
       "name": "皐月ゴルフ倶楽部 鹿沼コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/34.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 370,
@@ -3630,7 +3728,9 @@
       "name": "皐月ゴルフ倶楽部 佐野コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/35.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 371,
@@ -3879,7 +3979,9 @@
       "name": "太平洋クラブ 佐野ヒルクレストコース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 388,
@@ -4028,7 +4130,9 @@
       "name": "足利渡良瀬ゴルフ場",
       "field": "stay",
       "officialUrl": "http://ashikaga-watarase-golf.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "夏季シャワー改修に伴う休場告知あり。現在の利用条件・再開状況を告知だけで確定しない。"
     },
     {
       "id": 401,
@@ -4069,7 +4173,9 @@
       "name": "熊谷ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://kumagaya-gc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "2022年の浴室ビニール袋廃止告知だけで現在の浴室利用条件は確定しない。施設案内の詳細確認が必要。"
     },
     {
       "id": 408,
@@ -4138,7 +4244,9 @@
       "name": "長瀞カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.kanbun-group.co.jp/ncc/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 421,
@@ -4152,7 +4260,9 @@
       "name": "嵐山カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.ranzan.cc/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 424,
@@ -4197,7 +4307,9 @@
       "name": "霞ヶ関カンツリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.kasumigasekicc.or.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 427,
@@ -4211,7 +4323,9 @@
       "name": "児玉カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.kodama-cc.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 428,
@@ -4261,7 +4375,9 @@
       "name": "東京ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://www.tokyogolfclub.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 433,
@@ -4326,7 +4442,9 @@
       "name": "PGM武蔵ゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/169.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 440,
@@ -4432,7 +4550,9 @@
       "name": "吉井南陽台ゴルフコース",
       "field": "stay",
       "officialUrl": "https://www.yoshii-nanyodai.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 455,
@@ -4454,7 +4574,9 @@
       "name": "板倉ゴルフ場",
       "field": "stay",
       "officialUrl": "https://www.tokyu-golf-resort.com/itakura/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 458,
@@ -4560,7 +4682,9 @@
       "name": "太田双葉カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.ota-futaba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ページを取得できず。通信・拒否の結果を記録し空欄保持。認証・証明書・アクセス制限は迂回していない。"
     },
     {
       "id": 465,
@@ -4599,7 +4723,9 @@
       "name": "大間々ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.omama-gc.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 470,
@@ -4669,7 +4795,9 @@
       "name": "太平洋クラブ 高崎コース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 480,
@@ -4733,7 +4861,9 @@
       "name": "大秦野カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/153.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 488,
@@ -4749,7 +4879,9 @@
       "name": "秦野カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/66.html",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
     },
     {
       "id": 489,
@@ -4812,7 +4944,9 @@
       "name": "湘南シーサイドカントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.shonanseaside.com/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029aj.json",
+      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
     },
     {
       "id": 496,
