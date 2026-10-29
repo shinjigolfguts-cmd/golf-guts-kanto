@@ -4446,12 +4446,25 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスページとリンク先シャトル案内PDF。駅8:00→施設8:30など各便30分"
         },
-        "dining": null,
+        "dining": {
+          "text": "昼食はレストランWOODSで10:30〜13:30（ラストオーダー13:00）。ホテルのSienaでは地元・旬の食材を使うフレンチを夕食時に提供しています。具体的な料理名・料金は未確認です。",
+          "url": "https://nasukasumigajo.com/ja/golf",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ゴルフ案内のWOODS営業時間とホテル案内のSienaのフレンチを照合。夕食をゴルフ昼食と混同しない。",
+          "supportingUrls": [
+            "https://nasukasumigajo.com/ja/hotel"
+          ]
+        },
         "stay": {
-          "text": "ホテルを備える18ホールのゴルフリゾート。",
-          "url": "https://nasukasumigajo.com/ja",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "全30室のホテルを併設し、宿泊のみの予約も可能です。天然温泉の大浴場、露天風呂、サウナ、水風呂を案内。入浴時間は6:00〜8:30・13:00〜23:00です。宿泊・日帰りのプラン別条件は予約時にご確認ください。",
+          "url": "https://nasukasumigajo.com/ja/golf",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ゴルフ案内のSPA本文・入浴時間とホテル案内の30室・宿泊のみ予約可を照合。温泉の健康効果は転載しない。",
+          "supportingUrls": [
+            "https://nasukasumigajo.com/ja/hotel"
+          ]
         },
         "budget": null,
         "scenery": {
@@ -14032,14 +14045,33 @@ const DATA={
           "basis": "公式アクセスのクラブバス欄で駅、所要時間、運行曜日、人数、往復の予約条件を確認。列車時刻・運賃は転記しない。"
         },
         "scenery": null,
-        "dining": null,
-        "budget": null,
+        "dining": {
+          "text": "2026年12月7・14・21日のカジュアルマンデーと12月31日の年末カジュアルデーは、昼食時のみレストラン営業、カレーライス限定です。通常日のメニューは未確認です。",
+          "url": "https://www.milgolf.co.jp/playfee.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年12月の見出し画像を目視し、各対象日の昼食付・カレーライス限定の本文を照合。限定日の内容を通常日へ一般化しない。",
+          "dish": "カレーライス（指定日の限定メニュー）"
+        },
+        "budget": {
+          "text": "2026年11月のWEB会員掲載例は、平日11,000円、土曜22,200円。1R・4バッグ・昼食付き、消費税と利用税込。キャディ付きは別料金です。日程・人数によって変わります。",
+          "url": "https://www.milgolf.co.jp/playfee.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年11月の見出し画像を目視。HTMLカレンダーで11月2日11,000円・7日22,200円、WEB会員色表示、1R4バッグ・全日昼食付・税内訳・割増条件を照合。ビジター同額とは断定しない。",
+          "conditions": "2026年11月2日・7日のWEB会員料金例。1R4バッグ、昼食付、消費税10%・利用税400円込み。キャディは1人5,500円追加（2Bは8,800円）。通常2Bは平日2,200円追加、土日祝の2B予約不可（当日2名になった場合3,300円追加）。食事差額や他の日付は予約時確認。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月WEB会員例 平日11,000円／土曜22,200円"
+        },
         "stay": {
-          "text": "ゴルフ場から車で約10分のコミュニケーションハウスを利用する宿泊プランがあります。送迎はありません。客室にはバス・トイレを備えています。宿泊料金や温浴施設の利用条件は公式案内をご確認ください。",
+          "text": "ゴルフ場から車で約10分のコミュニケーションハウスを利用する宿泊プランがあります。送迎はありません。客室にはバス・トイレを備えています。宿泊料金や温浴施設の利用条件は公式案内をご確認ください。 2026年12月7・14・21・31日の特別営業日は、コースのお風呂を利用できます。",
           "url": "https://www.milgolf.co.jp/stay.htm",
           "checked": "2026-10-29",
           "sourceType": "official",
-          "basis": "公式宿泊案内：コミュニケーションハウスは当クラブから車10分・送迎なし、全室バス・トイレ付き。敷地内宿泊とは記載しない。"
+          "basis": "既存宿泊情報を保持し、公式プレー料金ページの2026年12月特別営業日に限る浴場利用可を追加。通常日へ一般化しない。",
+          "supportingUrls": [
+            "https://www.milgolf.co.jp/playfee.htm"
+          ]
         }
       },
       "researchSources": [
@@ -17923,20 +17955,25 @@ const DATA={
           "basis": "公式コース紹介の景観・地形記述を確認"
         },
         "dining": {
-          "text": "公式が名物として紹介するスパムおにぎりはテイクアウトも可能。カレーやうどんなどの昼食も案内しています。",
-          "url": "https://onewaygc.co.jp/facility/",
+          "text": "公式が名物として紹介するスパムおにぎりはテイクアウトも可能。カレーやうどんなどの昼食も案内しています。 FAQでは全プラン指定食事付き（パン3つ、またはパン2つと1ドリンク）と案内。昼食休憩はなく、レストランは火・水曜以外に利用できます。",
+          "url": "https://onewaygc.co.jp/faq/",
           "checked": "2026-10-29",
           "sourceType": "official",
-          "basis": "Restaurant欄のスパムおにぎり・持ち帰り可・カレー・うどんを本文で確認。料金や昼食込みは推測しない。",
-          "dish": "スパムおにぎり"
+          "basis": "FAQ食事回答の指定内容、休憩なし、レストラン曜日制限を確認。既存のスパムおにぎり・カレー・うどん紹介を保持。",
+          "supportingUrls": [
+            "https://onewaygc.co.jp/facility/"
+          ]
         },
         "budget": null,
         "stay": {
-          "text": "公式施設案内に大浴場を掲載。女性用パウダールームも案内されています。温泉・宿泊設備、浴室の営業時間やプラン別制限は未確認です。",
-          "url": "https://onewaygc.co.jp/facility/",
+          "text": "公式施設案内に大浴場と女性用パウダールームを掲載。FAQでは浴場を利用可能と案内していますが、季節により一部のサンセットプランは利用できません。温泉・宿泊設備や営業時間は未確認です。",
+          "url": "https://onewaygc.co.jp/faq/",
           "checked": "2026-10-29",
           "sourceType": "official",
-          "basis": "Public Bathと女性パウダールームの見出し・本文を確認。健康効果の説明は転載しない。Roomはロッカー・コンペ室であり宿泊客室とはしない。"
+          "basis": "FAQのお風呂利用回答を確認し、施設案内の既存内容を保持した上でサンセットプランの例外を追加。",
+          "supportingUrls": [
+            "https://onewaygc.co.jp/facility/"
+          ]
         }
       },
       "id": 318
@@ -25642,7 +25679,16 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。高崎駅からタクシーで約20分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "洋食・中華を中心に季節の料理を提供。ドリンクは搾りたて果汁のレモンスカッシュやドリップしたアイスコーヒーを案内しています。具体的な料理名・料金は未確認です。",
+          "url": "https://www.ycc-golf.co.jp/institution/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の料理ジャンルとレストラン紹介の飲料を本文確認。名物料理・口コミ評価とは断定しない。",
+          "supportingUrls": [
+            "https://www.ycc-golf.co.jp/institution/restaurant/"
+          ]
+        },
         "stay": {
           "text": "9番ホールを望む開放的な大浴場と、シャワー専用ブースを備えています。",
           "url": "https://www.ycc-golf.co.jp/institution/clubhouse/",
