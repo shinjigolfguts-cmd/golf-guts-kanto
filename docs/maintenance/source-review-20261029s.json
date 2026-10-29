@@ -1,0 +1,896 @@
+{
+  "note": "画像は目視確認した選択写真の設備のみ。取得成功で内容確認・設備不存在としない。",
+  "items": [
+    {
+      "id": 21,
+      "name": "ムーンレイクゴルフクラブ 茂原コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 22353,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r64f91a87.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=65",
+      "officialPublisher": "ムーンレイクゴルフクラブ 茂原コース",
+      "is_user": 0,
+      "posted": "2023年09月07日",
+      "imageSha256": "1c9cac106d6865d26dc45f9971f4b6f540e8830eca7ebd545c671bf6c310d9ea",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 129,
+      "name": "伊勢原カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21329,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/154/r64f06118.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=154",
+      "officialPublisher": "伊勢原カントリークラブ",
+      "is_user": 0,
+      "posted": "2023年08月31日",
+      "imageSha256": "0210d52fa1b9d368f761d805ca36b6f0b1e1956b6826d73c8446da3c226caf1d",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 150,
+      "name": "飯能くすの樹カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 23577,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/75/r65371627.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=75",
+      "officialPublisher": "飯能くすの樹カントリー倶楽部",
+      "is_user": 0,
+      "posted": "2023年10月24日",
+      "imageSha256": "128535dc0cc4330deea039c7da9817114bb3c641f0d69cb08e4a0f5153434925",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 153,
+      "name": "阿見ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21669,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/47/r64f1872d.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=47",
+      "officialPublisher": "阿見ゴルフクラブ",
+      "is_user": 0,
+      "posted": "2023年09月01日",
+      "imageSha256": "5b2ae1b97083c7f4b0aed537e84f9bccd63dbfd370512d39237d5ce0813925eb",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 201,
+      "name": "南総ヒルズカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21109,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r64f02db7.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=161",
+      "officialPublisher": "南総ヒルズカントリークラブ",
+      "is_user": 0,
+      "posted": "2023年08月31日",
+      "imageSha256": "699f665c4246f709ca5145244346db07ffcbb92c992c21dd2ef7df6fa6f84919",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 220,
+      "name": "アバイディングクラブ ゴルフソサエティ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20503,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r64eef7e8.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=61",
+      "officialPublisher": "アバイディングクラブ ゴルフソサエティ",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "38c9e17d90cfb337a7194c1e94dbc57120bc2102e5f626ad9bbacabd3c8a8ee8",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 221,
+      "name": "京カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 22606,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/55/r64ffc611.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=55",
+      "officialPublisher": "京カントリークラブ",
+      "is_user": 0,
+      "posted": "2023年09月12日",
+      "imageSha256": "b164a529c7485c024c0f6c74284a3c670fd760ab8f65e6918a4f05ff6109f1a3",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 235,
+      "name": "丸の内倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20203,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/56/r64ee9ca9.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=56",
+      "officialPublisher": "丸の内倶楽部",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "9ac1512a992c9edad43e9a75df555716dcc2a35dfff44839c9bfd33ca0d1b00e",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21110,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/63/r64f02dc2.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=63",
+      "officialPublisher": "総武カントリークラブ 印旛コース",
+      "is_user": 0,
+      "posted": "2023年08月31日",
+      "imageSha256": "60c306441e8cd722485d96aef1e47695b692b80e71026bcec93c3912900cf249",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 238,
+      "name": "PGM南市原ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20264,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/168/r64eeb042.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=168",
+      "officialPublisher": "ＰＧＭ南市原ゴルフクラブ",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "5d23a23f848551cc4ec73399b3bffa732abb502bcf597593aa6c492034c95952",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 262,
+      "name": "笠間カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20083,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee86d8.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=44",
+      "officialPublisher": "笠間カントリークラブ",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "bf0b19a6a1f8d70ab41440285c6397defebd60bd67af310122865ce2e9eb6986",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 263,
+      "name": "霞ヶ浦カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 19112,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/43/r64ec5201.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=43",
+      "officialPublisher": "霞ヶ浦カントリー倶楽部",
+      "is_user": 0,
+      "posted": "2023年08月28日",
+      "imageSha256": "0ca41efa6814a7655a7a7097766196127f1147aebe5e9a5d924d1bd39feb19da",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 264,
+      "name": "内原カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20545,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/151/r64ef034d.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=151",
+      "officialPublisher": "内原カントリー倶楽部",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "7690b65bddcd1e620510931992666a42f604075e95f6865766581480aaa96ba9",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 265,
+      "name": "扶桑カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 18665,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r64ec275b.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=39",
+      "officialPublisher": "扶桑カントリー倶楽部",
+      "is_user": 0,
+      "posted": "2023年08月28日",
+      "imageSha256": "67ce7031d717ef6a41291eeddb1984602e3e9a83f816e3a8f94b2a927aefe5f0",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 266,
+      "name": "カントリークラブ・ザ・レイクス",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21098,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/38/r64f02d43.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=38",
+      "officialPublisher": "カントリークラブ ザ・レイクス",
+      "is_user": 0,
+      "posted": "2023年08月31日",
+      "imageSha256": "48edef1c17677e93eecfa7cffdf9f3885d19d765e8fffffa427afdd6225c4b49",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 267,
+      "name": "グランドスラムカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21628,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r64f18018.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=40",
+      "officialPublisher": "グランドスラムカントリークラブ",
+      "is_user": 0,
+      "posted": "2023年09月01日",
+      "imageSha256": "669882292cf31d6aeca20c103897b90bb8a7df81dfa898447e87d57008260e0c",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 268,
+      "name": "勝田ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 19086,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r64ec5074.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=45",
+      "officialPublisher": "勝田ゴルフ倶楽部",
+      "is_user": 0,
+      "posted": "2023年08月28日",
+      "imageSha256": "a016dbdc7640144484b30093037b8ccac4ef772ea0478d524f59fdc1d38d11c0",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21914,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/46/r64f5824a.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=46",
+      "officialPublisher": "スプリングフィルズゴルフクラブ",
+      "is_user": 0,
+      "posted": "2023年09月04日",
+      "imageSha256": "8c044677737741be083c0ae6b7159da05ee2ade438071eacf9c05d133b025ae0",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 270,
+      "name": "鹿島の杜カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20412,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/157/r64eed90f.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=157",
+      "officialPublisher": "鹿島の杜カントリー倶楽部",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "7b385fc71cfc0977f7438c885d52648c8a8c8487a49173f76073a9b026c5cb0f",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 271,
+      "name": "オールドオーチャードゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20619,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/172/r64efc196.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=172",
+      "officialPublisher": "オールドオーチャードゴルフクラブ",
+      "is_user": 0,
+      "posted": "2023年08月31日",
+      "imageSha256": "ce8fbfa8431d6397290cf828cf3de6f9d3884ab9ea57c99b64bafd8e0181e314",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 298,
+      "name": "玉造ゴルフ倶楽部 捻木コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 19827,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/42/r64eda118.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=42",
+      "officialPublisher": "玉造ゴルフ倶楽部 捻木コース",
+      "is_user": 0,
+      "posted": "2023年08月29日",
+      "imageSha256": "29a4f3fda992df97ef7a7d13d6fe05057066cd0838af21612a8655070df91996",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 299,
+      "name": "玉造ゴルフ倶楽部 若海コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 19315,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/41/r64ed088c.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=41",
+      "officialPublisher": "玉造ゴルフ倶楽部 若海コース",
+      "is_user": 0,
+      "posted": "2023年08月29日",
+      "imageSha256": "18422c886a5294d2348f407772b36c9297793b1a5ad40b4685c6e94412a3ac4d",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 370,
+      "name": "皐月ゴルフ倶楽部 鹿沼コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20574,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/34/r64ef1d5f.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=34",
+      "officialPublisher": "皐月ゴルフ倶楽部 鹿沼コース",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "b8e7cd992c81a3430da77585a4ea1611ccf6d5185ec7f47103cfa87e46900de7",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21660,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r64f186a8.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=31",
+      "officialPublisher": "ピートダイゴルフクラブ VIPコース",
+      "is_user": 0,
+      "posted": "2023年09月01日",
+      "imageSha256": "96a925d569c304fbcc5a9b08123b391fdb24011c427f9d569418da291b2ea122",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 374,
+      "name": "ピートダイゴルフクラブ ロイヤルコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 21997,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/32/r64f67dda.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=32",
+      "officialPublisher": "ピートダイゴルフクラブ ロイヤルコース",
+      "is_user": 0,
+      "posted": "2023年09月05日",
+      "imageSha256": "0ae6a56fcdf5b8ec2ca3228f65654e1e5af185008e875410e1ada33866d4bb15",
+      "finding": "シャワー付き洗い場。浴槽は未確認。"
+    },
+    {
+      "id": 375,
+      "name": "エヴァンタイユゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 19025,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/26/r64ec440f.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=26",
+      "officialPublisher": "エヴァンタイユゴルフクラブ",
+      "is_user": 0,
+      "posted": "2023年08月28日",
+      "imageSha256": "8292f11fb3a9b007b85935f56ec8f3eccf956b93fbeba4dccc2ae3000bce6a0c",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 376,
+      "name": "ハーモニーヒルズゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20954,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r64f02348.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=37",
+      "officialPublisher": "ハーモニーヒルズゴルフクラブ",
+      "is_user": 0,
+      "posted": "2023年08月31日",
+      "imageSha256": "0f0c079188ffe17ae15d4bacd04d3707807e002513235516ad19805f43cc5da9",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 489,
+      "name": "秦野カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "official_image_visually_verified",
+      "photoGalleryId": 20020,
+      "imageUrl": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/66/r64ee7f8c.jpg",
+      "galleryDataUrl": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=66",
+      "officialPublisher": "秦野カントリークラブ",
+      "is_user": 0,
+      "posted": "2023年08月30日",
+      "imageSha256": "d434fafc68a9b36a566154ca5e1e50614f40579fcd898f1c79f4ec5216d8159b",
+      "finding": "浴槽のある浴室。営業時間・温泉・宿泊などの根拠ではない。"
+    },
+    {
+      "id": 139,
+      "field": "stay",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=178",
+      "checked": "2026-10-29",
+      "status": "gallery_reviewed_bath_not_identified",
+      "reason": "調査した公式クラブハウス画像に浴室を特定できず。設備なしとは判断せず、他の一次資料確認待ち。"
+    },
+    {
+      "id": 237,
+      "field": "stay",
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=64",
+      "checked": "2026-10-29",
+      "status": "gallery_reviewed_bath_not_identified",
+      "reason": "調査した公式クラブハウス画像に浴室を特定できず。設備なしとは判断せず、他の一次資料確認待ち。"
+    },
+    {
+      "id": 171,
+      "url": "https://www.ikahocc.co.jp/",
+      "resources": [
+        {
+          "url": "https://www.ikahocc.co.jp/member/img/reiwamember.pdf?20260625",
+          "label": " 詳細を見る",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.ikahocc.co.jp/member/img/partnerclub.pdf?20260519",
+          "label": " 詳細を見る",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.ikahocc.co.jp/guidance.html#cartfee",
+          "label": " カート乗り入れ料金",
+          "tag": "a"
+        }
+      ],
+      "field": "budget",
+      "status": "links_collected_pending_content_review"
+    },
+    {
+      "id": 471,
+      "url": "https://www.karuizawa-kogen.com/price/",
+      "resources": [
+        {
+          "url": "https://www.karuizawa-kogen.com/price/",
+          "label": " 料金案内",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/price/#sec01",
+          "label": " 料金・イベント",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/price/#sec02",
+          "label": " 宿泊料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/price/#sec03",
+          "label": " キャンセル料",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/news/weekdayplay2026/",
+          "label": " 平日プレー宿泊パック",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/price/reservation",
+          "label": " ご予約",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2604.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2605.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2606.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2607.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2608.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2609.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2610.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/wordpress/wp-content/themes/karuizawa_golf/common/img/price/img2611.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/news/weekdayplay2026/",
+          "label": " 平日プレー宿泊パック",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.karuizawa-kogen.com/jr/",
+          "label": " ジュニア料金",
+          "tag": "a"
+        }
+      ],
+      "field": "budget",
+      "status": "calendar_image_verified_in_batch_s"
+    },
+    {
+      "id": 74,
+      "url": "https://www.chifuriko.co.jp/reserve/",
+      "resources": [
+        {
+          "url": "http://www.chifuriko.co.jp/reserve/",
+          "label": " ゴルフ料金",
+          "tag": "a"
+        },
+        {
+          "url": "http://www.chifuriko.co.jp/reserve/",
+          "label": " ゴルフ料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.chifuriko.co.jp/reserve/images/img_main.jpg",
+          "label": "ゴルフ料金 ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.chifuriko.co.jp/reserve/images/img_cl09.jpg",
+          "label": "11月 ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.chifuriko.co.jp/reserve/images/thank.pdf",
+          "label": " 開催日、料金はこちら",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.chifuriko.co.jp/reserve/images/self.pdf",
+          "label": " セルフプレー割増・キャディ料金、ハーフプレー料金、レンタル料金はこちら",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.chifuriko.co.jp/restaurant/images/menu_party.pdf",
+          "label": " パーティー料金",
+          "tag": "a"
+        },
+        {
+          "url": "http://www.chifuriko.co.jp/hotel/#price",
+          "label": " 宿泊施設概要はこちら",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.chifuriko.co.jp/restaurant/images/menu_dinner.pdf",
+          "label": " ご夕食料金",
+          "tag": "a"
+        },
+        {
+          "url": "http://www.chifuriko.co.jp/hotel/#bil",
+          "label": " カラオケ・ビリヤード・麻雀料金はこちら",
+          "tag": "a"
+        },
+        {
+          "url": "http://www.chifuriko.co.jp/reserve/",
+          "label": " ゴルフ料金",
+          "tag": "a"
+        },
+        {
+          "url": "http://www.chifuriko.co.jp/reserve/",
+          "label": " ゴルフ料金",
+          "tag": "a"
+        }
+      ],
+      "field": "budget",
+      "status": "calendar_image_verified_in_batch_s"
+    },
+    {
+      "id": 396,
+      "url": "https://014kibougaokacc.sakura.ne.jp/fee.html",
+      "resources": [
+        {
+          "url": "https://014kibougaokacc.sakura.ne.jp/fee.html",
+          "label": " → プレー料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://014kibougaokacc.sakura.ne.jp/fee.html",
+          "label": " プレー料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://014kibougaokacc.sakura.ne.jp/images/common/global_navi_fee.png",
+          "label": " ",
+          "tag": "img"
+        }
+      ],
+      "field": "budget",
+      "status": "links_collected_pending_content_review"
+    },
+    {
+      "id": 284,
+      "url": "https://www.summit-golf-club.jp/playfee/",
+      "resources": [
+        {
+          "url": "https://www.summit-golf-club.jp/playfee/#content",
+          "label": " Skip to content",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.summit-golf-club.jp/playfee/",
+          "label": " å¶æ¥­æ¡å",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.summit-golf-club.jp/wp-content/uploads/2026/01/info_260106.pdf",
+          "label": " ã¬ã³ã¿ã«ç¨åã«ã¤ãã¦",
+          "tag": "a"
+        }
+      ],
+      "field": "budget",
+      "status": "links_collected_pending_content_review"
+    },
+    {
+      "id": 71,
+      "url": "https://shirosato-gc.com/fee.html",
+      "resources": [
+        {
+          "url": "https://shirosato-gc.com/fee.html",
+          "label": " プレー料金\n                    FEE",
+          "tag": "a"
+        },
+        {
+          "url": "https://shirosato-gc.com/fee.html",
+          "label": " プレー料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://shirosato-gc.com/images/fee/title.gif",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://shirosato-gc.com/images/fee/2026/202609.jpg",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://shirosato-gc.com/images/fee/2026/202610.jpg",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://shirosato-gc.com/images/fee/2026/202611.jpg",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://shirosato-gc.com/images/fee/2026/202612.jpg",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://shirosato-gc.com/pdf/plan/2026-10-12.pdf",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://shirosato-gc.com/pdf/plan/2026-7-9.pdf",
+          "label": " ※ 2026年9月はコチラ",
+          "tag": "a"
+        },
+        {
+          "url": "https://shirosato-gc.com/fee.html#header",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://shirosato-gc.com/fee.html",
+          "label": " プレー料金",
+          "tag": "a"
+        }
+      ],
+      "field": "budget",
+      "status": "calendar_image_verified_in_batch_s"
+    },
+    {
+      "id": 211,
+      "url": "https://zuien.net/pga/",
+      "resources": [
+        {
+          "url": "https://zuien.net/pga/fee",
+          "label": " 料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/pga/fee",
+          "label": " 料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/2026/10/26/%e9%87%91%e8%b0%b7%e9%80%81%e8%bf%8e%e3%83%90%e3%82%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+          "label": " 2026.10.26\n\t\t\t\t\t\t\t\tジャパンPGAゴルフクラブ\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t金谷送迎バスについて",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/2026/10/26/%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e5%ae%a4%e3%81%8b%e3%82%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%82-14/",
+          "label": " 2026.10.26\n\t\t\t\t\t\t\t\tジャパンPGAゴルフクラブ\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tマスター室からのお知らせ。",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/2026/10/13/%ef%bc%bc%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3new%e3%83%a9%e3%83%b3%e3%83%81%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc%ef%bc%8f/",
+          "label": " 2026.10.13\n\t\t\t\t\t\t\t\tジャパンPGAゴルフクラブ\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t”鶏好き必見”新メニュー",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/wp-content/uploads/2024/04/スクリーンショット-2026-10-07-070511.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://zuien.net/2026/10/02/%e5%96%b6%e6%a5%ad%e5%86%8d%e9%96%8b%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+          "label": " 2026.10.02\n\t\t\t\t\t\t\t\tジャパンPGAゴルフクラブ\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t【10/3(土)より】18ホール営業再開のお知らせ",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/2026/09/28/10%e6%9c%8818%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%82%bf%e3%82%a4%e3%83%88%e3%83%aa%e3%82%b9%e3%83%88%e8%a9%a6%e6%89%93%e4%bc%9a-%e9%96%8b%e5%82%ac/",
+          "label": " 2026.09.28\n\t\t\t\t\t\t\tジャパンPGAゴルフクラブ\n\t\t\t\t\t\t\t10月18日（日）タイトリスト試打会 開催!",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/wp-content/uploads/2026/09/スクリーンショット-2026-09-08-112146-1.png",
+          "label": " ",
+          "tag": "img"
+        },
+        {
+          "url": "https://zuien.net/pga/fee",
+          "label": " 料金",
+          "tag": "a"
+        },
+        {
+          "url": "https://zuien.net/pga/fee",
+          "label": " 料金案内",
+          "tag": "a"
+        }
+      ],
+      "field": "budget",
+      "status": "links_collected_pending_content_review"
+    },
+    {
+      "id": 182,
+      "url": "https://www.cpg.co.jp/",
+      "resources": [
+        {
+          "url": "https://www.cpg.co.jp/news/211/",
+          "label": " 2026.10.15\n\t\t\t\t\t\t\t\t2027年2月までの料金表です！",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/wp/wp-content/uploads/2023/10/1696199528-150x150.jpg",
+          "label": "2027年2月までの料金表です！ ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.cpg.co.jp/news/185/",
+          "label": " 2026.08.01\n\t\t\t\t\t\t\t\tちばパブ🐶ピンポイント天気☀",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/news/292/",
+          "label": " 2026.07.22\n\t\t\t\t\t\t\t\tコース内への立ち入りについて",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/popup/repair2026.html",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/assets/img/index/bnr_pickup_repair2026.webp?v=260903",
+          "label": "4番・18番グリーン改修工事 ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.cpg.co.jp/popup/chiba-pub_cup2026.html",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/assets/img/index/bnr_pickup_chiba-pub_cup2026.webp?v=251106",
+          "label": "第6回ちばパブカップ ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.cpg.co.jp/popup/junior-fee.html",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/assets/img/index/bnr_pickup_junior-fee.jpg?v=260702",
+          "label": "ジュニア料金 ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.cpg.co.jp/popup/repair2026.html",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/assets/img/index/bnr_pickup_repair2026.webp?v=260903",
+          "label": "4番・18番グリーン改修工事 ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.cpg.co.jp/popup/chiba-pub_cup2026.html",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/assets/img/index/bnr_pickup_chiba-pub_cup2026.webp?v=251106",
+          "label": "第6回ちばパブカップ ",
+          "tag": "img"
+        },
+        {
+          "url": "https://www.cpg.co.jp/popup/junior-fee.html",
+          "label": " ",
+          "tag": "a"
+        },
+        {
+          "url": "https://www.cpg.co.jp/assets/img/index/bnr_pickup_junior-fee.jpg?v=260702",
+          "label": "ジュニア料金 ",
+          "tag": "img"
+        }
+      ],
+      "field": "budget",
+      "status": "calendar_image_verified_in_batch_s"
+    },
+    {
+      "id": 390,
+      "url": "https://www.livemax-golfclub.com/",
+      "resources": [],
+      "field": "budget",
+      "status": "links_collected_pending_content_review"
+    },
+    {
+      "id": 460,
+      "field": "stay",
+      "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/notice/#notice_12716630",
+      "status": "official_notice_content_verified",
+      "checked": "2026-10-29",
+      "noticeDate": "2026-10-29",
+      "finding": "男性浴槽営業を自粛しシャワーのみ。女性浴室問題なし。再開時期は未確認。"
+    }
+  ]
+}
