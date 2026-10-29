@@ -1224,7 +1224,20 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "PGM公式クワッチ一覧:茂原コース茂原北IC5km約8分。道路案内PDFは4km7分と差あり、現行一覧採用"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、彩りサラダプレート、昆布水つけ麺、カキフライなどの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=65&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: 彩りサラダプレート（2026年10月14日） / 昆布水つけ麺（2026年10月14日） / カキフライ（2026年10月14日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=65",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec50b.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec4d5.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec488.jpg"
+          ]
+        },
         "stay": null,
         "budget": null,
         "scenery": {
@@ -4630,7 +4643,20 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載内容：市原ICから車で約7分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、カキフライ（4個）、うどんとミニネギトロ丼、昆布水つけ麺などの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=141&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: うどんとミニネギトロ丼（2026年09月30日） / 昆布水つけ麺（2026年09月30日） / カキフライ（4個）（2026年10月02日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=141",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/141/r6abcaadf.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/141/r6abcab38.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/141/r6abf196d.jpg"
+          ]
+        },
         "stay": {
           "text": "鶴舞ムーンレイクホテルは別施設の鶴舞コースにあります。市原コースでの宿泊可否・手配については、予約前に市原コースへお問い合わせください。",
           "url": "https://booking.pacificgolf.co.jp/guide/141.html",
@@ -5157,7 +5183,20 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、醤油ラーメンとミニ炒飯、ルーロー飯、カツサンドなどの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=68&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: 醤油ラーメンとミニ炒飯（2026年04月21日） / ルーロー飯（2026年04月21日） / カツサンド（2026年04月21日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=68",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/68/r69e6e310.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/68/r69e6ea60.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/68/r69e6f19f.jpg"
+          ]
+        },
         "stay": {
           "text": "浴室を備えています。公式ナイトゴルフ案内でも、プレー時に浴室を利用できると案内しています。",
           "url": "https://www.pacificgolf.co.jp/selection/night_game/",
@@ -19539,9 +19578,33 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。栃木駅南口から予約制クラブバスで約20分。前日正午までの電話予約制。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、粗挽きハンバーグ、カキフライ定食、鶏の唐揚げなどの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=146&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: 粗挽きハンバーグ（2026年10月01日） / カキフライ定食（2026年10月01日） / 鶏の唐揚げ（2026年10月01日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=146",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/146/r6abdd3e3.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/146/r6abdd242.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/146/r6abdd37d.jpg"
+          ]
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設ギャラリーに男性浴室の説明と写真を掲載しています。現在の利用時間・プラン別制限・宿泊設備は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=146&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。浴室写真も目視照合。 投稿記録: 男性浴室（2023年09月03日）",
+          "conditions": "公式掲載中の施設写真を確認。温泉・宿泊なし・全プラン利用可能とは推測しない。写真投稿日と確認日は区別し、現時点の営業条件は未確認のまま保持。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=146",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/146/r64f3c190.jpg"
+          ]
+        }
       },
       "id": 369
     },
@@ -19654,7 +19717,20 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式交通案内PDFを検索本文で確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、千成50周年記念 松花堂弁当、ツナとチーズのパニーニ、8品目のべジ粥などの料理例を掲載しています。記念メニューを含み、現在の提供期間は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=30&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: 千成50周年記念 松花堂弁当（2026年08月26日） / ツナとチーズのパニーニ（2026年02月16日） / 8品目のべジ粥（2026年03月13日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。50周年記念メニューの提供終了日は確認できていません。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=30",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/30/r6a8e95c9.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/30/r699285c1.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/30/r69b37a30.jpg"
+          ]
+        },
         "budget": null,
         "stay": {
           "text": "ゴルフ場隣接ロッジに宿泊可能。宴会場・カラオケルームも案内。",
@@ -19687,7 +19763,20 @@ const DATA={
           "basis": "公式アクセス本文・画像/PDFを実読確認。大沢ICから約5分（4km）。"
         },
         "rail": null,
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、ロースとんかつ、ちゃんぽん、酸辣湯麺などの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: ロースとんかつ（2026年10月03日） / ちゃんぽん（2026年10月03日） / 酸辣湯麺（2026年10月03日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=31",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04869.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04795.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04520.jpg"
+          ]
+        },
         "budget": null,
         "stay": null
       },
@@ -19798,7 +19887,20 @@ const DATA={
           "basis": "公式アクセス本文・画像/PDFを実読確認。栃木ICから約11分（8km）。"
         },
         "rail": null,
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、醤油ラーメンとミニ炒飯、ルーロー飯、カツサンドなどの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: 醤油ラーメンとミニ炒飯（2026年04月21日） / ルーロー飯（2026年04月21日） / カツサンド（2026年04月21日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=37",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69e6e299.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69e6e93d.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69e6f03b.jpg"
+          ]
+        },
         "budget": null,
         "stay": null
       },
@@ -22997,7 +23099,18 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設ギャラリーに大浴場の説明と写真を掲載しています。現在の利用時間・プラン別制限・宿泊設備は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=169&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。浴室写真も目視照合。 投稿記録: ゆったりと寛げる大浴場（2020年12月28日）",
+          "conditions": "公式掲載中の施設写真を確認。温泉・宿泊なし・全プラン利用可能とは推測しない。写真投稿日と確認日は区別し、現時点の営業条件は未確認のまま保持。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=169",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe961d2.jpg"
+          ]
+        }
       },
       "id": 440
     },
@@ -23033,7 +23146,20 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文・料金表で確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランギャラリーには、醤油ラーメンとミニ炒飯、ルーロー飯、カツサンドなどの料理例を掲載しています。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=71&p=guide.gallery",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ギャラリーの公式投稿（is_user=0）にある説明文と施設名を確認。料理名を本文で確認し、利用者投稿と区別。 投稿記録: 醤油ラーメンとミニ炒飯（2026年04月21日） / ルーロー飯（2026年04月21日） / カツサンド（2026年04月21日）",
+          "conditions": "掲載料理の例です。季節・仕入れによる変更があり、当日の提供、金額、食事付きプランとの差額は未確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=71",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/71/r69e6e327.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/71/r69e6ea81.jpg",
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/71/r69e6f1bd.jpg"
+          ]
+        },
         "budget": null,
         "stay": {
           "text": "シャワーを利用できます。公式のトワイライトハーフ（薄暮）プランはシャワーのみで、湯舟・サウナ・ロッカー室は利用できません。",
