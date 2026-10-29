@@ -1295,7 +1295,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=65"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月5日の指定昼食付きGPSカートセルフ1.5Rは4名1組で1人13,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=65&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "1R後に精算し、午後に追加0.5Rを回るプラン。3～4名受付、3名割増なし。ロッカー440円別途。追加0.5Rはフェアウェイ乗入れ不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月5日例 13,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/65.html"
+          ]
+        },
         "scenery": {
           "text": "平坦で緑豊かな18ホール。夜は全ホールのLED照明がコースを照らし、昼間とは違う景色でプレーできます。",
           "url": "https://booking.pacificgolf.co.jp/guide/65.html",
@@ -2111,7 +2123,19 @@ const DATA={
           "basis": "施設公式ページの本文を直接確認",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の7:00～7:53限定GPSカートセルフは4名1組で1人26,480円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=163&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3名550円、2名3,300円追加。2名プレー保証は確認できません。昼食付きの表記なし。スタート20分前までに受付。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 26,480円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/163.html"
+          ]
+        },
         "scenery": {
           "text": "南コース2番には、池に囲まれた浮島グリーンがあります。水面とグリーンがつくる景観が印象的です。",
           "url": "https://pacificgolf.co.jp/sohsei/course/course_C02.asp",
@@ -3306,7 +3330,19 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の本文・設備キャプションを確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の4名限定・早めの指定昼食付きセルフは4名1組で1人13,700円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=51&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "4名専用。人数変更時は当該平日3名1,100円、2名3,300円追加。他の優待・割引との併用不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 13,700円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/51.html"
+          ]
+        },
         "scenery": {
           "text": "高低差約3mの平坦な林間コース。白いバンカーと池、四季で表情を変える緑が特徴です。",
           "url": "https://www.pacificgolf.co.jp/chiyoda/",
@@ -3414,7 +3450,19 @@ const DATA={
             "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/59/r65000e52.jpg"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の指定昼食付きGPSカートセルフは4名1組で1人15,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=59&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "2サム保証、2・3名割増なし。ロッカー440円別途。昼食1,100円超のメニューは差額あり。ハーフ後に昼食休憩。バッグ積下ろしはセルフ。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 15,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/59.html"
+          ]
+        },
         "scenery": {
           "text": "OUTは林間風、INは湖畔を思わせるレイクサイド風。同じ18ホールでも、森と水辺の異なる雰囲気を楽しめます。",
           "url": "https://booking.pacificgolf.co.jp/guide/59.html",
@@ -4692,7 +4740,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/guide/143.html"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の9:00以降・指定昼食付きGPSカートセルフ1Rは4名1組で1人15,990円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=143&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。ただし4組以上で3名の組は550円追加。2名予約不可、人数変更時2名2,200円追加。ロッカー440円別途。ジュニア・プロ同伴は本プラン対象外。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 15,990円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/143.html"
+          ]
+        },
         "scenery": {
           "text": "自然林に囲まれたコース。夜は全ホールのLED照明で木々が浮かび上がり、昼とは違う幻想的な景観になります。",
           "url": "https://booking.pacificgolf.co.jp/guide/143.html",
@@ -4814,7 +4874,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/guide/143.html"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の午前・指定昼食付きGPSカートセルフは4名1組で1人13,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=141&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。2名に変更した場合の割増額は予約前確認。ロッカー440円別途。バッグ運搬・積下ろし等はセルフ。午前はプレー後精算。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 13,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/141.html"
+          ]
+        },
         "scenery": {
           "text": "緩やかな起伏のある18ホールに、池とバンカーを配置。水辺と芝の曲線が変化のある景観をつくります。",
           "url": "https://www.pacificgolf.co.jp/moonlake_i/gpsNavi/",
@@ -5205,7 +5277,19 @@ const DATA={
           "basis": "成田の森の公式トップ「HOTEL」にホテル併設とツインルーム主体を確認。今回確認できない和室・浴室利用条件は新しい本文で断定しない。",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の7時・9時台限定の指定昼食付きGPSカートセルフは4名1組で1人9,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=60&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、当該平日3名550円追加。2名に変更した場合は2,200円追加。ロッカー440円別途。他の割引との併用不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 9,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/60.html"
+          ]
+        },
         "scenery": {
           "text": "全体にフラットな林間コース。木々に囲まれた昼の景色と、ナイトゴルフの夜の景色を楽しめます。",
           "url": "https://booking.pacificgolf.co.jp/guide/60.html",
@@ -5258,7 +5342,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/sp/?cc_id=52&news_id=60309&p=guide.news_detail"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の早め枠・指定昼食付きGPSカートセルフは4名1組で1人17,990円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=52&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名550円追加。2名予約不可。ロッカー440円別途。フェアウェイ乗入れ希望時880円追加、天候等で不可の場合あり。遅刻による時間変更時は料金変更。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 17,990円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/52.html"
+          ]
+        },
         "scenery": {
           "text": "広々としたフェアウェイに、池やアリソンバンカーが点在。高低差２mの平坦な地形に大きな景色が広がります。",
           "url": "https://www.pacificgolf.co.jp/selection/beginner/",
@@ -5312,7 +5408,19 @@ const DATA={
           "sourceType": "official",
           "basis": "公式2026年5月29日告知で浴槽・露天風呂施設・シャワー設備を確認。7月1日〜9月30日の休止は確認日には対象期間外。再開済みと断定せず、美里利用時の具体的条件は未確認として保持。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の美里コースの指定昼食付きGPSカートセルフ1Rは4名1組で1人10,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=72&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3名保証・割増なし。2名1,650円追加、組合せの場合あり。ビジターのロッカー440円別途。バッグ積下ろし・クラブ清掃はセルフ。会員専用料金とは別のゲスト料金です。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 10,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/72.html"
+          ]
+        },
         "scenery": {
           "text": "緩やかな起伏の中に、長いホールが続く美里コース。ナイト営業では、照明に浮かび上がる夜のコースを楽しめます。",
           "url": "https://booking.pacificgolf.co.jp/guide/72.html",
@@ -5368,7 +5476,19 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "東名厚木個別欄「浴室利用 可」を確認。他コースの記載と区別"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日のナイター・昼食なしGPSカートセルフ1Rスルーは4名1組で1人9,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=68&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "日中の通常1Rとは別の夜間プラン。2サム保証、2・3名割増なし。前精算、ロッカー440円別途。浴槽利用不可、シャワーのみ。レストラン利用不可、フェアウェイ乗入れ不可。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 9,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/68.html"
+          ]
+        },
         "scenery": {
           "text": "丹沢連峰と相模平野を見渡せる眺望が魅力。山並みと平野の広がりを感じながらラウンドできます。",
           "url": "https://booking.pacificgolf.co.jp/guide/68.html",
@@ -7444,7 +7564,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=154"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月5日のWeb限定・指定昼食付きセルフは4名1組で1人10,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=154&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "4名1組の料金例。2サム保証の表記がありますが、2・3名の割増額は予約前に確認してください。ロッカー440円別途。時間変更不可、9時以降は日没の可能性あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月5日例 10,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/154.html"
+          ]
+        },
         "scenery": {
           "text": "クラブハウスから伊勢原・平塚の街並みを見渡す眺望。相模湾や湘南・江の島まで広がる景色が特徴です。",
           "url": "https://booking.pacificgolf.co.jp/guide/154.html",
@@ -8750,7 +8882,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=75"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月12日の限定枠・指定昼食付きGPS電磁カートセルフは4名1組で1人13,980円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=75&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。2名予約不可、人数変更時2名5,500円追加。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月12日例 13,980円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/75.html"
+          ]
+        },
         "scenery": {
           "text": "奥武蔵の自然を楽しめるコース。アウトコースには平坦で広々とした、開放感のある景観が広がります。",
           "url": "https://booking.pacificgolf.co.jp/guide/75.html",
@@ -8948,7 +9092,19 @@ const DATA={
             "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=47"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の指定昼食付きGPSカートセルフは4名1組で1人13,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=47&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名550円追加。2名予約不可、人数変更時2名2,750円追加。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 13,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/47.html"
+          ]
+        },
         "scenery": {
           "text": "自然林に包まれたフラットな林間コース。静かな雰囲気の中で木立の風景を楽しめます。",
           "url": "https://booking.pacificgolf.co.jp/guide/47.html",
@@ -9419,7 +9575,19 @@ const DATA={
           "conditions": "宿泊・入浴の料金、日帰り利用、営業時間は未確認。",
           "basis": "公式本文を確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の限定枠・指定昼食付きセルフは4名1組で1人4,480円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=27&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。2名予約不可。ロッカー440円別途。フェアウェイ乗入れ希望時550円追加、天候等で不可の場合あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 4,480円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/27.html"
+          ]
+        },
         "scenery": {
           "text": "日光・那須連山を一望できる27ホール。丘陵のコースから広がる山並みが見どころです。",
           "url": "https://booking.pacificgolf.co.jp/guide/27.html",
@@ -11749,7 +11917,19 @@ const DATA={
             "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/164/r6a4b2677.jpg"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の指定昼食・フェアウェイ乗入れ付きGPSカートセルフは4名1組で1人13,370円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=164&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名550円、人数変更時2名2,200円追加。ロッカー440円別途。乗入れ不可の場合880円減額、ショートホールは乗入れ不可。連盟協力金込み。月曜は祝日を除きクラブバス運休。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 13,370円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/164.html"
+          ]
+        },
         "stay": {
           "text": "公式施設ギャラリーに女性用の浴槽とシャワーブースを掲載しています。利用時間・プラン別制限・宿泊設備は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=164&p=guide.gallery",
@@ -11810,7 +11990,19 @@ const DATA={
           "sourceType": "official",
           "basis": "公式ゴルフ場情報のレストラン欄で営業時間・朝食なし・コンペ事前予約を確認。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月5日の指定昼食付きGPS電磁カートセルフは4名1組で1人5,990円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=161&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "2サム保証、2名2,200円追加、3名割増なし。ただし4組以上で3名の組は550円追加。ロッカー440円別途。金谷港クラブバスは前日正午までに予約。レストラン9時から、朝食提供なし。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月5日例 5,990円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/161.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=161&p=guide.gallery#house_official",
@@ -12967,7 +13159,19 @@ const DATA={
             "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6f118.jpg"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の指定昼食付きGPSカートセルフは4名1組で1人12,990円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=61&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名1,100円追加。人数変更時2名5,500円追加、土日祝の2名は組合せの場合あり。ロッカー440円別途。バッグ積下ろしはセルフ。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 12,990円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/61.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=61&p=guide.gallery#house_official",
@@ -13020,7 +13224,19 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "dining": null,
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の指定昼食付きGPSカートセルフは4名1組で1人10,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=55&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名550円追加。2名予約不可、人数変更時2名1,100円追加。ロッカー440円別途。日没の可能性あり。終了済みキャンペーン特典は含めていません。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日例 10,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/55.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=55&p=guide.gallery#house_official",
@@ -13084,7 +13300,19 @@ const DATA={
             "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/152/r6ad87fd5.jpg"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月16日の6:37～7:22限定・指定昼食付きGPSカートセルフは4名1組で1人7,490円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=152&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。2名予約不可。ロッカー440円別途。クラブバス利用時は人数・時間の事前予約が必要。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月16日例 7,490円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/152.html"
+          ]
+        },
         "stay": {
           "text": "クラブハウスに男性用・女性用の浴室を掲載しています。利用時間・プラン別制限・宿泊設備は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=152&p=guide.gallery",
@@ -13140,7 +13368,19 @@ const DATA={
           "sourceType": "official",
           "basis": "公式ゴルフ場情報にレストラン9:00営業開始・朝食なしと明記。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の指定昼食付きGPSカートセルフは4名1組で1人12,290円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "スループレーではありません。3～4名受付、3名550円、人数変更時2名2,200円追加。ロッカー440円別途。レストラン9時から、朝食提供なし。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日例 12,290円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/58.html"
+          ]
+        },
         "stay": {
           "text": "リニューアルした浴室・パウダールームを備えています。1階にはプレー前後に利用するストレッチルームもあります。",
           "url": "https://www.pacificgolf.co.jp/chotaro/renewal.asp",
@@ -13814,7 +14054,19 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "dining": null,
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の指定昼食・フェアウェイ乗入れ付きGPSカートセルフは4名1組で1人20,570円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=56&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "4名1組の料金例。2・3名は組合せの場合あり、割増額は予約前確認。ロッカー440円別途。乗入れ不可の場合880円減額。Cool Cart希望時660円追加。終了済みの夏季浴場制限は現在の条件に含めていません。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 20,570円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/56.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=56&p=guide.gallery#house_official",
@@ -13861,7 +14113,19 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "dining": null,
-        "budget": null,
+        "budget": {
+          "text": "2026年11月29日の7時台・指定昼食付きセルフは4名1組で1人21,900円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3名660円、2名2,200円追加。2・3名は組合せの場合あり。スタート時間変更不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月29日例 21,900円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/63.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.gallery#house_official",
@@ -13915,8 +14179,26 @@ const DATA={
           "sourceType": "official",
           "basis": "公式ゴルフ場情報でレストランなし・軽食販売・持ち込み可・座席を確認。"
         },
-        "budget": null,
-        "stay": null
+        "budget": {
+          "text": "2026年11月23日の9ホールを2周する手引きカート・徒歩セルフ1Rは4名1組で1人9,300円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。3名未満への変更は組合せ・通常料金の適用あり。Webビジター向け時間指定プラン。ロッカー220円別途。レストランはありません。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月23日例 9,300円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/64.html"
+          ]
+        },
+        "stay": {
+          "text": "浴室・シャワーはありません。更衣室は無料、ロッカーは220円です。宿泊設備の有無は今回の資料では未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約プラン1378918の設備案内に浴室・シャワーなし、更衣室無料、ロッカー220円と明記。"
+        }
       },
       "researchSources": [
         "https://booking.pacificgolf.co.jp/guide/64.html",
@@ -13965,7 +14247,19 @@ const DATA={
           "sourceType": "official",
           "basis": "公式ゴルフ場情報のレストラン欄で全日8:30からランチ終了まで・パーティ事前予約と明記。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月3日の指定昼食付きGPSカートセルフは4名1組で1人20,890円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=168&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名880円追加。2名予約不可。ロッカー440円別途。10時台は日没の可能性あり。レストランは8:30から昼食終了まで。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月3日例 20,890円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/168.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=168&p=guide.gallery#house_official",
@@ -15413,7 +15707,19 @@ const DATA={
           "dish": "粗挽きハンバーグ",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月5日の昼食・昼食時1ドリンク等込みのGPSカートセルフは4名1組で1人6,190円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=39&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "2サム保証、2・3名割増なし。ロッカー、フェアウェイ乗入れ、昼食メニュー差額、昼食時1ドリンク（生中まで）込み。追加注文は別途。乗入れ不可時・ロッカー未利用時も返金なし。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月5日例 6,190円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/39.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=39&p=guide.gallery#house_official",
@@ -15528,7 +15834,19 @@ const DATA={
           "dish": "ルーロー飯",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月7日の早め枠・指定昼食付きGPSカートセルフは4名1組で1人13,900円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=40&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "2サム保証。当該土曜は3名550円、2名2,200円追加。ロッカー440円別途。フェアウェイ乗入れ希望時880円追加、天候等で不可の場合あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月7日例 13,900円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/40.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=40&p=guide.gallery#house_official",
@@ -15583,7 +15901,19 @@ const DATA={
           "dish": "昆布水つけ麺",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月6日の遅め枠・昼食補助とフェアウェイ乗入れ付きGPSカートセルフ1Rは4名1組で1人5,400円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=45&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "3～4名受付、3名割増なし。昼食は補助であり、対象メニューによって追加料金あり。当該平日のロッカー440円別途。乗入れ中止でも返金なし。勝田駅無料送迎は前日午前中までの先着予約制。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月6日例 5,400円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/45.html"
+          ]
+        },
         "stay": {
           "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=45&p=guide.gallery#house_official",
@@ -20946,7 +21276,19 @@ const DATA={
             "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/146/r6abdd37d.jpg"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の日光・富士コースの7時台限定・指定昼食付きGPSカートセルフは4名1組で1人5,980円（消費税・利用税等込み）です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=146&p=guide.coursecalendar",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式予約カレンダーの該当プラン備考と指定日の空き枠表示で総額・税内訳・人数条件を実読。カレンダーの100円単位の略記から推測せず、日別総額表示を確認。",
+          "conditions": "2サム保証。当該平日は2名1,100円追加、3名割増なし。ロッカー440円別途。フェアウェイ乗入れ希望時550円追加、天候等で不可の場合あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日例 5,980円",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/guide/146.html"
+          ]
+        },
         "stay": {
           "text": "公式施設ギャラリーに男性浴室の説明と写真を掲載しています。現在の利用時間・プラン別制限・宿泊設備は未確認です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=146&p=guide.gallery",
