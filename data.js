@@ -18675,12 +18675,28 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。名物として「日光手打ちそば」を案内しています。",
           "dish": "日光手打ちそば"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月の公式予約表では、昼食付きビジタープランが平日4名専用6,960円、3名専用8,500円、2名専用9,050円。土日祝の3・4名用は14,990円、2名用18,290円です。",
+          "url": "https://kinugawacc.jp/reservation/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトから案内された11月予約表の人数別プランと税込表示、公式料金説明の1Rセルフ・カート・昼食・利用税・消費税込を照合。",
+          "supportingUrls": [
+            "https://www3.golfyoyaku.jp/rsv_sys/kinugawa/kinugawa/mcalendar/index/start:202611"
+          ],
+          "conditions": "2026年11月の昼食付きビジタープラン掲載例。乗用カート・1Rセルフ、昼食・利用税・消費税込。人数専用プランを区別。11月3日・23日の特別料金など別プランあり。空き枠・料金は予約時に確認。完全セルフデーの3,990円は食堂・浴場・ロッカーなしの別プラン。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月 平日4名用6,960円／土日祝3・4名用14,990円"
+        },
         "stay": {
-          "text": "鬼怒コース7番ホールの自家源泉を利用した、天然温泉の掛け流し浴場を備えています。",
+          "text": "鬼怒コース7番ホールの自家源泉を利用した、天然温泉の掛け流し浴場を備えています。 ただし、2026年11月の完全セルフデー（18Hスルー・現金精算）プランは浴場・ロッカーを利用できません。",
           "url": "https://kinugawacc.jp/facility/",
-          "checked": "2026-10-25",
-          "basis": "公式施設案内・利用案内の本文または設備写真の公式見出しを実読。宿泊・温泉の有無は記載外を推測しない。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存の天然温泉紹介を保持し、公式11月予約表で明示された完全セルフデーの利用制限を追加。",
+          "supportingUrls": [
+            "https://www3.golfyoyaku.jp/rsv_sys/kinugawa/kinugawa/mcalendar/index/start:202611"
+          ]
         }
       },
       "id": 331
@@ -21928,12 +21944,30 @@ const DATA={
           "sourceType": "official",
           "basis": "ホテル公式の食事本文を確認。宿泊プラン・予約条件を確認して利用。仕入れによりメニュー変更あり。ゴルフ料金に含まれるとは記載しない。"
         },
-        "budget": null,
-        "stay": {
-          "text": "隣接する「ウェルネスの森 那須」で宿泊ゴルフを楽しめます。",
+        "budget": {
+          "text": "公式予約のスタンダード2名プランは、2026年11月2日（月）2名合計11,000円、11月1日（日）2名合計18,000円。18H・完全セルフ・乗用カートのスループレーで、昼食は含みません。",
           "url": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
-          "checked": "2026-10-24",
-          "basis": "公式ページの本文・メニュー・料金表を確認。隣接する「ウェルネスの森 那須」で宿泊ゴルフを楽しめます。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイト経由の予約詳細と両日付ページを実読。料金は2名合計と明示されているため1人料金に誤転記せず、総額をそのまま掲載。",
+          "supportingUrls": [
+            "https://firstee.jp/25nasu-golf/25nasu-golf/plans/233048/detail",
+            "https://firstee.jp/25nasu-golf/25nasu-golf/plans/233048?date=2026-11-02",
+            "https://firstee.jp/25nasu-golf/25nasu-golf/plans/233048?date=2026-11-01"
+          ],
+          "conditions": "2026年11月2日・11月1日のスタンダード2名用掲載例。表示は2名合計、消費税・ゴルフ場利用税込。18H（9ホール2周）、GPS付き乗用カート、完全セルフ、2サム保証・割増0円。昼食提供なし。ロッカー＆温泉入浴（タオル付）は別途500円の案内、当日の状況により利用不可の場合あり。総額を人数割りして推定表示しない。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月例 2名合計11,000円／18,000円"
+        },
+        "stay": {
+          "text": "隣接する「ウェルネスの森 那須」で宿泊ゴルフを楽しめます。 公式ゴルフ予約案内では、ロッカーと温泉入浴（タオル付き）を別途500円で案内。入浴は13時からで、当日の状況により利用できない場合があります。",
+          "url": "https://firstee.jp/25nasu-golf/25nasu-golf/plans/233048/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存宿泊紹介を保持。公式サイトから遷移するプラン本文のロッカー・温泉・時刻・当日制限を確認。料金500円の人数単位は明記がないため補わない。",
+          "supportingUrls": [
+            "https://dormy-hotels.com/resort/hotels/nasu/golf/"
+          ]
         }
       },
       "id": 393
