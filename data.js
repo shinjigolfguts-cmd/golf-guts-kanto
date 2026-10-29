@@ -4512,7 +4512,14 @@ const DATA={
           "sourceType": "official",
           "basis": "公式施設案内で隣接ホテル、大浴場、女性用個室化粧ブースを確認。浴場の営業時刻は本文にないため推測しない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式Web優待の平日セルフは11,300円（税込・昼食別）。ナビ付き乗用カートで、3名は660円、2名は1,980円の割増があります。確認時は2026年11月の対象日に掲載されています。",
+          "url": "https://wst1.asts.jp/golfnet/cc/0309CC/plan/plan_view.asp?p_no=847&src_kbn=2&keepThis=true&TB_iframe=true&height=650&width=850",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ホームからリンクする公開予約カレンダーの税込表示とプラン詳細の11,300円・昼食別・割増を照合。非選択アイコンの代替テキストは採用しない。",
+          "conditions": "2026年11月対象日のWeb優待。利用税の包含内訳は未確認。混雑時は組合せの場合あり。日程・プランで変動。"
+        },
         "scenery": {
           "text": "クラブハウスの前に、広くフラットなコースの景色が広がります。池とバンカーが景観に変化を添える開放的なレイアウトです。",
           "url": "https://www.hillsgolf.jp/shizu/course/",
@@ -4630,7 +4637,14 @@ const DATA={
             "https://nasukasumigajo.com/ja/hotel"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の限定タイムセールは1Rセルフ・昼食付き8,200円（消費税・利用税・入湯税・振興基金込み）。2名保証で2名・3名とも割増なし。予約受付は10月28日～11月1日の限定企画です。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/ionoresort/nasukasumigajo/mreservation/index/date:20261104/plan:1400245/setid:706397/pid:979398",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの公開予約リンクから対象日のプラン詳細を読み、料金の税等包含・人数割増・販売期間・プレー日を確認。",
+          "conditions": "2026-11-04の掲載プラン。受付2026-10-28～11-01限定。18Hセルフ、GPS電磁誘導カート、昼休憩あり。通常料金・全日共通料金とは異なる。"
+        },
         "scenery": {
           "text": "那須の森に囲まれ、遠くの山並みを望むコース。自然の地形とシンボルフラワーのヤマボウシが景観を彩ります。",
           "url": "https://nasukasumigajo.com/ja/golf",

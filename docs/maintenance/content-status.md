@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `49559c3637ad53b422b464dcc2667f2e0c2f9553ae14ab834daea9ba53df9bb2`
+data.js SHA256: `0fdf96a242d5fb639aa60eb635d152f3c7a2e39750f20937a7a52fe1569c38ca`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -11,10 +11,10 @@ data.js SHA256: `49559c3637ad53b422b464dcc2667f2e0c2f9553ae14ab834daea9ba53df9bb
 | 電車のアクセス | 33 |
 | 食事 | 45 |
 | 宿泊・お風呂 | 64 |
-| 料金 | 162 |
+| 料金 | 160 |
 | 景色 | 8 |
 
-空欄を含む施設：242 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：240 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -43,8 +43,6 @@ data.js SHA256: `49559c3637ad53b422b464dcc2667f2e0c2f9553ae14ab834daea9ba53df9bb
 | 63 | [東京相武カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tokyo/sobu/detail) | 料金 |
 | 64 | [さいたまゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/saitama/saitamagc/) | 料金 |
 | 65 | [房州カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/boushu/) | 料金 |
-| 75 | [静ヒルズカントリークラブ](https://www.hillsgolf.jp/shizu/) | 料金 |
-| 77 | [那須霞ヶ城 ゴルフ＆ホテルリゾート](https://nasukasumigajo.com/ja) | 料金 |
 | 78 | [真名カントリークラブ 真名コース](https://www.mannacc.com/course/manna-course) | 料金 |
 | 80 | [初穂カントリークラブ](https://www.hatsuhocc.co.jp/) | 食事・料金 |
 | 82 | [佐原カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/sawara/) | 料金 |
