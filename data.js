@@ -10751,7 +10751,13 @@ const DATA={
           "priceLabel": "平日21,600円／土日祝33,900〜34,600円",
           "conditions": "公式季節別料金表の4・5・10・11月、キャディ付き乗用カート。会員同伴または紹介が必要。2B3,300円、3B1,100円追加。昼食付コンペパックは別区分。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式サイトに浴室を掲載。温泉かどうか、営業時間、プラン別利用制限、宿泊設備は未確認です。",
+          "url": "https://www.keiyo-cc.co.jp/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "トップの浴室キャプションとBath表記を確認。温泉・宿泊・利用条件は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.keiyo-cc.co.jp/",
@@ -11056,7 +11062,13 @@ const DATA={
           "dish": "国産うな重"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+          "url": "https://www.chibacc.co.jp/traffic/stay",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID194は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+        }
       },
       "researchSources": [
         "https://www.chibacc.co.jp/umesato",
@@ -11167,7 +11179,13 @@ const DATA={
           "priceLabel": "平日22,300円\n土日祝35,000円",
           "conditions": "税込・通常キャディ付き。3名+1,600円、2名+9,600円。食事等の含有は予約時確認。原則キャディ付き。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスに男性浴場・女性浴場を掲載。温泉かどうか、営業時間、プラン別利用制限、宿泊設備は未確認です。",
+          "url": "https://narita-hills.co.jp/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設一覧の男性浴場・女性浴場を確認。温泉・宿泊・利用条件は推測しない。"
+        }
       },
       "researchSources": [
         "https://narita-hills.co.jp/",
@@ -11225,7 +11243,13 @@ const DATA={
           "priceLabel": "平日12,100〜15,100円\n土日祝22,600〜27,600円",
           "conditions": "通常ビジター・税込利用税込・4名・セルフ1R。季節で変動。2名+2,200円、3名+550円。土日祝の食事代は別途確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "紳士浴室・婦人浴室と、紳士浴室のリラックススペースを掲載。温泉かどうか、営業時間、プラン別利用制限、宿泊設備は未確認です。",
+          "url": "https://www.unimat-golf.jp/hakuho/service/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の浴室見出しとキャプションを確認。温泉・宿泊・利用条件は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.unimat-golf.jp/hakuho/",
@@ -12049,7 +12073,13 @@ const DATA={
           "dish": "海鮮天津飯"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+          "url": "https://www.chibacc.co.jp/traffic/stay",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID212は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+        }
       },
       "researchSources": [
         "https://www.chibacc.co.jp/noda",
@@ -12093,7 +12123,13 @@ const DATA={
           "dish": "洋風四季膳（秋）"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で15分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+          "url": "https://www.chibacc.co.jp/traffic/stay",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID213は車15分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+        }
       },
       "researchSources": [
         "https://www.chibacc.co.jp/kawama",
@@ -12234,7 +12270,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内。所要時間は目安。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "自然に囲まれた約170万㎡の丘陵地に広がる27ホールのコース。",
+          "url": "https://www.yc21.co.jp/mangijo/course.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース紹介本文の自然と雄大な27ホール、概要表の丘陵・面積170万㎡を照合。海・山岳の眺望などは推測しない。"
+        },
         "dining": {
           "text": "鯵フライ膳を掲載。ヒレカツカレーなども用意されています。",
           "url": "https://www.yc21.co.jp/mangijo/restaurant.html",
