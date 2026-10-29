@@ -1,0 +1,2041 @@
+{
+  "note": "取得記録は内容確認完了や公式情報不存在の証明ではない。採用項目のみverified JSONに本文根拠を記録。ページが改訂されたら再確認する。",
+  "items": [
+    {
+      "id": 2,
+      "name": "東我孫子カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.h-abiko-cc.com/information/price/",
+          "contentSha256": "ea5405740a2ab7cd02915eda8d5e6d9754514b14bd7601f12fa46eef98a46247",
+          "titleExcerpt": "料金一覧 – 東我孫子カントリークラブ Information ご案内 Course コース紹介 Schedule スケジュール Members 会員様 Restaurant レストラン Group ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "江戸川ラインゴルフショートコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://edogawaline.or.jp/",
+          "contentSha256": "11332e848ab5c10914e37ee5a2d69100f8d8c5ec464a0f0665fe95a8e0c12955",
+          "titleExcerpt": "江戸川ラインゴルフショートコース | ゴルフ練習場 MENU ホーム ショートコース ゴルフ練習場 ゴルフスクール 野球場 アクセス English Short Course Practice Ran",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Jゴルフ鶴ヶ島",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://jgt.tatemono-golf.com/access/",
+          "contentSha256": "a50f3645d038636a6a4b925a1656fa548f1259d0e973ff14debb6f3d6b865485",
+          "titleExcerpt": "交通アクセス | Jゴルフ鶴ヶ島 | 東京建物リゾート株式会社 ゴルフコースサイト 東京建物リゾート株式会社 WEB会員募集中 WEB会員ログイン ゴルフコースポータルサイト Jゴルフ鶴ヶ島 トップ ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://jgt.tatemono-golf.com/facility/",
+          "contentSha256": "3f9d4047565f9aa8ef369acb405b1644c4c7e300d99e741cb5f588be029da399",
+          "titleExcerpt": "施設紹介 | Jゴルフ鶴ヶ島 | 東京建物リゾート株式会社 ゴルフコースサイト 東京建物リゾート株式会社 WEB会員募集中 WEB会員ログイン ゴルフコースポータルサイト Jゴルフ鶴ヶ島 トップ コー",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "藤ヶ谷カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.fujigayacc.co.jp/",
+          "contentSha256": "07e2939e37d203fffcb5d96a718a1296b0b95c23033dbe1c63a07349cb0b7570",
+          "titleExcerpt": "藤ヶ谷カントリークラブ | ようこそ都心から30分のゴルフ場へ コンテンツへスキップ ナビゲーションに移動 藤ヶ谷カントリークラブ ご利用案内 Guide 営業案内 予約案内 ご利用の皆様へ コース案",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.fujigayacc.co.jp/facility/",
+          "contentSha256": "1dee5017e8892627c78d27181889d1522bf6060b28b171178157558202b79d54",
+          "titleExcerpt": "施設案内 | 藤ヶ谷カントリークラブ コンテンツへスキップ ナビゲーションに移動 藤ヶ谷カントリークラブ ご利用案内 Guide 営業案内 予約案内 ご利用の皆様へ コース案内 course コースガ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "ダイナミックゴルフ茂原",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://dynamic-golf.jp/",
+          "contentSha256": "5706140d8061292dcd2ef62f07694a82abf4cb9da4b75500fa9bd63a7e89a60c",
+          "titleExcerpt": "ダイナミックゴルフ｜千葉県最大級の総合ゴルフ練習場 - ショートコース、アプローチ練習場、ゴルフスクール完備｜Dynamic Golf DYNAMIC GOLF ゴルフを楽しむ為の施設を全て揃えた、千",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+          "contentSha256": "5d7059ac2bbe19093f78496982907aa50fffb1c7cc332fb48f17de778808f327",
+          "titleExcerpt": "川崎リバーサイドパーク(ゴルフ場)-多摩川河川健康公園 一般社団法人 河川健康公園機構／多摩川河川健康公園 川崎リバーサイドパーク(ゴルフ場) GOLF\r\n                      ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "吉見ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.river-golf.com/yoshimi/fee.html",
+          "contentSha256": "5e421f63184564eaedcfa88cca58b2013ac1538c6a90e020f6ff5ad0f26f6d4d",
+          "titleExcerpt": "料金 ｜ 吉見ゴルフ場 吉見ゴルフ場 Yoshimi Golf Course 料金 fee コース course レストラン restaurant けやき倶楽部 keyaki club アクセス ac",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "朝霞パブリックゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://asaka-pab-golf.com/",
+          "fetchError": "HTTP Error 503: Service Unavailable"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "太平洋クラブ 江南コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/kohnan/information.html",
+          "contentSha256": "4b1cbcf42e7d07e36c075c1fa9e49353704a81ff93cd51ef4b867d7e82245dcf",
+          "titleExcerpt": "コース情報｜江南コース｜コース紹介｜太平洋クラブ Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global Site 会員専用ログ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "GMG八王子ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "http://www.kanbun-group.co.jp/gmg/index.html",
+          "contentSha256": "b864fe1a5a451d099f3999a43d066449de8684c758c128b94e57a8255a76077b",
+          "titleExcerpt": "﻿ 関文グループ／ＧＭＧ八王子ゴルフ場｜HOME 関文グループ／ＧＭＧ八王子ゴルフ場 お問合せ 個人情報の取り扱いについて 利用約款 カスタマーハラスメントへの対応に関する方針 メイングラフィック メ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "http://www.kanbun-group.co.jp/gmg/facility.html",
+          "contentSha256": "9fcf474e5e4bbbf7078021722641774c56ee1a0e0333ff8ba6b4380937b516fc",
+          "titleExcerpt": "関文グループ／ＧＭＧ八王子ゴルフ場｜施設案内 関文グループ／ＧＭＧ八王子ゴルフ場 お問合せ 個人情報の取り扱いについて 利用約款 カスタマーハラスメントへの対応に関する方針 施設案内 HOME ご予約",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "http://www.kanbun-group.co.jp/gmg/facility.html#wifi",
+          "contentSha256": "9fcf474e5e4bbbf7078021722641774c56ee1a0e0333ff8ba6b4380937b516fc",
+          "titleExcerpt": "関文グループ／ＧＭＧ八王子ゴルフ場｜施設案内 関文グループ／ＧＭＧ八王子ゴルフ場 お問合せ 個人情報の取り扱いについて 利用約款 カスタマーハラスメントへの対応に関する方針 施設案内 HOME ご予約",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "鎌倉カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "http://kamakura-cc.com/",
+          "contentSha256": "1ee107ead4db1943b3fb5204990a8b7256bac2f52e29bed8cd30a0c0bb8b6f61",
+          "titleExcerpt": "鎌倉カントリークラブ【公式ページ】 Kamakura Country Club 0467-43-1251 オンライン予約 プレーヤー登録 アクセス ホーム クラブ コンセプト 歴史 入会について 施設",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kamakura-cc.com/facility/",
+          "contentSha256": "2561e3f2cba59079ada9454338ebbe798a81eda862f105f5f1a517eff1e94c50",
+          "titleExcerpt": "施設案内 | 鎌倉カントリークラブ Kamakura Country Club 0467-43-1251 オンライン予約 プレーヤー登録 アクセス ホーム クラブ コンセプト 歴史 入会について 施設",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "チェックメイトカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://checkmate-cc.com/",
+          "contentSha256": "2fcb582affa7a1b35b7f4c3e83f9de143737279690b7500d807c528f4811f28e",
+          "titleExcerpt": "HOME ： ＊＊ チェックメイトカントリークラブ ＊＊ Checkmate Country Club ＊＊ Enable JavaScript in your browser. このウェブサイトはJ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://checkmate-cc.com/faci.html",
+          "contentSha256": "09994bd085f9d99b75606515b25987aa086b94d0d31cc45b4ebf93a0bd4b2710",
+          "titleExcerpt": "施設 ： ＊＊ チェックメイトカントリークラブ ＊＊ Checkmate Country Club ＊＊ Enable JavaScript in your browser. このウェブサイトはJav",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "大千葉カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.daichibacc.com/",
+          "contentSha256": "ee553a2d35400e7e303d6ae0880cd64e3009c3f35f046892d92d067724235148",
+          "titleExcerpt": "大千葉カントリー俱楽部【公式ホームページ】千葉県市原市のゴルフ - HOME &#22823;&#21315;&#33865;&#12459;&#12531;&#12488;&#12522;&#125",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.daichibacc.com/club-house.html",
+          "contentSha256": "3f5d15d50235e59683304540cc5c0ad094b04bb1c3f5833e740e5961cc603756",
+          "titleExcerpt": "施設紹介 - 大千葉カントリー俱楽部【公式ホームページ】千葉県市原市のゴルフ &#22823;&#21315;&#33865;&#12459;&#12531;&#12488;&#12522;&#125",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "紫カントリークラブ あやめコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.murasaki-cc.co.jp/ayame/",
+          "contentSha256": "1c97cd8b355a729e6b3850703398786dd33b40922d0b0a2ff711498228565ab5",
+          "titleExcerpt": "紫カントリークラブ あやめコース 公式サイト ｜ 千葉県野田市のゴルフ場 navigation 紫カントリークラブ あやめコース 紫カントリークラブ あやめコース お問い合わせ light_mode ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.murasaki-cc.co.jp/ayame/facility.html",
+          "contentSha256": "9bae4523381cbf45e1f2a058b07fbbcfa0a08da92a4eba0f220cd0653ff08c7d",
+          "titleExcerpt": "施設案内 ｜ 紫カントリークラブ あやめコース 公式サイト navigation 紫カントリークラブ あやめコース 紫カントリークラブ あやめコース お問い合わせ light_mode 天気予報 利用",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "name": "ジャパンPGAゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://zuien.net/pga/",
+          "contentSha256": "9fd6fa8854b2bb7a0b3b09668a2b7a608b0ef892b860dbdebf1de2158ba53cba",
+          "titleExcerpt": "ジャパンPGA - 隨縁カントリークラブ ジャパンPGAゴルフクラブ NEWS お知らせ イベント情報 コースガイド グループゴルフ場 隨縁グループ 隨縁カントリークラブ 恵庭コース ジャパンPGAゴ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://zuien.net/pga/facilities/",
+          "contentSha256": "ef29058cbec6c8a95a014e7e43b490ccddb28aa3d5e9f7d9c95eb97965cf4608",
+          "titleExcerpt": "施設案内 - 隨縁カントリークラブ ジャパンPGAゴルフクラブ NEWS お知らせ イベント情報 コースガイド グループゴルフ場 隨縁グループ 隨縁カントリークラブ 恵庭コース ジャパンPGAゴルフク",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "浜野ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.hamano-golf.co.jp/",
+          "contentSha256": "9df8b2ab293b75ae2fe36e3bbe1636bc8ad45c5f1713e470197c9103f47a187a",
+          "titleExcerpt": "浜野ゴルフクラブ | 公式ホームページ浜野ゴルフクラブ 浜野ゴルフクラブ Hamano Golf Club トップ クラブについて コース 施設案内 ご利用案内 お知らせ 交通アクセス 会員専用ページ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.hamano-golf.co.jp/facility/",
+          "contentSha256": "41e780d9ecd4fc8146e4e191c49ceb5de08f4d8cbd7d62aa7fdc319f7e3c6f67",
+          "titleExcerpt": "施設案内 | 浜野ゴルフクラブ 施設案内  |  浜野ゴルフクラブ Hamano Golf Club トップ クラブについて コース 施設案内 ご利用案内 お知らせ 交通アクセス 会員専用ページ ご予",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "name": "鷹之台カンツリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.takanodaicc.or.jp/",
+          "fetchError": "HTTP Error 503: Service Unavailable"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "源氏山ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.genjiyamagolfclub.com/",
+          "contentSha256": "68697d2781e0bea16ef1941ba44fca970150039ef749945c3b515cfe716244e8",
+          "titleExcerpt": "源氏山ゴルフクラブ / Menu Skip to content ホーム 最新情報 営業案内・ご予約 コースガイド 施設案内 レストラン アクセス案内 メンバー専用ページ 天気情報",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.genjiyamagolfclub.com/facility/",
+          "contentSha256": "ee07dfc4bacdc49e3dfc04e1c42c02ad9add8ec985c72f657160fb3bc6fa45d9",
+          "titleExcerpt": "施設案内 | 源氏山ゴルフクラブ Menu Skip to content ホーム 最新情報 営業案内・ご予約 コースガイド 施設案内 レストラン アクセス案内 メンバー専用ページ 天気情報 施設案内",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "中山カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.nakayamacc.com/",
+          "contentSha256": "83c848a95fceeabcfc10140875f2204b245fd59c16fc444eb48f5ff04e8b2c89",
+          "titleExcerpt": "中山カントリークラブ　公式ホームページ │ 関東屈指のレイアウトを誇る一流コース ホーム 営業案内 コースガイド 施設案内 レストラン 交通アクセス メンバー専用 オンライン予約 お問い合わせ お天気",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.nakayamacc.com/house.html",
+          "contentSha256": "7dc36b398f111ca1afbaeafb455473790e7d478373d4b5b8ff5b2d772197321f",
+          "titleExcerpt": "中山カントリークラブ　公式ホームページ │ 関東屈指のレイアウトを誇る一流コース ホーム 営業案内 コースガイド 施設案内 レストラン 交通アクセス メンバー専用 オンライン予約 お問い合わせ Clu",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "金砂郷カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.kanasago.com/",
+          "contentSha256": "893b53da73ce2be88b2a7ac2348c64d539bf4be6dde5d408279edc02b9569668",
+          "titleExcerpt": "金砂郷カントリークラブ / Menu Skip to content ホーム 最新情報 オンライン予約 コースガイド 料金案内 レストラン 施設案内 イベント情報 アクセス案内 メンバーページ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.kanasago.com/facility/",
+          "contentSha256": "90757e5f424bf59a88995ea78700966497ec689c8bad9b1d193761452929ad0f",
+          "titleExcerpt": "施設案内 | 金砂郷カントリークラブ Menu Skip to content ホーム 最新情報 オンライン予約 コースガイド 料金案内 レストラン 施設案内 イベント情報 アクセス案内 メンバーペー",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "name": "ゴルフ倶楽部セブンレイクス",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://sevenlakes.jp/",
+          "contentSha256": "80403b044293de32dec5237a32baf87c9a612db909a7f70630a3916752b79c96",
+          "titleExcerpt": "ゴルフ倶楽部セブンレイクス │ 茨城県にあるロッキー・レイク 18HOLESのゴルフ場 ホーム HOME ゴルフコース COURSE プレー料金 PLAY FEE イベント情報 EVENTS クラブハ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://sevenlakes.jp/house.html",
+          "contentSha256": "6f9bf8e7ecdefbc53dd8cb3f6a417adac09d3b529191f275a1d2aba380b02d6b",
+          "titleExcerpt": "クラブハウス │ ゴルフ倶楽部セブンレイクス　公式ホームページ ホーム HOME ゴルフコース COURSE プレー料金 PLAY FEE イベント情報 EVENTS クラブハウス CLUBHOUSE",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "name": "桜の宮ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.sakuranomiyagc.jp/",
+          "contentSha256": "12ae3fd7e03cb523008a5c756d9c502392b9f42d60babb83a6bab922528a6d8d",
+          "titleExcerpt": "【公式】桜の宮ゴルフ倶楽部 桜の宮ゴルフ倶楽部 茨城県笠間市小原2811 0296-77-1155 新着情報 営業案内 ご利用案内 ご予約 コースガイド 施設案内 レストラン 施設案内 メンバー専用 ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/restaurant/",
+          "contentSha256": "4482c49ae0d330ddf45bb1b5b83df6742f14f610e4318b1dea557e26983aab5f",
+          "titleExcerpt": "レストラン |  【公式】桜の宮ゴルフ倶楽部 restaurant レストラン 桜の宮ゴルフ倶楽部 茨城県笠間市小原2811 0296-77-1155 新着情報 営業案内 ご利用案内 ご予約 コースガ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp//facility_other.html",
+          "contentSha256": "b7e39e4c44366d17f1d6d482b893c034527217710d56e895b23e5016cb91802a",
+          "titleExcerpt": "施設案内｜【公式】桜の宮ゴルフ倶楽部 ご予約 〒309-1701　茨城県笠間市小原2811 0296-77-1155 MENU 新着情報 news 営業案内 guide ご利用案内 ご予約 コースガイ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "JGM笠間ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.jgmgroup.co.jp/kasama/",
+          "fetchError": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "name": "茨城ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://ibarakigc.jp",
+          "contentSha256": "3c12333786ca74ceaefc54957aa13e8ce2477396d2468dc446dcbd09722ef2db",
+          "titleExcerpt": "茨城ゴルフ倶楽部 | 茨城県つくばみらい市　東コース18H・西コース18H MENU ホーム 営業のご案内 施設利用時間のご案内 ドレスコード・エチケット・マナー 予約のご案内 ゲスト料金のご案内 コ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://ibarakigc.jp/information/%e6%96%bd%e8%a8%ad%e5%88%a9%e7%94%a8%e6%99%82%e9%96%93",
+          "contentSha256": "f6f3bff431aec92d5bb0732bf67b6ea7987d52a33c7e3aa29f36657a89d9d879",
+          "titleExcerpt": "施設利用時間のご案内 | 営業のご案内 | 茨城ゴルフ倶楽部 MENU ホーム 営業のご案内 施設利用時間のご案内 ドレスコード・エチケット・マナー 予約のご案内 ゲスト料金のご案内 コースガイド 東",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://ibarakigc.jp/clubhouse",
+          "contentSha256": "32eec5bc6acc53e703be3582ed86463f762342426caa302f894dbca35569b3fd",
+          "titleExcerpt": "クラブハウス | 茨城ゴルフ倶楽部 MENU ホーム 営業のご案内 施設利用時間のご案内 ドレスコード・エチケット・マナー 予約のご案内 ゲスト料金のご案内 コースガイド 東コース 西コース スケジュ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "name": "金乃台カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.kinnodai.com/",
+          "contentSha256": "bc81f0a32f597ef7952f95ea73f80c0ac787976383889ac6ced65fd02943b41c",
+          "titleExcerpt": "金乃台カントリークラブ｜太平洋クラブグループ Kinnodai Country Club　（株）太平洋クラブグループ クラブ案内 コースガイド 施設紹介 イベント 料金案内 アクセス 会員募集 会員専",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kinnodai.com/house/index.html",
+          "contentSha256": "8659f79c742510b83a6263ef06e85c53ee58244f52fcf23f66c87de51b717c3f",
+          "titleExcerpt": "施設紹介｜金乃台カントリークラブ｜株式会社太平洋クラブ 金乃台カントリークラブ クラブ案内 コースガイド 施設紹介 イベント 料金案内 アクセス 会員募集 会員専用ログイン 金乃台カントリークラブ T",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "栗橋國際カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.kurikan.co.jp/",
+          "contentSha256": "c1345f3cef44a541f8f43017d1c48af7e9f56118a4eca5b0350ef415f6fb6030",
+          "titleExcerpt": "栗橋國際カントリー倶楽部 最新情報 アクセス案内 お問い合わせ top page reservation course facilities restaurant event レンタルクラブ始めました",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.kurikan.co.jp/playstyle/",
+          "contentSha256": "a1d45cfd5213dff10d79652db77760dd6f126851e00990e189f9aacfa94931d5",
+          "titleExcerpt": "栗橋國際カントリー倶楽部 最新情報 アクセス案内 お問い合わせ top page reservation course facilities restaurant event レンタルクラブ始めました",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "name": "桜ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "http://www.sakurasgo.com",
+          "contentSha256": "073d467a8eb79f4bda48f7cb099ebc32950a3dc6a91835c72ec31b8b2af87c63",
+          "titleExcerpt": "桜ゴルフ倶楽部｜公式サイト（茨城県のゴルフ場） 桜ゴルフ倶楽部 HOME 料金・ご予約 コース案内 施設案内 レストラン メンバーズ アクセス 桜ゴルフ倶楽部 いろいろな表情で お客様をお迎えする 2",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "http://www.sakurasgo.com/facility.html",
+          "contentSha256": "0fbb3de91352023cdfd6bd824ea2eb35edfdcc9e3cc13d23aa7061b47681291f",
+          "titleExcerpt": "施設案内｜桜ゴルフ倶楽部 桜ゴルフ倶楽部 HOME 料金・ご予約 コース案内 施設案内 レストラン メンバーズ アクセス ホーム > 施設案内 施設案内 施設案内 Facilities Facilit",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "http://www.sakurasgo.com/facility.html#club",
+          "contentSha256": "0fbb3de91352023cdfd6bd824ea2eb35edfdcc9e3cc13d23aa7061b47681291f",
+          "titleExcerpt": "施設案内｜桜ゴルフ倶楽部 桜ゴルフ倶楽部 HOME 料金・ご予約 コース案内 施設案内 レストラン メンバーズ アクセス ホーム > 施設案内 施設案内 施設案内 Facilities Facilit",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "name": "白帆カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://shiraho.jp/",
+          "contentSha256": "b30aa902e4682f7809122f995a258d73efdda169926fe77e92c54a8c66154a54",
+          "titleExcerpt": "白帆カントリークラブ│ ホーム HOME コース COURSE プレー料金 PLAY FEE 施設案内 CLUBHOUSE レストラン RESTAURANT イベント EVENT アクセス ACCES",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://shiraho.jp/house.html",
+          "contentSha256": "2d2f64de51119f8a3cde0569c9c1f2bafaa262956bc1304bc91fa88d52d4789d",
+          "titleExcerpt": "白帆カントリークラブ│ ホーム HOME コース COURSE プレー料金 PLAY FEE 施設案内 CLUBHOUSE レストラン RESTAURANT イベント EVENT アクセス ACCES",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "ジェイゴルフ霞ヶ浦",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://jgk.tatemono-golf.com/",
+          "contentSha256": "b5e516e0d668453a45d0cd1923dc804135b02c6a333502b06dc5461c95b37ebd",
+          "titleExcerpt": "ジェイゴルフ霞ヶ浦 | 東京建物リゾート株式会社 ゴルフコースサイト 東京建物リゾート株式会社 WEB会員募集中 WEB会員ログイン ゴルフコースポータルサイト ジェイゴルフ霞ヶ浦 トップ コースガイ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://jgk.tatemono-golf.com/facility/",
+          "contentSha256": "6ec10b12e7bb6293e0f6492a9354eb663ea43cac2834da64bddadab530c00aa1",
+          "titleExcerpt": "施設紹介 | ジェイゴルフ霞ヶ浦 | 東京建物リゾート株式会社 ゴルフコースサイト 東京建物リゾート株式会社 WEB会員募集中 WEB会員ログイン ゴルフコースポータルサイト ジェイゴルフ霞ヶ浦 トッ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "太平洋クラブ美野里コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/minori/",
+          "contentSha256": "10e6f7c6c8fe2f6c66a5c68507fddf67b3d90fbc8a7a5cc8b6eaf2b7d575c6ec",
+          "titleExcerpt": "コース紹介｜太平洋クラブ Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global Site 会員専用ログイン 新規会員登録/コー",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "http://www.daiyagreen.com",
+          "contentSha256": "33b5d60a48afb872bc7c9088dd9424c3fe488c23ce15435a52604016388930f7",
+          "titleExcerpt": "ダイヤグリーン倶楽部 ダイヤグリーン倶楽部 サイトマップ お問い合わせ コンセプト コースガイド 施設紹介 ご利用料金 アクセス メンバー 東関東自動車道、佐原香取ICから3分の好立地に 個性豊かな表",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "http://www.daiyagreen.com/facilities/index.html",
+          "contentSha256": "7d9548fb7089a0f463f5bb69509700f83237f40c64cd9b5d01338df7ed8b40b0",
+          "titleExcerpt": "施設紹介　ダイヤグリーン倶楽部 ダイヤグリーン倶楽部 サイトマップ お問い合わせ コンセプト コースガイド 施設紹介 ご利用料金 アクセス メンバー 施設紹介 練習場・ドライビングレンジ 打球打込み発",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "name": "筑波カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://tsukuba-cc.co.jp/",
+          "contentSha256": "308006da0b534b548c552269f43042a2c01f21bee93d7152623a891daae1698e",
+          "titleExcerpt": "筑波カントリークラブ | 筑波カントリークラブ 筑波カントリークラブ トップページ 筑波カントリークラブ ホーム クラブ案内 コース ご利用案内 採用情報 アクセス NEW お知らせ 会員専用ページ ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://tsukuba-cc.co.jp/about/facility",
+          "contentSha256": "37f63c49e9ce19acc0a54398f8d2642564245ccee7cc431efd7f69a30c2ec253",
+          "titleExcerpt": "Facility施設 | 筑波カントリークラブ 筑波カントリークラブ <i>Facility</i>施設 筑波カントリークラブ ホーム クラブ案内 コース ご利用案内 採用情報 アクセス NEW お知",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "name": "つくばねカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.tukubane.com/",
+          "contentSha256": "fa79fafaa306cc6d03bceb4a1c43d643e55c26b0b62212adda2179b164c6f8bf",
+          "titleExcerpt": "【公式】つくばねカントリークラブ / 茨城県のゴルフ場 つくばねカントリークラブ トップページ お知らせ コース レストラン 交通案内 競技日程・成績 2024年で50周年を迎えた歴史あるゴルフ場 つ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://nscc.golftk.com/",
+          "fetchError": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://kabayagc.com/",
+          "contentSha256": "35b2b1eab8a0a0eebcb66677eead2480341162e7fd76bf7c378e958986986151",
+          "titleExcerpt": "ひたち大宮ゴルフクラブ ひたち大宮ゴルフクラブ MENU TOP トップ RESERVATION 予約 COURSE コース FACILITY 施設 RESTAURANT レストラン COMPETIT",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kabayagc.com/facility/",
+          "contentSha256": "a344937838edaf0ecb684a4113299efc861752019c17ff8451831c4d8535886d",
+          "titleExcerpt": "施設｜ひたち大宮ゴルフクラブ ひたち大宮ゴルフクラブ MENU TOP トップ RESERVATION 予約 COURSE コース FACILITY 施設 RESTAURANT レストラン COMPE",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kabayagc.com/facility/",
+          "contentSha256": "a344937838edaf0ecb684a4113299efc861752019c17ff8451831c4d8535886d",
+          "titleExcerpt": "施設｜ひたち大宮ゴルフクラブ ひたち大宮ゴルフクラブ MENU TOP トップ RESERVATION 予約 COURSE コース FACILITY 施設 RESTAURANT レストラン COMPE",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "name": "フレンドシップカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.friendship-cc.co.jp:443/",
+          "contentSha256": "1144b5498a0e4a0853a3bbf587750e7d185115c71e0ee60b327a086c3591915b",
+          "titleExcerpt": "フレンドシップカントリークラブ | 茨城県常総市のゴルフ場 フレンドシップカントリークラブ – 茨城県常総市のゴルフ場 / 茨城県常総市のゴルフ場 Menu... ホーム 最新情報 イベント情報 クラ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "name": "水戸グリーンカントリークラブ 山方コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.mgcc.jp/",
+          "contentSha256": "fa8339a8187d571f76878a97ebfb100b6932d48bd2a0dfe651b1f8ce3e008481",
+          "titleExcerpt": "【公式】水戸グリーンカントリークラブ HOME NEWS イベントカレンダー プラン・予約 レストラン 練習場 COURSEの概要 COURSEの歴史 GALLERY アクセス 会員様専用 HOME ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "name": "龍ヶ崎カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.ryugasaki-cc.com/",
+          "contentSha256": "8821ccd6ff52e554eb1e19248c2a1ab2d0fb66f33570d6f461ac1bd06f84bdaf",
+          "titleExcerpt": "龍ヶ崎カントリー倶楽部 龍ヶ崎カントリー倶楽部 navigation 倶楽部について コース 倶楽部ライフ ご利用案内 ドレスコード 交通案内 会員専用 English 倶楽部について コース 倶楽部",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "name": "ワンウェイゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "http://onewaygc.co.jp",
+          "contentSha256": "0d1d1f953f595ec04dcd63c1c722b61c3f9aa684b36fab95ea4a03009e7f33fe",
+          "titleExcerpt": "ONEWAY GOLF CLUB – ワンウェイゴルフクラブ オフィシャル ホームページ ONEWAY GOLF CLUB ONEWAY GOLF CLUB ONEWAY GOLF CLUB ONEW",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://onewaygc.co.jp/facility/",
+          "contentSha256": "22e82f7c0d3500c9ea4401f0094ed190f0a4b810b2b1604624890aa5e8d69965",
+          "titleExcerpt": "FACILITY – ONEWAY GOLF CLUB ONEWAY GOLF CLUB ONEWAY GOLF CLUB VISITOR MEMBER 入会申込へ MENU 新規ユーザー登録 お問い",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://onewaygc.co.jp/facility/",
+          "contentSha256": "22e82f7c0d3500c9ea4401f0094ed190f0a4b810b2b1604624890aa5e8d69965",
+          "titleExcerpt": "FACILITY – ONEWAY GOLF CLUB ONEWAY GOLF CLUB ONEWAY GOLF CLUB VISITOR MEMBER 入会申込へ MENU 新規ユーザー登録 お問い",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "name": "潮来カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.itakocc.jp/",
+          "contentSha256": "5a9d0493a1a732dba84f474ff97c526a4fd4ea08a0068fa41a509374a5055f58",
+          "titleExcerpt": "潮来カントリー倶楽部 潮来カントリー倶楽部 – あやめの名所・潮来に華を添える美コース 平坦の中に変幻チャレンジャーの意欲を掻き立てる27H 潮来カントリー倶楽部 サイトマップ スタッフ募集 会社概要",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.itakocc.jp/guide/",
+          "contentSha256": "b790306f72a7d87509aa21a1647364af79a52b3846041936cdc17d73f043bf4e",
+          "titleExcerpt": "潮来カントリー倶楽部 施設紹介 – 潮来カントリー倶楽部 潮来カントリー倶楽部 サイトマップ スタッフ募集 会社概要 HOME 新着情報 コースガイド ご利用案内 施設紹介 レストラン アクセス お問",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "name": "霞ヶ浦国際ゴルフコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.kasumigaura-kokusai-golf.com/",
+          "contentSha256": "853ab2acf8fbc7a32817264a28c72e675e3367f6a24ed92b241617dee94a7024",
+          "titleExcerpt": "霞ヶ浦国際ゴルフコース　Kasumigaura International Golf Course 霞ヶ浦国際ゴルフコース　Kasumigaura International Golf Course ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.kasumigaura-kokusai-golf.com/facilities",
+          "contentSha256": "be6694e05901e224369f9509b538c9ec69392fea33260bc1a6f6f8138b610b3a",
+          "titleExcerpt": "施設案内..Facilities..設施介紹 — 霞ヶ浦国際ゴルフコース　Kasumigaura International Golf Course 霞ヶ浦国際ゴルフコース　Kasumigaura I",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://asia-shimodate.com/",
+          "contentSha256": "c33a9653237c3b5667b88a1d0e453a768078021ee9e1c7014a2b7d982073fe4a",
+          "titleExcerpt": "﻿ アジア下舘カントリー倶楽部 アジア下舘カントリー倶楽部 TEL:0296-75-3141 FAX:0296-75-2629 オンライン予約 MENU ＨＯＭＥ 最新情報 料金 ご予約 コースガイド",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://asia-shimodate.com/facility.html",
+          "contentSha256": "be5974acab896fdcfea48f90dcb2e2c6ceb02c08bb15c696e7ae170bd9ebfe09",
+          "titleExcerpt": "アジア下舘カントリー倶楽部施設案内 アジア下舘カントリー倶楽部 TEL:0296-75-3141 FAX:0296-75-2629 オンライン予約 MENU ＨＯＭＥ 最新情報 料金 ご予約 コースガ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "name": "アローエースゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.daiwaroyalgolf.jp/arrowace_gc/",
+          "contentSha256": "5084d31d9a2f2f29899a476c0885ba953af29a9383f77ac4b3eb31400f54aaee",
+          "titleExcerpt": "アローエースゴルフクラブ｜公式サイト アローエースゴルフクラブ プレイする愉しみを、もっと身近に。 ダイワロイヤルゴルフ LANGUAGE LANGUAGE 日本語 English 한국어 繁體中文 ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.daiwaroyalgolf.jp/arrowace_gc/facility.html",
+          "contentSha256": "8e888ea1e6d0f9f1d4ce8e9c7c1506432d133fc5cee3c08ee8f21ed849889f32",
+          "titleExcerpt": "施設案内｜アローエースゴルフクラブ ダイワロイヤルゴルフ LANGUAGE LANGUAGE 日本語 English 한국어 繁體中文 简体中文 スタッフ募集 グループコース 北海道 鹿部カントリー倶",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.daiwaroyalgolf.jp/arrowace_gc/images/news/202504_facility-female01.pdf?20251031",
+          "contentSha256": "38ad68555d207af0b1d8544a9f8f8591c637a0f07b9fb8ad25f66922cff06b8e",
+          "titleExcerpt": "%PDF-1.6\r%����\r\n8 0 obj < >\rendobj\r                \r\n30 0 obj < >/Filter/FlateDecode/ID[ < 6F33BE532",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "name": "塩原カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.shiobara-cc.com/",
+          "contentSha256": "ab90b16b873a95f8675eb63601c302b61fcc2fec5a595ea1485d8747a2e9f81f",
+          "titleExcerpt": "【栃木県のゴルフ場】塩原カントリークラブ｜首都圏から好アクセスの自然あふれる那須高原のゴルフコース 栃木県でのゴルフには塩原カントリークラブ 新着情報 コースガイド プレー料金 施設案内 各種パックプ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.shiobara-cc.com/facilities/clubhouse/",
+          "contentSha256": "0e10f269b7106057d6126c8d85876b1ac499aa284752034e0115597c927134dd",
+          "titleExcerpt": "クラブ施設(クラブハウス・売店)のご紹介 新着情報 コースガイド プレー料金 施設案内 各種パックプラン 交通アクセス 会員様向け お問い合わせ お電話でのお問い合わせ （受付時間 8:00〜17:0",
+          "nextReviewLinks": [
+            {
+              "url": "/facilities/bath/",
+              "label": "大浴場・ロッカールーム"
+            },
+            {
+              "url": "/facilities/bath/",
+              "label": "大浴場・ロッカールーム"
+            }
+          ]
+        },
+        {
+          "url": "https://www.shiobara-cc.com/membership/",
+          "contentSha256": "edf4c6bf59f07712e7d6b78594116108ddc1ca83bebfdbf3fbf345c22226545e",
+          "titleExcerpt": "会員様向け｜各種会員・クラブ制度のご案内 塩原カントリークラブの会員・クラブ制度のご案内 新着情報 コースガイド プレー料金 施設案内 各種パックプラン 交通アクセス 会員様向け お問い合わせ お電話",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "name": "東都栃木カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.toto-motors.co.jp/golf/tochigi/",
+          "contentSha256": "ea346fe8515716c18b64ec7a75c733eff06c5c94664e1c107247287d37d67d64",
+          "titleExcerpt": "東都栃木カントリー倶楽部 （ゴルフ場）【栃木県真岡市のゴルフ場】 東都栃木カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 レストラン ご料金 アクセス プレー予約 東都栃木カント",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.toto-motors.co.jp/golf/tochigi/facility.htm",
+          "contentSha256": "8c2a8120f92f3d8c367db7b604528e70529212dd3bc76578678d973c7cf4a5db",
+          "titleExcerpt": "施設紹介｜東都栃木カントリー倶楽部【クラブハウス・ロッカー・レストラン】 東都栃木カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 レストラン ご料金 アクセス プレー予約 施設紹",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "name": "宇都宮ガーデンゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.uggc.jp/",
+          "contentSha256": "4488302d1b5bb6598639e93e8c7570c7fe4ee6701187a5758b7a2862a70b5a6b",
+          "titleExcerpt": "宇都宮ガーデンゴルフクラブ – コース内高低差15m以下のフラットなコースを 乗用カートで楽々プレー English Information 新着情報 営業案内 料金表 オープンコンペ コンペパック ",
+          "nextReviewLinks": [
+            {
+              "url": "https://www.uggc.jp/news/1891/",
+              "label": "2026年2月2日 ロッカーご利用の有料化と浴場利用について"
+            }
+          ]
+        },
+        {
+          "url": "https://www.uggc.jp/restaurant/",
+          "contentSha256": "15bc29c0881c9b8ee5bbe8bd98dcbda8a31c129d1d473addf384280f90ef0c48",
+          "titleExcerpt": "レストラン – 宇都宮ガーデンゴルフクラブ English Information 新着情報 営業案内 料金表 オープンコンペ コンペパック コースからのお願い 予約案内 施設案内 レストラン 各施設",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.uggc.jp/facility/",
+          "contentSha256": "c8c6cfd682efeace398cadeb44f89d0385619e23acdcbc5d44c1ad7139897809",
+          "titleExcerpt": "各施設 – 宇都宮ガーデンゴルフクラブ English Information 新着情報 営業案内 料金表 オープンコンペ コンペパック コースからのお願い 予約案内 施設案内 レストラン 各施設 コ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "name": "思い川ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.omoigawa-gc.com/",
+          "contentSha256": "4975c0a166c88f5cdbdbb05d017f8e2263a8fac206fcd85074536ac7647f0599",
+          "titleExcerpt": "【公式】思い川ゴルフ倶楽部（栃木県鹿沼市） お天気情報 お問い合わせ ホーム HOME クラブハウス FACILITY コース紹介 COURSE プレー料金 PLAY FEE イベント EVENT レ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.omoigawa-gc.com/house.html",
+          "contentSha256": "3680c43df1c969ebe7e02a2e05f56454debe7937e3229e8e5015afedeabeaca5",
+          "titleExcerpt": "【公式】思い川ゴルフ倶楽部（栃木県鹿沼市） お天気情報 お問い合わせ ホーム HOME クラブハウス FACILITY コース紹介 COURSE プレー料金 PLAY FEE イベント EVENT レ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "name": "小山ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.oyamagolf.jp/",
+          "contentSha256": "649fa811d42151fbf2e15e2f0aa0f879da34e6b41e3f6dbe744ce0f3e2d618cb",
+          "titleExcerpt": "小山ゴルフクラブ　公式サイト | 栃木県小山市のゴルフ場 navigation 小山ゴルフクラブ HOME 営業案内 コース案内 レストラン アクセス ヒストリー メンバー専用 無記名法人会員専用 ビ",
+          "nextReviewLinks": [
+            {
+              "url": "images/info/shower_room.pdf?v=002",
+              "label": "仮設シャワールーム設置および利用料金のご案内"
+            }
+          ]
+        },
+        {
+          "url": "https://www.oyamagolf.jp/images/info/clubhouse_renewal_info_v.jpg",
+          "contentSha256": "fa07bbd6d229c2748d07cffa29a1c72412645a560e91b8489ab09cf47d087320",
+          "titleExcerpt": "����\u0000\u0010JFIF\u0000\u0001\u0001\u0001\u0001,\u0001,\u0000\u0000��\u0000�\u0000\b\b\b\b\t\b\t\n\n\t\r\u000e\f\u000e\r\u0013\u0011\u0010\u0010\u0011\u0013\u001c\u0014\u0016\u0014\u0016\u0014\u001c+\u001b\u001f\u001b\u001b\u001f\u001b+&.%#%.&D5//5DNB>BN_UU_wqw���\u0001\b\b\b\b\t\b\t\n\n\t",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.oyamagolf.jp/images/news/kasetsu_house.jpg",
+          "contentSha256": "ee562a1f5d8bf4d9921dd401b29a966dcc8950517d39e1ecde0eaf2fa4023f11",
+          "titleExcerpt": "����\u0000\u0018Exif\u0000\u0000II*\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000��\u0000\u0011Ducky\u0000\u0001\u0000\u0004\u0000\u0000\u0000 < \u0000\u0000��\u0003�http://ns.adobe.com/xap/1.0/\u0000 ��\u0000\u000eAdobe\u0000d�\u0000\u0000\u0000\u0001�",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "name": "鹿沼プレミアゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.kanuma-premier.jp/",
+          "contentSha256": "bffae0f4d77fddcb7dab5c2ab034fe4b20ee0e9468e442b110cb82a51127bad6",
+          "titleExcerpt": "鹿沼プレミアゴルフ倶楽部 公式ホームページ お問合せはこちら 倶楽部概要はこちら トップページ コース紹介 クラブハウス紹介 料金案内 イベント情報 メンバー専用室 交通アクセス お問合せ リニューア",
+          "nextReviewLinks": [
+            {
+              "url": "house.html#loadge",
+              "label": "ロッジ宿泊料金についてはこちら"
+            }
+          ]
+        },
+        {
+          "url": "https://www.kanuma-premier.jp/house.html",
+          "contentSha256": "2bee5f06352727fef15f1b013a3300e3c58cddb4da3f2e9c27c0b5ebd99d8b14",
+          "titleExcerpt": "鹿沼プレミアゴルフ倶楽部 公式ホームページ お問合せはこちら 倶楽部概要はこちら トップページ コース紹介 クラブハウス紹介 料金案内 イベント情報 メンバー専用室 交通アクセス オンライン予約 レス",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.kanuma-premier.jp/house.html#loadge",
+          "contentSha256": "2bee5f06352727fef15f1b013a3300e3c58cddb4da3f2e9c27c0b5ebd99d8b14",
+          "titleExcerpt": "鹿沼プレミアゴルフ倶楽部 公式ホームページ お問合せはこちら 倶楽部概要はこちら トップページ コース紹介 クラブハウス紹介 料金案内 イベント情報 メンバー専用室 交通アクセス オンライン予約 レス",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "name": "足利城ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.ashikagajo.jp/",
+          "fetchError": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "name": "栃木ノースヒルズゴルフコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.northhills.jp/",
+          "contentSha256": "9527f73a8feac2dafe6f8d1bd950d23be446769380f67dad161518a0ada94a60",
+          "titleExcerpt": "TOCHIGI North Hills Golf Course 公式サイト | 栃木ノースヒルズゴルフコース TOCHIGI North Hills Golf Course Course コース Pl",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.northhills.jp/facility.html",
+          "contentSha256": "e580917fdbb4603ece98280279098bdb3a9e722663ee6a95d89a1d5247c8e2e9",
+          "titleExcerpt": "施設案内 | TOCHIGI North Hills Golf Course TOCHIGI North Hills Golf Course Course コース Play Fee 料金 Facili",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "name": "トムソンカントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://thomson-cc.com/",
+          "fetchError": "HTTP Error 503: Service Unavailable"
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "name": "桃里カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.touricc.com/",
+          "contentSha256": "f33ae0073378390418bbfa265ae8055e7af0233b83d2e8834c1cabe07a19b480",
+          "titleExcerpt": "桃里カントリー倶楽部【公式ホームページ】 - HOME &#26691;&#37324;&#12459;&#12531;&#12488;&#12522;&#12540;&#20534;&#27005;",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.touricc.com/clubhouse.html",
+          "contentSha256": "11a39cc9411ddf6aa2132f2b48f8dbfb25e95b5db5e725e3e67eadc1450ea466",
+          "titleExcerpt": "施設紹介 - 桃里カントリー倶楽部【公式ホームページ】 &#26691;&#37324;&#12459;&#12531;&#12488;&#12522;&#12540;&#20534;&#27005;",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "name": "東ノ宮カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://banryugolf.com/higashinomiya/",
+          "contentSha256": "4659a5eb022619094ae40cb2f84e487577dc75e8bd174cd9382df0554778ac7c",
+          "titleExcerpt": "東ノ宮カントリークラブ公式Webサイト｜栃木県芳賀郡茂木町 ▲ 北関東道/友部ICより23km TEL. 0285-63-1166 受付時間/07:30～17:00 FAX. 0285-63-1169",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://banryugolf.com/higashinomiya/facility/index.html",
+          "contentSha256": "bd8df7b096c5e79c10689ad38c5ed998d7b1d9ce5911c3a50a337c9aec5c0cd3",
+          "titleExcerpt": "施設案内│東ノ宮カントリークラブ ▲ 北関東道/友部ICより23km TEL. 0285-63-1166 受付時間/07:30～17:00 FAX. 0285-63-1169 email : info",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.ashikaga-cc.com/",
+          "contentSha256": "0731b443c7c0a6b353684e99e2a9ac88d7e07c8f965f4222a45ade12561be08b",
+          "titleExcerpt": "足利カントリークラブ Information ご案内 Course コース紹介 Schedule スケジュール Members 会員様 Restaurant レストラン Group Course グル",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.ashikaga-cc.com/",
+          "contentSha256": "0731b443c7c0a6b353684e99e2a9ac88d7e07c8f965f4222a45ade12561be08b",
+          "titleExcerpt": "足利カントリークラブ Information ご案内 Course コース紹介 Schedule スケジュール Members 会員様 Restaurant レストラン Group Course グル",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "name": "太平洋クラブ 益子PGAコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/mashiko/",
+          "contentSha256": "801ea81e99dc41d93b62f672dc48bbf1e2b288d2103ba7988580594a5d597828",
+          "titleExcerpt": "コース紹介｜太平洋クラブ Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global Site 会員専用ログイン 新規会員登録/コー",
+          "nextReviewLinks": [
+            {
+              "url": "topics/lrhh7f0000007juy.html",
+              "label": "渋滞回避Map｜電車アクセス・ホテルのご案内 2026.10.21 常磐道経由・東北道経由よりもお得に。国道294号線・国道新4号線は、ほぼ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "name": "太平洋クラブ 佐野ヒルクレストコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/",
+          "contentSha256": "9fe95ed8b53981b05f28ce16fea68bde30afcec6190a1eeaf714bfa0e22e8301",
+          "titleExcerpt": "太平洋クラブ｜佐野ヒルクレストコース Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global Site 会員専用ログイン 新規会",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "name": "イーストウッドカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.eastwoodcc.jp/",
+          "contentSha256": "8e0c5f1202abfd654108d0fce0f1f29074336658a0e2aaab3fa3af252b25bae7",
+          "titleExcerpt": "イーストウッドカントリークラブ｜栃木県宇都宮市のゴルフ場｜公式サイト | イーストウッドカントリークラブは、東北自動車道上河内SAスマートICから4分とアクセス至便な栃木県宇都宮市のゴルフ場です。飯田",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.eastwoodcc.jp/facilities/",
+          "contentSha256": "50d05b3342f1434073ecb2b095ba2273c79de5e37942bfb99fb43150b3dce833",
+          "titleExcerpt": "施設  |  イーストウッドカントリークラブ Top Concept Tournament Course Restaurant Facilities Playfee Friends Club Phot",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.eastwoodcc.jp/facilities/",
+          "contentSha256": "50d05b3342f1434073ecb2b095ba2273c79de5e37942bfb99fb43150b3dce833",
+          "titleExcerpt": "施設  |  イーストウッドカントリークラブ Top Concept Tournament Course Restaurant Facilities Playfee Friends Club Phot",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "name": "JGM宇都宮ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.jgmgroup.co.jp/utsunomiya/",
+          "fetchError": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "name": "ラインヒルゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.linehill2026.com/",
+          "fetchError": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "name": "城山カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://shiroyama.chateraisegolf.jp/",
+          "contentSha256": "dd725d40c42ca423a06b2369cb53f8bd2e0efb4fa7d750c74008be52779801f7",
+          "titleExcerpt": "城山カントリー倶楽部 城山カントリー倶楽部 城山カントリー倶楽部 メンバー様ご予約 MEMBER ビジター様ご予約 VISITOR コースマップ コースマップ ご予約 ご予約 閉じる お問い合わせ お",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://shiroyama.chateraisegolf.jp/facilities/",
+          "contentSha256": "604461d22a426694debc157fb990beac028b7b4b9af75d382f9de6731f2d5730",
+          "titleExcerpt": "施設案内｜城山カントリー倶楽部 城山カントリー倶楽部 メンバー様ご予約 MEMBER ビジター様ご予約 VISITOR コースマップ コースマップ ご予約 ご予約 閉じる お問い合わせ お問い合わせ ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "name": "希望丘カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://014kibougaokacc.sakura.ne.jp/",
+          "contentSha256": "c98920f36c2ec25229c5b66bb3c2d4b402ea01b09b570266a5d80a5c2f53e5d0",
+          "titleExcerpt": "希望丘カントリークラブ 公式サイト │栃木県芳賀郡のゴルフ場 WEB予約 お電話でのご予約・お問い合わせ ☎ 0285-65-0776 → TOP → コース紹介 → プレー料金 → イベント → 施",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://014kibougaokacc.sakura.ne.jp/house.html",
+          "contentSha256": "ea78b33e972fede3145a114773eb7864aecddbc8e2e753388ed29ce2ba7ca67b",
+          "titleExcerpt": "希望丘カントリークラブ 公式サイト │栃木県芳賀郡のゴルフ場 WEB予約 お電話でのご予約・お問い合わせ ☎ 0285-65-0776 → TOP → コース紹介 → プレー料金 → イベント → 施",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "name": "足利渡良瀬ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "http://ashikaga-watarase-golf.jp/",
+          "contentSha256": "a97cf2f7ca7c9c801cf906c2eca474b4c2be1255aad1fca159151fa537fe3ee4",
+          "titleExcerpt": "足利渡良瀬ゴルフ場 公式サイト ｜ 栃木県足利市のゴルフ場 toggle navigation HOME ホーム COURSE コース案内 FEE 料金案内 RESTAURANT レストラン COMP",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "name": "久邇カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.princehotels.co.jp/golf/kuni/",
+          "contentSha256": "59810b2a9441cbdca696cdd6d2ea8818e5d28a97dd986660f45c10069dd05654",
+          "titleExcerpt": "公式サイト  | 久邇カントリークラブ MENU 西武プリンスホテルズ&リゾーツ MENU 西武プリンスホテルズ&リゾーツ MENU 西武プリンスホテルズ&リゾーツ HOME ホテル一覧 特集･イベン",
+          "nextReviewLinks": [
+            {
+              "url": "/",
+              "label": "西武プリンスホテルズ&リゾーツ HOME"
+            },
+            {
+              "url": "https://www.seibuprince.com/ja/find-a-hotel",
+              "label": "ホテル一覧"
+            },
+            {
+              "url": "https://www.seibuprince.com/ja/brands",
+              "label": "プリンスホテルブランドについて"
+            },
+            {
+              "url": "/file.jsp?id=526783",
+              "label": "浴室工事の実施について"
+            },
+            {
+              "url": "/golf/kuni/informations/press_20220324",
+              "label": "サステナブルなホテルチェーンを目指しプラスチックごみ削減を推進します"
+            }
+          ]
+        },
+        {
+          "url": "https://www.princehotels.co.jp/golf/kuni/facility/",
+          "contentSha256": "60ade10de7d9b015e01d05fe1b4431c41316bee3876acca52b84a9d9ab8e6d4d",
+          "titleExcerpt": "施設・レストラン案内  | 久邇カントリークラブ MENU 西武プリンスホテルズ&リゾーツ MENU 西武プリンスホテルズ&リゾーツ MENU 西武プリンスホテルズ&リゾーツ HOME ホテル一覧 特",
+          "nextReviewLinks": [
+            {
+              "url": "/",
+              "label": "西武プリンスホテルズ&リゾーツ HOME"
+            },
+            {
+              "url": "https://www.seibuprince.com/ja/find-a-hotel",
+              "label": "ホテル一覧"
+            },
+            {
+              "url": "https://www.seibuprince.com/ja/brands",
+              "label": "プリンスホテルブランドについて"
+            },
+            {
+              "url": "https://www.princehotels.co.jp/kawagoe/",
+              "label": "川越プリンスホテル"
+            },
+            {
+              "url": "http://hanno-heritagehotel.com/",
+              "label": "ホテル・ヘリテイジ飯能"
+            },
+            {
+              "url": "http://www.hanno-dh.com/",
+              "label": "飯能第一ホテル"
+            },
+            {
+              "url": "https://www.marroad.jp/hanno/index.htm",
+              "label": "マロウドイン飯能（シティホテル）"
+            }
+          ]
+        },
+        {
+          "url": "https://www.princehotels.co.jp/file.jsp?id=526783",
+          "contentSha256": "dd4f6c8519ac6ca04b595fbf17a15d2a41ed2fd4fe36004d68065a65cf213b4b",
+          "titleExcerpt": "%PDF-1.7\n\n4 0 obj < < /Filter /FlateDecode\n/Length 74315\n>>\nstream\nx�t�I��H\u0010\\��S�\u0005����\u0018�\f\u0014!��^��_|}j",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "石坂ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.ishizaka-gc.com/",
+          "contentSha256": "3be27844c4af902ab755d622d385e7796cdd4f25435e72d9e356dee817e7a623",
+          "titleExcerpt": "石坂ゴルフ倶楽部 049-296-2525 天気予報 コンテンツへ移動 石坂ゴルフ倶楽部 新着情報 news 営業案内 information 予約案内 料金案内 コンペ案内 コースからのお願い コー",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/facility/",
+          "contentSha256": "9bd0a68db4e1de39d40f40737bd1574c68d9b3c6c80bbb925584937c5ee90c6a",
+          "titleExcerpt": "各施設 – 石坂ゴルフ倶楽部 049-296-2525 天気予報 コンテンツへ移動 石坂ゴルフ倶楽部 新着情報 news 営業案内 information 予約案内 料金案内 コンペ案内 コースからの",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "name": "川越カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://kawagoecc.com/",
+          "contentSha256": "9da3cc491a98a33d1d9631c49b409f7536a26c3038960d8c29fa31c0ce43023e",
+          "titleExcerpt": "川越カントリークラブ 川越カントリークラブ お問合せ お天気情報 美しい武蔵野の自然に包まれた雄大な伝統コース メンバー専用ページ 営業のご案内 クラブ概要 イベントのご案内 料金 新着情報 2026",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kawagoecc.com/facility/",
+          "contentSha256": "7e45982bcf424fd6ba4191c8a9b744eecea6866bd027c32640461ed589270550",
+          "titleExcerpt": "川越カントリークラブ | 施設案内 川越カントリークラブ サイドメニュー・メンバー サイドメニュー・クラブ概要 サイドメニュー・イベントのご案内 サイドメニュー・料金 サイドメニュー・コースガイド サ",
+          "nextReviewLinks": [
+            {
+              "url": "https://kawagoecc.com/facility/hotel/",
+              "label": "・近隣ホテル"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "name": "熊谷ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://kumagaya-gc.com/",
+          "contentSha256": "81daa992b819a2bd4640c9f61659e8c552fc409afe2cb0991e558d54107fc584",
+          "titleExcerpt": "熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ Tel. 048-521-5411 お問い合わせ アクセス クラブバス運行表 Web 予約 コース cours",
+          "nextReviewLinks": [
+            {
+              "url": "https://kumagaya-gc.com/%e6%b5%b4%e5%ae%a4%e7%94%a8%e3%83%93%e3%83%8b%e3%83%bc%e3%83%ab%e8%a2%8b%e9%85%8d%e5%b8%83%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+              "label": "浴室用ビニール袋配布終了について"
+            }
+          ]
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/",
+          "contentSha256": "091b8afa38ed85d00abfabb8f73c7b485b0c6a13b0b2a4ae5cc316acac0da1b1",
+          "titleExcerpt": "施設案内｜熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ Tel. 048-521-5411 お問い合わせ アクセス クラブバス運行表 Web 予約 コース ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kumagaya-gc.com/facility/#p07box02",
+          "contentSha256": "091b8afa38ed85d00abfabb8f73c7b485b0c6a13b0b2a4ae5cc316acac0da1b1",
+          "titleExcerpt": "施設案内｜熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ 熊谷ゴルフクラブ Tel. 048-521-5411 お問い合わせ アクセス クラブバス運行表 Web 予約 コース ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "name": "高根カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://takane-cc.co.jp/",
+          "contentSha256": "c0c4e396b43c209840b54347da6020e1f61dcbe6c7a334a6d6cd8511a85b5b98",
+          "titleExcerpt": "高根カントリー倶楽部 コンテンツへ移動 高根カントリー倶楽部 高根カントリー倶楽部 新着情報 news ご利用案内 guide 営業案内 ご利用の皆様へ ラウンドレッスン コースガイド course ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://takane-cc.co.jp/restaurant/",
+          "contentSha256": "880d0040e40e4f5762e8f73ffe464f8e080e765c0ac0f7e1324cf24953c0bd69",
+          "titleExcerpt": "レストラン – 高根カントリー倶楽部 コンテンツへ移動 高根カントリー倶楽部 高根カントリー倶楽部 新着情報 news ご利用案内 guide 営業案内 ご利用の皆様へ ラウンドレッスン コースガイド",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://takane-cc.co.jp/facility/",
+          "contentSha256": "28cc18039539ba7807f3b6da733f462e7cc8212b03dae8b9658ce0d05967a9c7",
+          "titleExcerpt": "施設案内 – 高根カントリー倶楽部 コンテンツへ移動 高根カントリー倶楽部 高根カントリー倶楽部 新着情報 news ご利用案内 guide 営業案内 ご利用の皆様へ ラウンドレッスン コースガイド ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "name": "日高カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.hidaka-cc.jp/",
+          "contentSha256": "19922d32d925cba32c370ca36c0141ad4ab641e658772abf5b3e5434e809a179",
+          "titleExcerpt": "日高カントリークラブ – 開業から60年の時を経て結実した国内屈指の名門コース 日高カントリー倶楽部 電話番号 ホーム コースガイド ご利用案内 施設紹介 会員専用ページ ドレスコード アクセス ホー",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.hidaka-cc.jp/facility/restaurant/",
+          "contentSha256": "912bef17f2f1328cf712394a71d3d78f0d99dc617e6d1abc6c977343b9d90591",
+          "titleExcerpt": "レストラン – 日高カントリークラブ 日高カントリー倶楽部 電話番号 ホーム コースガイド ご利用案内 施設紹介 会員専用ページ ドレスコード アクセス ホーム コースガイド ご利用案内 クラブハウス",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "name": "長瀞カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.kanbun-group.co.jp/ncc/",
+          "fetchError": "HTTP Error 503: Service Unavailable"
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "name": "オリムピックナショナルゴルフクラブ EAST",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.olympicnational.co.jp/east/",
+          "contentSha256": "61834f37954c17efb0610d0a23d44d3fb26667a23c4ea21dd4dd8167e1bc2a0e",
+          "titleExcerpt": "オリムピックナショナルゴルフクラブEAST｜公式サイト（埼玉県のゴルフ場） 埼玉県のゴルフ場　オリムピックナショナルゴルフクラブEAST（旧エーデルワイスゴルフクラブ）の公式サイト 総合TOP EAS",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.olympicnational.co.jp/east/facility.html",
+          "contentSha256": "056ae77b4e58e7dabac110e23e2d7d18fe701f4db9306ddd562a357c6866479c",
+          "titleExcerpt": "オリムピックナショナルゴルフクラブEAST｜施設案内（埼玉県のゴルフ場） 埼玉県のゴルフ場　オリムピックナショナルゴルフクラブEAST（旧エーデルワイスゴルフクラブ）の公式サイト EASTコース（旧エ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "name": "児玉カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.kodama-cc.jp/",
+          "fetchError": "HTTP Error 503: Service Unavailable"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "name": "ザ ナショナルカントリー倶楽部 埼玉",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://national-cc.jp/saitama/",
+          "contentSha256": "4dfe9275625d216af41eb5e84b3473693df9d2c3ec33001178faefb24c508b0a",
+          "titleExcerpt": "ザ ナショナルカントリー倶楽部 埼玉 ザ ナショナルカントリー倶楽部 埼玉 当サイトでのご予約が最もお得 WEBからのご予約はこちら (ビジター) プライバシーポリシー サイトマップ 0494-62-",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://national-cc.jp/saitama/facility/",
+          "contentSha256": "57efc1caee375f98dfd9e6ee05c1f73dca36aecf24ac7b330de2bcd21f7e1d82",
+          "titleExcerpt": "施設案内 ｜ ザ ナショナルカントリー倶楽部 埼玉 ザ ナショナルカントリー倶楽部 埼玉 当サイトでのご予約が最もお得 WEBからのご予約はこちら (ビジター) プライバシーポリシー サイトマップ 0",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "name": "飯能ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.hannogc.co.jp/",
+          "contentSha256": "5cdbe9204894db861cc9e3c8f1b7d720327e0f0859191ff10f728db0e30ff1d0",
+          "titleExcerpt": "飯能ゴルフクラブ 飯能ゴルフクラブ 天気予報 English 天気予報 English MENU クラブ紹介 ご利用案内 コース紹介 施設紹介 アクセス 会員サイト 2027年度日本女子シニアオープン",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.hannogc.co.jp/restaurant.html",
+          "contentSha256": "50fb02ac16b3f06709af418ae8aaf7f47f3ee7803568573ae568193d898ef355",
+          "titleExcerpt": "レストラン｜飯能ゴルフクラブ 飯能ゴルフクラブ 天気予報 English 天気予報 English MENU クラブ紹介 ご利用案内 コース紹介 施設紹介 アクセス 会員サイト 飯能ゴルフクラブ > ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "name": "平成倶楽部 鉢形城コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.yc21.co.jp/heisei/",
+          "contentSha256": "9d260eea58da611452c46d4ce85eab631b3e1e0d3456aed1bcec5817f052562f",
+          "titleExcerpt": "平成倶楽部 埼玉県大里郡にあるゴルフ場 Access アクセス Restaurant レストラン House 施設 Event イベント Course コース紹介 Play Fee プレー料金 Mem",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/house.html",
+          "contentSha256": "b2786521a4801f216057de5332a4b898f33b812de76e395366557d5a1326936e",
+          "titleExcerpt": "施設｜平成倶楽部 埼玉県大里郡にあるゴルフ場 Access アクセス Restaurant レストラン House 施設 Event イベント Course コース紹介 Play Fee プレー料金 ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "name": "武蔵カントリークラブ 笹井コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.musashi-cc.co.jp/",
+          "contentSha256": "3bb2cd6932dc47a20a1e7ffeeebc04d6220e129a51bf82d0097f6370a0b986ec",
+          "titleExcerpt": "武蔵カントリークラブ 武蔵カントリークラブ  MUSASHI COUNTRY CLUB ENGLISH MUSASHI CLUB LIFE COURSES GUIDE NEWS MEMBER 武蔵カン",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/courses/toyooka_clubhouse/",
+          "contentSha256": "3ec3918f68cdf125abb306be8b433a22ad9d1fd09e3e36a6553632b3d39ebc43",
+          "titleExcerpt": "豊岡コース クラブハウス | 武蔵カントリークラブ 武蔵カントリークラブ  MUSASHI COUNTRY CLUB ENGLISH MUSASHI CLUB LIFE COURSES GUIDE N",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/courses/sasai_clubhouse/",
+          "contentSha256": "e574f5b87dfc81074d8befe7522d941dd8cef065d16d4fdd1eede02b75471e6b",
+          "titleExcerpt": "笹井コース クラブハウス | 武蔵カントリークラブ 武蔵カントリークラブ  MUSASHI COUNTRY CLUB ENGLISH MUSASHI CLUB LIFE COURSES GUIDE N",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "name": "武蔵カントリークラブ 豊岡コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.musashi-cc.co.jp/",
+          "contentSha256": "3bb2cd6932dc47a20a1e7ffeeebc04d6220e129a51bf82d0097f6370a0b986ec",
+          "titleExcerpt": "武蔵カントリークラブ 武蔵カントリークラブ  MUSASHI COUNTRY CLUB ENGLISH MUSASHI CLUB LIFE COURSES GUIDE NEWS MEMBER 武蔵カン",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/courses/toyooka_clubhouse/",
+          "contentSha256": "3ec3918f68cdf125abb306be8b433a22ad9d1fd09e3e36a6553632b3d39ebc43",
+          "titleExcerpt": "豊岡コース クラブハウス | 武蔵カントリークラブ 武蔵カントリークラブ  MUSASHI COUNTRY CLUB ENGLISH MUSASHI CLUB LIFE COURSES GUIDE N",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/courses/sasai_clubhouse/",
+          "contentSha256": "e574f5b87dfc81074d8befe7522d941dd8cef065d16d4fdd1eede02b75471e6b",
+          "titleExcerpt": "笹井コース クラブハウス | 武蔵カントリークラブ 武蔵カントリークラブ  MUSASHI COUNTRY CLUB ENGLISH MUSASHI CLUB LIFE COURSES GUIDE N",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "東都秩父カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.toto-motors.co.jp/golf/chichibu/",
+          "contentSha256": "9fa5e22bbbcfe92893285c0800a51a9ecc597e2e11841797572f6d948289b018",
+          "titleExcerpt": "東都秩父カントリー倶楽部 （ゴルフ場）【埼玉県秩父市のゴルフ場】 東都秩父カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 ご料金 アクセス プレー予約 東都秩父カントリー倶楽部 ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.toto-motors.co.jp/golf/chichibu/facility.htm",
+          "contentSha256": "9949feef61bc0ea01d5ea25eec873de5cc423b09214b4a94212e7ac748e23ef3",
+          "titleExcerpt": "施設紹介｜東都秩父カントリー倶楽部【埼玉県秩父市のゴルフ場】 東都秩父カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 ご料金 アクセス プレー予約 施設紹介 Facility 東",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "name": "東都飯能カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.toto-motors.co.jp/golf/hanno/",
+          "contentSha256": "4e14ad56f99cf77fe31c00fbb78633728796e995660da82346b65daeb6d3715c",
+          "titleExcerpt": "東都飯能カントリー倶楽部 （ゴルフ場）【埼玉県飯能市のゴルフ場】 東都飯能カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 レストラン ご料金 アクセス プレー予約 東都飯能カント",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.toto-motors.co.jp/golf/hanno/facility.htm",
+          "contentSha256": "84ff0cdd674d822ede802e5834a56584f96216a2e835cafc1efc8a3927112da8",
+          "titleExcerpt": "施設紹介｜東都飯能カントリー倶楽部【埼玉県飯能市のゴルフ場】 東都飯能カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 レストラン ご料金 アクセス プレー予約 施設紹介 Faci",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "name": "グリーンパークカントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://greenparkcc.com/",
+          "contentSha256": "6f000eece9af0386987b5c59c69b15436329a6565f339621fa9b40006c988b4f",
+          "titleExcerpt": "グリーンパークカントリークラブ【公式】｜群馬県藤岡市。27ホールの戦略的コース 予約専用TEL： 027-387-8833 お天気 アクセス コースガイド Course ご利用料金 Play Fee ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://greenparkcc.com/facility.html",
+          "contentSha256": "48d64a6ba3cfbed8ccc039a0788c0fb8030e8f605a4c8c0b922ff7e5118cce28",
+          "titleExcerpt": "施設案内 グリーンパークカントリークラブ【公式】｜群馬県藤岡市。27ホールの戦略的コース 予約専用TEL： 027-387-8833 お天気 アクセス コースガイド Course ご利用料金 Play",
+          "nextReviewLinks": [
+            {
+              "url": "hotel.html",
+              "label": "ホテル"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "fetchError": "HTTP Error 503: Service Unavailable"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "玉村ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.tamamura-golf.jp/",
+          "contentSha256": "9823070ed0b48eb7c3c96e12bbc550d199788bb207757f88ad6c91c64f0dbe6a",
+          "titleExcerpt": "玉村ゴルフ場 玉村ゴルフ場 アンケート サイトマップ ご予約は　電話番号：0270-65-7279 オンライン予約 ホーム ニュース＆トピックス コースガイド レストラン 予約状況 アクセスマップ 2",
+          "nextReviewLinks": [
+            {
+              "url": "https://www.tamamura-golf.jp/topics/2026/000256.html",
+              "label": "浴槽のご利用について"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tamamura-golf.jp/topics/2026/000256.html",
+          "contentSha256": "4186ec1d3367cf7b875906a860510de5cab2ee3ab774329f1e9184ff0d567618",
+          "titleExcerpt": "玉村ゴルフ場｜ニュース＆トピックス 玉村ゴルフ場 アンケート サイトマップ ご予約は　電話番号：0270-65-7279 オンライン予約 ホーム ニュース＆トピックス コースガイド レストラン 予約状",
+          "nextReviewLinks": [
+            {
+              "url": "https://www.tamamura-golf.jp/topics/2026/000256.html",
+              "label": "浴槽のご利用について"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "板倉ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/",
+          "contentSha256": "ab2135a29137a1bba436255c06651a0a9525650ca8b4cdb0960db0089d004bca",
+          "titleExcerpt": "板倉ゴルフ場｜東急ゴルフリゾート 公式ウェブサイト PAGE TOP TOKYU GOLF RESORT TEL： 0276-82-3781 FAX：0276-82-2309 MAIL： ※JavaS",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/itakura/facility/",
+          "contentSha256": "a332d5778a533dfd0ede8476bf61b3529ec9a1446140a7d3ca9ff35ec77d4ae2",
+          "titleExcerpt": "施設案内｜板倉ゴルフ場｜東急ゴルフリゾート 公式ウェブサイト PAGE TOP TOKYU GOLF RESORT TEL： 0276-82-3781 FAX：0276-82-2309 MAIL： ※",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "fetchError": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "name": "梅ノ郷ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.umenosato.co.jp/",
+          "contentSha256": "ca22ca59b3449679e9758ada393301bd7ae50f29298fbba26497dfb6a5590322",
+          "titleExcerpt": "梅ノ郷ゴルフ倶楽部｜公式サイト 梅ノ郷ゴルフ倶楽部/群馬県安中市の美しい景観に恵まれた戦略性に富むリーズナブルなゴルフ場 年間を通してリーズナブルな料金が魅力的。毎月開催のオープンコンペも人気 梅ノ郷",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://umenosato.co.jp/clubhouse.htm",
+          "contentSha256": "83d2134a528f758683f31b299d6e8784f8e38ca07e4efb41fc5cb7d350f32c1a",
+          "titleExcerpt": "梅ノ郷ゴルフ倶楽部｜クラブハウス トップページ > クラブハウス 小さな写真をクリックすると、大きい写真が表示されます。 【ビニール袋 提供終了について】 2026年5月11日以降より脱衣室での「ビニ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://umenosato.co.jp/clubhouse.htm#dresscode",
+          "contentSha256": "83d2134a528f758683f31b299d6e8784f8e38ca07e4efb41fc5cb7d350f32c1a",
+          "titleExcerpt": "梅ノ郷ゴルフ倶楽部｜クラブハウス トップページ > クラブハウス 小さな写真をクリックすると、大きい写真が表示されます。 【ビニール袋 提供終了について】 2026年5月11日以降より脱衣室での「ビニ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "name": "大間々ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.omama-gc.com/",
+          "contentSha256": "efa9fb03f6d7d3c177f3847de7eb55a0ce08cb89655c9d3abcc36fd6091cd4a8",
+          "titleExcerpt": "大間々ゴルフクラブ｜公式サイト 大間々ゴルフクラブ・群馬県(旧：大間々カントリー倶楽部) 群馬県の雄大な景色の中で充実したゴルフライフを 大間々ゴルフクラブ公式サイトからの予約がお得!! 2026/1",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "name": "霞山カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://www.kazancc.jp/",
+          "contentSha256": "4755298a36b1edc5f158c4c6992d93a0ab625035475ae1c8e6ecd0f7d6a62731",
+          "titleExcerpt": "霞山カントリー倶楽部 公式ホームページ お天気情報 お問い合わせ 温泉に近いゴルフ場・霞山カントリー倶楽部 ホーム HOME クラブハウス FACILITY コース紹介 COURSE プレー料金 PL",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.kazancc.jp/house.html",
+          "contentSha256": "fcbb606cae7d5a487a00d27754d399f9625f16b794f1962cd70afd4030800120",
+          "titleExcerpt": "霞山カントリー倶楽部 公式ホームページ お天気情報 お問い合わせ 温泉に近いゴルフ場・霞山カントリー倶楽部 ホーム HOME クラブハウス FACILITY コース紹介 COURSE プレー料金 PL",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.kazancc.jp/images/house/renewal_men_locker_room.jpg",
+          "contentSha256": "d1e639082042562919fa1723be074a581abdaa4f5a04ca7d1911b23e48dfc75e",
+          "titleExcerpt": "����\u0000dExif\u0000\u0000II*\u0000\b\u0000\u0000\u0000\u0001\u0000��\u0002\u0000@\u0000\u0000\u0000\u001a\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "上武カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://jobu.cc/",
+          "contentSha256": "ac388036eebe8ff46fa198a71c3aa1e59a7e6e5ca5b6d0d4d1178d143e5c7254",
+          "titleExcerpt": "上武カントリークラブ【公式ホームページ】| 埼玉・群馬でゴルフ場をお探しなら上武カントリークラブ 埼玉・群馬でゴルフするなら上武カントリークラブ 埼玉・群馬でゴルフするなら上武カントリークラブ 上武カ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://jobu.cc/house.html",
+          "contentSha256": "7437da49c5029cceb4fedb8ec176d8a65fb86ea892f8e385afcdbcf66ec96adf",
+          "titleExcerpt": "施設案内 | 埼玉・群馬でゴルフ場をお探しなら上武カントリークラブ 埼玉・群馬でゴルフするなら上武カントリークラブ 埼玉・群馬でゴルフするなら上武カントリークラブ 上武カントリークラブお電話でのご予約",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "name": "太平洋クラブ 高崎コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/",
+          "contentSha256": "3ee57a3727315179765d923ce77058f18f463640ed19486d5c4004bf33ffeb9f",
+          "titleExcerpt": "コース紹介｜太平洋クラブ Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global Site 会員専用ログイン 新規会員登録/コー",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "name": "東京カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.tokyo-cc.jp/",
+          "contentSha256": "ae3f285c0e8f844e521e286285be63b2e48eda162af36e7850e72c6654cba360",
+          "titleExcerpt": "東京カントリー倶楽部 公式ホームページ 0463-81-5111（代表） 0463-81-5113（予約専用） info@tokyo-cc.jp Logo Image Logo Fixed Image",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.tokyo-cc.jp/clubhouse/",
+          "contentSha256": "c6d00b0b61f7b56acc2710b1c6950796d4af4e46d1b7db9df784af084c55af2e",
+          "titleExcerpt": "クラブハウス | 東京カントリー倶楽部 公式ホームページ 0463-81-5111（代表） 0463-81-5113（予約専用） info@tokyo-cc.jp Logo Image Logo Fi",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "相模野カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://sagamino-cc.jp/",
+          "contentSha256": "bd628d5e32367b3d1ba7e816725d7062aa3d8e080a75128c0cccc3bebf6d43c0",
+          "titleExcerpt": "相模野カントリー倶楽部-公式HP-|相模野カントリー倶楽部-公式HP- さあ、相模野でゴルフをはじめよう。 ホーム コース 愛川コース 相模コース 城山コース ご利用案内 料金表 カレンダー 予約キャ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://sagamino-cc.jp/club-house.html",
+          "contentSha256": "196b292e529bb24d650d8234cd999fd59e7f432f08f5612ee122c6563a8dd907",
+          "titleExcerpt": "クラブハウス|相模野カントリー倶楽部-公式HP- さあ、相模野でゴルフをはじめよう。 ホーム コース 愛川コース 相模コース 城山コース ご利用案内 料金表 会員様専用 カレンダー レストラン アクセ",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "name": "武蔵野ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://musashinogolf.com/",
+          "contentSha256": "40cda5a2bc319a6382a516fcf1377318cfd6b82f5ef7477bf7e57dc609ce0a88",
+          "titleExcerpt": "武蔵野ゴルフクラブ 武蔵野カントリークラブ お問合せ お天気情報 都内屈指のメンバーシップコース　愛されつづける歴史が此処にある メンバー専用ページ クラブ概要 施設案内 コースガイド 営業のご案内 ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://musashinogolf.com/facility/",
+          "contentSha256": "5e91427a0d5fa22f4b8bd4c224dfdddfb7aaa37f25ab77065ea2b38d8aaeed54",
+          "titleExcerpt": "武蔵野ゴルフクラブ | 施設案内 武蔵野ゴルフクラブ HOMEアイコン メールアイコン サイドメニュー・メンバー サイドメニュー・クラブ概要 サイドメニュー・施設案内 サイドメニュー・コースガイド サ",
+          "nextReviewLinks": [
+            {
+              "url": "https://musashinogolf.com/hotel/",
+              "label": "・推奨ホテル"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "name": "鎌倉パブリックゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "content_verified_in_batch_p",
+      "resources": [
+        {
+          "url": "https://kamakura-pg.com/",
+          "contentSha256": "20ee7d563c41fd111ede38f8d800f3224097d535a2df00b4cd3cd9b5c2b3c9b6",
+          "titleExcerpt": "鎌倉パブリックゴルフ KAMAKURA PUBLIC GOLF ONLINE RESERVE オンライン予約 KAMAKURA PUBLIC GOLF Instagram Facebook CLUB ",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://kamakura-pg.com/facility/",
+          "contentSha256": "ceb9b8067fc0c1139f98c5a12ef76262a1271207a1babc8395617cee703d2df4",
+          "titleExcerpt": "施設 - 鎌倉パブリックゴルフ KAMAKURA PUBLIC GOLF ONLINE RESERVE オンライン予約 KAMAKURA PUBLIC GOLF Instagram Facebook ",
+          "nextReviewLinks": [
+            {
+              "url": "#facility07",
+              "label": "大浴場"
+            }
+          ]
+        },
+        {
+          "url": "https://kamakura-pg.com/facility/restaurant/",
+          "contentSha256": "1877d514623c1b376ecb3acc149c6a0d3e1bc13c08e6bcb3dbb0257d389a16ce",
+          "titleExcerpt": "レストラン - 鎌倉パブリックゴルフ KAMAKURA PUBLIC GOLF ONLINE RESERVE オンライン予約 KAMAKURA PUBLIC GOLF Instagram Facebo",
+          "nextReviewLinks": []
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "name": "川崎国際生田緑地ゴルフ場",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "fetched_pending_content_review",
+      "resources": [
+        {
+          "url": "https://www.tokyu-golf-resort.com/kawasaki/",
+          "contentSha256": "ffe2ad3e45b507d408ebe0da3f5a9fd690f01cc33d21e9ebf2e65185689654f2",
+          "titleExcerpt": "川崎国際生田緑地ゴルフ場｜東急ゴルフリゾート 公式ウェブサイト PAGE TOP TOKYU GOLF RESORT TEL： 044-934-1555 FAX：044-933-5612 MAIL： ",
+          "nextReviewLinks": [
+            {
+              "url": "recommended/detail.html?CN=3130",
+              "label": "ゴルフ＆宿泊 【逸品おとりよせ】新商品掲載のご案内"
+            }
+          ]
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/kawasaki/facility/",
+          "contentSha256": "509ed6405e9b8c6b0a3c219068fde1e97d89a2ae9c4c9904d86d819157c5066c",
+          "titleExcerpt": "施設案内｜川崎国際生田緑地ゴルフ場｜東急ゴルフリゾート 公式ウェブサイト PAGE TOP TOKYU GOLF RESORT TEL： 044-934-1555 FAX：044-933-5612 M",
+          "nextReviewLinks": []
+        },
+        {
+          "url": "https://www.tokyu-golf-resort.com/kawasaki/recommended/detail.html?CN=3130",
+          "contentSha256": "77206f47c85b16638dadd792b51e6bef4310ec2168157751f61c85548f96d554",
+          "titleExcerpt": "【逸品おとりよせ】新商品掲載のご案内｜おすすめ情報｜川崎国際生田緑地ゴルフ場｜東急ゴルフリゾート 公式ウェブサイト PAGE TOP TOKYU GOLF RESORT TEL： 044-934-15",
+          "nextReviewLinks": []
+        }
+      ]
+    }
+  ]
+}
