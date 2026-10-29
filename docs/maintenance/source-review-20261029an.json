@@ -1,0 +1,80 @@
+{
+  "checked": "2026-10-29",
+  "baseline": "7f883495747ba5824116f04bbe7946f77b97cb27",
+  "verified": [
+    {
+      "id": 22,
+      "field": "budget",
+      "url": "https://www.valuegolf.co.jp/rental/view_plan.cfm?rent_cid=090002601&page_flg=V&plan_id=P01116639&view_st=2026%2F10%2F01",
+      "basis": "公式料金ページで読み込む公開予約カレンダーの10月30日リンクとプラン詳細を照合。料金・税等・昼食上限・人数割増を確認。",
+      "conditions": "2026-10-30。諸費用には入湯税・振興基金を含む。乗用カートセルフ1R、2名以上。他優待券併用不可。",
+      "contentSha256": "9185e4aaae9007c4bfd875d557647f3d2cf9cff1380e344fb53c2bf599a144ef"
+    },
+    {
+      "id": 40,
+      "field": "budget",
+      "url": "https://www.valuegolf.co.jp/rental/view_plan.cfm?rent_cid=120012901&page_flg=V&plan_id=P01103859&view_st=2026%2F10%2F01",
+      "basis": "公式料金ページの公開埋込カレンダーで10月31日のプランリンクを確認し、詳細の総額・3B/2B・ロッカー別料金を照合。",
+      "conditions": "2026-10-31。乗用カートセルフ1R、3名以上、昼食別。ロッカー代男女とも275円別途。料金は日程・プランで変動。",
+      "contentSha256": "e649dfbf42c2b878567ebffaf2a04feb35facd49c99c9ac203ef853c05b78fc4"
+    },
+    {
+      "id": 361,
+      "field": "budget",
+      "url": "https://www.valuegolf.co.jp/rental/view_plan.cfm?rent_cid=090009701&page_flg=V&plan_id=P01144025&view_st=2026%2F11%2F01",
+      "basis": "公式サイトからリンクする公開カレンダーのJavaScriptが読む11月データとプラン詳細を照合。取得中表示だけで終えず料金本文を確認した。",
+      "conditions": "2026年11月平日の掲載プラン。NEWコース1R乗用カートセルフ。昼食は指定料理のみ、指定外は差額。他サービス券・優待券併用不可。2B保証。",
+      "contentSha256": "e6a28e824fcfc7654a95125c8177adbd1552fbbcee52ee656df476ad1c92033d"
+    },
+    {
+      "id": 32,
+      "field": "budget",
+      "url": "https://firstee.jp/kanagawacc/kanagawacc/plans/235591/detail",
+      "basis": "公式サイトからリンクする公開予約プランの2026年11月カレンダー、総額、食事、4名限定条件を確認。",
+      "conditions": "2026年11月平日、4名限定。利用税800円の記載あり。日程で変動し売切れ日あり。クーポン利用不可。少人数料金への推測換算なし。",
+      "contentSha256": "eb8014dd656f56e803c7c5381a0284ed1f593c49ada2a117754c1b15c5a5b279"
+    },
+    {
+      "id": 28,
+      "field": "budget",
+      "url": "https://jgt.tatemono-golf.com/user/",
+      "basis": "公式ご利用案内の薄暮0.5R料金表で年度会員とゲストの列を区別し、季節・税・設備制限を本文確認。",
+      "conditions": "薄暮0.5Rゲスト。平日13:30頃／土日祝14:00頃から、進行により前後。日没リスク・受付不可の場合あり。ロッカー・浴室・貴重品ボックス・売店利用不可。薄暮の人数割増は未確認。通常1R料金を代用しない。",
+      "contentSha256": "fec13417cc7502fec1fed03ffbb6d07c8024c68cfac824131a6efa3c197d585f"
+    },
+    {
+      "id": 36,
+      "field": "budget",
+      "url": "https://www.sagamihara-gc.co.jp/club-guide/",
+      "basis": "公式ご利用案内のゲスト料金表で土曜欄を確認。重複掲載される表で一致する土曜費用概算と、税込・食事別・4B・予約条件のみ採用。",
+      "conditions": "土曜ゲストの季節別費用概算。会員同伴または紹介、予約は会員から。ゲスト18歳以上（高校生不可、会員登録家族は別条件）。平日・祝日は表間に料金差があり採用せず、人数割増も未確認。",
+      "contentSha256": "0a7df47cd2ec5fcf7d25dd4a1c30ad193a9a5c527d05274b8d83c46965f7b573"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "id": 240,
+      "field": "scenery",
+      "url": "https://www.takanodaicc.or.jp/",
+      "reason": "503。許可された1回の再試行でも取得不可。 施設不存在とは判断しない。"
+    },
+    {
+      "id": 455,
+      "field": "scenery",
+      "url": "https://www.yoshii-nanyodai.jp/",
+      "reason": "503。許可された1回の再試行でも取得不可。 施設不存在とは判断しない。"
+    },
+    {
+      "id": 465,
+      "field": "scenery",
+      "url": "https://www.ota-futaba-cc.co.jp/",
+      "reason": "403。アクセス制限を回避せず保留。 施設不存在とは判断しない。"
+    },
+    {
+      "id": 367,
+      "field": "scenery",
+      "url": "https://www.royalcc.co.jp/course.html",
+      "reason": "旧コース映像・旧レイアウトの注意とホール数変更案内あり。景観本文を確定できず旧資料から推測しない。"
+    }
+  ]
+}
