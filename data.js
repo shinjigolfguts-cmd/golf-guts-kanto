@@ -21503,7 +21503,16 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。25周年記念メニュー「国産牛焼肉ランチ」を公式で紹介。提供期間は予約時にご確認ください。",
           "dish": "国産牛焼肉ランチ"
         },
-        "budget": null,
+        "budget": {
+          "text": "ゲストのセルフ料金は平日15,900円、土日祝26,000円。消費税込みで、ゴルフ場利用税1,000円・育成協力金50円は別途。",
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/price.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式料金ページのゲスト・セルフ欄と諸税・利用条件を確認。共通注記画像crs_prc_vstr_icn.pngも目視し、消費税込み・利用税等別途を確認。会員料金とは区別。改定日・有効期間は明記されていないため確認日時点の掲載料金として扱う。",
+          "priceVerified": true,
+          "priceLabel": "公式掲載ゲスト・セルフ料金",
+          "conditions": "4～6月・10～12月は平日メンバー紹介、土日祝メンバー同伴。7～9月・1～3月は全日メンバー紹介。4～6月・10～12月の日曜日にはメンバー専用枠あり。食事の含有・人数条件・適用日は予約時に確認。"
+        },
         "stay": null
       },
       "id": 387
@@ -26415,7 +26424,16 @@ const DATA={
           "sourceType": "official"
         },
         "stay": null,
-        "budget": null
+        "budget": {
+          "text": "ゲストのセルフ料金は平日8,420円、土日祝15,240円。消費税込みで、ゴルフ場利用税600円・振興基金30円・育成協力金50円は別途。",
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/price.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式料金ページのゲスト・セルフ欄と諸税・利用条件を確認。共通注記画像crs_prc_vstr_icn.pngも目視し、消費税込み・利用税等別途を確認。会員料金とは区別。改定日・有効期間は明記されていないため確認日時点の掲載料金として扱う。",
+          "priceVerified": true,
+          "priceLabel": "公式掲載ゲスト・セルフ料金",
+          "conditions": "全日メンバー紹介が必要。食事の含有・人数条件・適用日は予約時に確認。"
+        }
       },
       "id": 480
     },

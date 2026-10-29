@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `fc90ac5e7e146b3f1a4f38d7df3a5d13a118c9e46991119b2b7bcb0435d659b8`
+data.js SHA256: `3f8fbd9f1791130b5ab4390194013e968cf96af5d0b58b3b2d5e02dee624c9e1`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -11,7 +11,7 @@ data.js SHA256: `fc90ac5e7e146b3f1a4f38d7df3a5d13a118c9e46991119b2b7bcb0435d659b
 | 電車のアクセス | 34 |
 | 食事 | 49 |
 | 宿泊・お風呂 | 71 |
-| 料金 | 260 |
+| 料金 | 258 |
 | 景色 | 18 |
 
 空欄を含む施設：313 / 500。項目数には同じ施設の重複があります。
@@ -274,7 +274,7 @@ data.js SHA256: `fc90ac5e7e146b3f1a4f38d7df3a5d13a118c9e46991119b2b7bcb0435d659b
 | 382 | [皆川城カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tochigi/minagawajo/) | 料金 |
 | 383 | [足利カントリークラブ 多幸コース](https://www.ashikaga-cc.com/) | 電車のアクセス・料金 |
 | 384 | [足利カントリークラブ 飛駒コース](https://www.ashikaga-cc.com/) | 電車のアクセス・料金 |
-| 387 | [太平洋クラブ 佐野ヒルクレストコース](https://www.taiheiyoclub.co.jp/course/hillcrest/) | 宿泊・お風呂・料金 |
+| 387 | [太平洋クラブ 佐野ヒルクレストコース](https://www.taiheiyoclub.co.jp/course/hillcrest/) | 宿泊・お風呂 |
 | 389 | [JGM宇都宮ゴルフクラブ](https://www.jgmgroup.co.jp/utsunomiya/) | 宿泊・お風呂・景色 |
 | 390 | [LiVE MAX GOLF CLUB 栃木](https://www.livemax-golfclub.com/) | 電車のアクセス |
 | 391 | [東武藤が丘カントリー倶楽部](https://www.tobufujigaokacc.com/) | 料金 |
@@ -324,7 +324,7 @@ data.js SHA256: `fc90ac5e7e146b3f1a4f38d7df3a5d13a118c9e46991119b2b7bcb0435d659b
 | 475 | [ゴルフクラブスカイリゾート](https://www.gcsr.jp/) | 食事 |
 | 476 | [THE CLUB golf village](https://tcgv.jp/) | 料金 |
 | 478 | [シルクカントリー倶楽部](https://rfgr.jp/silk/) | 料金 |
-| 480 | [太平洋クラブ 高崎コース](https://www.taiheiyoclub.co.jp/course/takasaki/) | 宿泊・お風呂・料金 |
+| 480 | [太平洋クラブ 高崎コース](https://www.taiheiyoclub.co.jp/course/takasaki/) | 宿泊・お風呂 |
 | 481 | [嬬恋高原ゴルフ場](https://www.princehotels.co.jp/golf/tsumagoi/) | 料金 |
 | 484 | [東京カントリー倶楽部](https://www.tokyo-cc.jp/) | 宿泊・お風呂 |
 | 486 | [相模野カントリー倶楽部](https://sagamino-cc.jp/) | 宿泊・お風呂 |
