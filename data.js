@@ -14274,7 +14274,16 @@ const DATA={
           "sourceType": "official",
           "menuImageUrl": "https://reserve.accordiagolf.com/images/restaurantMenus/153_5_20260930092503.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月04日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額3,001円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月04日の公開予約プラン例。総額3,001円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税350円、諸経費0円と表示。掲載期間は～2027年2月26日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月04日掲載例 総額3,001円"
+        },
         "stay": {
           "text": "宿泊施設はありません。日帰りでのラウンドに対応しています。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/lavista/detail",
@@ -14331,7 +14340,16 @@ const DATA={
           "sourceType": "official",
           "menuImageUrl": "https://reserve.accordiagolf.com/images/restaurantMenus/066_18_20260930183835.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額3,500円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/naritahigashi/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額3,500円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税350円、諸経費0円と表示。掲載期間は～2027年2月28日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額3,500円"
+        },
         "stay": {
           "text": "宿泊施設はありません。日帰りでのラウンドに対応しています。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/naritahigashi/detail",
@@ -14386,7 +14404,16 @@ const DATA={
           "dish": "担担麺",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,000円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/hanao/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額2,000円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税400円、諸経費0円と表示。掲載期間は～2026年11月30日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額2,000円"
+        },
         "stay": {
           "text": "宿泊施設はありません。日帰りでのラウンドに対応しています。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/hanao/detail",
@@ -14438,7 +14465,16 @@ const DATA={
           "sourceType": "official",
           "menuImageUrl": "https://reserve.accordiagolf.com/images/restaurantMenus/312_41_20261016084522.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月04日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,500円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月04日の公開予約プラン例。総額2,500円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税500円、諸経費0円と表示。掲載期間は～2026年11月30日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月04日掲載例 総額2,500円"
+        },
         "stay": {
           "text": "宿泊施設はありません。日帰りでのラウンドに対応しています。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/detail",
@@ -16971,7 +17007,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式レストランページに掲載されたメニュー画像を目視し、ロースとんかつ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/319_4_20261001171821.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,490円です。セルフ・ナビ付乗用カート（4人用）、組み合わせの可能性ありで、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額2,490円。セルフ、ナビ付乗用カート（4人用）、組み合わせの可能性あり、昼食なし。追加料金欄は「割増無し」。利用税450円、諸経費0円と表示。掲載期間は～2026年12月25日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額2,490円"
+        },
         "stay": {
           "text": "浴場があり、シャンプー・コンディショナーやドライヤーを備えています。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/detail",
@@ -17699,7 +17744,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、銀ひらす西京焼きの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/081_16_20261002120227.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,800円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額2,800円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「1B割増有り」。利用税550円、諸経費0円と表示。掲載期間は～2026年12月25日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額2,800円"
+        },
         "stay": {
           "text": "浴槽とシャワーを利用できますが、午後プレーではシャワーのみです。宿泊施設はありません。季節・プラン別の利用条件は公式案内をご確認ください。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/detail",
@@ -17749,7 +17803,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式レストランページに掲載されたメニュー画像を目視し、豚骨醤油ラーメンと炒飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/080_29_20261010170128.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月04日掲載例は「☆薄暮プレー(9H・2B保証・日没了承プラン」が総額3,000円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月04日の公開予約プラン例。総額3,000円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税200円、諸経費0円と表示。掲載期間は～2026年12月31日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月04日掲載例 総額3,000円"
+        },
         "stay": {
           "text": "浴槽・シャワーは通常18:00まで利用できます。午後スルーはシャワーのみ、薄暮ハーフは浴場を利用できません。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/detail",
@@ -17800,7 +17863,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式レストランページに掲載されたメニュー画像を目視し、トンテキ、カキフライ膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/158_3_20261002112403.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,000円です。セルフ・乗用（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額2,000円。セルフ、乗用（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税200円、諸経費0円と表示。掲載期間は～2026年12月25日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額2,000円"
+        },
         "stay": {
           "text": "浴場があります。午後スルーはシャワーのみで、10〜3月はロッカー・浴室を利用できない案内です。9H＋α・薄暮ハーフも浴場を利用できません。18:00以降は利用制限の場合があります。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/detail",
@@ -18349,7 +18421,16 @@ const DATA={
             "https://reserve.accordiagolf.com/images/restaurantMenus/033_3_20261005090529.jpg.webp"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額3,000円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額3,000円。セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税600円、諸経費0円と表示。掲載期間は～2027年3月31日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額3,000円"
+        },
         "stay": {
           "text": "浴場はありますが、宿泊施設はありません。午後スルー（18ホール）・薄暮（9ホール）はロッカーとお風呂を利用できません。シャワーのみ平日17:30、土日祝18:00まで利用できます。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/detail",
@@ -18400,7 +18481,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式レストランページに掲載されたメニュー画像を目視し、粗びきハンバーグ、ロースとんかつの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/311_2_20260804094502.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月05日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,500円です。セルフ・乗用（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月05日の公開予約プラン例。総額2,500円。セルフ、乗用（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税450円、諸経費0円と表示。掲載期間は～2026年11月26日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月05日掲載例 総額2,500円"
+        },
         "stay": {
           "text": "浴室の営業再開を2026年9月19日付で案内。午後スルーなどにはシャワーのみ利用できるプランがあり、入室・利用時間は予約プランで異なります。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/",
@@ -22397,7 +22487,16 @@ const DATA={
           "basis": "公式レストランのメニュー画像を2026-10-24に視認確認。佐野ラーメン餃子セット",
           "dish": "佐野ラーメン餃子セット"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年10月30日掲載例は「午後9H+αスルー【3Ｂ以上】◆前精算制・食事無・要備考◆※完全セルフ・日没了承※」が総額3,490円です。セルフ・ナビ付乗用カート（4人用）、3サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/iwafune/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年10月30日の公開予約プラン例。総額3,490円。セルフ、ナビ付乗用カート（4人用）、3サム保証、昼食なし。追加料金欄は「2B割増有り」。利用税600円、諸経費0円と表示。掲載期間は～2026年12月27日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年10月30日掲載例 総額3,490円"
+        },
         "stay": {
           "text": "公式案内では宿泊施設はありません。浴場の営業時間や利用条件は未確認のため、予約時にご確認ください。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/iwafune/detail",
@@ -22447,7 +22546,16 @@ const DATA={
           "basis": "公式レストランのメニュー画像を2026-10-24に視認確認。佐野ラーメン唐揚げセット",
           "dish": "佐野ラーメン唐揚げセット"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月02日掲載例は「【初心者応援９ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※日没終了」が総額3,000円です。セルフ・乗用（4人用）、組み合わせの可能性ありで、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/ohiradai/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月02日の公開予約プラン例。総額3,000円。セルフ、乗用（4人用）、組み合わせの可能性あり、昼食なし。追加料金欄は「割増無し」。利用税300円、諸経費0円と表示。掲載期間は～2026年12月31日。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月02日掲載例 総額3,000円"
+        },
         "stay": {
           "text": "浴場にはシャワーブースがあり、女性用パウダールームも備えています。午後スルー・薄暮プレーでは浴場を利用できません。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/ohiradai/detail",
