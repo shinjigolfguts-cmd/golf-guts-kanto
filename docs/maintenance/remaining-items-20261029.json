@@ -327,7 +327,8 @@
       "name": "イーグルレイクゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 58,
@@ -587,7 +588,8 @@
       "name": "岡部チサンカントリークラブ 美里コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 92,
@@ -1208,7 +1210,8 @@
       "name": "千葉セントラルゴルフクラブ",
       "field": "scenery",
       "officialUrl": "https://www.chibacentral-gc.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 182,
@@ -1252,7 +1255,8 @@
       "name": "ゴルフ倶楽部 成田ハイツリー",
       "field": "scenery",
       "officialUrl": "https://www.hightree.co.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 189,
@@ -1362,7 +1366,8 @@
       "name": "PGMマリアゴルフリンクス",
       "field": "stay",
       "officialUrl": "https://www.pacificgolf.co.jp/maria/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 199,
@@ -2607,7 +2612,8 @@
       "name": "太平洋クラブ美野里コース",
       "field": "dining",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/minori/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 295,
@@ -2621,7 +2627,8 @@
       "name": "太平洋クラブロイヤルコース",
       "field": "dining",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/royal/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 297,
@@ -2829,14 +2836,16 @@
       "name": "フレンドシップカントリークラブ",
       "field": "scenery",
       "officialUrl": "http://www.friendship-cc.co.jp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 312,
       "name": "フレンドシップカントリークラブ",
       "field": "stay",
       "officialUrl": "http://www.friendship-cc.co.jp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 313,
@@ -2894,7 +2903,8 @@
       "name": "龍ヶ崎カントリー倶楽部",
       "field": "stay",
       "officialUrl": "http://www.ryugasaki-cc.com",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 318,
@@ -3621,7 +3631,8 @@
       "name": "太平洋クラブ 益子PGAコース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/mashiko/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 387,
@@ -3828,7 +3839,8 @@
       "name": "東松山カントリークラブ",
       "field": "scenery",
       "officialUrl": "https://www.hmcc.co.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
       "id": 415,

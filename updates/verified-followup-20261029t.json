@@ -1,0 +1,183 @@
+{
+  "baseSha256": "df7e5cafd5c6a2146a5f29a45c6df831da297785d7eb87d983fb133db285baeb",
+  "reviewed": true,
+  "reviewer": "Codex official content and image review",
+  "updates": [
+    {
+      "id": 295,
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式昼食メニューに鉄板厚切りポークステーキ、美明豚ロースカツ丼を掲載。食事付きプランでも料理により追加料金があります。提供内容・期間は来場前にご確認ください。",
+        "url": "https://www.taiheiyoclub.co.jp/course/minori/lrhh7f00000002au-att/lrhh7f0000000710.pdf",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "美野里公式トップからリンクされた昼食PDFを原画像で確認。鉄板厚切りポークステーキ3,630円・食事付差額1,430円、美明豚ロースカツ丼2,200円。会員限定ランチを一般客向けと混同しない。",
+        "dish": "鉄板厚切りポークステーキ／美明豚ロースカツ丼"
+      },
+      "evidenceNote": "美野里公式トップからリンクされた昼食PDFを原画像で確認。鉄板厚切りポークステーキ3,630円・食事付差額1,430円、美明豚ロースカツ丼2,200円。会員限定ランチを一般客向けと混同しない。",
+      "name": "太平洋クラブ美野里コース"
+    },
+    {
+      "id": 296,
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式昼食メニューに100%ビーフハンバーグ（和風ソース）、国産豚のトンテキを掲載。ハンバーグは調理に15分ほどかかる案内があります。提供内容は来場前にご確認ください。",
+        "url": "https://www.taiheiyoclub.co.jp/course/royal/lrhh7f000000pjt4-att/lrhh7f000000pjuw.pdf",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "ロイヤル公式トップからリンクされた昼食PDFを原画像で確認。料理名・添え物・15分ほどの調理時間・税込表記を照合。会員限定メニューは転用しない。",
+        "dish": "100%ビーフハンバーグ（和風ソース）／国産豚のトンテキ"
+      },
+      "evidenceNote": "ロイヤル公式トップからリンクされた昼食PDFを原画像で確認。料理名・添え物・15分ほどの調理時間・税込表記を照合。会員限定メニューは転用しない。",
+      "name": "太平洋クラブロイヤルコース"
+    },
+    {
+      "id": 386,
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式の近隣宿泊案内にルートイン宇都宮ゆいの杜、ルートイン真岡などを掲載。コース内の宿泊施設という案内ではありません。宿泊料金・空室・送迎や浴場の条件は未確認です。",
+        "url": "https://www.taiheiyoclub.co.jp/course/mashiko/topics/lrhh7f0000007juy.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "2026年10月21日掲載の公式トピックスにあるMap_2021.jpg下部Area Hotelsを目視確認。外部ホテル名のみ採用し、古い地図の料金・交通時間・営業条件は転用しない。",
+        "supportingUrls": [
+          "https://www.taiheiyoclub.co.jp/course/mashiko/topics/lrhh7f0000007juy-img/Map_2021.jpg"
+        ]
+      },
+      "evidenceNote": "2026年10月21日掲載の公式トピックスにあるMap_2021.jpg下部Area Hotelsを目視確認。外部ホテル名のみ採用し、古い地図の料金・交通時間・営業条件は転用しない。",
+      "name": "太平洋クラブ 益子PGAコース"
+    },
+    {
+      "id": 181,
+      "field": "scenery",
+      "before": null,
+      "after": {
+        "text": "公式Aコース3番の案内では、右側の杉林と左側の松林、山裾を使った地形が紹介されています。",
+        "url": "https://www.chibacentral-gc.com/course/a3/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式ホール本文の右杉林・左松林・右山裾の記述を確認。遠景・季節の見頃は推測しない。"
+      },
+      "evidenceNote": "公式ホール本文の右杉林・左松林・右山裾の記述を確認。遠景・季節の見頃は推測しない。",
+      "name": "千葉セントラルゴルフクラブ"
+    },
+    {
+      "id": 415,
+      "field": "scenery",
+      "before": null,
+      "after": {
+        "text": "東コースには池を配したホールがあり、4番のグリーン手前には1本松、5番のティー付近にも松の木があると公式に紹介されています。",
+        "url": "https://www.hmcc.co.jp/east-course/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式東コース案内の1・3・6・8・9番の池、4番の1本松、5番の松を確認。攻略上の位置を景観として簡潔に記載。"
+      },
+      "evidenceNote": "公式東コース案内の1・3・6・8・9番の池、4番の1本松、5番の松を確認。攻略上の位置を景観として簡潔に記載。",
+      "name": "東松山カントリークラブ"
+    },
+    {
+      "id": 189,
+      "field": "scenery",
+      "before": null,
+      "after": {
+        "text": "公式の花ごよみでは、カイズカイブキやモミジなどの庭園木と、春のサクラ・ツツジ、秋の紅葉を紹介しています。開花・紅葉の時期は天候により異なります。",
+        "url": "https://www.hightree.co.jp/course/02.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式「成田ハイツリーの四季・花ごよみ」本文で庭園木の種類と春秋の植栽を確認。当日の開花・紅葉状態や見頃日付は未確認。"
+      },
+      "evidenceNote": "公式「成田ハイツリーの四季・花ごよみ」本文で庭園木の種類と春秋の植栽を確認。当日の開花・紅葉状態や見頃日付は未確認。",
+      "name": "ゴルフ倶楽部 成田ハイツリー"
+    },
+    {
+      "id": 198,
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式施設案内に大浴場とサウナを掲載。営業時間・利用できるプラン・宿泊設備については未確認のため、予約時にご確認ください。",
+        "url": "https://www.pacificgolf.co.jp/maria/facility.asp",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "当該コース公式施設本文「大浴場 BATH」の湯船とサウナの案内を確認。温泉や全プラン利用可能とは推測しない。"
+      },
+      "evidenceNote": "当該コース公式施設本文「大浴場 BATH」の湯船とサウナの案内を確認。温泉や全プラン利用可能とは推測しない。",
+      "name": "PGMマリアゴルフリンクス"
+    },
+    {
+      "id": 312,
+      "field": "scenery",
+      "before": null,
+      "after": {
+        "text": "公式コース案内の写真では、フェアウェイの両側に樹木が続く景観を紹介しています。",
+        "url": "https://www.friendship-cc.co.jp/course/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式コース案内に掲載されたimg_course_header.jpgを目視確認。樹種・季節・遠景の山名は特定しない。"
+      },
+      "evidenceNote": "公式コース案内に掲載されたimg_course_header.jpgを目視確認。樹種・季節・遠景の山名は特定しない。",
+      "name": "フレンドシップカントリークラブ"
+    },
+    {
+      "id": 312,
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式案内では、男女とも源泉かけ流しの鉱泉を使った風呂があります。利用時間・プランごとの条件・宿泊設備は未確認です。",
+        "url": "https://www.friendship-cc.co.jp/info/spa/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式の浴場専用ページで男女共、源泉かけ流し、鉱泉使用を確認。泉温・効能や温泉法上の分類は推測せず、公式の鉱泉という表現を保持。"
+      },
+      "evidenceNote": "公式の浴場専用ページで男女共、源泉かけ流し、鉱泉使用を確認。泉温・効能や温泉法上の分類は推測せず、公式の鉱泉という表現を保持。",
+      "name": "フレンドシップカントリークラブ"
+    },
+    {
+      "id": 316,
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式英語版の施設一覧に浴場を掲載。利用時間・サウナ・温泉・宿泊設備については未確認のため、来場前にご確認ください。",
+        "url": "https://www.ryugasaki-cc.com/english/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式英語版Other Facility欄でPublic Bathの掲載を確認。近隣のザ・ゴルフクラブ竜ヶ崎とは別施設であることを名称・住所で照合。"
+      },
+      "evidenceNote": "公式英語版Other Facility欄でPublic Bathの掲載を確認。近隣のザ・ゴルフクラブ竜ヶ崎とは別施設であることを名称・住所で照合。",
+      "name": "龍ヶ崎カントリー倶楽部"
+    },
+    {
+      "id": 58,
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式ギャラリーで浴槽のある浴室を確認できます。現在の利用時間やプラン別の制限、宿泊設備については未確認のため、予約時にご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=59#house_official",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "PGM公式ギャラリーの当該クラブ投稿（is_user=0）の浴室写真を目視し、浴槽を確認。画像だけでは営業時間・宿泊・温泉を判断しない。",
+        "supportingUrls": [
+          "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/59/r65000e52.jpg"
+        ]
+      },
+      "evidenceNote": "PGM公式ギャラリーの当該クラブ投稿（is_user=0）の浴室写真を目視し、浴槽を確認。画像だけでは営業時間・宿泊・温泉を判断しない。",
+      "name": "イーグルレイクゴルフクラブ"
+    },
+    {
+      "id": 92,
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブ公式案内に浴槽・露天風呂・シャワー設備の記載があります。2026年7〜9月の浴槽休止告知は対象期間が終了していますが、現在の営業状況や美里コース利用時の条件は予約時にご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=72&news_id=59931&p=guide.news_detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式2026年5月29日告知で浴槽・露天風呂施設・シャワー設備を確認。7月1日〜9月30日の休止は確認日には対象期間外。再開済みと断定せず、美里利用時の具体的条件は未確認として保持。"
+      },
+      "evidenceNote": "公式2026年5月29日告知で浴槽・露天風呂施設・シャワー設備を確認。7月1日〜9月30日の休止は確認日には対象期間外。再開済みと断定せず、美里利用時の具体的条件は未確認として保持。",
+      "name": "岡部チサンカントリークラブ 美里コース"
+    }
+  ]
+}
