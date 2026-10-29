@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4e`
+data.js SHA256: `c307ffbdd05259e7664f1558ec4b1d9965ac1cdf109ae82312b2041b67ff87a4`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,12 +9,12 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 34 |
-| 食事 | 84 |
-| 宿泊・お風呂 | 154 |
-| 料金 | 281 |
-| 景色 | 39 |
+| 食事 | 79 |
+| 宿泊・お風呂 | 122 |
+| 料金 | 280 |
+| 景色 | 38 |
 
-空欄を含む施設：369 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：352 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -23,7 +23,7 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | ID | 施設 | 未確認の項目 |
 |---:|---|---|
 | 0 | [大原・御宿ゴルフコース](https://www.princehotels.co.jp/golf/ohara/) | 料金 |
-| 2 | [東我孫子カントリークラブ](https://www.h-abiko-cc.com/information/price/) | 宿泊・お風呂・景色 |
+| 2 | [東我孫子カントリークラブ](https://www.h-abiko-cc.com/information/price/) | 景色 |
 | 5 | [江戸川ラインゴルフショートコース](https://edogawaline.or.jp/) | 食事・宿泊・お風呂 |
 | 6 | [アジア取手カントリー倶楽部](https://www.asia-toride.com/) | 食事 |
 | 7 | [紫塚ゴルフ倶楽部](https://www.murasakigc.com/home) | 料金 |
@@ -35,7 +35,7 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 21 | [ムーンレイクゴルフクラブ 茂原コース](https://booking.pacificgolf.co.jp/guide/65.html) | 宿泊・お風呂・料金 |
 | 22 | [烏山城カントリークラブ](https://www.karasuyamajo.com/) | 料金 |
 | 23 | [PGM石岡ゴルフクラブ](https://www.pacificgolf.co.jp/ishioka/tournament.asp) | 宿泊・お風呂・料金 |
-| 28 | [Jゴルフ鶴ヶ島](https://jgt.tatemono-golf.com/access/) | 宿泊・お風呂・料金 |
+| 28 | [Jゴルフ鶴ヶ島](https://jgt.tatemono-golf.com/access/) | 料金 |
 | 30 | [藤ヶ谷カントリークラブ](https://www.fujigayacc.co.jp/) | 宿泊・お風呂 |
 | 32 | [神奈川カントリークラブ](https://kanagawacc.com/access/) | 料金 |
 | 34 | [大厚木カントリークラブ 本コース](https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/access) | 料金 |
@@ -154,7 +154,6 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 194 | [千葉カントリークラブ 梅郷コース](https://www.chibacc.co.jp/umesato) | 景色 |
 | 195 | [長南カントリークラブ](https://www.chonan-cc.com/) | 料金 |
 | 198 | [PGMマリアゴルフリンクス](https://www.pacificgolf.co.jp/maria/) | 宿泊・お風呂・料金 |
-| 199 | [紫カントリークラブ あやめコース](https://www.murasaki-cc.co.jp/ayame/) | 宿泊・お風呂 |
 | 200 | [大多喜カントリークラブ](https://booking.pacificgolf.co.jp/guide/164.html) | 料金 |
 | 201 | [南総ヒルズカントリークラブ](https://booking.pacificgolf.co.jp/guide/161.html) | 宿泊・お風呂・料金 |
 | 202 | [大多喜城ゴルフ倶楽部](https://www.tokyu-golf-resort.com/ohtakijo/) | 料金 |
@@ -163,7 +162,7 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 206 | [季美の森ゴルフ倶楽部](https://www.tokyu-golf-resort.com/kimi/) | 料金 |
 | 208 | [キングフィールズゴルフクラブ](https://www.kingf-gc.jp/) | 料金・景色 |
 | 210 | [芝山ゴルフ倶楽部](https://www.tokyu-golf-resort.com/shibayama/) | 料金 |
-| 211 | [ジャパンPGAゴルフクラブ](https://zuien.net/pga/) | 電車のアクセス・宿泊・お風呂・料金 |
+| 211 | [ジャパンPGAゴルフクラブ](https://zuien.net/pga/) | 電車のアクセス・料金 |
 | 213 | [千葉カントリークラブ 川間コース](https://www.chibacc.co.jp/kawama) | 景色 |
 | 214 | [紫カントリークラブ すみれコース](https://www.murasaki-cc.co.jp/sumire/) | 料金 |
 | 215 | [東急セブンハンドレッドクラブ](https://tokyu700.jp/) | 宿泊・お風呂・料金 |
@@ -195,18 +194,17 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 242 | [ミルフィーユゴルフクラブ](https://www.milgolf.co.jp/) | 食事・料金・景色 |
 | 243 | [新千葉カントリー倶楽部](https://www.shinchiba-cc.co.jp/) | 電車のアクセス・食事・宿泊・お風呂・料金・景色 |
 | 244 | [麻倉ゴルフ倶楽部](https://www.asakura-gc.jp/) | 料金 |
-| 245 | [源氏山ゴルフクラブ](https://www.genjiyamagolfclub.com/) | 宿泊・お風呂・料金 |
+| 245 | [源氏山ゴルフクラブ](https://www.genjiyamagolfclub.com/) | 料金 |
 | 246 | [ブリック＆ウッドクラブ](https://www.brickandwood.jp/) | 車のアクセス・電車のアクセス・食事・料金・景色 |
 | 248 | [銚子カントリークラブ](https://www.unimat-golf.jp/choshi/) | 料金 |
 | 249 | [東京クラシッククラブ](https://tokyo-classic.jp/) | 食事・料金 |
 | 250 | [船橋カントリークラブ](https://www.funabashicc.com/) | 景色 |
-| 251 | [中山カントリークラブ](https://www.nakayamacc.com/) | 宿泊・お風呂 |
 | 252 | [浅見ゴルフ倶楽部](https://www.asamigc.com/) | 料金 |
 | 254 | [イーグルポイントゴルフクラブ](https://www.eaglepoint.co.jp/) | 料金 |
 | 256 | [茨城ロイヤルカントリー倶楽部](https://www.ibarakiroyalcc.com/) | 料金 |
 | 258 | [桂ヶ丘カントリークラブ](https://www.katsuragaoka.com/) | 電車のアクセス |
-| 259 | [金砂郷カントリークラブ](https://www.kanasago.com/) | 電車のアクセス・宿泊・お風呂・料金 |
-| 260 | [ゴルフ倶楽部セブンレイクス](https://sevenlakes.jp/) | 宿泊・お風呂・料金 |
+| 259 | [金砂郷カントリークラブ](https://www.kanasago.com/) | 電車のアクセス・料金 |
+| 260 | [ゴルフ倶楽部セブンレイクス](https://sevenlakes.jp/) | 料金 |
 | 261 | [桜の宮ゴルフ倶楽部](https://www.sakuranomiyagc.jp/) | 宿泊・お風呂・料金・景色 |
 | 262 | [笠間カントリークラブ](https://booking.pacificgolf.co.jp/guide/44.html) | 食事・宿泊・お風呂・料金 |
 | 263 | [霞ヶ浦カントリー倶楽部](https://booking.pacificgolf.co.jp/guide/43.html) | 食事・宿泊・お風呂・料金 |
@@ -221,17 +219,16 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 272 | [猿島カントリー倶楽部](https://www.tokyu-golf-resort.com/sashima/) | 料金 |
 | 273 | [スターツ笠間ゴルフ倶楽部](https://www.starts-golf.jp/) | 料金 |
 | 274 | [JGM笠間ゴルフクラブ](https://www.jgmgroup.co.jp/kasama/) | 食事・宿泊・お風呂・料金 |
-| 277 | [茨城ゴルフ倶楽部](https://ibarakigc.jp) | 食事・宿泊・お風呂 |
+| 277 | [茨城ゴルフ倶楽部](https://ibarakigc.jp) | 食事 |
 | 278 | [かすみがうらゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/) | 食事・料金 |
-| 279 | [金乃台カントリークラブ](https://www.kinnodai.com/) | 食事・宿泊・お風呂 |
-| 280 | [栗橋國際カントリー倶楽部](http://www.kurikan.co.jp/) | 食事・宿泊・お風呂 |
+| 280 | [栗橋國際カントリー倶楽部](http://www.kurikan.co.jp/) | 食事 |
 | 281 | [ゴルフ5カントリーかさまフォレスト](https://www.alpen-group.net/kasama-forest/) | 料金 |
 | 282 | [ゴルフ5カントリーサニーフィールド](https://www.alpen-group.net/sunnyfield/) | 料金 |
 | 283 | [桜ゴルフ倶楽部](http://www.sakurasgo.com) | 車のアクセス・宿泊・お風呂・料金 |
 | 284 | [サミットゴルフクラブ](https://www.summit-golf-club.jp/) | 料金 |
 | 286 | [ザ・ゴルフクラブ竜ヶ崎](https://www.pacificgolf.co.jp/ryugasaki/) | 電車のアクセス・料金 |
 | 287 | [白帆カントリークラブ](http://shiraho.jp) | 宿泊・お風呂・料金 |
-| 288 | [JGMやさと石岡ゴルフクラブ](https://www.jgmgroup.co.jp/yasato/) | 食事・料金 |
+| 288 | [JGMやさと石岡ゴルフクラブ](https://www.jgmgroup.co.jp/yasato/) | 料金 |
 | 289 | [ジェイゴルフ霞ヶ浦](http://jgk.tatemono-golf.com/) | 食事・宿泊・お風呂・料金 |
 | 291 | [スパ＆ゴルフリゾート久慈](https://www.resol-golf.jp/kuji/) | 料金 |
 | 292 | [セントラルゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/central/) | 食事・料金・景色 |
@@ -248,7 +245,6 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 304 | [土浦カントリー倶楽部](https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/) | 電車のアクセス・料金 |
 | 305 | [出島ゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/) | 食事・料金・景色 |
 | 306 | [利根ゴルフ倶楽部](https://tonegc.co.jp/) | 電車のアクセス |
-| 307 | [取手国際ゴルフクラブ](https://www.tkg36.com) | 食事 |
 | 309 | [ノースショアカントリークラブ](https://nscc.golftk.com/) | 電車のアクセス・宿泊・お風呂・料金 |
 | 310 | [ひたち大宮ゴルフクラブ](http://kabayagc.com/) | 電車のアクセス・宿泊・お風呂・料金 |
 | 311 | [富士カントリー笠間倶楽部](https://kasama-club.com/) | 車のアクセス・料金 |
@@ -257,34 +253,29 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 314 | [水戸グリーンカントリークラブ 山方コース](https://www.mgcc.jp/) | 電車のアクセス・宿泊・お風呂・料金 |
 | 315 | [水戸レイクスカントリークラブ](http://mitolakes.jp) | 料金 |
 | 316 | [龍ヶ崎カントリー倶楽部](http://www.ryugasaki-cc.com) | 宿泊・お風呂・料金 |
-| 318 | [ワンウェイゴルフクラブ](http://onewaygc.co.jp) | 食事・宿泊・お風呂・料金 |
+| 318 | [ワンウェイゴルフクラブ](http://onewaygc.co.jp) | 料金 |
 | 320 | [筑波東急ゴルフクラブ](https://www.tokyu-golf-resort.com/tsukuba/) | 料金 |
-| 321 | [潮来カントリー倶楽部](https://www.itakocc.jp/) | 電車のアクセス・宿泊・お風呂・料金 |
+| 321 | [潮来カントリー倶楽部](https://www.itakocc.jp/) | 電車のアクセス・料金 |
 | 322 | [ウィンザーパークゴルフアンドカントリークラブ](https://www.wpgcc.com/) | 料金 |
-| 323 | [霞ヶ浦国際ゴルフコース](https://www.kasumigaura-kokusai-golf.com/) | 食事・宿泊・お風呂 |
+| 323 | [霞ヶ浦国際ゴルフコース](https://www.kasumigaura-kokusai-golf.com/) | 食事 |
 | 324 | [下館ゴルフ倶楽部](https://shimodate.co.jp/) | 電車のアクセス |
-| 326 | [アジア下館カントリー倶楽部](https://asia-shimodate.com/) | 電車のアクセス・食事・宿泊・お風呂・料金 |
-| 327 | [アローエースゴルフクラブ](https://www.daiwaroyalgolf.jp/arrowace_gc/) | 宿泊・お風呂 |
+| 326 | [アジア下館カントリー倶楽部](https://asia-shimodate.com/) | 電車のアクセス・食事・料金 |
 | 328 | [栃木ヶ丘ゴルフ倶楽部](https://tgc18.com/) | 料金 |
 | 330 | [南摩城カントリークラブ](https://nanmajo.golf-web.jp/) | 料金 |
 | 331 | [鬼怒川カントリークラブ](https://kinugawacc.jp/) | 料金 |
-| 333 | [塩原カントリークラブ](https://www.shiobara-cc.com/) | 宿泊・お風呂 |
 | 334 | [鷹ゴルフ倶楽部](https://www.taka-golf.co.jp/) | 食事・料金 |
 | 335 | [杉ノ郷カントリークラブ](https://www.suginosato.co.jp/) | 食事・宿泊・お風呂・料金 |
-| 337 | [東都栃木カントリー倶楽部](https://www.toto-motors.co.jp/golf/tochigi/) | 宿泊・お風呂・料金 |
-| 339 | [益子ヒルズゴルフクラブ](https://www.mashikohills.com/) | 電車のアクセス・食事・宿泊・お風呂・料金・景色 |
-| 340 | [宇都宮ガーデンゴルフクラブ](https://www.uggc.jp/) | 宿泊・お風呂 |
-| 341 | [思い川ゴルフ倶楽部](https://www.omoigawa-gc.com/) | 宿泊・お風呂 |
+| 337 | [東都栃木カントリー倶楽部](https://www.toto-motors.co.jp/golf/tochigi/) | 料金 |
+| 339 | [益子ヒルズゴルフクラブ](https://www.mashikohills.com/) | 電車のアクセス・食事・宿泊・お風呂 |
 | 342 | [小山ゴルフクラブ](https://www.oyamagolf.jp/) | 宿泊・お風呂・料金 |
 | 345 | [鹿沼72カントリークラブ](https://kanuma72.jp/) | 料金 |
-| 347 | [唐沢ゴルフ倶楽部 唐沢コース](https://www.karasawa-golf.or.jp/) | 食事・宿泊・お風呂 |
+| 347 | [唐沢ゴルフ倶楽部 唐沢コース](https://www.karasawa-golf.or.jp/) | 宿泊・お風呂 |
 | 348 | [G7カントリー倶楽部](https://www.g7cc.co.jp/) | 電車のアクセス |
 | 349 | [新宇都宮カントリークラブ](https://shinutsu.com/) | 料金 |
-| 351 | [鹿沼プレミアゴルフ倶楽部](https://www.kanuma-premier.jp/) | 宿泊・お風呂・料金・景色 |
+| 351 | [鹿沼プレミアゴルフ倶楽部](https://www.kanuma-premier.jp/) | 料金・景色 |
 | 352 | [足利城ゴルフ倶楽部](https://www.ashikagajo.jp/) | 宿泊・お風呂・料金 |
 | 353 | [佐野ゴルフクラブ](https://www.sano-golfclub.co.jp/) | 料金 |
 | 354 | [栃木カントリークラブ](https://tochigicc.com/) | 料金 |
-| 355 | [栃木ノースヒルズゴルフコース](https://www.northhills.jp/) | 宿泊・お風呂 |
 | 356 | [トムソンカントリー倶楽部](https://thomson-cc.com/) | 宿泊・お風呂・料金 |
 | 357 | [桃里カントリー倶楽部](https://www.touricc.com/) | 宿泊・お風呂・料金 |
 | 358 | [ましこゴルフ倶楽部](https://mashiko-gc.sakura.ne.jp/) | 料金・景色 |
@@ -319,15 +310,12 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 391 | [東武藤が丘カントリー倶楽部](https://www.tobufujigaokacc.com/) | 料金 |
 | 393 | [25那須ゴルフガーデン](https://dormy-hotels.com/resort/hotels/nasu/golf/) | 食事・料金 |
 | 394 | [ラインヒルゴルフクラブ](https://www.linehill2026.com/) | 車のアクセス・電車のアクセス・宿泊・お風呂・料金 |
-| 395 | [城山カントリー倶楽部](https://shiroyama.chateraisegolf.jp/) | 宿泊・お風呂 |
-| 396 | [希望丘カントリークラブ](https://014kibougaokacc.sakura.ne.jp/) | 宿泊・お風呂・料金 |
+| 396 | [希望丘カントリークラブ](https://014kibougaokacc.sakura.ne.jp/) | 料金 |
 | 397 | [都賀カンツリー倶楽部](http://www.tsugacc.co.jp/) | 料金 |
 | 399 | [ベルセルバカントリークラブ さくらコース](http://www.belle-co.com/belleselva/) | 食事 |
 | 400 | [足利渡良瀬ゴルフ場](http://ashikaga-watarase-golf.jp/) | 宿泊・お風呂 |
 | 401 | [宮の森カントリー倶楽部](https://www.miyanomoricc.com/) | 料金 |
-| 403 | [久邇カントリークラブ](https://www.princehotels.co.jp/golf/kuni/) | 宿泊・お風呂 |
 | 405 | [石坂ゴルフ倶楽部](https://www.ishizaka-gc.com/) | 宿泊・お風呂 |
-| 406 | [川越カントリークラブ](https://kawagoecc.com/) | 宿泊・お風呂 |
 | 407 | [熊谷ゴルフクラブ](https://kumagaya-gc.com/) | 宿泊・お風呂 |
 | 408 | [鴻巣カントリークラブ](https://kcc.kanbun-group.co.jp/) | 料金 |
 | 409 | [高麗川カントリークラブ](https://www.komagawacc.co.jp/) | 料金 |
@@ -352,11 +340,9 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 439 | [寄居カントリークラブ](https://reserve.accordiagolf.com/golfCourse/saitama/yorii/) | 料金 |
 | 440 | [PGM武蔵ゴルフクラブ](https://booking.pacificgolf.co.jp/guide/169.html) | 食事・料金 |
 | 441 | [富貴ゴルフ倶楽部](https://booking.pacificgolf.co.jp/guide/71.html) | 料金 |
-| 443 | [東都秩父カントリー倶楽部](https://www.toto-motors.co.jp/golf/chichibu/) | 食事・宿泊・お風呂 |
-| 444 | [東都飯能カントリー倶楽部](https://www.toto-motors.co.jp/golf/hanno/) | 宿泊・お風呂 |
+| 443 | [東都秩父カントリー倶楽部](https://www.toto-motors.co.jp/golf/chichibu/) | 食事 |
 | 449 | [下仁田カントリークラブ](https://www.shimonitacc.com/) | 料金 |
 | 450 | [桐生カントリークラブ](https://www.kiryucc.com/) | 料金 |
-| 452 | [グリーンパークカントリークラブ](https://greenparkcc.com/) | 宿泊・お風呂 |
 | 453 | [髙梨子倶楽部](https://www.takanashiclub.jp/) | 電車のアクセス・料金 |
 | 455 | [吉井南陽台ゴルフコース](https://www.yoshii-nanyodai.jp/) | 電車のアクセス・宿泊・お風呂・料金・景色 |
 | 457 | [玉村ゴルフ場](https://www.tamamura-golf.jp/) | 宿泊・お風呂 |
@@ -371,11 +357,9 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 467 | [伊香保国際カンツリークラブ](https://www.ikahokokusai.jp/) | 景色 |
 | 468 | [梅ノ郷ゴルフ倶楽部](https://www.umenosato.co.jp/) | 宿泊・お風呂 |
 | 469 | [大間々ゴルフクラブ](https://www.omama-gc.com/) | 宿泊・お風呂 |
-| 470 | [霞山カントリー倶楽部](https://www.kazancc.jp/) | 宿泊・お風呂 |
 | 471 | [軽井沢高原ゴルフ倶楽部](https://www.karuizawa-kogen.com/) | 料金 |
 | 475 | [ゴルフクラブスカイリゾート](https://www.gcsr.jp/) | 食事・料金 |
 | 476 | [THE CLUB golf village](https://tcgv.jp/) | 料金 |
-| 477 | [上武カントリークラブ](https://jobu.cc/) | 宿泊・お風呂 |
 | 478 | [シルクカントリー倶楽部](https://rfgr.jp/silk/) | 食事・料金 |
 | 480 | [太平洋クラブ 高崎コース](https://www.taiheiyoclub.co.jp/course/takasaki/) | 宿泊・お風呂・料金 |
 | 481 | [嬬恋高原ゴルフ場](https://www.princehotels.co.jp/golf/tsumagoi/) | 料金 |
@@ -386,7 +370,6 @@ data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4
 | 489 | [秦野カントリークラブ](https://booking.pacificgolf.co.jp/guide/66.html) | 食事・宿泊・お風呂・料金 |
 | 490 | [武蔵野ゴルフクラブ](https://musashinogolf.com/) | 宿泊・お風呂 |
 | 492 | [青梅リバーサイドパーク](https://www.riverside-park.co.jp/) | 食事 |
-| 493 | [鎌倉パブリックゴルフ場](https://kamakura-pg.com/) | 宿泊・お風呂 |
 | 494 | [川崎国際生田緑地ゴルフ場](https://www.tokyu-golf-resort.com/kawasaki/) | 宿泊・お風呂 |
 | 495 | [湘南シーサイドカントリー倶楽部](https://www.shonanseaside.com/) | 食事・宿泊・お風呂 |
 | 496 | [GDO茅ヶ崎ゴルフリンクス](https://chigasaki.golfdigest.co.jp/) | 料金 |

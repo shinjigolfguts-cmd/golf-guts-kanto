@@ -147,7 +147,13 @@ const DATA={
           "dish": "回鍋肉定食",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式料金案内では、薄暮9ホールはお風呂・ロッカーを利用できません。ピクニックゴルフでは利用できる案内があります。通常ラウンドの利用条件・温泉・宿泊設備は未確認です。",
+          "url": "https://www.h-abiko-cc.com/information/price/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "薄暮9Hの注意点とピクニックゴルフの利用特典を本文で確認。プラン別の設備制限を一律の営業条件にしない。"
+        },
         "budget": {
           "text": "薄暮9ホールは平日5,440円、土日祝6,715円（税込）の案内。乗用カート・セルフの料金です。予約制で、ロッカー・お風呂は利用できません。",
           "url": "https://www.h-abiko-cc.com/information/price/",
@@ -1654,7 +1660,13 @@ const DATA={
           "dish": "四川担々麺",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "窓の外の緑を眺められる大浴場を公式に紹介。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://jgt.tatemono-golf.com/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページのBIG BATH見出しとお風呂の本文を内容確認。掲載された設備を超える推測はしない。"
+        },
         "budget": null,
         "scenery": {
           "text": "緑の濃い丘陵コース。18番では、セカンド地点から進む途中に池とクラブハウスが重なる景色を楽しめます。",
@@ -11364,7 +11376,13 @@ const DATA={
           "priceLabel": "平日14,800円\n土日祝19,900〜22,900円",
           "conditions": "2026年11月料金カレンダー・ナビ付乗用カートセルフ・利用税消費税込。3名+440円、2名+1,650円。食事付き日はカレンダー確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設案内に男性用・女性用のお風呂を掲載。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://www.murasaki-cc.co.jp/ayame/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページの館内設備一覧の男女別のお風呂キャプションを内容確認。掲載された設備を超える推測はしない。"
+        }
       },
       "researchSources": [
         "https://www.murasaki-cc.co.jp/ayame/",
@@ -12032,7 +12050,13 @@ const DATA={
           "dish": "チキン南蛮バジルソース添え"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設案内にバスルームを掲載。男性用の写真として紹介されています。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://zuien.net/pga/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページのバスルーム見出しと写真は男性用という説明を内容確認。掲載された設備を超える推測はしない。"
+        }
       },
       "researchSources": [
         "https://zuien.net/pga/",
@@ -13781,7 +13805,13 @@ const DATA={
           "dish": "持ち帰りのうなぎ棒寿司をレストランで注文できます"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介にお風呂を掲載。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://www.genjiyamagolfclub.com/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページのお風呂の写真キャプションを内容確認。掲載された設備を超える推測はしない。"
+        }
       },
       "researchSources": [
         "https://www.genjiyamagolfclub.com/",
@@ -14099,7 +14129,13 @@ const DATA={
           "priceLabel": "平日27,000円\n土日祝41,770円",
           "conditions": "利用税・消費税・グリーンフィ・キャディフィ・カートフィ・諸掛費込み。3名+1,595円、2名+4,730円。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設案内に男性用・女性用のお風呂を掲載。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://www.nakayamacc.com/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページの男女別のお風呂のキャプションを内容確認。掲載された設備を超える推測はしない。"
+        }
       },
       "researchSources": [
         "https://www.nakayamacc.com/",
@@ -14522,7 +14558,13 @@ const DATA={
           "dish": "手打ちざる蕎麦"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "日差しが入る脱衣ルームとバスルームを公式に案内。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://www.kanasago.com/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページのバスルームを完備する本文と脱衣ルームの記述を内容確認。掲載された設備を超える推測はしない。"
+        }
       },
       "id": 259
     },
@@ -14566,7 +14608,13 @@ const DATA={
           "dish": "セブンレイクス特製つけ麺"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "コース増設中に湧出した白谷温泉を公式に案内。大浴場にはジャクジーも掲載されています。営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://sevenlakes.jp/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブハウス本文の白谷温泉・湧出・大浴場・ジャクジーを確認。健康・美容への効果は事実として転記しない。"
+        }
       },
       "id": 260
     },
@@ -15297,7 +15345,13 @@ const DATA={
           "priceLabel": "平日27,050〜27,930円／休日35,850〜36,730円",
           "conditions": "ゲスト基本料金・4Bキャディ・税ロッカー込。東のみ乗用カート込。食事別。3B+880円。会員紹介同伴等の割引別。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式の施設利用時間案内に浴室を掲載し、クローズは16時30分と記載。最新の営業状況は予約時に確認してください。温泉・宿泊設備は未確認。",
+          "url": "https://ibarakigc.jp/information/%e6%96%bd%e8%a8%ad%e5%88%a9%e7%94%a8%e6%99%82%e9%96%93",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設利用時間ページの浴室クローズ16:30の行を確認。各施設の開始時刻表と取り違えない。"
+        }
       },
       "id": 277
     },
@@ -15377,7 +15431,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式の2026年10月1日からのランチメニューに、二所ノ関部屋のレシピを学んだ塩もつちゃんこ鍋を掲載。季節や仕入れ等による提供状況は来場前にご確認ください。",
+          "url": "https://www.kinnodai.com/images/pdf/menu_2026_1001.pdf",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップからリンクされたランチPDFの料理名と二所ノ関部屋との取り組み本文を確認。価格の列配置は採用せず、料理名・レシピの由来だけ使用。 原本PDFを画像化し、料理名と二所ノ関部屋の説明を視覚照合済み。"
+        },
         "budget": {
           "text": "10〜12月のビジター料金は平日18,600円、土日祝29,600円。キャディ付き乗用カート1R。",
           "url": "https://kinnodai.com/price/index.html",
@@ -15387,7 +15447,13 @@ const DATA={
           "priceLabel": "平日 18,600円\n土日祝 29,600円",
           "conditions": "2026年10〜12月・4名基準・消費税利用税込・食事別。3名+1,430円。予約は会員経由、1組3名から。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介に大浴場を掲載。男性浴室・脱衣場から中庭を眺められるとの案内があります。温泉、露天風呂、宿泊設備、利用時間は未確認。",
+          "url": "https://kinnodai.com/house/index.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "大浴場の本文と男性浴室・脱衣場の見出しを確認。「露天風呂気分」を実際の露天風呂と解釈しない。"
+        }
       },
       "id": 279
     },
@@ -15433,7 +15499,13 @@ const DATA={
           "priceLabel": "平日7,200円／土日祝13,500円",
           "conditions": "公式10〜12月ビジター通常プレイ昼食消費税利用税込。休日3B+700円2B+1500円。男性ロッカー100円。追加ラウンド別。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式のプレースタイル案内では、開放日（平日火曜日）はお風呂・ロッカー等を利用できません。通常営業日の浴室条件や宿泊設備は未確認です。",
+          "url": "https://www.kurikan.co.jp/playstyle/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "開放日の利用不可設備と曜日を本文確認。通常日に全設備が使えるとは逆算しない。"
+        }
       },
       "id": 280
     },
@@ -15801,7 +15873,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式のグランドメニューにJGM特製チャンポンを掲載。グループおすすめの料理として紹介されています。メニューは季節等により変更される場合があります。",
+          "url": "https://www.jgmgroup.co.jp/yasato/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文のグランドメニュー、特製チャンポンと紹介文を確認。口コミ評価や独立した味の評価とはしない。"
+        },
         "budget": null,
         "stay": {
           "text": "クラブハウスに大浴場を備えています。公式施設案内で浴室を紹介しています。",
@@ -16678,7 +16756,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式の昼食メニューに大きなアジフライ定食、漬け鮪山かけ小丼とそば又はうどんなどを掲載。提供状況は来場前にご確認ください。",
+          "url": "https://www.tkg36.com/restaurant.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランの昼食見出しと料理名を確認。名物・口コミ高評価とは断定しない。"
+        },
         "budget": {
           "text": "公式基本料金：4名乗用カート1Rは平日25,070円、土日祝32,770円。税込・飲食別。2名カート割増1,650円。日程・プランで変わります。",
           "url": "https://www.tkg36.com/fee.html",
@@ -17192,9 +17276,21 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式が名物として紹介するスパムおにぎりはテイクアウトも可能。カレーやうどんなどの昼食も案内しています。",
+          "url": "https://onewaygc.co.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "Restaurant欄のスパムおにぎり・持ち帰り可・カレー・うどんを本文で確認。料金や昼食込みは推測しない。"
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設案内に大浴場を掲載。女性用パウダールームも案内されています。温泉・宿泊設備、浴室の営業時間やプラン別制限は未確認です。",
+          "url": "https://onewaygc.co.jp/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "Public Bathと女性パウダールームの見出し・本文を確認。健康効果の説明は転載しない。Roomはロッカー・コンペ室であり宿泊客室とはしない。"
+        }
       },
       "id": 318
     },
@@ -17340,7 +17436,13 @@ const DATA={
           "dish": "美明豚の鉄板ポークソテー膳"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "最終ホールを望む前面ガラス張りのバスルームを公式に案内。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://www.itakocc.jp/guide/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページの公式施設紹介のバスルーム本文と眺望説明を内容確認。掲載された設備を超える推測はしない。"
+        }
       },
       "id": 321
     },
@@ -17435,7 +17537,13 @@ const DATA={
           "priceLabel": "平日12,500〜13,500円／土日22,900円",
           "conditions": "2026年10〜11月一般3〜4B乗用セルフ利用税950円込。秋料金に昼食付表記なし。2B+2200円、キャディ3〜4B+4600円。祝日20900円。"
         },
-        "stay": null
+        "stay": {
+          "text": "バドガシュタイン鉱石を使用した大浴場を公式に案内。温泉としての区分、営業時間、プラン別利用制限や宿泊設備は未確認です。",
+          "url": "https://www.kasumigaura-kokusai-golf.com/facilities",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の大浴場欄・鉱石使用の本文を確認。温泉や医療効果とは断定しない。"
+        }
       },
       "id": 323
     },
@@ -17578,7 +17686,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "庭園を望む石造りの浴場を公式に案内。女子浴場には専用パウダールームとマッサージルームを掲載。温泉・宿泊設備、営業時間・プラン別制限は未確認です。",
+          "url": "https://asia-shimodate.com/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ご入浴欄と女子浴場の本文を確認。マッサージ施術サービスの営業や料金までは確認していない。"
+        }
       },
       "id": 326
     },
@@ -17630,7 +17744,13 @@ const DATA={
           "priceLabel": "平日 4,900〜5,800円\n土日祝 12,500円",
           "conditions": "2026年10〜11月・1Rセルフ・税/基金込・食事別。4,900円は感謝DAY。土日祝2名+2,200円。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設案内では2023年4月以降は湯船の使用を休止し、シャワーのみで営業と記載。最新の営業状況は予約前にご確認ください。宿泊設備は未確認。",
+          "url": "https://www.daiwaroyalgolf.jp/arrowace_gc/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "浴室欄の湯船休止・シャワーのみ営業の注記を確認。トップの大浴場アメニティ紹介だけで湯船利用可としない。"
+        }
       },
       "id": 327
     },
@@ -17943,7 +18063,13 @@ const DATA={
           "priceLabel": "平日 5,500〜9,100円\n土日祝 9,000〜15,100円",
           "conditions": "通常1Rセルフ・昼食/諸税込。冬季は風呂なし。土日祝2名+1,650円（冬季除く）。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式に男性用・女性用の大浴場を案内。女性用大浴場の洗い場には仕切りがあります。温泉・営業時間・プラン別制限・宿泊設備は未確認。",
+          "url": "https://www.shiobara-cc.com/facilities/bath/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "専用の大浴場ページ本文で男女浴場と女性洗い場の仕切りを確認。メニュー項目だけで判断しない。"
+        }
       },
       "id": 333
     },
@@ -18126,7 +18252,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介に浴室を掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://www.toto-motors.co.jp/golf/tochigi/facility.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の浴室・お風呂の見出しと本文を確認。他施設や周辺ホテルの情報と混同しない。"
+        }
       },
       "id": 337
     },
@@ -18209,9 +18341,24 @@ const DATA={
           "basis": "公式サイトの記載を確認"
         },
         "rail": null,
-        "scenery": null,
+        "scenery": {
+          "text": "益子町北部の丘陵地に広がる18ホール。適度な起伏があり、四季の自然に囲まれたコースです。",
+          "url": "https://www.mashikohills.com/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブ紹介の北部丘陵地帯・18ホール・起伏・四季の自然を確認。眺望の対象物は推測しない。"
+        },
         "dining": null,
-        "budget": null,
+        "budget": {
+          "text": "2026年11月1日は1人1R8,590円、11月3日は7,990円のオンライン予約限定プランを案内。2バッグ保証・割増無料、パック昼食と昼食時ドリンクバー付き。カート保険料110円・ロッカー費150円は別。",
+          "url": "https://www.mashikohills.com/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年10月14日付公式告知の対象日・価格・人数・付帯条件を確認。終了済み9月や過去の冬期料金を流用しない。",
+          "conditions": "2026年11月1日・3日のオンライン予約限定、同伴者登録完了が条件。リクエスト予約対象外。1人1ラウンド、2バッグ保証割増無料、パック昼食・昼食時ドリンクバー付き。カート保険料110円、ロッカー費150円別。告知内で消費税・利用税の内外は未明記のため最終総額は予約時確認。",
+          "priceVerified": true,
+          "priceLabel": "指定日7,990～8,590円＋別途費用"
+        },
         "stay": null
       }
     },
@@ -18263,7 +18410,16 @@ const DATA={
           "priceLabel": "平日 7,580円\n土日祝 12,530〜12,970円",
           "conditions": "2026年11月・公式HP限定料金。食事、諸税、人数割増は選択プランの総額欄を確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "浴場（脱衣場・湯船・シャワー）はロッカー利用者のみ利用可能。2026年6月1日からロッカー代は別途330円（正会員無料）。7～9月はシャワーのみと公式告知されています。宿泊設備は未確認。",
+          "url": "https://www.uggc.jp/news/1891/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026年2月2日付告知の画像を表示してロッカー利用条件・施行日・料金・正会員例外・7～9月シャワー限定を視覚確認。7～9月の制限を現在月へ転用しない。",
+          "supportingUrls": [
+            "https://www.uggc.jp/wp2/wp-content/uploads/2026/02/20260201173642_00001-1024x675.jpg"
+          ]
+        }
       },
       "id": 340
     },
@@ -18316,7 +18472,13 @@ const DATA={
           "priceLabel": "平日1R 5,000円（早朝等）\n0.5R 3,000〜4,500円",
           "conditions": "早朝・アフタヌーンの限定枠。利用税・消費税込、2名割増なし。通常の日中1R料金ではありません。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介に男性用・女性用のお風呂を掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://www.omoigawa-gc.com/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の男女のお風呂キャプションを確認。他施設や周辺ホテルの情報と混同しない。"
+        }
       },
       "id": 341
     },
@@ -18616,7 +18778,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。佐野駅からタクシーで約10分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "唐沢コースの公式ランチメニューに肉汁そば、石焼ビビンバチャーシューのせ、豚ヒレテキ定食などを掲載。提供状況は来場前にご確認ください。",
+          "url": "https://www.karasawa-golf.or.jp/facility-karasawa/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "唐沢コース専用施設ページのランチ料理名を確認。三好コースのメニューと混同せず、名物・口コミ評価とはしない。"
+        },
         "budget": {
           "text": "2026年10〜11月の掲載例は平日7,700〜8,600円、土日祝13,600〜14,600円。セルフデーを含みます。",
           "url": "https://www.karasawa-golf.or.jp/playfee-karasawa/",
@@ -18824,7 +18992,13 @@ const DATA={
           "dish": "自家製もつ煮込み定食"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "ゴルフ場内に併設ロッヂがあります。公式案内は洋室・和室の素泊まりで、食事別・浴衣なし。浴室の設備や利用条件は未確認です。",
+          "url": "https://www.kanuma-premier.jp/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式本文の場内併設ロッヂ、洋室和室・素泊まり・食事別・浴衣なしを確認。宿泊料金の列ずれを避け、金額は採用しない。"
+        }
       },
       "id": 351
     },
@@ -19022,7 +19196,13 @@ const DATA={
           "priceLabel": "平日 7,590〜8,190円\n土日祝 13,990〜16,990円",
           "conditions": "10〜11月掲載例・昼食/昼食時ドリンクバー付。人数割増は選択プランで確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設一覧に男性用・女性用のお風呂、脱衣所、パウダールームを掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://www.northhills.jp/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の男女のお風呂と脱衣所のキャプションを確認。他施設や周辺ホテルの情報と混同しない。"
+        }
       },
       "id": 355
     },
@@ -20938,7 +21118,13 @@ const DATA={
           "priceLabel": "平日 8,300〜9,300円\n土日祝 13,700〜14,700円",
           "conditions": "2026年10〜12月・昼食/諸税込。2名+1,100円。年末等は特別料金。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設案内に浴槽のある浴室、脱衣所、パウダールームを掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://shiroyama.chateraisegolf.jp/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の浴室の本文と脱衣所・パウダールームの見出しを確認。他施設や周辺ホテルの情報と混同しない。"
+        }
       },
       "id": 395
     },
@@ -20982,7 +21168,13 @@ const DATA={
           "dish": "三元豚とんかつ定食"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "中庭の緑が見える浴室を公式に案内。女性ロッカールームには談話室も掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://014kibougaokacc.sakura.ne.jp/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の浴室・談話室の本文を確認。他施設や周辺ホテルの情報と混同しない。"
+        }
       },
       "id": 396
     },
@@ -21353,7 +21545,13 @@ const DATA={
           "priceLabel": "平日4B限定セルフ19,000円",
           "conditions": "2026年10月のSEIBU PRINCE CLUB公式Web限定掲載例。4人1組限定、乗用カート・税込。休場日セルフは21,000円の掲載例。食事など追加条件は予約時に確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式が周辺宿泊先として川越プリンスホテル、ホテル・ヘリテイジ飯能、飯能第一ホテル、マロウドイン飯能などを紹介。場内宿泊設備や宿泊込みプランは未確認です。",
+          "url": "https://www.princehotels.co.jp/golf/kuni/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設・レストラン案内の周辺案内欄でホテル名を確認。ブランド共通メニューのホテル一覧ではなく当コース固有の紹介欄を採用。浴室工事告知は別途確認。"
+        }
       },
       "id": 403
     },
@@ -21515,7 +21713,13 @@ const DATA={
           "priceLabel": "セルフ平日20,800円／土日祝25,200円",
           "conditions": "2026年10〜11月の基本料金。消費税・利用税込み、昼食別。会員紹介または無料ネットメイト登録が必要。キャディ付は平日25,530円・土日祝29,930円。人数条件は予約時にご確認ください。"
         },
-        "stay": null
+        "stay": {
+          "text": "コース外の宿泊先として東松山第一ホテル、紫雲閣、ルートイン鴻巣などを公式に紹介。コース内の宿泊設備・浴室条件、宿泊込みプランは未確認です。",
+          "url": "https://kawagoecc.com/facility/hotel/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式近隣ホテルページの宿泊先名を確認。場内宿泊設備や割引提携の証拠とはしない。"
+        }
       },
       "id": 406
     },
@@ -23403,7 +23607,13 @@ const DATA={
           "priceLabel": "平日5,300円〜／土日祝9,500円〜",
           "conditions": "公式基本料金は18Hセルフ平日5,300円〜、土日祝9,500円〜（消費税・利用税込）。季節で変動し、2名割増・食事等はプラン別に確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介に広い浴場を掲載。温泉・宿泊設備、営業時間やプラン別利用条件は未確認です。",
+          "url": "https://www.toto-motors.co.jp/golf/chichibu/facility.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "施設紹介の「お風呂」見出しと浴場の本文を確認。画像代替文の所在地表記に揺れがあるため画像から他施設情報を推測せず、ページ本文だけを採用。"
+        }
       },
       "id": 443
     },
@@ -23456,7 +23666,13 @@ const DATA={
           "priceLabel": "平日12,600円〜／土日祝17,100円〜",
           "conditions": "公式ビジター基本料金。18H・乗用カートセルフ、消費税・利用税込。2Bは1人2,060円追加。食事代等は別途、季節・キャンペーンで変動します。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設紹介に開放的な浴場を掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://www.toto-motors.co.jp/golf/hanno/facility.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介のお風呂見出しと浴場の本文を確認。他施設や周辺ホテルの情報と混同しない。"
+        }
       },
       "id": 444
     },
@@ -23890,7 +24106,13 @@ const DATA={
           "dish": "上州麦豚の鉄板味噌カツ膳",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設一覧にお風呂を掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+          "url": "https://greenparkcc.com/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設紹介の施設一覧のお風呂キャプションを確認。他施設や周辺ホテルの情報と混同しない。"
+        },
         "budget": {
           "text": "10〜11月のビジター料金は平日7,830円、土日13,550〜14,980円。昼食・税・保険・基金を含みます。土日は2名プレーを受け付けていません。",
           "url": "https://greenparkcc.com/fee.html",
@@ -24758,7 +24980,16 @@ const DATA={
           "dish": "焼き鮭の和定食",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設案内に男性用・女性用の浴室と脱衣場を掲載。公式トップでは7・8月の浴室はシャワーのみと案内。現在の利用条件は予約時にご確認ください。温泉・宿泊設備は未確認。",
+          "url": "https://www.kazancc.jp/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設キャプションの男女浴室とトップの季節制限を確認。7・8月限定案内を10月の制限にしない。「温泉に近い」を場内温泉と解釈しない。",
+          "supportingUrls": [
+            "https://www.kazancc.jp/"
+          ]
+        },
         "budget": {
           "text": "10月26〜30日の平日掲載料金は7,300円、24〜25日の休日は12,800円。乗用カート・セルフプレー・昼食・税を含みます。",
           "url": "https://www.kazancc.jp/fee.html",
@@ -25128,7 +25359,13 @@ const DATA={
           "dish": "やまと豚生姜焼き定食",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式クラブハウス紹介にバスルームを掲載。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+          "url": "https://jobu.cc/house.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式本文のバスルーム案内と写真キャプションを確認。浴場の詳細条件は推測しない。"
+        },
         "budget": {
           "text": "10〜11月の通常掲載料金は平日6,930〜7,230円、土日11,830〜12,030円。昼食・税込の総額です。感謝デーや祝日は別料金です。",
           "url": "https://jobu.cc/images/event/fee_sep-nov.jpg",
@@ -25940,7 +26177,13 @@ const DATA={
           "priceLabel": "平日 17,800円\n土日祝 23,000円",
           "conditions": "一般料金。日程別プラン・食事・人数割増等を予約画面で確認。キャッシュレス決済のみ。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式施設一覧に大浴場を掲載。パウダールーム・アメニティも案内されています。温泉・宿泊設備、営業時間・プラン別利用制限は未確認です。",
+          "url": "https://kamakura-pg.com/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設ページの大浴場とパウダールーム・アメニティの見出しを確認。別施設の浴室情報を使わない。"
+        }
       },
       "id": 493
     },
