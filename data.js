@@ -296,10 +296,11 @@ const DATA={
       "badge": "9H / ショート",
       "comparison": {
         "play": {
-          "text": "ショートコースで短い距離のショットを練習する形式。",
-          "url": "https://edogawaline.or.jp/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "短い距離のショットを練習できる、アイアンのみ使用のショートコース。全曜日予約不要・先着順で、1日・薄暮とも終了時刻まで回り放題。ロッカー・更衣室、手引きカート・バッグ・シューズのレンタルはありません。雨天等の悪天候は休場します。",
+          "url": "https://edogawaline.or.jp/ショートコース/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式「営業時間」「ご利用にあたって」の本文を確認。ロッカー等がないことを浴場・宿泊施設なしの根拠には使用しない。"
         },
         "rail": {
           "text": "金町駅からバス約15分、下車後徒歩約5分。確認した公式案内にはタクシーの所要時間の記載がありません。",
@@ -369,7 +370,13 @@ const DATA={
           "basis": "公式:谷和原10km以内。タクシー取手駅から10分。都心50分はIC所要時間ではないため不使用"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "男性浴室・女性浴室を備えています。宿泊設備の有無と、利用プラン別の浴室営業時間は未確認です。",
+          "url": "https://www.asia-toride.com/facility.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の男性浴室・女性浴室の説明を確認。宿泊設備は本文に明示なし。"
+        },
         "budget": {
           "text": "日程別の予約料金で比較。具体的な予約日料金は未確認。",
           "url": "https://www.asia-toride.com/",
@@ -1195,16 +1202,21 @@ const DATA={
       "note": "ナイター営業日・ホール数・浴室の利用時間はプランで確認。",
       "comparison": {
         "play": {
-          "text": "ナイトゴルフに対応。GPSカートナビを導入。",
-          "url": "https://booking.pacificgolf.co.jp/guide/65.html",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "通年のナイトゴルフに対応し、GPSナビ付き乗用カートでセルフプレー。フェアウェイ乗り入れは1人880円・組単位で、天候やコース状態による制限があります。ショートホールと午後・ナイトプレーは乗り入れできません。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=65&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報のラウンドスタイル・乗用カート欄を確認。一般プレー料金や浴室条件はこの情報から推測しない。"
         },
         "rail": {
-          "text": "JR茂原駅から車で約13分（ゴルフ場の公式採用情報に記載）。",
+          "text": "JR茂原駅から車で約13分（ゴルフ場の公式採用情報に記載）。 クラブバスはありません。",
           "url": "https://pacificgolf-job.net/jobfind-pc/job/All/32532",
-          "checked": "2026-10-24",
-          "basis": "PGM公式採用サイト、ムーンレイクゴルフクラブ茂原コース・ナイトゴルフスタッフ求人、情報更新日2026-01-09。周辺情報に「JR茂原駅から車で13分」と明記。最寄り駅とは記載しない。雇用主PGM、所在地茂原市長尾1647が一致。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式採用サイト、ムーンレイクゴルフクラブ茂原コース・ナイトゴルフスタッフ求人、情報更新日2026-01-09。周辺情報に「JR茂原駅から車で13分」と明記。最寄り駅とは記載しない。雇用主PGM、所在地茂原市長尾1647が一致。 2026-10-29に公式ゴルフ場情報のクラブバス「なし」を追加確認。既存の車13分の出典と本文を保持。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=65&p=guide.access_map"
+          ]
         },
         "car": {
           "text": "茂原北ICから車で約8分（5km）。",
@@ -2298,7 +2310,13 @@ const DATA={
             "https://honchiba-cc.co.jp/access/"
           ]
         },
-        "dining": null,
+        "dining": {
+          "text": "公式ランチメニューに「竹岡式ラーメン」「千葉県産ロース肉の豚テキ」「本鮪お刺身膳」などを掲載しています。料理は提供時期により変更されるため、利用日のメニューをご確認ください。",
+          "url": "https://honchiba-cc.co.jp/menu_item/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランメニュー本文で3品の料理名を確認。人気・名物とは断定しない。"
+        },
         "stay": {
           "text": "併設の「コテージおゆみ野」は全7棟の独立したログハウス。90㎡の2LDKにベッド4台、大型バスルームを備え、ペット同伴の宿泊プランも用意しています。",
           "url": "https://honchiba-cc.co.jp/cottage/",
@@ -3462,7 +3480,16 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載内容：藤岡ICから約7km。確認した公式案内は距離・経路表示で、所要時間の記載はありません。"
         },
-        "dining": null,
+        "dining": {
+          "text": "ランチタイムのみ営業。公式メニューに「カキフライ」「銀ひらす西京焼き」「明太クリームスパゲッティ」などを掲載しています。提供内容・追加料金は利用日のメニューをご確認ください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/fujioka/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式の営業時間本文と、同ページ掲載ランチメニュー画像を目視し3品を確認。料理写真は転載しない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/126_2_20260930165355.jpg.webp"
+          ]
+        },
         "stay": {
           "text": "浴場があり、男性浴場にはシャワーブースを設置。午前・午後スルーは時間帯によりシャワーのみです。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/fujioka/detail",
@@ -4050,14 +4077,35 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス地図img_access.pngも目視確認"
         },
-        "dining": null,
-        "stay": {
-          "text": "ホテルと温泉を備え、宿泊プレーに対応。",
-          "url": "https://umgc.jp/bato/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+        "dining": {
+          "text": "2階のレストランで、うな重・ステーキ重・参鶏湯などを用意。公式メニューでは昼食付きプランの対象はカレー、そば・うどん、ラーメン単品で、それ以外は差額が必要です。内容は利用日にご確認ください。",
+          "url": "https://umgc.jp/bato/施設案内/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設本文で2階レストラン、公式昼食メニュー画像を目視して料理名・昼食付きプランの対象条件を確認。",
+          "supportingUrls": [
+            "https://umgc.jp/bato/wp-content/uploads/2026/07/lunchmenu20260708.jpg"
+          ]
         },
-        "budget": null,
+        "stay": {
+          "text": "ホテルを併設し、シングルからプレミアムスイート、和室まで用意。2024年7月1日から全客室禁煙です。温泉「金山の湯」と露天風呂があり、宿泊プレーに対応しています。",
+          "url": "https://umgc.jp/bato/施設案内/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内のホテル客室・温泉欄を確認。既存のホテル・温泉・宿泊プレー対応を保持して具体化。"
+        },
+        "budget": {
+          "text": "2026年10〜11月の公式料金表は、1Rセルフ・昼食付きで平日6,200円、土日祝12,400円の表示。2人プレーの割増は平日無料、土日祝1,100円です。税の扱いと予約時の支払総額は要確認です。",
+          "url": "https://umgc.jp/bato/price/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年10月5日公開の10〜12月料金表画像を目視。10・11月の日別価格と2B割増を確認。見出しの「利用税600円・消費税」は内税・外税の明示がないため総額を推測せず、価格絞り込み用の確定総額にはしない。",
+          "conditions": "2026年10〜11月の料金表掲載額。1Rセルフ・昼食付き。2B割増：平日無料、土日祝1,100円。昼食の対象外メニューには差額あり。利用税600円・消費税の内外税表記が不明確なため、税込総額は未確定。12月・年末年始には適用しない。",
+          "priceVerified": false,
+          "supportingUrls": [
+            "https://umgc.jp/bato/wp-content/uploads/2026/10/202610-202612_list-price-1024x1447.jpg"
+          ]
+        },
         "scenery": {
           "text": "新緑や紅葉の眺望が楽しめる丘陵コース。宿泊時は星空、11〜4月の早朝は条件が合えばスタートテラスから雲海も望めます。",
           "url": "https://umgc.jp/bato/",
