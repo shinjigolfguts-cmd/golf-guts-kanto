@@ -1256,7 +1256,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス矢板PDF:26kmお車約30分"
         },
-        "dining": null,
+        "dining": {
+          "text": "敷地内の焼肉レストラン「粋虎」では、とちぎ和牛などを提供。17時〜22時営業で、料理のラストオーダーは21時、飲み物は21時30分。不定休のため予約時に確認してください。昼食メニューの具体的な料理は未確認です。",
+          "url": "https://www.karasuyamajo.com/suiko.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式粋虎本文で敷地内、とちぎ和牛、営業時間・不定休を確認。2026年12月開始とある宿泊プランメニューを現在の提供内容に混ぜない。",
+          "dish": "夕食：とちぎ和牛の焼肉"
+        },
         "stay": {
           "text": "クラブハウスに隣接するホテルで宿泊ゴルフを楽しめる。",
           "url": "https://pga.or.jp/tournament/detail/22060/report/before",
@@ -3934,12 +3941,24 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスページと同ページ画像car02.gifを目視確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "ランチにカレーライスセット、かつカレーライスなどを掲載。昼食付きプランは1,650円まで追加料金なし。仕入れ状況で内容が変わる場合があり、ランチバイキングは不定期開催です。",
+          "url": "https://shirosato-gc.com/restaurant.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ランチページ本文の追加料金・仕入れ条件と、リンク画像2026-01.jpg（カレーライスセット）、2026-02.jpg（かつカレーライス）を目視確認。",
+          "dish": "カレーライスセット、かつカレーライス",
+          "supportingUrls": [
+            "https://shirosato-gc.com/images/restaurant/2026-01.jpg",
+            "https://shirosato-gc.com/images/restaurant/2026-02.jpg"
+          ]
+        },
         "stay": {
-          "text": "敷地内のホテルキャッスルヴィレッジを利用できる。",
+          "text": "敷地内のホテルキャッスルヴィレッジを利用できます。ゴルフ場から徒歩1分、客室は全室バス・トイレ付き。チェックイン15時から、チェックアウト10時まで。宿泊プランは事前に確認してください。",
           "url": "https://shirosato-gc.com/hotel.html",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ホテル案内で徒歩1分、全室バス・トイレ、入退室時刻を確認。客室の浴室をクラブハウス大浴場と混同しない。"
         },
         "budget": null,
         "scenery": {
@@ -3977,12 +3996,23 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載内容：那須高原スマートICから車で約15分（ETC専用）。"
         },
-        "dining": null,
+        "dining": {
+          "text": "夕食は「おまかせ会席膳」「牛すき鍋」「牛しゃぶ」を案内。2名以上、3日前までの予約制で、クラブハウス内レストランで提供します。夕食はコースのみで、内容は季節・仕入れにより変わる場合があります。昼食の具体的な料理は未確認です。",
+          "url": "https://golf.nasusunlight.jp/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式夕食欄で3料理、3日前予約、2名以上、コースのみを確認。夕食を昼食として扱わず、画像のみの昼食内容は未確認とした。",
+          "dish": "夕食：おまかせ会席膳、牛すき鍋、牛しゃぶ"
+        },
         "stay": {
-          "text": "ホテル・ロッジとゴルフを組み合わせられる。",
-          "url": "https://golf.nasusunlight.jp/hotel",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "敷地内のホテル・ロッジとゴルフを組み合わせられます。クラブハウスに大浴場があり、男女ともドライサウナを備えています。宿泊プランと浴場の利用時間・条件は予約時に確認してください。",
+          "url": "https://golf.nasusunlight.jp/facilities",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内で大浴場と男女ドライサウナを確認。敷地内ホテル・ロッジは公式トップ本文で再確認。",
+          "supportingUrls": [
+            "https://golf.nasusunlight.jp/"
+          ]
         },
         "budget": null,
         "scenery": {
@@ -4113,12 +4143,23 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスページとinfo-access-tokyo02.pngを目視確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "2026年秋のランチとして「静和食膳」を案内。ノドグロの一夜干し、マグロの刺身、豚汁を組み合わせた御膳です。季節メニューのため、来場時の提供内容は公式レストラン案内で確認してください。",
+          "url": "https://www.hillsgolf.jp/shizu/news/260915-1/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026-09-15付の公式記事で秋メニューの料理名と構成を確認。通年提供とは記載しない。",
+          "dish": "静和食膳",
+          "supportingUrls": [
+            "https://www.hillsgolf.jp/shizu/facility/restaurant/"
+          ]
+        },
         "stay": {
-          "text": "コースに隣接する静ヒルズホテルで滞在できる。",
-          "url": "https://www.hillsgolf.jp/shizuhotel/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "クラブハウスに隣接する静ヒルズホテルで宿泊できます。クラブハウスには大浴場があり、女性用脱衣所には個室タイプの化粧ブースを備えています。浴場の利用時間・プラン別条件は予約時に確認してください。",
+          "url": "https://www.hillsgolf.jp/shizu/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内で隣接ホテル、大浴場、女性用個室化粧ブースを確認。浴場の営業時刻は本文にないため推測しない。"
         },
         "budget": null,
         "scenery": {
@@ -7137,10 +7178,11 @@ const DATA={
       "id": 132,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14011",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホールのゴルフ場。2026年10月15日から工事対応の18ホール・PAR71で営業再開。4番は仮設グリーン使用のPAR3、5番は特設ティからプレー（日曜は通常ティ）と案内しています。復旧状況は来場前に公式告知をご確認ください。",
+          "url": "https://kamakura-cc.com/information/【重要】10月15日木から18ホール-par71での営業再開につ/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026-10-14付公式告知で18H/PAR71再開、4番PAR3、5番特設ティと日曜日例外を確認。恒久的なコース変更とは扱わない。"
         },
         "rail": {
           "text": "大船駅からクラブバスで約20分（渋滞がない場合）。車・タクシーの所要時間は確認した公式案内に記載がありません。",
@@ -7154,7 +7196,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス：日野IC約25分、朝混雑時40〜50分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式グランドメニューに地魚まご茶漬け、鎌倉特製和牛ハンバーガー、はまぐり塩ラーメンなどを掲載。来場時の提供内容・料金は公式メニューで確認してください。",
+          "url": "https://kamakura-cc.com/menu-category/grand/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式メニュー本文で3料理名を確認。名物・人気の評価は付加しない。",
+          "dish": "地魚まご茶漬け、鎌倉特製和牛ハンバーガー、はまぐり塩ラーメン"
+        },
         "stay": null,
         "budget": null,
         "scenery": {
@@ -7412,10 +7461,14 @@ const DATA={
           "basis": "既存掲載情報を項目別に確認"
         },
         "rail": {
-          "text": "姉ヶ崎駅から車で約15分。",
-          "url": "https://heiwanosan.co.jp/anegasaki/caddy/",
-          "checked": "2026-10-24",
-          "basis": "公式キャディ採用案内：姉ヶ崎駅から車15分。"
+          "text": "姉ヶ崎駅から車で約15分。駅からの送迎バスも約15分で、6時45分便は平日のみ予約制です。定休日セルフデーはクラブバスを運行しません。最新の時刻・運行日は公式案内をご確認ください。",
+          "url": "https://heiwanosan.co.jp/anegasaki/qanda/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存の車15分（公式採用案内）は保持。公式FAQの送迎15分、6:45便平日のみ予約制、定休日セルフデー運休を追記。",
+          "supportingUrls": [
+            "https://heiwanosan.co.jp/anegasaki/caddy/"
+          ]
         },
         "car": {
           "text": "姉崎袖ケ浦ICから車で約9分（約6km）。",
@@ -7423,8 +7476,24 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス地図2024年7月：姉崎袖ケ浦IC6.0km約9分。FAQ7分と差があり日付のある地図を採用。"
         },
-        "dining": null,
-        "stay": null,
+        "dining": {
+          "text": "姉ヶ崎弁当、ステーキ重、台湾ラーメンなどを公式メニューに掲載しています。料理は季節によって変更されます。",
+          "url": "https://heiwanosan.co.jp/anegasaki/facilities/restaurant/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式主なメニュー本文で料理名と季節変更条件を確認。",
+          "dish": "姉ヶ崎弁当、ステーキ重、台湾ラーメン"
+        },
+        "stay": {
+          "text": "男女の浴室があります。定休日セルフデーも浴場は通常営業と同様です。ゴルフ場内に宿泊施設はなく、公式サイトで近隣ホテルを紹介しています。",
+          "url": "https://heiwanosan.co.jp/anegasaki/qanda/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式FAQで場内宿泊施設なし、近隣ホテル紹介、セルフデー浴場通常営業を確認。施設ページで男子・女子浴室を確認。",
+          "supportingUrls": [
+            "https://heiwanosan.co.jp/anegasaki/facilities/"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "雄大な自然の中に広がる東西36ホール。西コースは広く緩やかなフェアウェイの風景が特徴です。",
@@ -13004,12 +13073,19 @@ const DATA={
       "note": "ご利用日・人数に合うプランを公式サイトでご確認ください。",
       "comparison": {
         "play": {
-          "text": "18ホール・パー72のコース。",
+          "text": "18ホール・パー72のコース。2026年10月1日からサブバッグの使用を禁止しています。",
           "url": "https://www.milgolf.co.jp/",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文を確認。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存18H/PAR72を保持し、公式トップのサブバッグ使用禁止開始日と条件を追記。"
         },
-        "car": null,
+        "car": {
+          "text": "台風25号の影響による通行止めのため、公式は市原IC方面を避けるよう案内しています。茂原長柄スマートICから現地の迂回案内に従い茂原街道経由、または蘇我ICから茂原街道経由。道路状況は出発前に確認してください。ICからの所要時間は未確認です。",
+          "url": "https://www.milgolf.co.jp/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップの通行止め・迂回本文を確認。ICからの所要時間は記載がないため推測しない。交通注意のみの部分補完。"
+        },
         "rail": {
           "text": "JR内房線・五井駅東口からクラブバス約30分。土日祝のみ運行し、平日は運休です。2名以上・電話での完全予約制で、往路は2日前の17時まで、復路は当日フロントで予約します。",
           "url": "https://www.milgolf.co.jp/access.htm#clubbus",
