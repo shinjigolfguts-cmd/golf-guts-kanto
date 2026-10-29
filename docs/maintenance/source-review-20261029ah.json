@@ -1,0 +1,765 @@
+{
+  "note": "予約は実行していない。公開カレンダーと公開空き枠表示の読み取りのみ。プランごとの備考を実読し条件を転記。",
+  "items": [
+    {
+      "id": 262,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=44&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384382,
+      "date": 20261107,
+      "displayedTaxFields": {
+        "chg_1384382": "14500",
+        "vt_1384382": "1,450円",
+        "ut_1384382": "450円",
+        "tchg_1384382": "16400",
+        "stock_1384382": "4",
+        "youbi_1384382": "6"
+      },
+      "calendarRequest": {
+        "ccid[]": 44,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384382,
+        "cc_id": 44,
+        "date": 20261107,
+        "min": 4,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "f2e86c0023a5705cdce236259babcacd6802123888efcc0b074a13e619d3db32",
+      "conditions": "4名専用。人数変更時は3名3,300円、2名7,700円追加。ロッカー440円別途。フェアウェイ乗入れ希望時は880円別途、天候等で不可の場合あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 263,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=43&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1356837,
+      "date": 20261120,
+      "displayedTaxFields": {
+        "chg_1356837": "12073",
+        "vt_1356837": "1,207円",
+        "ut_1356837": "750円",
+        "tchg_1356837": "14030",
+        "stock_1356837": "5",
+        "youbi_1356837": "5"
+      },
+      "calendarRequest": {
+        "ccid[]": 43,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1356837,
+        "cc_id": 43,
+        "date": 20261120,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "52596e674e31051ae9842885303f006c6e1b2868739c1de9bff5a0171eb9c706",
+      "conditions": "3名550円、2名1,100円追加。2名は組合せの場合あり。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 264,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=151&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384698,
+      "date": 20261102,
+      "displayedTaxFields": {
+        "chg_1384698": "6319",
+        "vt_1384698": "631円",
+        "ut_1384698": "450円",
+        "tchg_1384698": "7400",
+        "stock_1384698": "5",
+        "youbi_1384698": "1"
+      },
+      "calendarRequest": {
+        "ccid[]": 151,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384698,
+        "cc_id": 151,
+        "date": 20261102,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "befc303c42c53347846df55aa1c83603a7f2c99d85d3dde8c1c24d1388d6e1a3",
+      "conditions": "2サム保証、2・3名の割増なし。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 266,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=38&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1326090,
+      "date": 20261102,
+      "displayedTaxFields": {
+        "chg_1326090": "8500",
+        "vt_1326090": "850円",
+        "ut_1326090": "650円",
+        "tchg_1326090": "10000",
+        "stock_1326090": "1",
+        "youbi_1326090": "1"
+      },
+      "calendarRequest": {
+        "ccid[]": 38,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1326090,
+        "cc_id": 38,
+        "date": 20261102,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "f4b177356bb59d0a7b0852407e6da7cb34bc8848fe45d7961d968469e05f088b",
+      "conditions": "2サム保証、2名1,100円追加、3名割増なし。ロッカー440円別途。フェアウェイ乗入れ希望時は550円別途、天候等で不可の場合あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 269,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=46&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1383681,
+      "date": 20261104,
+      "displayedTaxFields": {
+        "chg_1383681": "5073",
+        "vt_1383681": "507円",
+        "ut_1383681": "400円",
+        "tchg_1383681": "5980",
+        "stock_1383681": "3",
+        "youbi_1383681": "3"
+      },
+      "calendarRequest": {
+        "ccid[]": 46,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1383681,
+        "cc_id": 46,
+        "date": 20261104,
+        "min": 4,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "4176f2016f12558d93b8ab8692da5b55c6c81c84f5fb0582109a0aabf6b0b6e3",
+      "conditions": "4名未満は通常料金8,180円へ変更し、2名はさらに1,100円追加。ロッカー440円別途。フェアウェイ乗入れ無料だが天候等で不可の場合あり、不可でも返金なし。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 270,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=157&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1383321,
+      "date": 20261108,
+      "displayedTaxFields": {
+        "chg_1383321": "15082",
+        "vt_1383321": "1,508円",
+        "ut_1383321": "400円",
+        "tchg_1383321": "16990",
+        "stock_1383321": "1",
+        "youbi_1383321": "0"
+      },
+      "calendarRequest": {
+        "ccid[]": 157,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1383321,
+        "cc_id": 157,
+        "date": 20261108,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "382221411b779486b9aa31f6583afa54b33cf3eff03579ebb8d6d454eb462e42",
+      "conditions": "3～4名受付、3名割増なし。2名に変更すると組合せの場合あり、2名でラウンドする場合は3,300円追加。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 271,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=172&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1383630,
+      "date": 20261108,
+      "displayedTaxFields": {
+        "chg_1383630": "18537",
+        "vt_1383630": "1,853円",
+        "ut_1383630": "600円",
+        "tchg_1383630": "20990",
+        "stock_1383630": "9",
+        "youbi_1383630": "0"
+      },
+      "calendarRequest": {
+        "ccid[]": 172,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1383630,
+        "cc_id": 172,
+        "date": 20261108,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "89f8efab1ea77c1f9e476556035e87ebf452467c0efbb20bc47e28c0bba1300c",
+      "conditions": "2サム保証、2・3名の割増なし。ロッカー440円別途。フェアウェイ乗入れは組単位申込み・1人1,100円追加、天候等で不可の場合あり。遅いスタートは日没の可能性あり。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 298,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=42&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1371375,
+      "date": 20261102,
+      "displayedTaxFields": {
+        "chg_1371375": "6855",
+        "vt_1371375": "685円",
+        "ut_1371375": "450円",
+        "tchg_1371375": "7990",
+        "stock_1371375": "4",
+        "youbi_1371375": "1"
+      },
+      "calendarRequest": {
+        "ccid[]": 42,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1371375,
+        "cc_id": 42,
+        "date": 20261102,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "d2eadf53f4b16d22565579ee133c76c455a0e024b970fcd7d5896079189143a9",
+      "conditions": "3～4名受付、3名割増なし。2名1,100円追加の記載があるが、2名予約を保証するプランではない。ロッカー440円別途。乗入れ希望時は550円追加、天候等で不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 299,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=41&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384732,
+      "date": 20261105,
+      "displayedTaxFields": {
+        "chg_1384732": "6355",
+        "vt_1384732": "635円",
+        "ut_1384732": "400円",
+        "tchg_1384732": "7390",
+        "stock_1384732": "1",
+        "youbi_1384732": "4"
+      },
+      "calendarRequest": {
+        "ccid[]": 41,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384732,
+        "cc_id": 41,
+        "date": 20261105,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "60e3a547b072877eb56a91bb0b516b8827f3529d31fd4fdfdb88685b1d7308df",
+      "conditions": "3～4名受付、3名割増なし。2名の場合は1,100円追加の記載があるが、2名予約を保証するプランではない。ロッカー440円別途。乗入れ希望時は550円別途、天候等で不可。前半後に待ち時間の場合あり。浴室は8:00からシャワーのみ。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 370,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=34&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384505,
+      "date": 20261103,
+      "displayedTaxFields": {
+        "chg_1384505": "8528",
+        "vt_1384505": "852円",
+        "ut_1384505": "600円",
+        "tchg_1384505": "9980",
+        "stock_1384505": "1",
+        "youbi_1384505": "7"
+      },
+      "calendarRequest": {
+        "ccid[]": 34,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384505,
+        "cc_id": 34,
+        "date": 20261103,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "f85588c2f4bd4206daf568f24c3601fdd09a31db079b7b251e94f904211e8f89",
+      "conditions": "3名から受付、3名割増なし。本文に2名2,200円の記載があるが、2名受付可能とは扱わない。日没時点で終了・返金なし。ロッカー440円別途。乗入れ希望時は550円別途、天候等で不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 371,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384706,
+      "date": 20261103,
+      "displayedTaxFields": {
+        "chg_1384706": "11164",
+        "vt_1384706": "1,116円",
+        "ut_1384706": "700円",
+        "tchg_1384706": "12980",
+        "stock_1384706": "4",
+        "youbi_1384706": "7"
+      },
+      "calendarRequest": {
+        "ccid[]": 35,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384706,
+        "cc_id": 35,
+        "date": 20261103,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "62001c3943fc7399294231d1dc906a7927724153ed96e55db05637bf0cfdb53c",
+      "conditions": "2サム保証、2名2,200円追加、3名割増なし。ただし人数に対して最小組数に変更しない場合は3名割増1,100円の適用あり。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 372,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=30&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1379826,
+      "date": 20261102,
+      "displayedTaxFields": {
+        "chg_1379826": "3991",
+        "vt_1379826": "399円",
+        "ut_1379826": "600円",
+        "tchg_1379826": "4990",
+        "stock_1379826": "11",
+        "youbi_1379826": "1"
+      },
+      "calendarRequest": {
+        "ccid[]": 30,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1379826,
+        "cc_id": 30,
+        "date": 20261102,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "fb77d00d9c81810ad96c20d72f37b0f74cb80f44a1b758d1a6d3ea828f0368c4",
+      "conditions": "3～4名受付、3名割増なし。2名予約不可、当日2名変更は1,650円追加。ロッカー440円別途。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 373,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=31&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1383895,
+      "date": 20261110,
+      "displayedTaxFields": {
+        "chg_1383895": "3982",
+        "vt_1383895": "398円",
+        "ut_1383895": "600円",
+        "tchg_1383895": "4980",
+        "stock_1383895": "21",
+        "youbi_1383895": "2"
+      },
+      "calendarRequest": {
+        "ccid[]": 31,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1383895,
+        "cc_id": 31,
+        "date": 20261110,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "f9ece7f297fd638f3b7d9ff35b2d42536e51113cbb4e6097b08b00142a81662c",
+      "conditions": "3～4名受付、3名割増なし。2名予約不可、当日2名変更は550円追加。ロッカー440円別途。乗入れ希望時は550円追加、天候等で不可。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 374,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=32&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384532,
+      "date": 20261102,
+      "displayedTaxFields": {
+        "chg_1384532": "5628",
+        "vt_1384532": "562円",
+        "ut_1384532": "600円",
+        "tchg_1384532": "6790",
+        "stock_1384532": "7",
+        "youbi_1384532": "1"
+      },
+      "calendarRequest": {
+        "ccid[]": 32,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384532,
+        "cc_id": 32,
+        "date": 20261102,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "fd432aca0cf651cc0a3df3c5e1f5ed4c4dac3eef87aa61e2100dd9515c5749ea",
+      "conditions": "2サム保証、2・3名割増なし。1人にTour B XS白1ダース付き（変更不可）。レストラン営業なし。ロッカー440円別途、シャワーはロッカー利用者のみ。乗入れ希望時は550円追加、天候等で不可。バッグ運搬・積下ろし・クラブ清掃はセルフ。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 375,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=26&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1381867,
+      "date": 20261105,
+      "displayedTaxFields": {
+        "chg_1381867": "4891",
+        "vt_1381867": "489円",
+        "ut_1381867": "600円",
+        "tchg_1381867": "5980",
+        "stock_1381867": "3",
+        "youbi_1381867": "4"
+      },
+      "calendarRequest": {
+        "ccid[]": 26,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1381867,
+        "cc_id": 26,
+        "date": 20261105,
+        "min": 4,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "5299a7dff65fc85d3aeb5474f2acaced8ce39fdd6024d33462f654cec63c8e56",
+      "conditions": "4名専用。人数減少時は3名1,650円、2名3,300円追加。ロッカー440円別途。ドリンクバーは昼食時のみ、ノンアルコールビール・アルコールは対象外。レストランは昼食のみ営業。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 376,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=37&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1379549,
+      "date": 20261102,
+      "displayedTaxFields": {
+        "chg_1379549": "4437",
+        "vt_1379549": "443円",
+        "ut_1379549": "600円",
+        "tchg_1379549": "5480",
+        "stock_1379549": "4",
+        "youbi_1379549": "1"
+      },
+      "calendarRequest": {
+        "ccid[]": 37,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1379549,
+        "cc_id": 37,
+        "date": 20261102,
+        "min": 4,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "e5823d7ede8fbd4815212b4cc18c1e43d340609ee4649d291fec90fdae443d5a",
+      "conditions": "4名専用。人数減少時は3名550円、2名1,100円追加。既存予約プランから変更不可。ロッカー440円別途。9:15以降は日没の可能性があり、日没終了・返金なし。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 440,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=169&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1383055,
+      "date": 20261103,
+      "displayedTaxFields": {
+        "chg_1383055": "23991",
+        "vt_1383055": "2,399円",
+        "ut_1383055": "1,100円",
+        "tchg_1383055": "27490",
+        "stock_1383055": "6",
+        "youbi_1383055": "7"
+      },
+      "calendarRequest": {
+        "ccid[]": 169,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1383055,
+        "cc_id": 169,
+        "date": 20261103,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "9ce3ee71e1a76682845bd6b1f0f5a53677f47f5884ce1d9f14aeb61725ce37a7",
+      "conditions": "2サム保証。3名550円、2名3,300円追加。指定昼食付きの表記はありません。スタート40分前までに受付。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 441,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=71&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1382961,
+      "date": 20261107,
+      "displayedTaxFields": {
+        "chg_1382961": "17719",
+        "vt_1382961": "1,771円",
+        "ut_1382961": "500円",
+        "tchg_1382961": "19990",
+        "stock_1382961": "2",
+        "youbi_1382961": "6"
+      },
+      "calendarRequest": {
+        "ccid[]": 71,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1382961,
+        "cc_id": 71,
+        "date": 20261107,
+        "min": 3,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "a3f103cd449a1c1bd1048c3beeccddeadc0b0d19664133afacb806916a5cf6b7",
+      "conditions": "3～4名受付、3名割増なし。2名割増2,200円の記載はあるが2名予約を保証するプランではない。ロッカー440円別途。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 488,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=153&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1383752,
+      "date": 20261104,
+      "displayedTaxFields": {
+        "chg_1383752": "12719",
+        "vt_1383752": "1,271円",
+        "ut_1383752": "800円",
+        "tchg_1383752": "14790",
+        "stock_1383752": "9",
+        "youbi_1383752": "3"
+      },
+      "calendarRequest": {
+        "ccid[]": 153,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1383752,
+        "cc_id": 153,
+        "date": 20261104,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "3acf7b2e7663fe8d3481a5dbce5eb9bcded499d5081bced8d02f050b7e588652",
+      "conditions": "2サム保証、2名1,100円追加、3名割増なし。ロッカー440円別途。電話予約不可。スタート時間変更で料金変更、40分前まで受付。会員料金9,600円とは別のビジター総額です。 指定昼食以外の注文は差額が発生。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    },
+    {
+      "id": 489,
+      "field": "budget",
+      "url": "https://booking.pacificgolf.co.jp/?cc_id=66&p=guide.coursecalendar",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "planId": 1384475,
+      "date": 20261103,
+      "displayedTaxFields": {
+        "chg_1384475": "15173",
+        "vt_1384475": "1,517円",
+        "ut_1384475": "800円",
+        "tchg_1384475": "17490",
+        "stock_1384475": "4",
+        "youbi_1384475": "7"
+      },
+      "calendarRequest": {
+        "ccid[]": 66,
+        "start": 20261102,
+        "end": 20261130,
+        "tab": 0,
+        "sort": 0,
+        "couponid": 0
+      },
+      "detailRequest": {
+        "golfpack_id": 1384475,
+        "cc_id": 66,
+        "date": 20261103,
+        "min": 2,
+        "max": 4,
+        "stay_golfpack_id": 0
+      },
+      "calendarEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.calendar",
+      "detailEndpoint": "https://booking.pacificgolf.co.jp/?/p/coursecalendar.teetime",
+      "calendarSha256": "238fadde910d69914c6ce803711046ec0c284fb2d25f190c021e1f06a6d543ff",
+      "conditions": "2サム保証、2・3名割増なし、1名予約不可。ロッカー440円別途。会員料金7,180円とは別のビジター総額です。 日付・時間帯・枠数限定の料金例。別日・別プランの共通料金ではありません。予約前に最新料金・空き枠・キャンセル規定を確認してください。",
+      "attemptErrors": []
+    }
+  ]
+}
