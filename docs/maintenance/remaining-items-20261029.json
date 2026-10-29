@@ -3139,7 +3139,7 @@
       "name": "鬼怒川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://kinugawacc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ae.json",
       "evidenceBatch": "verified-followup-20261029ae.json"
     },
@@ -3824,7 +3824,7 @@
       "name": "25那須ゴルフガーデン",
       "field": "budget",
       "officialUrl": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ae.json",
       "evidenceBatch": "verified-followup-20261029ae.json"
     },
