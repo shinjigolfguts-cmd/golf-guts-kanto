@@ -1605,6 +1605,38 @@
       "url": "https://www.takanodaicc.or.jp/",
       "checked": "2026-10-29",
       "reason": "公式トップ取得時HTTP503。今回の記録では追加取得していない。"
+    },
+    {
+      "id": 2,
+      "field": "scenery",
+      "url": "https://www.h-abiko-cc.com/course/",
+      "checked": "2026-10-29",
+      "status": "needs_deeper_review",
+      "reason": "画像主体。具体的な景観の本文未確認。"
+    },
+    {
+      "id": 360,
+      "field": "scenery",
+      "url": "https://www.new-cgc.jp/course.html",
+      "checked": "2026-10-29",
+      "status": "needs_deeper_review",
+      "reason": "距離表と動画主体。景観の本文未確認。"
+    },
+    {
+      "id": 367,
+      "field": "scenery",
+      "url": "https://www.royalcc.co.jp/course.html",
+      "checked": "2026-10-29",
+      "status": "needs_deeper_review",
+      "reason": "旧ホールの画像・動画である旨の注意あり。現在の景観に無条件転用しない。"
+    },
+    {
+      "id": 246,
+      "field": "scenery",
+      "url": "https://www.brickandwood.jp/official/course/course-guide/",
+      "checked": "2026-10-29",
+      "status": "needs_deeper_review",
+      "reason": "設計経緯と距離表を確認。具体的景観はホール詳細の追加調査が必要。"
     }
   ]
 }

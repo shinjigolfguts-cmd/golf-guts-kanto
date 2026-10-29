@@ -876,7 +876,7 @@
       "name": "八王子カントリークラブ",
       "field": "stay",
       "officialUrl": "http://www.hachiojicc.co.jp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "checked": "2026-10-29",
       "reviewedUrls": [
         "https://www.hachiojicc.co.jp/facility/"
@@ -2580,7 +2580,7 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029aj.json",
       "evidenceBatch": "verified-followup-20261029aj.json"
     },
@@ -2596,7 +2596,7 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029aj.json",
       "evidenceBatch": "verified-followup-20261029aj.json"
     },
