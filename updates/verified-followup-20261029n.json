@@ -1,0 +1,105 @@
+{
+  "baseSha256": "e0ef5ffa3c651a5816b019a84088cc31020f20db1b36ffdf0e8e7772ca35c3de",
+  "reviewed": true,
+  "reviewer": "Codex official content review",
+  "updates": [
+    {
+      "id": 188,
+      "name": "京葉カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式サイトに浴室を掲載。温泉かどうか、営業時間、プラン別利用制限、宿泊設備は未確認です。",
+        "url": "https://www.keiyo-cc.co.jp/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "トップの浴室キャプションとBath表記を確認。温泉・宿泊・利用条件は推測しない。"
+      },
+      "evidenceNote": "トップの浴室キャプションとBath表記を確認。温泉・宿泊・利用条件は推測しない。"
+    },
+    {
+      "id": 196,
+      "name": "成田ヒルズカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスに男性浴場・女性浴場を掲載。温泉かどうか、営業時間、プラン別利用制限、宿泊設備は未確認です。",
+        "url": "https://narita-hills.co.jp/facilities/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設一覧の男性浴場・女性浴場を確認。温泉・宿泊・利用条件は推測しない。"
+      },
+      "evidenceNote": "公式施設一覧の男性浴場・女性浴場を確認。温泉・宿泊・利用条件は推測しない。"
+    },
+    {
+      "id": 197,
+      "name": "白鳳カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "紳士浴室・婦人浴室と、紳士浴室のリラックススペースを掲載。温泉かどうか、営業時間、プラン別利用制限、宿泊設備は未確認です。",
+        "url": "https://www.unimat-golf.jp/hakuho/service/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設案内の浴室見出しとキャプションを確認。温泉・宿泊・利用条件は推測しない。"
+      },
+      "evidenceNote": "公式施設案内の浴室見出しとキャプションを確認。温泉・宿泊・利用条件は推測しない。"
+    },
+    {
+      "id": 194,
+      "name": "千葉カントリークラブ 梅郷コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID194は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+      },
+      "evidenceNote": "共通の公式宿泊案内に各コース別所要時間を明記。ID194は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+    },
+    {
+      "id": 212,
+      "name": "千葉カントリークラブ 野田コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID212は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+      },
+      "evidenceNote": "共通の公式宿泊案内に各コース別所要時間を明記。ID212は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+    },
+    {
+      "id": 213,
+      "name": "千葉カントリークラブ 川間コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で15分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID213は車15分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+      },
+      "evidenceNote": "共通の公式宿泊案内に各コース別所要時間を明記。ID213は車15分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+    },
+    {
+      "id": 216,
+      "name": "万木城カントリークラブ",
+      "field": "scenery",
+      "before": null,
+      "after": {
+        "text": "自然に囲まれた約170万㎡の丘陵地に広がる27ホールのコース。",
+        "url": "https://www.yc21.co.jp/mangijo/course.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式コース紹介本文の自然と雄大な27ホール、概要表の丘陵・面積170万㎡を照合。海・山岳の眺望などは推測しない。"
+      },
+      "evidenceNote": "公式コース紹介本文の自然と雄大な27ホール、概要表の丘陵・面積170万㎡を照合。海・山岳の眺望などは推測しない。"
+    }
+  ]
+}
