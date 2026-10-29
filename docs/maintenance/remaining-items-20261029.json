@@ -1,6 +1,6 @@
 {
-  "baseline": "1e33a21410db8491e3dce2a599789eef872b95c5",
-  "note": "2026-10-30 batch au published; twelve official booking-calendar budget fields verified and public SHA256 matched.",
+  "baseline": "26cb1d3fc1887ca4c806f72975dfcb85c6ea3ad6",
+  "note": "2026-10-30 batch av published; twelve official booking-calendar budget fields verified and public SHA256 matched.",
   "items": [
     {
       "id": 0,
@@ -4090,14 +4090,18 @@
       "name": "喜連川カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/kitsuregawa/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 380,
       "name": "広陵カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/koryo/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 381,
@@ -4120,14 +4124,18 @@
       "name": "ディアレイク・カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 382,
       "name": "皆川城カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/minagawajo/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 383,
@@ -4563,7 +4571,9 @@
       "name": "彩の森カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/sainomori/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 430,
@@ -4586,7 +4596,9 @@
       "name": "玉川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/tamagawa/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 432,
@@ -4617,7 +4629,9 @@
       "name": "ノーザンカントリークラブ 錦ヶ原ゴルフ場",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/nishikigahara/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 434,
@@ -4668,7 +4682,9 @@
       "name": "寄居カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/yorii/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 440,
@@ -4834,7 +4850,9 @@
       "name": "ツインレイクスカントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 460,
@@ -4857,21 +4875,27 @@
       "name": "関越ハイランドゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 461,
       "name": "緑野カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/midono/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 462,
       "name": "ノーザンカントリークラブ 赤城ゴルフ場",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/akagi/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "reviewRecord": "source-review-20261029av.json",
+      "evidenceBatch": "verified-followup-20261029av.json"
     },
     {
       "id": 463,
