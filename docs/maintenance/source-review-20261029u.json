@@ -1,0 +1,1025 @@
+{
+  "items": [
+    {
+      "id": 30,
+      "name": "藤ヶ谷カントリークラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.fujigayacc.co.jp/facility/",
+      "finding": "公式施設案内に掲載の浴槽写真を目視確認。"
+    },
+    {
+      "id": 239,
+      "name": "浜野ゴルフクラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.hamano-golf.co.jp/facility/",
+      "finding": "公式施設案内に掲載の浴槽写真を目視確認。"
+    },
+    {
+      "id": 416,
+      "name": "日高カントリークラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.hidaka-cc.jp/facility/",
+      "finding": "公式クラブハウス案内の「大浴場」で設備と天井の檜を確認。浴槽が檜製とは解釈しない。"
+    },
+    {
+      "id": 388,
+      "name": "イーストウッドカントリークラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.eastwoodcc.jp/facilities/",
+      "finding": "公式施設紹介の浴場写真を目視確認。写真だけで温泉や現在の営業条件を断定しない。"
+    },
+    {
+      "id": 457,
+      "name": "玉村ゴルフ場",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.tamamura-golf.jp/topics/2026/000256.html",
+      "finding": "2026年3月31日付「浴槽のご利用について」で浴槽とシャワー営業を確認。終了済みの夏季制限を現在の制限とは扱わない。"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "finding": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "stay",
+      "status": "content_verified",
+      "checked": "2026-10-29",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "finding": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+    },
+    {
+      "id": 30,
+      "field": "stay",
+      "status": "official_image_visually_verified",
+      "source": {
+        "url": "https://www.fujigayacc.co.jp/wp2/wp-content/uploads/2024/12/faci31.jpg",
+        "alt": ""
+      },
+      "imageSha256": "c5a2c2a43a920c9336db48b2e8745621558a3f87d1b67921e3ff042bfa41ac6d",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": 239,
+      "field": "stay",
+      "status": "official_image_visually_verified",
+      "source": {
+        "url": "https://www.hamano-golf.co.jp/wp-content/uploads/2024/10/garally-05-scaled.webp",
+        "alt": ""
+      },
+      "imageSha256": "5baa8d1b448f1bbd958b1c366877c0acb1825dbbcfb59be57833c708cfa4e1b1",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": 388,
+      "field": "stay",
+      "status": "official_image_visually_verified",
+      "source": {
+        "url": "http://eastwoodcc.jp/a67yghp2/wp-content/uploads/2020/12/facilities5.jpg",
+        "alt": ""
+      },
+      "imageSha256": "d9cbaed9c53e5878e965c2ecbc2bf64688055c124a81e7d646a93bc0df8b13af",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": 261,
+      "name": "桜の宮ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.sakuranomiyagc.jp/facility_other.html",
+      "sources": [
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/subimg01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci_sub_rest.jpg",
+          "alt": "レストラン"
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci_sub_faci.jpg",
+          "alt": "施設案内"
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci16.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci03.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci17.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci05.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci06.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci07.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci08.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci09.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci10.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci11.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci18.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci19.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci14.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.sakuranomiyagc.jp/images/faci20.jpg",
+          "alt": ""
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。桜の宮のセンターガーデンは浴場ではない。"
+    },
+    {
+      "id": 287,
+      "name": "白帆カントリークラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://shiraho.jp/house.html",
+      "sources": [
+        {
+          "url": "https://shiraho.jp/images/common/h_tel.png",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/m_photo.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/house01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/house02.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/house03.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/house06.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/range_driving01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/range_driving02.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/range_approach.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://shiraho.jp/images/house/range_patting.jpg",
+          "alt": ""
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://kabayagc.com/facility/",
+      "sources": [
+        {
+          "url": "https://kabayagc.com/img/common/img_tel_new.png",
+          "alt": "0295-56-2311"
+        },
+        {
+          "url": "https://kabayagc.com/img/facility/bg_pagettl.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://kabayagc.com/img/facility/img_clubhouse_01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://kabayagc.com/img/facility/img_clubhouse_02.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://kabayagc.com/img/facility/img_clubhouse_03.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://kabayagc.com/img/facility/img_clubhouse_04.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://kabayagc.com/img/facility/img_restaurant.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://kabayagc.com/img/common/pagetop.png",
+          "alt": "PAGETOP"
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 405,
+      "name": "石坂ゴルフ倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.ishizaka-gc.com/facility/",
+      "sources": [
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/lobby1-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/robby2-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2022/01/220120_img.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/restaurant2-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/restaurant1-1-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/restaurant3-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/restaurant4-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/comproom3-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/comproom1-768x1024.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/12/f794c0e0de6cf6d9d754c1fdb6aa96a1-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/range2-1024x768.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.ishizaka-gc.com/wp2/wp-content/uploads/2021/10/range-768x1024.png",
+          "alt": ""
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 412,
+      "name": "高根カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://takane-cc.co.jp/facility/",
+      "sources": [
+        {
+          "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2021/11/setubi_01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2022/06/faci220620.png",
+          "alt": ""
+        },
+        {
+          "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2021/11/range210603-3.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2022/06/takane220609-2.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2022/06/takane220609-1.jpg",
+          "alt": ""
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 434,
+      "name": "飯能ゴルフクラブ",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.hannogc.co.jp/facility.html",
+      "sources": [
+        {
+          "url": "https://www.hannogc.co.jp/images/subimg_facility.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/fla04.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/fla06.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/fla03.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci261006-3.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci260109-2.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci260109-1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci261006-5.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci260109-3.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci260109-4.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci260109-5.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci261016.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci111007_9.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci111007_8b.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hannogc.co.jp/images/faci111007_7b.jpg",
+          "alt": ""
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 435,
+      "name": "平成倶楽部 鉢形城コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.yc21.co.jp/heisei/house.html",
+      "sources": [
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/common/h_online.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/common/h_tel.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/bttn/bttn_line.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/common/h_contact.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/main_photo.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/title01.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/house.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/front.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/comproom.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/locker.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/shop.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/restaurant.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/title_range.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/range02.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/house/range04.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.yc21.co.jp/heisei/images/bttn/bttn_toppage.png",
+          "alt": "ページトップへ"
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 437,
+      "name": "武蔵カントリークラブ 笹井コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.musashi-cc.co.jp/courses/sasai_clubhouse/",
+      "sources": [
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_english.gif",
+          "alt": "ENGLISH"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_musashi.gif",
+          "alt": "MUSASHI"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_club_life.gif",
+          "alt": "CLUB LIFE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_courses.gif",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_guide.gif",
+          "alt": "GUIDE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_news.gif",
+          "alt": "NEWS"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_member.gif",
+          "alt": "MEMBER"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_english.gif",
+          "alt": "ENGLISH"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_musashi.gif",
+          "alt": "MUSASHI"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_club_life.gif",
+          "alt": "CLUB LIFE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_courses.gif",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_guide.gif",
+          "alt": "GUIDE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_news.gif",
+          "alt": "NEWS"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_member.gif",
+          "alt": "MEMBER"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/main.jpg",
+          "alt": "メイン画像"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/title.gif",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/sub_title4.gif",
+          "alt": "笹井コース　クラブハウス"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/sasai/club_house/photo4.jpg",
+          "alt": "笹井コース　クラブハウス"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/sasai/club_house/photo1.jpg",
+          "alt": "エントランス写真"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/sasai/club_house/photo2.jpg",
+          "alt": "エントランスロビー写真"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/sasai/club_house/photo3.jpg",
+          "alt": "ダイニングルーム写真"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_musashi.png",
+          "alt": "MUSASHI"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_club_life.png",
+          "alt": "CLUB LIFE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_courses.png",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_guide.png",
+          "alt": "GUIDE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_news.png",
+          "alt": "NEWS"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_member.png",
+          "alt": "MEMBER"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_english.png",
+          "alt": "ENGLISH"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_contact.png",
+          "alt": "お問い合わせ"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_terms.png",
+          "alt": "利用約款"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/copyright.png",
+          "alt": "c Musashi Country Club"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/page_top.png",
+          "alt": "ページの先頭へ"
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 438,
+      "name": "武蔵カントリークラブ 豊岡コース",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.musashi-cc.co.jp/courses/toyooka_clubhouse/",
+      "sources": [
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_english.gif",
+          "alt": "ENGLISH"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_musashi.gif",
+          "alt": "MUSASHI"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_club_life.gif",
+          "alt": "CLUB LIFE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_courses.gif",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_guide.gif",
+          "alt": "GUIDE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_news.gif",
+          "alt": "NEWS"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/menu_member.gif",
+          "alt": "MEMBER"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_english.gif",
+          "alt": "ENGLISH"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_musashi.gif",
+          "alt": "MUSASHI"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_club_life.gif",
+          "alt": "CLUB LIFE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_courses.gif",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_guide.gif",
+          "alt": "GUIDE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_news.gif",
+          "alt": "NEWS"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/header_s/menu_member.gif",
+          "alt": "MEMBER"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/main.jpg",
+          "alt": "メイン画像"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/title.gif",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/sub_title3.gif",
+          "alt": "豊岡コース　クラブハウス"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/toyooka/club_house/photo7.jpg",
+          "alt": "豊岡コース　クラブハウス"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/toyooka/club_house/photo1.jpg",
+          "alt": "エントランス写真"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/toyooka/club_house/photo2.jpg",
+          "alt": "中庭写真"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/courses/toyooka/club_house/photo3.jpg",
+          "alt": "ダイニングルーム写真"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_musashi.png",
+          "alt": "MUSASHI"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_club_life.png",
+          "alt": "CLUB LIFE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_courses.png",
+          "alt": "COURSES"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_guide.png",
+          "alt": "GUIDE"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_news.png",
+          "alt": "NEWS"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_member.png",
+          "alt": "MEMBER"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_english.png",
+          "alt": "ENGLISH"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_contact.png",
+          "alt": "お問い合わせ"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/footer_terms.png",
+          "alt": "利用約款"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/copyright.png",
+          "alt": "c Musashi Country Club"
+        },
+        {
+          "url": "https://www.musashi-cc.co.jp/wp/wp-content/themes/musashi/img/page_top.png",
+          "alt": "ページの先頭へ"
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 484,
+      "name": "東京カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://www.tokyo-cc.jp/clubhouse/",
+      "sources": [
+        {
+          "url": "https://www.tokyo-cc.jp/wp/wp-content/uploads/2017/01/P1140666.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.tokyo-cc.jp/wp/wp-content/uploads/2017/01/P1140663.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.tokyo-cc.jp/wp/wp-content/uploads/2017/01/P1140670.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.tokyo-cc.jp/wp/wp-content/uploads/2016/12/club_4.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.tokyo-cc.jp/wp/wp-content/uploads/2017/01/P1140685.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.tokyo-cc.jp/wp/wp-content/uploads/2017/01/P1060609.jpg",
+          "alt": ""
+        },
+        {
+          "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNDMzIDE1Ljk5MkwyMi42OSA1LjcxMmMuMzkzLS4zOS4zOTMtMS4wMyAwLTEuNDItLjM5My0uMzktMS4wMy0uMzktMS40MjMgMGwtMTEuOTggMTAuOTRjLS4yMS4yMS0uMy40OS0uMjg1Ljc2LS4wMTUuMjguMDc1LjU2LjI4NC43N2wxMS45OCAxMC45NGMuMzkzLjM5IDEuMDMuMzkgMS40MjQgMCAuMzkzLS40LjM5My0xLjAzIDAtMS40MmwtMTEuMjU3LTEwLjI5IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==",
+          "alt": "previous arrow"
+        },
+        {
+          "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAuNzIyIDQuMjkzYy0uMzk0LS4zOS0xLjAzMi0uMzktMS40MjcgMC0uMzkzLjM5LS4zOTMgMS4wMyAwIDEuNDJsMTEuMjgzIDEwLjI4LTExLjI4MyAxMC4yOWMtLjM5My4zOS0uMzkzIDEuMDIgMCAxLjQyLjM5NS4zOSAxLjAzMy4zOSAxLjQyNyAwbDEyLjAwNy0xMC45NGMuMjEtLjIxLjMtLjQ5LjI4NC0uNzcuMDE0LS4yNy0uMDc2LS41NS0uMjg2LS43NkwxMC43MiA0LjI5M3oiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+",
+          "alt": "next arrow"
+        },
+        {
+          "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIgZmlsbD0iI2ZmZiIvPgogICAgPC9nPgo8L3N2Zz4=",
+          "alt": "Arrow"
+        },
+        {
+          "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLjU2NSAxNi44MjJjLjEyNi4xMi4yNy4xODIuNDM2LjE4Mi4xNjggMCAuMzEtLjA2LjQzLS4xODJsNC4zOC00LjE3NWMuMTI4LS4xMi4xOS0uMjYyLjE5LS40MjQgMC0uMTYtLjA2Mi0uMzAyLS4xOS0uNDIzbC0uNjUtLjYyMmMtLjEyNS0uMTItLjI3Mi0uMTgyLS40NC0uMTgyLS4xNyAwLS4zMTQuMDYtLjQzNi4xODJsLTMuMzE0IDMuMTYtMy4yNS0zLjE2Yy0uMTI2LS4xMi0uMjctLjE4Mi0uNDMtLjE4Mi0uMTY2IDAtLjMxLjA2LS40MzUuMTgybC0uNjYyLjYyMmMtLjEyNi4xMi0uMTkuMjYyLS4xOS40MjMgMCAuMTYyLjA2NC4zMDMuMTkuNDI0bDQuMzczIDQuMTc1eiIvPgogICAgPC9nPgo8L3N2Zz4=",
+          "alt": "Arrow"
+        },
+        {
+          "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSI1MDAiID48L3N2Zz4=",
+          "alt": "Slider"
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 486,
+      "name": "相模野カントリー倶楽部",
+      "field": "stay",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "url": "https://sagamino-cc.jp/club-house.html",
+      "sources": [
+        {
+          "url": "https://sagamino-cc.jp/images/img_1455.jpg?crc=3929979899",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr1836.jpg?crc=108652786",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr1937.jpg?crc=4245327182",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr1791.jpg?crc=4016817963",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr1855.jpg?crc=3878981276",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/%e3%83%ad%e3%82%b4.svg?crc=175011212",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/img_1488237x158.jpg?crc=3758734184",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_jjj2503237x186.jpg?crc=244760441",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3555237x158.jpg?crc=426613785",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/img_1482237x158.jpg?crc=4175962138",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3483237x158.jpg?crc=3972695535",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3494237x158.jpg?crc=137501554",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3501237x158.jpg?crc=3870504984",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3509237x158.jpg?crc=4063552991",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3512237x158.jpg?crc=347012132",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3532237x158.jpg?crc=69589595",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3549237x158.jpg?crc=36913220",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3567237x158.jpg?crc=4191484557",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3553237x158.jpg?crc=319732740",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/img_1483237x158.jpg?crc=347473201",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3274-crop-u11788.jpg?crc=74884472",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3571237x158.jpg?crc=3967807436",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/img_1488.jpg?crc=4093969620",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_jjj2503.jpg?crc=4082470271",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3555.jpg?crc=485357530",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/img_1482.jpg?crc=4116757976",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3483.jpg?crc=534065178",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3494.jpg?crc=3885636704",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3501.jpg?crc=4275552103",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3509.jpg?crc=4280710592",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3512.jpg?crc=4161377902",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3532.jpg?crc=3007922",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3549.jpg?crc=4260764945",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3567.jpg?crc=3999942240",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3553.jpg?crc=3828686696",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/img_1483.jpg?crc=229965932",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3274-crop-u11841.jpg?crc=374294430",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/_rrr3571.jpg?crc=363902375",
+          "alt": ""
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/u14668-4.png?crc=3982678424",
+          "alt": " クラブハウス"
+        },
+        {
+          "url": "https://sagamino-cc.jp/images/u2555-4.png?crc=4051795803",
+          "alt": "〒252-0114 "
+        }
+      ],
+      "reason": "公式施設本文と掲載画像を目視したが、浴場・宿泊設備を特定できず。設備不存在と判断しない。"
+    },
+    {
+      "id": 407,
+      "field": "stay",
+      "status": "reviewed_unconfirmed",
+      "url": "https://kumagaya-gc.com/%e6%b5%b4%e5%ae%a4%e7%94%a8%e3%83%93%e3%83%8b%e3%83%bc%e3%83%ab%e8%a2%8b%e9%85%8d%e5%b8%83%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "checked": "2026-10-29",
+      "reason": "2022年の浴室用袋配布終了という見出しだけでは現在の設備・利用条件を確定しない。"
+    }
+  ]
+}

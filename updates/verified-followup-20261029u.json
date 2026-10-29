@@ -1,0 +1,105 @@
+{
+  "baseSha256": "31d4d2c98c15acd797d0aa9eaf856b28934040c19ab316617b77faad24a429fd",
+  "reviewed": true,
+  "reviewer": "Codex official text and facility photo review",
+  "updates": [
+    {
+      "id": 30,
+      "name": "藤ヶ谷カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場あり。公式施設写真で屋内浴槽を確認。利用時間・宿泊設備の有無は未確認。",
+        "url": "https://www.fujigayacc.co.jp/facility/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設案内に掲載の浴槽写真を目視確認。"
+      },
+      "evidenceNote": "公式施設案内に掲載の浴槽写真を目視確認。"
+    },
+    {
+      "id": 239,
+      "name": "浜野ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場あり。公式施設写真で屋内浴槽を確認。利用時間・宿泊設備の有無は未確認。",
+        "url": "https://www.hamano-golf.co.jp/facility/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設案内に掲載の浴槽写真を目視確認。"
+      },
+      "evidenceNote": "公式施設案内に掲載の浴槽写真を目視確認。"
+    },
+    {
+      "id": 416,
+      "name": "日高カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "大浴場あり。天井に天然の檜を使用。利用時間・宿泊設備の有無は未確認。",
+        "url": "https://www.hidaka-cc.jp/facility/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブハウス案内の「大浴場」で設備と天井の檜を確認。浴槽が檜製とは解釈しない。"
+      },
+      "evidenceNote": "公式クラブハウス案内の「大浴場」で設備と天井の檜を確認。浴槽が檜製とは解釈しない。"
+    },
+    {
+      "id": 388,
+      "name": "イーストウッドカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場あり。公式施設写真で屋内浴槽を確認。利用時間・宿泊設備の有無は未確認。",
+        "url": "https://www.eastwoodcc.jp/facilities/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設紹介の浴場写真を目視確認。写真だけで温泉や現在の営業条件を断定しない。"
+      },
+      "evidenceNote": "公式施設紹介の浴場写真を目視確認。写真だけで温泉や現在の営業条件を断定しない。"
+    },
+    {
+      "id": 457,
+      "name": "玉村ゴルフ場",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽・シャワーの案内あり。2026年6月1日〜9月30日はシャワーのみとの公式告知。現在の浴槽利用条件・宿泊設備の有無は未確認。",
+        "url": "https://www.tamamura-golf.jp/topics/2026/000256.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "2026年3月31日付「浴槽のご利用について」で浴槽とシャワー営業を確認。終了済みの夏季制限を現在の制限とは扱わない。"
+      },
+      "evidenceNote": "2026年3月31日付「浴槽のご利用について」で浴槽とシャワー営業を確認。終了済みの夏季制限を現在の制限とは扱わない。"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽利用の案内あり。公式料金案内にロッカー・浴槽使用料の記載。現在の利用条件・追加料金は予約時に確認。宿泊設備は未確認。",
+        "url": "https://www.ashikaga-cc.com/information/price/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+      },
+      "evidenceNote": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽利用の案内あり。公式料金案内にロッカー・浴槽使用料の記載。現在の利用条件・追加料金は予約時に確認。宿泊設備は未確認。",
+        "url": "https://www.ashikaga-cc.com/information/price/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+      },
+      "evidenceNote": "公式共通料金案内で浴槽使用料の記載を確認。多幸・飛駒の両コース連絡先を掲載。浴槽の営業時間や宿泊設備は不明。"
+    }
+  ]
+}

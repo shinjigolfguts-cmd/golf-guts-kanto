@@ -187,7 +187,8 @@
       "name": "藤ヶ谷カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.fujigayacc.co.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 32,
@@ -327,7 +328,7 @@
       "name": "イーグルレイクゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -588,7 +589,7 @@
       "name": "岡部チサンカントリークラブ 美里コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/72.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -1210,7 +1211,7 @@
       "name": "千葉セントラルゴルフクラブ",
       "field": "scenery",
       "officialUrl": "https://www.chibacentral-gc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -1255,7 +1256,7 @@
       "name": "ゴルフ倶楽部 成田ハイツリー",
       "field": "scenery",
       "officialUrl": "https://www.hightree.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -1366,7 +1367,7 @@
       "name": "PGMマリアゴルフリンクス",
       "field": "stay",
       "officialUrl": "https://www.pacificgolf.co.jp/maria/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -1846,7 +1847,8 @@
       "name": "浜野ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.hamano-golf.co.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 240,
@@ -2138,7 +2140,9 @@
       "name": "桜の宮ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://www.sakuranomiyagc.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 262,
@@ -2510,7 +2514,9 @@
       "name": "白帆カントリークラブ",
       "field": "stay",
       "officialUrl": "http://shiraho.jp",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 288,
@@ -2612,7 +2618,7 @@
       "name": "太平洋クラブ美野里コース",
       "field": "dining",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/minori/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -2627,7 +2633,7 @@
       "name": "太平洋クラブロイヤルコース",
       "field": "dining",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/royal/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -2815,7 +2821,9 @@
       "name": "ひたち大宮ゴルフクラブ",
       "field": "stay",
       "officialUrl": "http://kabayagc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 311,
@@ -2836,7 +2844,7 @@
       "name": "フレンドシップカントリークラブ",
       "field": "scenery",
       "officialUrl": "http://www.friendship-cc.co.jp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -2844,7 +2852,7 @@
       "name": "フレンドシップカントリークラブ",
       "field": "stay",
       "officialUrl": "http://www.friendship-cc.co.jp",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -2903,7 +2911,7 @@
       "name": "龍ヶ崎カントリー倶楽部",
       "field": "stay",
       "officialUrl": "http://www.ryugasaki-cc.com",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -3603,7 +3611,8 @@
       "name": "足利カントリークラブ 多幸コース",
       "field": "stay",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 384,
@@ -3624,14 +3633,15 @@
       "name": "足利カントリークラブ 飛駒コース",
       "field": "stay",
       "officialUrl": "https://www.ashikaga-cc.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 386,
       "name": "太平洋クラブ 益子PGAコース",
       "field": "stay",
       "officialUrl": "https://www.taiheiyoclub.co.jp/course/mashiko/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -3653,7 +3663,8 @@
       "name": "イーストウッドカントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.eastwoodcc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 389,
@@ -3796,7 +3807,9 @@
       "name": "石坂ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://www.ishizaka-gc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 406,
@@ -3832,14 +3845,16 @@
       "name": "高根カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://takane-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 415,
       "name": "東松山カントリークラブ",
       "field": "scenery",
       "officialUrl": "https://www.hmcc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029t.json"
     },
     {
@@ -3854,7 +3869,8 @@
       "name": "日高カントリークラブ",
       "field": "stay",
       "officialUrl": "https://www.hidaka-cc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 419,
@@ -4010,7 +4026,9 @@
       "name": "飯能ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://www.hannogc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 435,
@@ -4024,21 +4042,27 @@
       "name": "平成倶楽部 鉢形城コース",
       "field": "stay",
       "officialUrl": "https://www.yc21.co.jp/heisei/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 437,
       "name": "武蔵カントリークラブ 笹井コース",
       "field": "stay",
       "officialUrl": "https://www.musashi-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 438,
       "name": "武蔵カントリークラブ 豊岡コース",
       "field": "stay",
       "officialUrl": "https://www.musashi-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 439,
@@ -4160,7 +4184,8 @@
       "name": "玉村ゴルフ場",
       "field": "stay",
       "officialUrl": "https://www.tamamura-golf.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029u.json"
     },
     {
       "id": 458,
@@ -4391,7 +4416,9 @@
       "name": "東京カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.tokyo-cc.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 486,
@@ -4406,7 +4433,9 @@
       "name": "相模野カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://sagamino-cc.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029u.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
     },
     {
       "id": 487,
