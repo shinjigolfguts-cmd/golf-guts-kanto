@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "id": 246,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.brickandwood.jp/official/qa/",
+      "status": "content_verified",
+      "finding": "18ホールスループレーのハーフターンに、サンドイッチ・おにぎりなどの軽食を案内しています。火曜日の休場日サービスデーはレストラン・ラウンジ休業です。",
+      "conditions": "公式FAQの食事休憩と定休日の本文を確認。一般の昼食付きプランや毎日の同一メニューとは断定しない。"
+    },
+    {
+      "id": 310,
+      "field": "stay",
+      "checked": "2026-10-29",
+      "url": "https://kabayagc.com/info/detail.php?p=1525",
+      "status": "content_verified",
+      "finding": "クラブの宿泊施設は2026年9月12日で営業終了。浴槽は同年9月18日から利用再開と公式告知されています。脱衣場のビニール袋は必要に応じて持参してください。",
+      "conditions": "2026/8/18付の宿泊終了告知と浴槽再開告知を本文確認。浴槽の出典：https://kabayagc.com/info/detail.php?p=1523 。宿泊利用約款が残っていても営業中とは判断しない。"
+    },
+    {
+      "id": 6,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.asia-toride.com/facility.html",
+      "status": "content_verified",
+      "finding": "ランチはバイキング形式で、おかわり自由と公式に案内しています。具体的な料理・当日の提供内容は要確認です。",
+      "conditions": "施設案内のレストラン本文を確認。料理名や料金への含有は未確認のため追加しない。"
+    },
+    {
+      "id": 297,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.takahagi-cc.jp/facility/",
+      "status": "content_verified",
+      "finding": "公式グランドメニュー例：ジャンボエビフライ、鰻重、ローズポークのとんかつ、ジャンボチキンカツカレー。実際の提供内容は予約時・当日にご確認ください。",
+      "conditions": "施設紹介のグランドメニュー本文を確認。季節のランチとは分けて記載。料理の評判・名物は推測しない。"
+    },
+    {
+      "id": 297,
+      "field": "stay",
+      "checked": "2026-10-29",
+      "url": "https://www.takahagi-cc.jp/facility/",
+      "status": "content_verified",
+      "finding": "宿泊施設としてロッジとコテージを案内しています。宿泊料金表は1泊食事なしの条件で、予約は電話受付です。",
+      "conditions": "公式施設紹介の宿泊欄を確認。既存の宿泊施設ありという情報を保持して施設種別・食事条件・予約方法を補足。"
+    },
+    {
+      "id": 84,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://dynamic-golf.jp/chiba/",
+      "status": "content_verified",
+      "finding": "千葉店にイタリアンレストラン「かぼちゃハウス」を併設。ゴルフをしない方も利用でき、各種パーティーの相談も受け付けています。具体的な料理は要確認です。",
+      "conditions": "公式千葉店ページのレストラン本文を確認。成田・茂原店と区別。PC版メニュー詳細は取得不能のため料理名を補わない。"
+    },
+    {
+      "id": 443,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.toto-motors.co.jp/golf/chichibu/facility.htm",
+      "status": "content_verified",
+      "finding": "休憩室では食事の持ち込みが可能です。氷・トースター・ポットのお湯・電子レンジを利用できます。提供料理やレストランの営業有無は未確認です。",
+      "conditions": "公式施設紹介の休憩室本文を確認。持ち込み可能をレストランなしと解釈しない。"
+    },
+    {
+      "id": 393,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://dormy-hotels.com/resort/hotels/nasu/cuisine/",
+      "status": "content_verified",
+      "finding": "併設ホテル「ウェルネスの森 那須」の夕食は、栃木県産和牛のローストビーフなどを含むフレンチコース、朝食は和洋食バイキング。ゴルフの日帰り昼食とは別の案内です。",
+      "conditions": "ホテル公式の食事本文を確認。宿泊プラン・予約条件を確認して利用。仕入れによりメニュー変更あり。ゴルフ料金に含まれるとは記載しない。"
+    },
+    {
+      "id": 258,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.katsuragaoka.com/access/",
+      "status": "pending_content_review",
+      "reason": "公式アクセス本文に電車所要時間なし。リンクPDFは画像中心でテキスト抽出できず、地図画像の目視確認が残る。"
+    },
+    {
+      "id": 259,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.kanasago.com/access/",
+      "status": "pending_content_review",
+      "reason": "公式アクセス本文に電車所要時間なし。リンクPDFは画像中心でテキスト抽出できず、地図画像の目視確認が残る。"
+    },
+    {
+      "id": 306,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://tonegc.co.jp/access/",
+      "status": "reviewed_unconfirmed",
+      "reason": "アクセス本文はICからの距離のみ。駅からの時間未確認。"
+    },
+    {
+      "id": 314,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.mgcc.jp/access/",
+      "status": "reviewed_unconfirmed",
+      "reason": "アクセス本文と地図PDFにICから約35分の記載。駅からの時間なし。"
+    },
+    {
+      "id": 321,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.itakocc.jp/access/",
+      "status": "reviewed_unconfirmed",
+      "reason": "高速バス水郷潮来から予約制送迎8分は確認。駅からの時間は記載されず、電車アクセスとして転用しない。"
+    },
+    {
+      "id": 324,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://shimodate.co.jp/access",
+      "status": "reviewed_unconfirmed",
+      "reason": "2025年地図PDFにICからの距離・時間のみ。駅からの時間未確認。"
+    },
+    {
+      "id": 326,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://asia-shimodate.com/access.html",
+      "status": "reviewed_unconfirmed",
+      "reason": "アクセス本文は車の経路のみ。駅からの時間未確認。"
+    },
+    {
+      "id": 348,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.g7cc.co.jp/access.html",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式アクセス本文は車の経路・渋滞注意のみ。駅からの時間未確認。"
+    },
+    {
+      "id": 365,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://yaita-cc.com/access",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式アクセス本文にICからの時間のみ。駅からの時間未確認。"
+    },
+    {
+      "id": 453,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.takanashiclub.jp/access.html",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式地図map2.gifを目視。安中榛名駅から約11kmの距離のみ、移動時間に換算しない。"
+    },
+    {
+      "id": 309,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://nscc.golftk.com/",
+      "status": "access_failed",
+      "reason": "HTTP Error 403: Forbidden。電車アクセスなしとは判定しない。503は3秒後1回再試行済み。"
+    },
+    {
+      "id": 455,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.yoshii-nanyodai.jp/",
+      "status": "access_failed",
+      "reason": "HTTP Error 503: Service Unavailable。電車アクセスなしとは判定しない。503は3秒後1回再試行済み。"
+    },
+    {
+      "id": 465,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.ota-futaba-cc.co.jp/",
+      "status": "access_failed",
+      "reason": "HTTP Error 403: Forbidden。電車アクセスなしとは判定しない。503は3秒後1回再試行済み。"
+    },
+    {
+      "id": 246,
+      "field": "car",
+      "checked": "2026-10-29",
+      "url": "https://www.brickandwood.jp/official/access/",
+      "status": "reviewed_unconfirmed",
+      "reason": "現行リンクの公式地図PDFを目視したが所要時間なし。FAQのバスターミナル送迎は駅起点ではなく、概念ページと出発時刻にも相違があるため採用しない。"
+    },
+    {
+      "id": 246,
+      "field": "rail",
+      "checked": "2026-10-29",
+      "url": "https://www.brickandwood.jp/official/access/",
+      "status": "reviewed_unconfirmed",
+      "reason": "現行リンクの公式地図PDFを目視したが所要時間なし。FAQのバスターミナル送迎は駅起点ではなく、概念ページと出発時刻にも相違があるため採用しない。"
+    },
+    {
+      "id": 224,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.c-birdie.com/facility/",
+      "status": "reviewed_unconfirmed",
+      "reason": "施設紹介はレストランと眺望のみで料理名未掲載。"
+    },
+    {
+      "id": 280,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.kurikan.co.jp/clubconcept/",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式restaurantリンクはclubconceptへ転送され、食事本文を得られない。"
+    },
+    {
+      "id": 326,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://asia-shimodate.com/facility.html",
+      "status": "reviewed_unconfirmed",
+      "reason": "施設案内は2階レストランの設備のみで料理名未確認。"
+    },
+    {
+      "id": 492,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.riverside-park.co.jp/facilities/",
+      "status": "reviewed_unconfirmed",
+      "reason": "施設紹介にテラスの案内はあるが料理や提供条件は未確認。"
+    },
+    {
+      "id": 249,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://tokyo-classic.jp/",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップとゴルフページに料理情報なし。会員ページには入らず保留。"
+    },
+    {
+      "id": 5,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://edogawaline.or.jp/",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップに食事情報なし。SNSの存在だけで内容確認済みとしない。"
+    },
+    {
+      "id": 87,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+      "status": "pending_content_review",
+      "reason": "公式ゴルフ案内を取得したが、食事に関する記載の精査が残る。"
+    },
+    {
+      "id": 163,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.president-cc.jp/",
+      "status": "access_failed",
+      "reason": "HTTP Error 503: Service Unavailable。料理なしとは判断しない。"
+    },
+    {
+      "id": 274,
+      "field": "dining",
+      "checked": "2026-10-29",
+      "url": "https://www.jgmgroup.co.jp/kasama/",
+      "status": "access_failed",
+      "reason": "HTTP Error 403: Forbidden。料理なしとは判断しない。"
+    }
+  ]
+}

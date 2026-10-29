@@ -37,7 +37,8 @@
       "name": "江戸川ラインゴルフショートコース",
       "field": "dining",
       "officialUrl": "https://edogawaline.or.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 5,
@@ -51,7 +52,9 @@
       "name": "アジア取手カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.asia-toride.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 7,
@@ -454,7 +457,7 @@
       "name": "真名カントリークラブ 真名コース",
       "field": "dining",
       "officialUrl": "https://www.mannacc.com/course/manna-course",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029x.json",
       "evidenceBatch": "verified-followup-20261029x.json"
     },
@@ -506,7 +509,9 @@
       "name": "ダイナミックゴルフ千葉",
       "field": "dining",
       "officialUrl": "https://dynamic-golf.jp/chiba/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 84,
@@ -527,7 +532,8 @@
       "name": "川崎リバーサイドパーク ゴルフ場",
       "field": "dining",
       "officialUrl": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
-      "status": "pending_content_review"
+      "status": "pending_content_review",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 87,
@@ -1108,7 +1114,8 @@
       "name": "ゴールド栃木プレジデントカントリークラブ",
       "field": "dining",
       "officialUrl": "http://www.president-cc.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 163,
@@ -1668,7 +1675,8 @@
       "name": "千葉バーディクラブ",
       "field": "dining",
       "officialUrl": "https://www.c-birdie.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 225,
@@ -2005,14 +2013,16 @@
       "name": "ブリック＆ウッドクラブ",
       "field": "car",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 246,
       "name": "ブリック＆ウッドクラブ",
       "field": "rail",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 246,
@@ -2026,7 +2036,9 @@
       "name": "ブリック＆ウッドクラブ",
       "field": "dining",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 246,
@@ -2047,7 +2059,8 @@
       "name": "東京クラシッククラブ",
       "field": "dining",
       "officialUrl": "https://tokyo-classic.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 249,
@@ -2097,14 +2110,16 @@
       "name": "桂ヶ丘カントリークラブ",
       "field": "rail",
       "officialUrl": "https://www.katsuragaoka.com/",
-      "status": "pending_content_review"
+      "status": "pending_content_review",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 259,
       "name": "金砂郷カントリークラブ",
       "field": "rail",
       "officialUrl": "https://www.kanasago.com/",
-      "status": "pending_content_review"
+      "status": "pending_content_review",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 259,
@@ -2385,7 +2400,8 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "dining",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 274,
@@ -2453,7 +2469,8 @@
       "name": "栗橋國際カントリー倶楽部",
       "field": "dining",
       "officialUrl": "http://www.kurikan.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 280,
@@ -2662,7 +2679,9 @@
       "name": "高萩カントリークラブ",
       "field": "dining",
       "officialUrl": "http://www.takahagi-cc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 298,
@@ -2793,7 +2812,8 @@
       "name": "利根ゴルフ倶楽部",
       "field": "rail",
       "officialUrl": "https://tonegc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 307,
@@ -2808,7 +2828,8 @@
       "name": "ノースショアカントリークラブ",
       "field": "rail",
       "officialUrl": "https://nscc.golftk.com/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 309,
@@ -2843,9 +2864,10 @@
       "name": "ひたち大宮ゴルフクラブ",
       "field": "stay",
       "officialUrl": "http://kabayagc.com/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029u.json",
-      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "reason": "公式施設本文・掲載画像では浴場または宿泊設備を特定できず。設備なしとは判断しない。",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 311,
@@ -2898,7 +2920,8 @@
       "name": "水戸グリーンカントリークラブ 山方コース",
       "field": "rail",
       "officialUrl": "https://www.mgcc.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 314,
@@ -2972,7 +2995,8 @@
       "name": "潮来カントリー倶楽部",
       "field": "rail",
       "officialUrl": "https://www.itakocc.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 321,
@@ -3017,21 +3041,24 @@
       "name": "下館ゴルフ倶楽部",
       "field": "rail",
       "officialUrl": "https://shimodate.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 326,
       "name": "アジア下館カントリー倶楽部",
       "field": "rail",
       "officialUrl": "https://asia-shimodate.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 326,
       "name": "アジア下館カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://asia-shimodate.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 326,
@@ -3232,7 +3259,8 @@
       "name": "G7カントリー倶楽部",
       "field": "rail",
       "officialUrl": "https://www.g7cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 349,
@@ -3383,7 +3411,8 @@
       "name": "矢板カントリークラブ",
       "field": "rail",
       "officialUrl": "https://yaita-cc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 366,
@@ -3732,7 +3761,9 @@
       "name": "25那須ゴルフガーデン",
       "field": "dining",
       "officialUrl": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 393,
@@ -4125,7 +4156,9 @@
       "name": "東都秩父カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.toto-motors.co.jp/golf/chichibu/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029y.json",
+      "evidenceBatch": "verified-followup-20261029y.json"
     },
     {
       "id": 443,
@@ -4170,7 +4203,8 @@
       "name": "髙梨子倶楽部",
       "field": "rail",
       "officialUrl": "https://www.takanashiclub.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 453,
@@ -4191,7 +4225,8 @@
       "name": "吉井南陽台ゴルフコース",
       "field": "rail",
       "officialUrl": "https://www.yoshii-nanyodai.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 455,
@@ -4308,7 +4343,8 @@
       "name": "太田双葉カントリークラブ",
       "field": "rail",
       "officialUrl": "https://www.ota-futaba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 465,
@@ -4414,7 +4450,7 @@
       "name": "シルクカントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://rfgr.jp/silk/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029x.json",
       "evidenceBatch": "verified-followup-20261029x.json"
     },
@@ -4536,7 +4572,8 @@
       "name": "青梅リバーサイドパーク",
       "field": "dining",
       "officialUrl": "https://www.riverside-park.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029y.json"
     },
     {
       "id": 493,

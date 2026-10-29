@@ -1,0 +1,124 @@
+{
+  "baseSha256": "149bf3a937d57821d6992c01952329dcdb68f9cc8dc5cd14188e64b27e5cbfef",
+  "reviewed": true,
+  "reviewer": "Codex official content review",
+  "updates": [
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "18ホールスループレーのハーフターンに、サンドイッチ・おにぎりなどの軽食を案内しています。火曜日の休場日サービスデーはレストラン・ラウンジ休業です。",
+        "url": "https://www.brickandwood.jp/official/qa/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式FAQの食事休憩と定休日の本文を確認。一般の昼食付きプランや毎日の同一メニューとは断定しない。"
+      },
+      "evidenceNote": "公式FAQの食事休憩と定休日の本文を確認。一般の昼食付きプランや毎日の同一メニューとは断定しない。"
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブの宿泊施設は2026年9月12日で営業終了。浴槽は同年9月18日から利用再開と公式告知されています。脱衣場のビニール袋は必要に応じて持参してください。",
+        "url": "https://kabayagc.com/info/detail.php?p=1525",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "2026/8/18付の宿泊終了告知と浴槽再開告知を本文確認。浴槽の出典：https://kabayagc.com/info/detail.php?p=1523 。宿泊利用約款が残っていても営業中とは判断しない。"
+      },
+      "evidenceNote": "2026/8/18付の宿泊終了告知と浴槽再開告知を本文確認。浴槽の出典：https://kabayagc.com/info/detail.php?p=1523 。宿泊利用約款が残っていても営業中とは判断しない。"
+    },
+    {
+      "id": 6,
+      "name": "アジア取手カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "ランチはバイキング形式で、おかわり自由と公式に案内しています。具体的な料理・当日の提供内容は要確認です。",
+        "url": "https://www.asia-toride.com/facility.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "施設案内のレストラン本文を確認。料理名や料金への含有は未確認のため追加しない。"
+      },
+      "evidenceNote": "施設案内のレストラン本文を確認。料理名や料金への含有は未確認のため追加しない。"
+    },
+    {
+      "id": 297,
+      "name": "高萩カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式グランドメニュー例：ジャンボエビフライ、鰻重、ローズポークのとんかつ、ジャンボチキンカツカレー。実際の提供内容は予約時・当日にご確認ください。",
+        "url": "https://www.takahagi-cc.jp/facility/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "施設紹介のグランドメニュー本文を確認。季節のランチとは分けて記載。料理の評判・名物は推測しない。"
+      },
+      "evidenceNote": "施設紹介のグランドメニュー本文を確認。季節のランチとは分けて記載。料理の評判・名物は推測しない。"
+    },
+    {
+      "id": 297,
+      "name": "高萩カントリークラブ",
+      "field": "stay",
+      "before": {
+        "text": "宿泊施設を案内しています。",
+        "url": "https://www.takahagi-cc.jp/",
+        "checked": "2026-10-24",
+        "basis": "公式ページ本文の記載を確認"
+      },
+      "after": {
+        "text": "宿泊施設としてロッジとコテージを案内しています。宿泊料金表は1泊食事なしの条件で、予約は電話受付です。",
+        "url": "https://www.takahagi-cc.jp/facility/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設紹介の宿泊欄を確認。既存の宿泊施設ありという情報を保持して施設種別・食事条件・予約方法を補足。"
+      },
+      "evidenceNote": "公式施設紹介の宿泊欄を確認。既存の宿泊施設ありという情報を保持して施設種別・食事条件・予約方法を補足。"
+    },
+    {
+      "id": 84,
+      "name": "ダイナミックゴルフ千葉",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "千葉店にイタリアンレストラン「かぼちゃハウス」を併設。ゴルフをしない方も利用でき、各種パーティーの相談も受け付けています。具体的な料理は要確認です。",
+        "url": "https://dynamic-golf.jp/chiba/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式千葉店ページのレストラン本文を確認。成田・茂原店と区別。PC版メニュー詳細は取得不能のため料理名を補わない。"
+      },
+      "evidenceNote": "公式千葉店ページのレストラン本文を確認。成田・茂原店と区別。PC版メニュー詳細は取得不能のため料理名を補わない。"
+    },
+    {
+      "id": 443,
+      "name": "東都秩父カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "休憩室では食事の持ち込みが可能です。氷・トースター・ポットのお湯・電子レンジを利用できます。提供料理やレストランの営業有無は未確認です。",
+        "url": "https://www.toto-motors.co.jp/golf/chichibu/facility.htm",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設紹介の休憩室本文を確認。持ち込み可能をレストランなしと解釈しない。"
+      },
+      "evidenceNote": "公式施設紹介の休憩室本文を確認。持ち込み可能をレストランなしと解釈しない。"
+    },
+    {
+      "id": 393,
+      "name": "25那須ゴルフガーデン",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "併設ホテル「ウェルネスの森 那須」の夕食は、栃木県産和牛のローストビーフなどを含むフレンチコース、朝食は和洋食バイキング。ゴルフの日帰り昼食とは別の案内です。",
+        "url": "https://dormy-hotels.com/resort/hotels/nasu/cuisine/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "ホテル公式の食事本文を確認。宿泊プラン・予約条件を確認して利用。仕入れによりメニュー変更あり。ゴルフ料金に含まれるとは記載しない。"
+      },
+      "evidenceNote": "ホテル公式の食事本文を確認。宿泊プラン・予約条件を確認して利用。仕入れによりメニュー変更あり。ゴルフ料金に含まれるとは記載しない。"
+    }
+  ]
+}
