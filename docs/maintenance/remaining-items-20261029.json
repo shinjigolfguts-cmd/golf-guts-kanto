@@ -1,6 +1,6 @@
 {
-  "baseline": "7a0f5ffe9927e8272eb2ee0ed3ae36f6b7a572c2",
-  "note": "2026-10-30 batch ax published; eight official-source dining/stay fields verified and public SHA256 matched.",
+  "baseline": "0381425d4c5ff11a5593432b743a5499fd51ae23",
+  "note": "2026-10-30 batch ay published; eight official-source dining fields verified and public SHA256 matched.",
   "items": [
     {
       "id": 0,
@@ -124,8 +124,9 @@
       "name": "東京ベイサイドゴルフコース",
       "field": "dining",
       "officialUrl": "https://www.pacificgolf.co.jp/tokyobayside/index.asp",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029aq.json"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 18,
@@ -1845,9 +1846,9 @@
       "name": "京カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 221,
@@ -2505,9 +2506,9 @@
       "name": "霞ヶ浦カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/43.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 263,
@@ -2531,9 +2532,9 @@
       "name": "内原カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/151.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 264,
@@ -2669,9 +2670,9 @@
       "name": "鹿島の杜カントリー倶楽部",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/157.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 270,
@@ -3057,9 +3058,9 @@
       "name": "玉造ゴルフ倶楽部 捻木コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/42.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 298,
@@ -3083,9 +3084,9 @@
       "name": "玉造ゴルフ倶楽部 若海コース",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/41.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 299,
@@ -5141,9 +5142,9 @@
       "name": "大秦野カントリークラブ",
       "field": "dining",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/153.html",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "公式ギャラリーの料理名説明が空欄、又はレストラン写真なし。古い写真や料理写真だけで現在の正式メニュー・提供条件を断定しない。大秦野の2026年掲載画像は目視したが料理名表示なし。最新メニュー本文の調査が必要。"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029ay.json",
+      "reviewRecord": "source-review-20261029ay.json"
     },
     {
       "id": 488,
