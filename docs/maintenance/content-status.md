@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `cd29be4881d9e17e4df1697a41c13e981372fe3fdbd72a654d4296ed4bead4f5`
+data.js SHA256: `33fb1d75a329edc267cfa565d6f7e3af42987026c85f620f2e7ef75efd0b6f4e`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -11,10 +11,10 @@ data.js SHA256: `cd29be4881d9e17e4df1697a41c13e981372fe3fdbd72a654d4296ed4bead4f
 | 電車のアクセス | 34 |
 | 食事 | 84 |
 | 宿泊・お風呂 | 154 |
-| 料金 | 284 |
+| 料金 | 281 |
 | 景色 | 39 |
 
-空欄を含む施設：370 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：369 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -151,7 +151,7 @@ data.js SHA256: `cd29be4881d9e17e4df1697a41c13e981372fe3fdbd72a654d4296ed4bead4f
 | 191 | [袖ヶ浦カンツリークラブ 新袖コース](https://www.sodegaura.co.jp/shinsode-course/) | 料金 |
 | 192 | [袖ヶ浦カンツリークラブ 袖ヶ浦コース](https://www.sodegaura.co.jp/sodegaura-course/) | 料金・景色 |
 | 193 | [大千葉カントリー倶楽部](https://www.daichibacc.com/) | 宿泊・お風呂・料金 |
-| 194 | [千葉カントリークラブ 梅郷コース](https://www.chibacc.co.jp/umesato) | 料金・景色 |
+| 194 | [千葉カントリークラブ 梅郷コース](https://www.chibacc.co.jp/umesato) | 景色 |
 | 195 | [長南カントリークラブ](https://www.chonan-cc.com/) | 料金 |
 | 198 | [PGMマリアゴルフリンクス](https://www.pacificgolf.co.jp/maria/) | 宿泊・お風呂・料金 |
 | 199 | [紫カントリークラブ あやめコース](https://www.murasaki-cc.co.jp/ayame/) | 宿泊・お風呂 |
@@ -164,8 +164,7 @@ data.js SHA256: `cd29be4881d9e17e4df1697a41c13e981372fe3fdbd72a654d4296ed4bead4f
 | 208 | [キングフィールズゴルフクラブ](https://www.kingf-gc.jp/) | 料金・景色 |
 | 210 | [芝山ゴルフ倶楽部](https://www.tokyu-golf-resort.com/shibayama/) | 料金 |
 | 211 | [ジャパンPGAゴルフクラブ](https://zuien.net/pga/) | 電車のアクセス・宿泊・お風呂・料金 |
-| 212 | [千葉カントリークラブ 野田コース](https://www.chibacc.co.jp/noda) | 料金 |
-| 213 | [千葉カントリークラブ 川間コース](https://www.chibacc.co.jp/kawama) | 料金・景色 |
+| 213 | [千葉カントリークラブ 川間コース](https://www.chibacc.co.jp/kawama) | 景色 |
 | 214 | [紫カントリークラブ すみれコース](https://www.murasaki-cc.co.jp/sumire/) | 料金 |
 | 215 | [東急セブンハンドレッドクラブ](https://tokyu700.jp/) | 宿泊・お風呂・料金 |
 | 216 | [万木城カントリークラブ](https://www.yc21.co.jp/mangijo/) | 宿泊・お風呂・料金 |
