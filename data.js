@@ -5081,7 +5081,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載内容：圏央厚木ICから車で約23分（10km）。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに高座豚の鉄板焼き膳、高座豚カツ煮を掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、高座豚の鉄板焼き膳、高座豚カツ煮の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/037_26_20261001201144.jpg"
+        },
         "stay": {
           "text": "浴場があります。スルー・薄暮プレーはシャワーのみとなり、公式案内では冬季1〜3月は浴室営業を中止するとしています。冬季の利用条件は予約時にご確認ください。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/detail",
@@ -5340,7 +5346,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに花籠膳を掲載。限定20食。五目ごはん・たぬきそば・小鉢4種・デザート付き。追加料金や当日の提供状況は確認が必要。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、花籠膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/315_9_20261019165747.jpeg"
+        },
         "stay": {
           "text": "浴場は12:00〜17:30に営業し、午後スループレーでも時間内は利用できます。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/detail",
@@ -5392,7 +5404,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに明太クリームスパゲッティ、石焼麻婆豆腐を掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、明太クリームスパゲッティ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/062_11_20261001082947.jpg"
+        },
         "stay": {
           "text": "浴場とサウナを利用できます。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/detail",
@@ -5444,7 +5462,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに天婦羅そばとミニネギトロ丼、ルーロー飯を掲載。昼食のみ・セルフサービス。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、天婦羅そばとミニネギトロ丼、ルーロー飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/128_2_20261011151424.jpg"
+        },
         "stay": {
           "text": "浴槽とシャワーを備えています。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/detail",
@@ -5496,7 +5520,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに豚の生姜焼き、オムカツカレーを掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、豚の生姜焼き、オムカツカレーの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/094_12_20261005111347.jpg"
+        },
         "stay": {
           "text": "浴場には男女ともシャワーブースがあり、女性用の個室パウダールームも備えています。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/detail",
@@ -5546,7 +5576,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューにうな重を掲載。数量限定。味噌汁・香の物付き。昼食補助付きプランでも追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、うな重の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/079_18_20260119143051.jpg"
+        },
         "stay": {
           "text": "浴場がありますが、5〜9月はシャワーのみの案内です。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/detail",
@@ -5595,7 +5631,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューにひととのや花籠ランチを掲載。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、ひととのや花籠ランチの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/314_7_20260401090314.jpg"
+        },
         "stay": {
           "text": "浴場は通常営業ですが、サウナの利用は休止中です。午後スループレーでは浴場を利用できません。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/detail",
@@ -15792,7 +15834,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース・施設紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューにロースとんかつ、石焼麻婆豆腐を掲載。昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、ロースとんかつ、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/319_4_20261001171821.jpg"
+        },
         "budget": null,
         "stay": {
           "text": "浴場があり、シャンプー・コンディショナーやドライヤーを備えています。宿泊施設はありません。",
@@ -16487,7 +16535,13 @@ const DATA={
           "sourceType": "official",
           "basis": "公式コース概要のコース種別と公式トップの東西36H構成を照合。NEW・麻生の景観は転用しない。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューにカキフライ、銀ひらす西京焼きを掲載。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、銀ひらす西京焼きの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/081_16_20261002120227.jpg"
+        },
         "budget": null,
         "stay": {
           "text": "浴槽とシャワーを利用できますが、午後プレーではシャワーのみです。宿泊施設はありません。季節・プラン別の利用条件は公式案内をご確認ください。",
@@ -16531,7 +16585,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース・施設紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに豚骨醤油ラーメンと炒飯を掲載。昼食補助付きプランでも追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、豚骨醤油ラーメンと炒飯の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/080_29_20261010170128.jpg"
+        },
         "budget": null,
         "stay": {
           "text": "浴槽・シャワーは通常18:00まで利用できます。午後スルーはシャワーのみ、薄暮ハーフは浴場を利用できません。宿泊施設はありません。",
@@ -16576,7 +16636,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース・施設紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューにトンテキ、カキフライ膳を掲載。昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、トンテキ、カキフライ膳の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/158_3_20261002112403.jpg"
+        },
         "budget": null,
         "stay": {
           "text": "浴場があります。午後スルーはシャワーのみで、10〜3月はロッカー・浴室を利用できない案内です。9H＋α・薄暮ハーフも浴場を利用できません。18:00以降は利用制限の場合があります。宿泊施設はありません。",
@@ -17133,7 +17199,13 @@ const DATA={
           "sourceType": "official",
           "basis": "公式コース概要の種別とホール構成・距離を確認。池や眺望を未確認のまま追加しない。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに粗びきハンバーグ、ロースとんかつを掲載。昼食のみ営業。昼食補助付きプランでも料理により追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、粗びきハンバーグ、ロースとんかつの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/311_2_20260804094502.jpg"
+        },
         "budget": null,
         "stay": {
           "text": "浴室の営業再開を2026年9月19日付で案内。午後スルーなどにはシャワーのみ利用できるプランがあり、入室・利用時間は予約プランで異なります。",
@@ -25116,7 +25188,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文または公式メニュー画像を確認。高崎駅からタクシーで約30分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに天ざるそばとミニうな丼、石焼麻婆豆腐を掲載。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、天ざるそばとミニうな丼、石焼麻婆豆腐の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/019_25_20261008152538.jpg"
+        },
         "stay": {
           "text": "浴場にはタオル・シャンプー類を用意。女性浴場にはドライヤー・乳液・シャワーキャップもあります。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/twin/detail",
@@ -25160,7 +25238,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文または公式メニュー画像を確認。高崎駅からタクシーで約20分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに鉄板ビーフガーリックライス、明太クリームスパゲッティを掲載。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、鉄板ビーフガーリックライス、明太クリームスパゲッティの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/127_14_20260930103238.jpg"
+        },
         "stay": {
           "text": "浴場があり、ボディソープ・シャンプー・コンディショナーを備えています。宿泊施設はありません。 2026年10月29日の公式告知では男性浴槽の営業を自粛し、男性はシャワーのみと案内。女性浴室は問題なしとされています。再開時期は未確認です。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/notice/#notice_12716630",
@@ -25308,7 +25392,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文または公式メニュー画像を確認。上毛高原駅または渋川駅からタクシー利用を案内しています。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューにカキフライ、天婦羅そばとミニネギトロ丼を掲載。10月からのランチメニュー。料金・プラン別の条件は予約時に確認。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、カキフライ、天婦羅そばとミニネギトロ丼の料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/017_2_20260930094806.jpg"
+        },
         "stay": {
           "text": "浴場があり、リンスインシャンプー・ボディソープ・ドライヤーを用意。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/detail",
@@ -26587,7 +26677,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式サイトの本文を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに甘だれ小天重とお蕎麦のセットを掲載。そばは温・冷を選択。昼食補助付きプランでも追加料金あり。 メニューは変更される場合があるため来場前に確認。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストランページに掲載されたメニュー画像を目視し、甘だれ小天重とお蕎麦のセットの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/090_7_20261012095546.jpg"
+        },
         "budget": null,
         "stay": {
           "text": "浴槽は通常12〜18時に利用可能。女性用にReFaシャワーヘッドと個別パウダールームを備えます。スループレーは原則シャワーのみで、プランによって利用不可。宿泊施設はありません。",
