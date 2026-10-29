@@ -60,3 +60,22 @@
 ドライラン→適用→500ページ/503サイトマップURL生成完了。384検索条件、Python11テスト、JavaScript構文、SEO検証、git diff --check通過。独立比較で承認10項目以外の全データ、500 ID・順序・分類を保持。デザイン/お気に入りコード無変更。未入力619項目（車8、電車34、食事84、宿泊・風呂168、料金285、景色40）。空欄あり376コース。
 
 data.js SHA256: b7dbbd0426f66e31b9fd5e32b413553487a9346a7d9ed935eb12c8fb87a71abc。
+
+## 公開・実物照合完了
+
+入力コミット8f6676604f848375d16b81ec4853a2d964d7bafc、適用コミット16e86f1b35ecaefe47b6f487478447859036d2fa。verified-update実行40827529677の全工程成功。2026-10-29に公開data.jsと変更9ページを検証済み生成物とバイト比較し、計10ファイルすべて一致。9コース10項目を公開・反映検証済み。
+
+```text
+data.js MATCH b7dbbd0426f66e31b9fd5e32b413553487a9346a7d9ed935eb12c8fb87a71abc
+courses/21.html MATCH caf6a793293a647ada74a3937873caaabba23c480a91e694ce25b6d73248ed6d
+courses/83.html MATCH b01113b0970f7a3b6359b22b3813146489a49000098a823a9215fd38b36bf835
+courses/93.html MATCH 2f070ebdd860bf8d1c0c699baab3aea4b03e8dfa707fe798c48d61f3b77dac13
+courses/369.html MATCH 9adb43863a8cf65c8c7ff98e62c8507c1093a915a86aeaf816a43c2aab96227e
+courses/372.html MATCH 43286b267014d4471e71b8afac143420bbfd3c4d49279174370c4ae97a2d1867
+courses/373.html MATCH 2c637819ec02844e42a4058b0413b24b0035e41ca736a4e742214b55ff0c2893
+courses/376.html MATCH b1465d91dfd58e7d182983d8d0035743fdab38eeafb850e3bd072b9529c83392
+courses/440.html MATCH 600e7648796440304bd89aa928207ab4d39c1dd2a77587e7e6e33cde657682ec
+courses/441.html MATCH 744d77799a2cce801bf7585f428f911912d00062406a5df93ee5ec9954276d43
+```
+
+この実行のh〜k合計は27コース40項目（空欄補完35、既存情報の補足5）。未入力654→619。500 ID/既存情報/分類/デザイン/お気に入り機能を保持。全項目調査は未完了。残件619と、記入済み欄の一部未確認条件を引き継ぐ。
