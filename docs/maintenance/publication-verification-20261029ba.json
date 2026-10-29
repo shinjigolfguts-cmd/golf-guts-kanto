@@ -1,0 +1,28 @@
+{
+  "batch": "verified-followup-20261029ba.json",
+  "checked": "2026-10-30",
+  "inputCommit": "dfa1e6912e0395a9ca04cbd8978b341d35f687c9",
+  "generatedMainCommit": "d5a90ecf26223caccb5b621e36392809933c68f0",
+  "verifiedUpdateRun": {
+    "id": 40974504746,
+    "conclusion": "success"
+  },
+  "pagesRun": {
+    "id": 40974523361,
+    "conclusion": "success"
+  },
+  "files": {
+    "data.js": "df7595ca17f0de43b6970583c4223d571d32d41d4ad47a8e49fdd0ad2b9dfe52",
+    "courses/426.html": "f758841ac122ebb088fedd3c2bf4795283b7ef11bf51174adc972f061809e9fb"
+  },
+  "result": "public_sha256_match",
+  "remaining": {
+    "total": 215,
+    "car": 8,
+    "rail": 24,
+    "dining": 25,
+    "stay": 60,
+    "budget": 90,
+    "scenery": 8
+  }
+}

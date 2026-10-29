@@ -1,6 +1,6 @@
 {
-  "baseline": "7341059f78b217c552812fc6d2ce277f382a8b66",
-  "note": "az公開検証済み。空欄217。未確認を施設なしと扱わない。",
+  "baseline": "d5a90ecf26223caccb5b621e36392809933c68f0",
+  "note": "ba公開検証済み。空欄215。未確認を施設なしと扱わない。",
   "items": [
     {
       "id": 0,
@@ -108,7 +108,10 @@
       "name": "カメリアヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.camelliahills.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップがメンテナンス・交通告知のみ。料金内容を取得できない。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 13,
@@ -2195,7 +2198,10 @@
       "name": "香取カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.katoricc.com/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reason": "公式トップがHTTP503。規定再試行後も失敗。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 241,
@@ -2262,7 +2268,10 @@
       "name": "新千葉カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.shinchiba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reason": "公式トップがHTTP503。規定再試行後も失敗。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 243,
@@ -2336,7 +2345,10 @@
       "name": "ブリック＆ウッドクラブ",
       "field": "budget",
       "officialUrl": "https://www.brickandwood.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reason": "公式施設・アクセス本文に料金額なし。予約リンクはログイン宛。地図にIC・駅からの所要時間記載なし。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 248,
@@ -3123,14 +3135,20 @@
       "name": "ダイヤグリーン倶楽部",
       "field": "rail",
       "officialUrl": "http://www.daiyagreen.com",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reason": "公式HTTP食事本文は取得できるがHTTPSは503。アクセス本文は旧列車名・運賃を含み現況未確認。詳細はba引継ぎ。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 300,
       "name": "ダイヤグリーン倶楽部",
       "field": "dining",
       "officialUrl": "http://www.daiyagreen.com",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reason": "公式HTTP食事本文は取得できるがHTTPSは503。アクセス本文は旧列車名・運賃を含み現況未確認。詳細はba引継ぎ。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 300,
@@ -4548,24 +4566,30 @@
       "name": "霞ヶ関カンツリー倶楽部",
       "field": "dining",
       "officialUrl": "https://www.kasumigasekicc.or.jp/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ap.json"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029ba.md",
+      "evidenceBatch": "verified-followup-20261029ba.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 426,
       "name": "霞ヶ関カンツリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.kasumigasekicc.or.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reason": "公式利用案内に予約・同伴条件はあるがプレー料金の具体額なし。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 426,
       "name": "霞ヶ関カンツリー倶楽部",
       "field": "stay",
       "officialUrl": "https://www.kasumigasekicc.or.jp/",
-      "status": "needs_deeper_review",
-      "reviewRecord": "source-review-20261029aj.json",
-      "reason": "取得した公式トップと施設関連ページで浴場・宿泊条件を確定できず。画像・追加資料の詳細確認が必要。公式情報が存在しないとは断定しない。"
+      "status": "published_verified",
+      "reviewRecord": "followup-20261029ba.md",
+      "evidenceBatch": "verified-followup-20261029ba.json",
+      "checked": "2026-10-30"
     },
     {
       "id": 427,
@@ -4631,7 +4655,10 @@
       "name": "東京ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tokyogolfclub.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reason": "公式利用案内では予約は会員から問い合わせ。公開本文に料金額なし。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 432,
@@ -4973,7 +5000,10 @@
       "name": "太田双葉カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.ota-futaba-cc.co.jp/",
-      "status": "pending_content_review"
+      "status": "access_failed",
+      "reason": "公式トップはHTTP403。回避せず保留。",
+      "checked": "2026-10-30",
+      "reviewRecord": "followup-20261029ba.md"
     },
     {
       "id": 466,
