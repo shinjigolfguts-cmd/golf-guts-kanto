@@ -4747,7 +4747,16 @@ const DATA={
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月2日掲載例は「午後ハーフプレー/割増無！/カートナビ付！」が6,000円です。午後9ホール、リモコンカート、2サム保証で、2・3バッグの割増なしです。",
+          "url": "https://wst1.asts.jp/golfnet/cc/06650CC/plan/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトから遷移する公式予約カレンダーで、プラン名、料金、プレー日、条件、実際のスタート枠を確認。",
+          "conditions": "2026年11月2日の公開予約プラン例。午後9ホール、リモコンカート、2サム保証、2・3バッグ割増なし。14:07・14:14の公開スタート枠を確認。日没時はその時点で終了。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日掲載例 6,000円"
+        },
         "scenery": {
           "text": "モクレン・こぶし、つつじ・さつきなどの花木が彩る庭園コース。くすのきコースでは森と湖の調和を楽しめます。",
           "url": "https://www.mannacc.com/course",
@@ -13013,7 +13022,16 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "チキン南蛮バジルソース添え"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月10日掲載例は「セルフ・昼食付・乗用カート」が12,000円です。公式表示は昼食付き、4人乗りカート、2サム保証です。",
+          "url": "https://wst1.asts.jp/golfnet/cc/0358cc/plan/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページから遷移する公式予約カレンダーで、プラン名、税込料金、対象日、食事・カート・人数条件と空き表示を確認。",
+          "conditions": "2026年11月10日の公開予約プラン例。12,000円（税込）。セルフ、昼食付き、4人乗りカート、2サム保証。空き表示○を確認。日程・空き枠で料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月10日掲載例 12,000円"
+        },
         "stay": {
           "text": "公式施設案内にバスルームを掲載。男性用の写真として紹介されています。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
           "url": "https://zuien.net/pga/facilities/",
@@ -13957,7 +13975,16 @@ const DATA={
           "sourceType": "official",
           "menuImageUrl": "https://reserve.accordiagolf.com/images/restaurantMenus/150_13_20261004120728.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月2日掲載例は「【午後ハーフ】9Hプレー☆割増なし★ロッカーなし・前精算※日没了承」が総額4,000円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/kazusa/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月2日の公開予約プラン例。総額4,000円。午後9ホール、セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税650円、諸経費0円と表示。掲載期間は～2026年11月30日。ロッカーなし、前精算、日没了承。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日掲載例 総額4,000円"
+        },
         "stay": {
           "text": "宿泊施設はありません。日帰りでのラウンドに対応しています。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/kazusa/detail",
@@ -17270,7 +17297,16 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "特製親子丼"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月30日掲載例は「【秋季優待】平日/昼食付/セルフ/乗用カート/3B以上」が総額8,570円です。最新GPSカートナビ付きで、公開スタート枠を確認しました。",
+          "url": "https://www.jgo-os.com/reserve/come.cgi?courseid=08127&userkindid=003",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトの「オンライン予約・料金」から遷移する公式予約カレンダーで、プラン名、総額、対象日、人数・昼食・カート条件、実際のスタート枠を確認。",
+          "conditions": "2026年11月30日の公開予約プラン例。総額8,570円（表示は7,200円＋税）。平日、3バッグ以上、昼食付き、セルフ、乗用カート、最新GPSカートナビ付き。公開スタート枠あり。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月30日掲載例 総額8,570円"
+        },
         "stay": null
       },
       "id": 283
@@ -18742,7 +18778,16 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "豚バラスタミナ定食"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月4日掲載例は「●雨割特典付き●【9：52以降限定】昼食付/2B割増無し」が4,690円（税込）です。セルフ・乗用カート、2サム保証で、公開予約枠を確認しました。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/tokyo-leisure/kabaya/calendar/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトから遷移する公式予約カレンダーで、プラン名、税込料金、対象日、昼食・人数・プレースタイル・カート条件と実際の予約枠を確認。",
+          "conditions": "2026年11月4日の公開予約プラン例。4,690円（税込）。9:52以降限定、昼食付き、2バッグ割増なし、セルフ、乗用カート、2サム保証。公開予約枠あり。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日掲載例 4,690円（税込）"
+        },
         "stay": {
           "text": "クラブの宿泊施設は2026年9月12日で営業終了。浴槽は同年9月18日から利用再開と公式告知されています。脱衣場のビニール袋は必要に応じて持参してください。",
           "url": "https://kabayagc.com/info/detail.php?p=1525",
@@ -26786,7 +26831,16 @@ const DATA={
           "sourceType": "official"
         },
         "stay": null,
-        "budget": null
+        "budget": {
+          "text": "公式予約の2026年10月30日掲載例は「【午後スルー】完全セルフ・乗用・2サム保証・割増なし」が総額6,980円です。公式カレンダーで同日の公開枠を確認しました。",
+          "url": "https://webpack2.jp/reserve/calendar/visitor/337502",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトから遷移する公式予約カレンダーで、プラン名、総額、対象日、セルフ・乗用・人数条件と公開枠を確認。",
+          "conditions": "2026年10月30日の公開予約プラン例。総額6,980円（税抜表示5,800円）。午後スルー、完全セルフ、乗用カート、2サム保証、割増なし。公開枠あり。",
+          "priceVerified": true,
+          "priceLabel": "2026年10月30日掲載例 総額6,980円"
+        }
       },
       "id": 455
     },
@@ -27250,7 +27304,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の浴室・宿泊設備欄を確認"
         },
-        "budget": null
+        "budget": {
+          "text": "公式予約の2026年11月2日掲載例は「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」が総額2,000円です。セルフ・乗用（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月2日の公開予約プラン例。総額2,000円。9ホール、セルフ、乗用（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税300円、諸経費0円と表示。掲載期間は～2026年11月30日。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月2日掲載例 総額2,000円"
+        }
       },
       "id": 463
     },
@@ -28560,7 +28623,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式レストランページに掲載されたメニュー画像を目視し、甘だれ小天重とお蕎麦のセットの料理名と利用条件を確認。画像: https://reserve.accordiagolf.com/images/restaurantMenus/090_7_20261012095546.jpg"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月4日掲載例は「薄暮0.5Rハーフプレー ※2B保証割増ナシ※ロッカー・お風呂利用不可」が総額5,200円です。セルフ・ナビ付乗用カート（4人用）、2サム保証で、公式表示は昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約カレンダー本文でプラン名、表示総額、対象日・期間、実際の空き枠、カート、セルフ、食事、人数条件を対応づけて確認。",
+          "conditions": "2026年11月4日の公開予約プラン例。総額5,200円。薄暮0.5R、セルフ、ナビ付乗用カート（4人用）、2サム保証、昼食なし。追加料金欄は「割増無し」。利用税400円、諸経費0円と表示。掲載期間は～2026年11月30日。ロッカー・風呂利用不可。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月4日掲載例 総額5,200円"
+        },
         "stay": {
           "text": "浴槽は通常12〜18時に利用可能。女性用にReFaシャワーヘッドと個別パウダールームを備えます。スループレーは原則シャワーのみで、プランによって利用不可。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/detail",
