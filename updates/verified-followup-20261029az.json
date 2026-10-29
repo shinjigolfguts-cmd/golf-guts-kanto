@@ -1,0 +1,100 @@
+{
+  "baseSha256": "1fbd77f5af07a4f9c7abe9dbd0fd7b758a32c142cbbf9d592226413adc1fe8d4",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 162,
+      "name": "ゴールド佐野カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式料金案内では、午後ハーフは浴室・ロッカーを利用できません。4～8月の土日祝限定の早朝スルーも浴槽・ロッカー等の館内施設は利用できず、シャワーのみ利用できます。",
+        "url": "https://www.goldgolf.co.jp/sano/fee.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式料金案内の早朝スルー・午後ハーフの利用条件を実読。",
+        "conditions": "この制限は記載の特別プランに対するものです。通常プレーの浴室利用時間、温泉・宿泊設備は未確認です。"
+      },
+      "evidenceNote": "公式料金案内の早朝スルー・午後ハーフの利用条件を実読。"
+    },
+    {
+      "id": 224,
+      "name": "千葉バーディクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式利用案内では、レストランは7:00から営業しています。レストラン24卓、外部テラス席3卓、喫煙席3卓を案内しています。コンペ等でパーティーメニューを注文する場合は部屋の利用料金が不要です。",
+        "url": "https://www.c-birdie.com/guide/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式利用案内の施設案内・個室利用料の注記を実読。",
+        "conditions": "終了時刻、料理名、料理価格は未確認です。個室利用の詳細は予約時に確認してください。"
+      },
+      "evidenceNote": "公式利用案内の施設案内・個室利用料の注記を実読。"
+    },
+    {
+      "id": 262,
+      "name": "笠間カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式案内では、2026年9月1日以降、平日のレストラン朝食営業を中止しています。朝食の利用を予定する場合はご注意ください。",
+        "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=44&news_id=61608&p=guide.news_detail",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "2026年8月21日付の公式「平日サービス変更のお知らせ」本文で平日の朝食営業中止を確認。",
+        "conditions": "土日祝の朝食、昼食の営業時間・料理・価格はこの案内では確認できません。レストラン全体の営業中止を意味するものではありません。"
+      },
+      "evidenceNote": "2026年8月21日付の公式「平日サービス変更のお知らせ」本文で平日の朝食営業中止を確認。"
+    },
+    {
+      "id": 266,
+      "name": "カントリークラブ・ザ・レイクス",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式案内では、2026年10月1日以降のレストランは平日8:00からランチ終了まで、土日祝6:15～16:00の営業です。平日のプレー後利用はパーティ予約者に限られます。",
+        "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=38&news_id=62533&p=guide.news_detail",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "2026年9月30日付の公式営業時間変更案内と添付PDF本文を確認。",
+        "conditions": "季節・予約状況により営業時間が変わる場合があります。料理名・価格は未確認です。",
+        "supportingUrls": [
+          "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/course_news/6abc7641/レストラン営業時間変更のお知らせ.pdf"
+        ]
+      },
+      "evidenceNote": "2026年9月30日付の公式営業時間変更案内と添付PDF本文を確認。"
+    },
+    {
+      "id": 421,
+      "name": "嵐山カントリークラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式ゲスト案内では、食堂のラストオーダーは平日15:30、土日祝16:30です。掲載のプレー料金に飲食代は含まれていません。食堂内での携帯電話・スマートフォンの使用は控えるよう案内されています。",
+        "url": "https://www.ranzan.cc/guestinfo/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式ゲストインフォの開場時間・料金注記・食堂利用マナーを実読。",
+        "conditions": "料理名・価格は未確認です。ゲストのプレーは原則として会員の紹介または同伴が必要です。"
+      },
+      "evidenceNote": "公式ゲストインフォの開場時間・料金注記・食堂利用マナーを実読。"
+    },
+    {
+      "id": 495,
+      "name": "湘南シーサイドカントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式料金案内には、平日限定の「ランチ＆ドリンク」プランがあり、限定昼食と1ドリンクが付きます。また、3組9名以上のコンペパックは昼食、パーティ料理と1ドリンクを含む内容です。",
+        "url": "https://www.shonanseaside.com/#three",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップの常設料金プラン本文で昼食・ドリンク・パーティ料理の包含条件を確認。終了済みイベントの食事条件は採用していない。",
+        "conditions": "プランによって食事条件が異なります。料理名・提供時間・最新の適用日程は予約時に確認してください。"
+      },
+      "evidenceNote": "公式トップの常設料金プラン本文で昼食・ドリンク・パーティ料理の包含条件を確認。終了済みイベントの食事条件は採用していない。"
+    }
+  ]
+}
