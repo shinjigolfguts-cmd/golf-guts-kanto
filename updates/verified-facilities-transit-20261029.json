@@ -1,0 +1,202 @@
+{
+  "baseSha256": "fb44fd2422d94f6ba24be84b82c555c08d6c12568ab9afed9c2cda2be38216fc",
+  "reviewed": true,
+  "reviewer": "Codex official page and menu image review 2026-10-29",
+  "updates": [
+    {
+      "id": 68,
+      "name": "東雲ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "宿泊用ロッジと天然温泉の浴室があります。クラブハウスの露天風呂は夏季営業で、夏季以外は天候・気温により内湯のみとなります。ロッジの露天風呂も冬季は気温により休止します。",
+        "url": "https://shinonome.chateraisegolf.jp/facilities/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設案内のクラブハウス浴室・夏季露天・ロッジ宿泊施設・冬季露天休止を確認。"
+      },
+      "evidenceNote": "公式施設案内のクラブハウス浴室・夏季露天・ロッジ宿泊施設・冬季露天休止を確認。"
+    },
+    {
+      "id": 68,
+      "name": "東雲ゴルフクラブ",
+      "field": "rail",
+      "before": {
+        "text": "宝積寺駅からタクシーで約15分。",
+        "url": "https://shinonome.chateraisegolf.jp/access/",
+        "checked": "2026-10-24",
+        "basis": "公式アクセス案内の記載内容：宝積寺駅からタクシーで約15分。"
+      },
+      "after": {
+        "text": "宝積寺駅東口から予約制クラブバスで約15分。利用前に運行時刻と予約方法を公式サイトでご確認ください。",
+        "url": "https://shinonome.chateraisegolf.jp/facilities/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設案内のクラブバス欄でJR宝積寺東口、約15分、予約制と明記。"
+      },
+      "evidenceNote": "公式施設案内のクラブバス欄でJR宝積寺東口、約15分、予約制と明記。"
+    },
+    {
+      "id": 242,
+      "name": "ミルフィーユゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ゴルフ場から車で約10分のコミュニケーションハウスを利用する宿泊プランがあります。送迎はありません。客室にはバス・トイレを備えています。宿泊料金や温浴施設の利用条件は公式案内をご確認ください。",
+        "url": "https://www.milgolf.co.jp/stay.htm",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式宿泊案内：コミュニケーションハウスは当クラブから車10分・送迎なし、全室バス・トイレ付き。敷地内宿泊とは記載しない。"
+      },
+      "evidenceNote": "公式宿泊案内：コミュニケーションハウスは当クラブから車10分・送迎なし、全室バス・トイレ付き。敷地内宿泊とは記載しない。"
+    },
+    {
+      "id": 34,
+      "name": "大厚木カントリークラブ 本コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場とタオル類を備えています。サウナ・宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 47,
+      "name": "水戸・ゴルフ・クラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場とタオル類を備えています。サウナ・宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 304,
+      "name": "土浦カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場はありますが、宿泊施設はありません。午後スルー（18ホール）・薄暮（9ホール）はロッカーとお風呂を利用できません。シャワーのみ平日17:30、土日祝18:00まで利用できます。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 381,
+      "name": "ディアレイク・カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場はありますが、宿泊施設はありません。午後スループレーでは浴場・ロッカー・貴重品ボックスを利用できません。プレーできる服装で来場し、着替えは自身で管理する案内です。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 304,
+      "name": "土浦カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに「まぐろ丼」を掲載。レストランは9:00からランチ終了まで営業し、その後は予約済みパーティーのみ利用できます。メニューは変更される場合があります。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。",
+        "dish": "まぐろ丼",
+        "supportingUrls": [
+          "https://reserve.accordiagolf.com/images/restaurantMenus/033_3_20261005090529.jpg.webp"
+        ]
+      },
+      "evidenceNote": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。"
+    },
+    {
+      "id": 34,
+      "name": "大厚木カントリークラブ 本コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに数量限定の「高座豚のロースとんかつ膳」を掲載。レストランの営業時間は7:00〜16:00です。提供内容は変更される場合があります。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。",
+        "dish": "高座豚のロースとんかつ膳",
+        "supportingUrls": [
+          "https://reserve.accordiagolf.com/images/restaurantMenus/038_16_20261004161556.JPG.webp"
+        ]
+      },
+      "evidenceNote": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。"
+    },
+    {
+      "id": 47,
+      "name": "水戸・ゴルフ・クラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式メニューに「ルーロー飯」を掲載。レストランは全日8:30からランチ終了まで営業します。提供内容は変更される場合があります。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/restaurant",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。",
+        "dish": "ルーロー飯",
+        "supportingUrls": [
+          "https://reserve.accordiagolf.com/images/restaurantMenus/011_15_20261008113108.jpg.webp"
+        ]
+      },
+      "evidenceNote": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "rail",
+      "before": {
+        "text": "千葉ニュータウン中央駅・東葉勝田台駅からクラブバス。東葉勝田台駅便は予約制。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map",
+        "checked": "2026-10-24",
+        "basis": "公式ページ本文を確認。"
+      },
+      "after": {
+        "text": "千葉ニュータウン中央駅からクラブバス約15分、東葉勝田台駅から約30分。東葉勝田台駅便は予約が必要です。運行日は公式時刻表をご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブバス欄に両駅の所要時間と東葉勝田台駅便の要予約を明記。"
+      },
+      "evidenceNote": "公式クラブバス欄に両駅の所要時間と東葉勝田台駅便の要予約を明記。"
+    },
+    {
+      "id": 237,
+      "name": "総武カントリークラブ 北コース",
+      "field": "rail",
+      "before": {
+        "text": "千葉ニュータウン中央駅からクラブバス約15分、印旛コース下車後徒歩約100m。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
+        "checked": "2026-10-24",
+        "basis": "公式ページ本文を確認。"
+      },
+      "after": {
+        "text": "千葉ニュータウン中央駅からクラブバス約15分、東葉勝田台駅から約30分。東葉勝田台駅便は要予約です。北コースには停車しないため印旛コースで下車し、約100m歩きます。運行日は公式時刻表をご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブバス欄に両駅の所要時間・東葉勝田台要予約・印旛下車徒歩100mを明記。"
+      },
+      "evidenceNote": "公式クラブバス欄に両駅の所要時間・東葉勝田台要予約・印旛下車徒歩100mを明記。"
+    }
+  ]
+}

@@ -15,7 +15,7 @@
 - 全件内容確認は未完了。最新の空欄数と施設別内訳は docs/maintenance/content-status.md を参照（更新時に自動生成、重複あり）。検索の正常動作とは区別する。
 
 ## 2026-10-28 自動反映
-updates/*.jsonの確認済みバッチ追加で、検証→反映→500施設の検索用ページ生成→main保存→既存Pages公開→公開data.jsのSHA256照合まで自動実行する。失敗はActionsで赤く表示され、同時変更のpushは拒否される。処理済みバッチはapplied_updatesへ移動する。公式本文の収集・解釈・reviewed承認は担当エージェントが行い、HTTP成功で事実を作らない。Search ConsoleのGoogle所有権確認は未実施。
+updates/*.jsonの確認済みバッチ追加で、検証→反映→500施設の検索用ページ生成→main保存→既存Pages公開→公開data.jsのSHA256照合まで自動実行する。失敗はActionsで赤く表示され、同時変更のpushは拒否される。処理済みバッチはapplied_updatesへ移動する。公式本文の収集・解釈・reviewed承認は担当エージェントが行い、HTTP成功で事実を作らない。Search ConsoleのGoogle所有権確認は2026-10-28にHTMLファイル方式で完了（利用者画面で確認）。トップページはインデックス登録済み。サイトマップの取得失敗は別問題で、解決は未確認。
 
 ## 完成条件と残作業
 [完成までの確認事項](docs/maintenance/completion-checklist-20261028.md) と [施設別の空欄一覧](docs/maintenance/content-status.md) を参照。公開済み・動作検証済み・内容確認済みは別々に報告する。本人認証待ちと調査未完了を、PCがないための待機と混同しない。

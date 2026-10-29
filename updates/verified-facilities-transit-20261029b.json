@@ -1,0 +1,301 @@
+{
+  "baseSha256": "349b60c8531fe298210b1aee8c255f990ee117ab328c9b70ae8f22d658267333",
+  "reviewed": true,
+  "reviewer": "Codex official facility page review 2026-10-29",
+  "updates": [
+    {
+      "id": 89,
+      "name": "大厚木カントリークラブ 桜コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場があります。スルー・薄暮プレーはシャワーのみとなり、公式案内では冬季1〜3月は浴室営業を中止するとしています。冬季の利用条件は予約時にご確認ください。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 94,
+      "name": "おかだいらゴルフリンクス",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場は12:00〜17:30に営業し、午後スループレーでも時間内は利用できます。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 95,
+      "name": "石岡ウエストカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場とサウナを利用できます。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 96,
+      "name": "ワイルドダックカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽とシャワーを備えています。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 97,
+      "name": "霞台カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場には男女ともシャワーブースがあり、女性用の個室パウダールームも備えています。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 98,
+      "name": "関東国際カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場がありますが、5〜9月はシャワーのみの案内です。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 99,
+      "name": "ひととのやカントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場は通常営業ですが、サウナの利用は休止中です。午後スループレーでは浴場を利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 100,
+      "name": "アゼリアヒルズカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽を利用できますが、午後スルー・午後ハーフプレーでは浴場を利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 104,
+      "name": "取手桜が丘ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽を利用できます。午後スループレーはシャワーのみ、薄暮プレーは浴場を利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 225,
+      "name": "グレンオークスカントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場にはシャワーブースがあり、女性用の個室パウダールームも備えています。午前スループレーはシャワーのみです。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 228,
+      "name": "アコーディア・ゴルフ 習志野カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "入浴の利用時間は10:00〜18:00です。日の出スルーはシャワーのみ、午後スルーもシャワーのみとなる場合があります。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 229,
+      "name": "東千葉カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "男女とも浴槽とシャワーブースを備えています。女性浴場にはシャンプーバーがあります。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/chiba/higashichiba/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 278,
+      "name": "かすみがうらゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場があり、シャンプー・コンディショナーやドライヤーを備えています。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 292,
+      "name": "セントラルゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽とシャワーを利用できますが、午後プレーではシャワーのみです。宿泊施設はありません。季節・プラン別の利用条件は公式案内をご確認ください。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。2026年7〜9月の平日シャワーのみという終了済みの案内は、現在の制限として転記しない。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。2026年7〜9月の平日シャワーのみという終了済みの案内は、現在の制限として転記しない。"
+    },
+    {
+      "id": 293,
+      "name": "セントラルゴルフクラブ NEWコース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽・シャワーは通常18:00まで利用できます。午後スルーはシャワーのみ、薄暮ハーフは浴場を利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 294,
+      "name": "セントラルゴルフクラブ 麻生コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場があります。午後スルーはシャワーのみで、10〜3月はロッカー・浴室を利用できない案内です。9H＋α・薄暮ハーフも浴場を利用できません。18:00以降は利用制限の場合があります。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。2026年7〜9月の平日シャワーのみという終了済みの案内は、現在の制限として転記しない。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。2026年7〜9月の平日シャワーのみという終了済みの案内は、現在の制限として転記しない。"
+    },
+    {
+      "id": 377,
+      "name": "岩舟ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "公式案内では宿泊施設はありません。浴場の営業時間や利用条件は未確認のため、予約時にご確認ください。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/iwafune/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式宿泊施設欄は「なし」。浴場欄に利用条件の説明がなく、アメニティから浴槽の有無・営業時間を推測しない。"
+      },
+      "evidenceNote": "公式宿泊施設欄は「なし」。浴場欄に利用条件の説明がなく、アメニティから浴槽の有無・営業時間を推測しない。"
+    },
+    {
+      "id": 378,
+      "name": "大平台カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場にはシャワーブースがあり、女性用パウダールームも備えています。午後スルー・薄暮プレーでは浴場を利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/ohiradai/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 380,
+      "name": "広陵カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場は12:00〜18:00に営業し、浴槽を利用できます。午後プレーでは利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/koryo/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 382,
+      "name": "皆川城カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴槽を利用でき、タオル類を備えています。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/minagawajo/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    },
+    {
+      "id": 431,
+      "name": "玉川カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "男女とも浴槽とシャワーブースを備えています。午後スループレーでは浴場を利用できません。宿泊施設はありません。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/saitama/tamagawa/detail",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+      },
+      "evidenceNote": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+    }
+  ]
+}
