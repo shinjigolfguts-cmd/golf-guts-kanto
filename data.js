@@ -5499,7 +5499,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "数量限定の「豚バラのネギ塩レモン鉄板焼き」（ご飯・味噌汁付き）を掲載。昼食は9:00〜13:30、朝食は営業休止。通常はプレー後に利用できず、パーティーは事前予約制です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文と現在リンクされたおすすめランチ画像を目視確認。数量限定を保持し、価格・評判を推測しない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/321_14_20260903090607.jpg.webp"
+          ],
+          "conditions": "2026-10-29掲載内容。スルー食事別プランは食事実費。提供状況・変更は公式案内を確認。"
+        },
         "stay": {
           "text": "浴槽を利用できますが、午後スルー・午後ハーフプレーでは浴場を利用できません。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/detail",
@@ -5690,7 +5700,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式2026年9月12日告知の新IC約25〜30分を優先"
         },
-        "dining": null,
+        "dining": {
+          "text": "トンテキ、天ざるそばとミニうな丼、カキフライ、明太クリームスパゲッティなどを掲載。営業時間は全日9:00〜14:00。プレー後のコンペ利用は事前予約制です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式本文と現行ランチ画像を目視確認。通常価格と昼食補助付き追加料金は異なるため、食事込みと一律に断定しない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/141_8_20261004182211.jpg.webp"
+          ],
+          "conditions": "2026-10-29掲載メニュー。昼食補助の有無と料理により追加料金が異なります。"
+        },
         "stay": {
           "text": "浴槽を利用できます。午後スループレーはシャワーのみ、薄暮プレーは浴場を利用できません。宿泊施設はありません。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/detail",
@@ -6072,7 +6092,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "2026年9月15日開始メニューとして、20食限定の赤城地鶏のソテー（デミきのこソース）、ネギ塩レモン豚丼、エビとほうれん草のトマトクリームパスタなどを案内しています。",
+          "url": "https://www.shintamagolf.jp/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップの2026-09-14告知本文を確認。開始日・20食限定の対象を区別し、全料理の提供保証や追加料金を推測しない。",
+          "conditions": "2026-10-29時点の公式掲載。日々の提供・品切れ・食事差額は予約時確認。"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。着替えを入れる袋は有料（1枚5円）の案内があります。",
           "url": "https://www.shintamagolf.jp/clubhouse.htm",
@@ -6080,10 +6107,14 @@ const DATA={
           "basis": "公式施設案内の浴室・宿泊設備欄を確認"
         },
         "budget": {
-          "text": "食事付き平日料金のカレンダーを公開。予約日と食事条件を確認。",
+          "text": "食事付き料金カレンダーを公開。2026年11月の掲載例は11月4・5・6日が7,600円、11月7・8日が13,555円。利用税600円・振興金30円・消費税込み。日付と人数で割増が変わります。",
           "url": "https://www.shintamagolf.jp/playfee.htm",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026年11月カレンダーの日付・料金・全日食事付・税等込み・人数割増を直接照合。日付限定例であり全平日同額ではない。11月2日は8,330円。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月例：平日7,600円／土日13,555円",
+          "conditions": "2026年11月掲載例・食事付・利用税600円/振興金30円/消費税込み。平日2B+550円・3B割増なし。土日祝2B+2,200円（11/1のみ+1,650円）、3B+550円。水曜女性はカレンダー料金から1,000円引き。コンペは別料金。食事差額等は予約時確認。"
         },
         "scenery": {
           "text": "フラットなフェアウェイが広がるパブリックコース。平坦な芝の広がりを眺めながらプレーできます。",
@@ -6232,8 +6263,21 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
-        "stay": null,
+        "dining": {
+          "text": "セルフデーの限定3品日替わりメニューとして、鶏の唐揚げ・油淋鶏ソース、キーマカレー、ざるそば＆かき揚げ丼を追加料金なしで案内。レストランは平日9:00、土日祝7:30から。朝食は土日祝7:30〜9:00です。",
+          "url": "https://moka-golf.jp/レストラン/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式本文のセルフデーメニュー名・追加料金なし・営業時間・朝食条件を確認。通常日にも同条件と拡張しない。",
+          "conditions": "セルフデーの対象メニューの条件。昼食内容は予告なく変更の場合あり。追加の飲食はプレー後に自動精算機で精算。"
+        },
+        "stay": {
+          "text": "浴場があり、鬼怒川の伏流水を使ったかけ流しの湯と案内しています。宿泊設備の有無と浴場の利用時間は、確認した公式施設案内では未確認です。",
+          "url": "https://moka-golf.jp/施設案内/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内のお風呂欄の本文を確認。天然温泉とは記載されていないため温泉と断定せず、宿泊なしとも判断しない。"
+        },
         "budget": {
           "text": "一般1Rの掲載例は平日6,800〜7,200円、土日13,400円。乗用カート・昼食付きの料金です。",
           "url": "https://moka-golf.jp/ご利用案内/",
@@ -6492,7 +6536,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内の記載を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "現行ランチメニューに、30食限定の江南御膳、石焼厚切り牛タン、和香チキンカツ膳、台湾まぜそばなどを掲載。昼食付き・昼食券でも、江南御膳や牛タンなどは追加料金の案内があります。",
+          "url": "https://www.taiheiyoclub.co.jp/course/kohnan/index.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップが現在リンクするランチPDFを取得し、レンダリング画像と本文で料理名・江南御膳30食限定・昼食券差額を確認。検索に残る別の旧PDFの料理/価格を転用しない。",
+          "supportingUrls": [
+            "https://www.taiheiyoclub.co.jp/course/kohnan/lrhh7f00000001q1-att/lrhh7f00000006zg.pdf"
+          ],
+          "conditions": "2026-10-29掲載内容。日々の提供は要確認。公式特別営業案内では2026年12月31日・2027年1月1日はレストラン利用不可。"
+        },
         "stay": null,
         "budget": {
           "text": "会員同伴ゲストのキャディ付き掲載料金は平日26,400円、土日祝35,950円。紹介ゲストは各2,000円高くなります。",
@@ -6523,10 +6577,15 @@ const DATA={
       "badge": "9H / ショート",
       "comparison": {
         "play": {
-          "text": "9ホールのコース。",
+          "text": "9ホールのコース。予約なし・1名でも利用できますが、混雑時は組合せになる場合があります。10〜3月は平日9:00、土日祝8:00開始、最終スタート14:00・最終受付は30分前です。",
           "url": "https://koengolf.co.jp/ryoukin/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式料金・営業時間とご利用案内を照合。既存9ホールを保持し、季節・混雑時条件を追加。",
+          "supportingUrls": [
+            "https://koengolf.co.jp/information/"
+          ],
+          "conditions": "4〜9月は平日8:30・土日祝7:30開始。定員・天候・管理作業により早期受付終了の場合あり。"
         },
         "rail": {
           "text": "確認した公式アクセス案内に、駅から車での所要時間の記載はありません。",
@@ -6540,7 +6599,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスマップ各IC所要時間を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "牛丼・カレー・焼きそばなどの軽食を案内。食事を希望する場合は受付時に予約が必要です。プレー後の喫茶コーナーではワンドリンクサービスの案内があります。",
+          "url": "https://koengolf.co.jp/information/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ご利用案内の食事予約・軽食名・ワンドリンクサービスを本文で確認。食事代や提供時間は推測しない。"
+        },
         "stay": {
           "text": "シャワーは11時〜15時、14時30分までに戻る方が対象です。受付時に申込みが必要。利用は10月31日までで、11月〜4月は休止します。",
           "url": "https://koengolf.co.jp/clubhouse/",

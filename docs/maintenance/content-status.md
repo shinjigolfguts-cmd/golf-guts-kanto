@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `7a9d6db617ac651901a887131bcc3b54a5d23475100ac57a43613cabe3b21c63`
+data.js SHA256: `dcf93e6a62b24bd68c6320924547768554da5ae7cead6ed72ab01f86799917b9`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,12 +9,12 @@ data.js SHA256: `7a9d6db617ac651901a887131bcc3b54a5d23475100ac57a43613cabe3b21c6
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 35 |
-| 食事 | 113 |
-| 宿泊・お風呂 | 177 |
+| 食事 | 107 |
+| 宿泊・お風呂 | 176 |
 | 料金 | 286 |
 | 景色 | 42 |
 
-空欄を含む施設：383 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：380 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -90,23 +90,20 @@ data.js SHA256: `7a9d6db617ac651901a887131bcc3b54a5d23475100ac57a43613cabe3b21c6
 | 97 | [霞台カントリークラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/) | 食事・料金 |
 | 98 | [関東国際カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/) | 食事 |
 | 99 | [ひととのやカントリー倶楽部](https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/) | 食事・料金 |
-| 100 | [アゼリアヒルズカントリークラブ](https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/) | 食事・料金・景色 |
+| 100 | [アゼリアヒルズカントリークラブ](https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/) | 料金・景色 |
 | 101 | [こだま神川カントリークラブ](https://reserve.accordiagolf.com/golfCourse/saitama/kodama/) | 料金 |
 | 102 | [おおむらさきゴルフ倶楽部](https://reserve.accordiagolf.com/golfCourse/saitama/oomurasaki/) | 料金 |
 | 103 | [千葉桜の里ゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/chiba/sakuranosato/) | 料金 |
-| 104 | [取手桜が丘ゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/) | 食事・料金 |
+| 104 | [取手桜が丘ゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/) | 料金 |
 | 105 | [鴨川カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/kamogawa/) | 料金 |
 | 106 | [東京湾カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/tokyowan/detail) | 料金 |
 | 108 | [千葉夷隅ゴルフクラブ](https://www.chibaisumi.jp/course.html) | 宿泊・お風呂 |
-| 111 | [新玉村ゴルフ場](https://www.shintamagolf.jp/playfee.htm) | 食事 |
 | 112 | [吉見ゴルフ場](https://www.river-golf.com/yoshimi/fee.html) | 宿泊・お風呂 |
 | 113 | [朝霞パブリックゴルフ場](https://asaka-pab-golf.com/) | 宿泊・お風呂 |
-| 114 | [もおか鬼怒公園ゴルフ倶楽部](https://moka-golf.jp/) | 食事・宿泊・お風呂 |
 | 116 | [箱根湖畔ゴルフコース](https://www.hakonekohan.com/courses) | 宿泊・お風呂 |
 | 117 | [箱根園ゴルフ場](https://www.princehotels.co.jp/golf/hakone-en/) | 宿泊・お風呂・料金 |
 | 118 | [大箱根カントリークラブ](https://www.princehotels.co.jp/golf/daihakone/) | 料金 |
-| 119 | [太平洋クラブ 江南コース](https://www.taiheiyoclub.co.jp/course/kohnan/information.html) | 食事・宿泊・お風呂 |
-| 120 | [玉村公園ゴルフ倶楽部](https://koengolf.co.jp/ryoukin/) | 食事 |
+| 119 | [太平洋クラブ 江南コース](https://www.taiheiyoclub.co.jp/course/kohnan/information.html) | 宿泊・お風呂 |
 | 123 | [GMG八王子ゴルフ場](http://www.kanbun-group.co.jp/gmg/index.html) | 宿泊・お風呂 |
 | 125 | [東京五日市カントリー倶楽部](http://www.itukaiti.co.jp/) | 宿泊・お風呂 |
 | 128 | [八王子カントリークラブ](http://www.hachiojicc.co.jp) | 宿泊・お風呂・料金 |
