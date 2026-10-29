@@ -673,10 +673,11 @@ const DATA={
       "note": "2026年10月24日確認：公式サイトに近隣道路の一部通行止めと迂回ルートの案内があります。来場前に最新の公式アクセスPDFをご確認ください。 料金・予約条件・ドレスコードを事前確認。",
       "comparison": {
         "play": {
-          "text": "フラットで広いフェアウェイと、要所に配されたハザードを持つ18ホール。",
-          "url": "https://www.camelliahills.com/outline/",
-          "checked": "2026-10-24",
-          "basis": "公式情報を再確認"
+          "text": "フラットで広いフェアウェイと、要所に配されたハザードを持つ18ホール。 2026年10月29日確認：台風の影響で一部に立入禁止区域があり、一部ホールではボールピックアップと徒歩移動の案内があります。当日のキャディの指示と公式の最新営業案内をご確認ください。",
+          "url": "https://www.camelliahills.com/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "従来のコース説明は保持。公式トップの営業状況告知で立入禁止区域・一部ホールのピックアップ・徒歩移動を実読。全面休業とは判断しない。"
         },
         "rail": {
           "text": "JR木更津駅からクラブバスで約20分。タクシーの所要時間は公式案内で確認できていません。",
@@ -2109,7 +2110,13 @@ const DATA={
           "dish": "木更津御膳",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "提携宿泊先としてオークラ アカデミアパークホテル、ホテルロイヤルガーデン、グランパークホテル エクセル木更津を公式に案内。宿泊条件・空室は各ホテルに確認してください。ゴルフ場の浴室利用条件は未確認です。",
+          "url": "https://www.kisarazugolfclub.jp/hotel",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブ案内の「提携ホテルあり」から提携ホテルページを開き3施設名を確認。場内宿泊施設とは扱わず、浴室条件は未確認として明記。"
+        },
         "budget": {
           "text": "10～12月のゲスト料金は平日19,500円、土休日33,000円。キャディ・乗用カート・ロッカー・消費税込みの4名1組1Rで、昼食別。3名は1,650円、2名は3,850円追加。",
           "url": "https://www.kisarazugolfclub.jp/charge",
@@ -10975,7 +10982,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "運営会社PGM公式掲載のIC別所要時間。道路状況により変動。"
         },
-        "rail": null,
+        "rail": {
+          "text": "金谷フェリー乗り場から事前予約制のクラブバスがあります。予約はプレー前日12時まで。第3便の運行日は火・木・金曜日です。最寄駅からの車の所要時間は未確認です。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=161&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブバス欄の金谷フェリー便・予約期限・第3便運行曜日を確認。フェリー着からゴルフ場着の35分を走行時間と誤認しない。駅からの車時間の調査は未完了。"
+        },
         "scenery": {
           "text": "鹿野山南麓の丘陵で、季節の自然を楽しめます。",
           "url": "https://booking.pacificgolf.co.jp/guide/161.html",
@@ -11996,7 +12009,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "運営会社PGM公式掲載のIC別所要時間。道路状況により変動。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は未確認のため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=55&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名やタクシー時間は資料にないため推測しない。駅アクセスの調査は未完了。"
+        },
         "scenery": {
           "text": "自然との調和をテーマにした、池とマウンドのある景観。",
           "url": "https://booking.pacificgolf.co.jp/guide/55.html",
@@ -12809,10 +12828,11 @@ const DATA={
       "note": "ご利用日・人数に合うプランを公式サイトでご確認ください。",
       "comparison": {
         "play": {
-          "text": "小林光昭設計。高低差が少なく、ホール間にもゆとりがあります。最終ホールの池が攻略ポイント。",
-          "url": "https://booking.pacificgolf.co.jp/guide/168.html",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文を確認。"
+          "text": "小林光昭設計。高低差が少なく、ホール間にもゆとりがあります。最終ホールの池が攻略ポイント。 2025年1月からキャディ付きプレーを廃止し、全組セルフプレーです。GPSナビ付き乗用カートを利用します。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=168&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "既存のコース特徴を保持。公式ラウンドスタイル・キャディ欄で2025年1月から全組セルフとGPSナビ付カートを確認。"
         },
         "car": {
           "text": "市原鶴舞ICから約15分（10km）。",
@@ -12820,7 +12840,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "運営会社PGM公式掲載のIC別所要時間。道路状況により変動。"
         },
-        "rail": null,
+        "rail": {
+          "text": "クラブバスはありません。最寄駅からの車の所要時間は未確認のため、ご利用前にゴルフ場へご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=168&p=guide.access_map",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場情報のクラブバス欄に「なし」と明記。駅名やタクシー時間は資料にないため推測しない。駅アクセスの調査は未完了。"
+        },
         "scenery": {
           "text": "豊かな水と緑の中にクラブハウスが映えるコース。",
           "url": "https://booking.pacificgolf.co.jp/guide/168.html",
