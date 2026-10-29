@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": 78,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://wst1.asts.jp/golfnet/cc/06650CC/plan/",
+      "finding": "2026年11月2日掲載例 6,000円。公式予約カレンダーをセッション内で開き、プラン詳細と公開スタート枠を実読。"
+    },
+    {
+      "id": 211,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://wst1.asts.jp/golfnet/cc/0358cc/plan/",
+      "finding": "2026年11月10日掲載例 12,000円。公式予約カレンダー本文で税込料金と対象日の空き表示を確認。"
+    },
+    {
+      "id": 226,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/kazusa/",
+      "finding": "2026年11月2日掲載例 総額4,000円。公式予約カレンダーの公開本文と空き枠を実読し、プラン条件と表示総額を確認。"
+    },
+    {
+      "id": 283,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://www.jgo-os.com/reserve/come.cgi?courseid=08127&userkindid=003",
+      "finding": "2026年11月30日掲載例 総額8,570円。公式サイト経由の予約セッションで、公開カレンダー本文とスタート枠を実読。"
+    },
+    {
+      "id": 310,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://www3.golfyoyaku.jp/rsv_sys/tokyo-leisure/kabaya/calendar/",
+      "finding": "2026年11月4日掲載例 4,690円（税込）。公式予約カレンダー本文と対象日の予約リンクを実読。"
+    },
+    {
+      "id": 455,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://webpack2.jp/reserve/calendar/visitor/337502",
+      "finding": "2026年10月30日掲載例 総額6,980円。公式サイト経由の予約カレンダー本文で、総額と当日の公開枠を確認。"
+    },
+    {
+      "id": 463,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/gunma/jyomo/",
+      "finding": "2026年11月2日掲載例 総額2,000円。公式予約カレンダーの公開本文と空き枠を実読し、プラン条件と表示総額を確認。"
+    },
+    {
+      "id": 487,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/odawara/",
+      "finding": "2026年11月4日掲載例 総額5,200円。公式予約カレンダーの公開本文と空き枠を実読し、プラン条件と表示総額を確認。"
+    }
+  ]
+}
