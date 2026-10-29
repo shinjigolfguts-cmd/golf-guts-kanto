@@ -3365,7 +3365,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式ゴルフ場情報のレストラン欄を確認。料理内容まで確認済みとは扱わない。"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式ギャラリーで浴槽のある浴室を確認できます。現在の利用時間やプラン別の制限、宿泊設備については未確認のため、予約時にご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/?p=guide.gallery&cc_id=59#house_official",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "PGM公式ギャラリーの当該クラブ投稿（is_user=0）の浴室写真を目視し、浴槽を確認。画像だけでは営業時間・宿泊・温泉を判断しない。",
+          "supportingUrls": [
+            "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/59/r65000e52.jpg"
+          ]
+        },
         "budget": null,
         "scenery": {
           "text": "OUTは林間風、INは湖畔を思わせるレイクサイド風。同じ18ホールでも、森と水辺の異なる雰囲気を楽しめます。",
@@ -5226,7 +5235,13 @@ const DATA={
           ]
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "クラブ公式案内に浴槽・露天風呂・シャワー設備の記載があります。2026年7〜9月の浴槽休止告知は対象期間が終了していますが、現在の営業状況や美里コース利用時の条件は予約時にご確認ください。",
+          "url": "https://booking.pacificgolf.co.jp/sp/?cc_id=72&news_id=59931&p=guide.news_detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026年5月29日告知で浴槽・露天風呂施設・シャワー設備を確認。7月1日〜9月30日の休止は確認日には対象期間外。再開済みと断定せず、美里利用時の具体的条件は未確認として保持。"
+        },
         "budget": null,
         "scenery": {
           "text": "緩やかな起伏の中に、長いホールが続く美里コース。ナイト営業では、照明に浮かび上がる夜のコースを楽しめます。",
@@ -10474,7 +10489,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式Aコース3番の案内では、右側の杉林と左側の松林、山裾を使った地形が紹介されています。",
+          "url": "https://www.chibacentral-gc.com/course/a3/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ホール本文の右杉林・左松林・右山裾の記述を確認。遠景・季節の見頃は推測しない。"
+        },
         "dining": {
           "text": "2026年10月のランチには金目鯛の煮付け御膳を掲載。小鉢・ご飯・香の物・汁物・デザート付きで、昼食付きプランは追加800円。季節で献立は変わります。",
           "url": "https://www.chibacentral-gc.com/restaurant/",
@@ -10955,7 +10976,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内。所要時間は目安。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式の花ごよみでは、カイズカイブキやモミジなどの庭園木と、春のサクラ・ツツジ、秋の紅葉を紹介しています。開花・紅葉の時期は天候により異なります。",
+          "url": "https://www.hightree.co.jp/course/02.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式「成田ハイツリーの四季・花ごよみ」本文で庭園木の種類と春秋の植栽を確認。当日の開花・紅葉状態や見頃日付は未確認。"
+        },
         "dining": {
           "text": "牡蠣フライと大判ヒレカツ膳を掲載。季節・仕入れにより変更があります。",
           "url": "https://www.hightree.co.jp/restaurant/index.html",
@@ -11478,7 +11505,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式施設案内に大浴場とサウナを掲載。営業時間・利用できるプラン・宿泊設備については未確認のため、予約時にご確認ください。",
+          "url": "https://www.pacificgolf.co.jp/maria/facility.asp",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "当該コース公式施設本文「大浴場 BATH」の湯船とサウナの案内を確認。温泉や全プラン利用可能とは推測しない。"
+        }
       },
       "researchSources": [
         "https://www.pacificgolf.co.jp/maria/"
@@ -16575,7 +16608,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式昼食メニューに鉄板厚切りポークステーキ、美明豚ロースカツ丼を掲載。食事付きプランでも料理により追加料金があります。提供内容・期間は来場前にご確認ください。",
+          "url": "https://www.taiheiyoclub.co.jp/course/minori/lrhh7f00000002au-att/lrhh7f0000000710.pdf",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "美野里公式トップからリンクされた昼食PDFを原画像で確認。鉄板厚切りポークステーキ3,630円・食事付差額1,430円、美明豚ロースカツ丼2,200円。会員限定ランチを一般客向けと混同しない。",
+          "dish": "鉄板厚切りポークステーキ／美明豚ロースカツ丼"
+        },
         "budget": {
           "text": "公式ゲストセルフ料金は平日16,500円、土日祝28,500円。別欄に利用税1,100円・協力金50円を掲載。会員紹介・同伴の条件があります。",
           "url": "https://www.taiheiyoclub.co.jp/course/minori/price.html",
@@ -16621,7 +16661,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式昼食メニューに100%ビーフハンバーグ（和風ソース）、国産豚のトンテキを掲載。ハンバーグは調理に15分ほどかかる案内があります。提供内容は来場前にご確認ください。",
+          "url": "https://www.taiheiyoclub.co.jp/course/royal/lrhh7f000000pjt4-att/lrhh7f000000pjuw.pdf",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "ロイヤル公式トップからリンクされた昼食PDFを原画像で確認。料理名・添え物・15分ほどの調理時間・税込表記を照合。会員限定メニューは転用しない。",
+          "dish": "100%ビーフハンバーグ（和風ソース）／国産豚のトンテキ"
+        },
         "budget": {
           "text": "会員同伴ゲストのキャディ付きは平日28,000円、土日祝38,000円の公式例。別欄に利用税1,200円・協力金50円を掲載しています。",
           "url": "https://www.taiheiyoclub.co.jp/course/royal/price.html",
@@ -17403,7 +17450,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式コース案内の写真では、フェアウェイの両側に樹木が続く景観を紹介しています。",
+          "url": "https://www.friendship-cc.co.jp/course/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式コース案内に掲載されたimg_course_header.jpgを目視確認。樹種・季節・遠景の山名は特定しない。"
+        },
         "dining": {
           "text": "公式ランチメニューの「牛リブロースのステーキ重」。9月15日開始の季節メニューとして案内し、掲載例は税込3,245円です。",
           "url": "https://www.friendship-cc.co.jp/wp-content/uploads/2024/01/98c79547c20e1d75f7b22c44dffa9707-8.jpg",
@@ -17421,7 +17474,13 @@ const DATA={
           "priceLabel": "平日16,400円／土日祝27,400円",
           "conditions": "2026年10月ゲスト通常料金。消費税利用税1100円緑化基金50円込。飲食別。キャディ追加4400円。イベント別料金。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式案内では、男女とも源泉かけ流しの鉱泉を使った風呂があります。利用時間・プランごとの条件・宿泊設備は未確認です。",
+          "url": "https://www.friendship-cc.co.jp/info/spa/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式の浴場専用ページで男女共、源泉かけ流し、鉱泉使用を確認。泉温・効能や温泉法上の分類は推測せず、公式の鉱泉という表現を保持。"
+        }
       },
       "id": 312
     },
@@ -17613,7 +17672,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式英語版の施設一覧に浴場を掲載。利用時間・サウナ・温泉・宿泊設備については未確認のため、来場前にご確認ください。",
+          "url": "https://www.ryugasaki-cc.com/english/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式英語版Other Facility欄でPublic Bathの掲載を確認。近隣のザ・ゴルフクラブ竜ヶ崎とは別施設であることを名称・住所で照合。"
+        }
       },
       "id": 316
     },
@@ -21226,7 +21291,16 @@ const DATA={
           "priceLabel": "平日6,560〜8,950円／土日祝15,750〜18,380円",
           "conditions": "ゲスト・セルフ掲載料金。季節区分あり。全日メンバー紹介。公式表は利用税600〜700円、ジュニア等育成協力金50円を別項目で掲載。食事と総額は予約時確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式の近隣宿泊案内にルートイン宇都宮ゆいの杜、ルートイン真岡などを掲載。コース内の宿泊施設という案内ではありません。宿泊料金・空室・送迎や浴場の条件は未確認です。",
+          "url": "https://www.taiheiyoclub.co.jp/course/mashiko/topics/lrhh7f0000007juy.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年10月21日掲載の公式トピックスにあるMap_2021.jpg下部Area Hotelsを目視確認。外部ホテル名のみ採用し、古い地図の料金・交通時間・営業条件は転用しない。",
+          "supportingUrls": [
+            "https://www.taiheiyoclub.co.jp/course/mashiko/topics/lrhh7f0000007juy-img/Map_2021.jpg"
+          ]
+        }
       },
       "id": 386
     },
@@ -22703,7 +22777,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文・案内図で確認"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "東コースには池を配したホールがあり、4番のグリーン手前には1本松、5番のティー付近にも松の木があると公式に紹介されています。",
+          "url": "https://www.hmcc.co.jp/east-course/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式東コース案内の1・3・6・8・9番の池、4番の1本松、5番の松を確認。攻略上の位置を景観として簡潔に記載。"
+        },
         "car": {
           "text": "公式アクセスページに自動車用案内図を掲載。",
           "url": "https://www.hmcc.co.jp/access/",
