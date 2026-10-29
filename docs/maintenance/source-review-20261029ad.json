@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "id": 8,
+      "field": "budget",
+      "url": "https://www.ikaho-gc.co.jp/price",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "公式予約の2026年11月掲載例は、11月2日（月）総額8,500円、11月1日（日）総額15,000円。1人・1R・4バッグ・乗用セルフ、昼食バイキングとドリンクバー付きです。"
+    },
+    {
+      "id": 8,
+      "field": "stay",
+      "url": "https://www.ikaho-gc.co.jp/topix",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "コース外の宿泊先として、伊香保温泉のホテル天坊、塚越屋七兵衛、晴観荘などを公式に紹介。2026年11月の乗用セルフ・昼食バイキング付きプランでは、ロッカーと浴場を利用できます。コース内の宿泊設備は未確認です。"
+    },
+    {
+      "id": 351,
+      "field": "scenery",
+      "url": "https://www.kanuma-premier.jp/course.html",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "公式コース写真では、フェアウェイやグリーンを囲む樹木と、その奥に連なる山並みが見られます。"
+    },
+    {
+      "id": 194,
+      "field": "scenery",
+      "url": "https://www.chibacc.co.jp/umesato",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "公式の梅郷コース写真では、グリーン周囲に背の高い樹木が並び、林に囲まれた景観が見られます。"
+    },
+    {
+      "id": 213,
+      "field": "scenery",
+      "url": "https://www.chibacc.co.jp/kawama/kawama-course",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "公式の川間コース写真では、池の水面と、その周囲に広がる芝生・樹木の景観が見られます。"
+    },
+    {
+      "id": 389,
+      "field": "scenery",
+      "url": "https://www.jgmgroup.co.jp/utsunomiya/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "最終ホールから筑波山を望む景観を公式に紹介。コースには四季を感じる花々もあり、レストランの大きな窓からコースを一望できます。"
+    },
+    {
+      "id": 389,
+      "field": "stay",
+      "url": "https://www.jgmgroup.co.jp/utsunomiya/facility/",
+      "checked": "2026-10-29",
+      "status": "content_verified",
+      "finding": "クラブハウス1階に男女の大浴場とロッカールームがあります。温泉・宿泊設備の有無、浴場の営業時間やプラン別利用条件は未確認です。"
+    },
+    {
+      "id": 0,
+      "field": "budget",
+      "url": "https://www.princehotels.co.jp/golf/ohara/course/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "料金550円は練習球。検索で見つかった料金PDFは2026年3月31日期限で失効。ラウンド料金へ転用しない。"
+    },
+    {
+      "id": 7,
+      "field": "budget",
+      "url": "https://www.murasakigc.com/home",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式に絞った料金検索で過去の企画を検出。現在の条件を確認できず。"
+    },
+    {
+      "id": 261,
+      "field": "scenery",
+      "url": "https://www.sakuranomiyagc.jp/courseguide/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式本文は自然の中のレイアウトという一般表現。東1の画像は攻略図で、特定の眺望は確認できず。"
+    },
+    {
+      "id": 360,
+      "field": "scenery",
+      "url": "https://www.new-cgc.jp/course.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式コース案内はヤーデージ表・動画。検索でも具体的眺望の公式本文を確認できず。"
+    },
+    {
+      "id": 367,
+      "field": "scenery",
+      "url": "https://www.royalcc.co.jp/course.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式検索結果に旧コース再編情報。景観に関する一次本文を確認できず、別のロイヤルコースと混同しない。"
+    },
+    {
+      "id": 465,
+      "field": "scenery",
+      "url": "https://www.ota-futaba-cc.co.jp/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップ403。第三者サイトの眺望記述のみでは採用しない。"
+    },
+    {
+      "id": 455,
+      "field": "scenery",
+      "url": "https://www.yoshii-nanyodai.jp/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップ502、再取得も502。"
+    },
+    {
+      "id": 419,
+      "field": "scenery",
+      "url": "https://www.kanbun-group.co.jp/ncc/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式トップ502、再取得も502。"
+    },
+    {
+      "id": 240,
+      "field": "scenery",
+      "url": "https://www.takanodaicc.or.jp/club/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式クラブ案内503。未確認のまま保持。"
+    },
+    {
+      "id": 250,
+      "field": "scenery",
+      "url": "https://www.funabashicc.com/course.html",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "本文はヤーデージ表。写真は未精査で景観情報採用を保留。"
+    },
+    {
+      "id": 2,
+      "field": "scenery",
+      "url": "https://www.h-abiko-cc.com/course/",
+      "checked": "2026-10-29",
+      "status": "reviewed_unconfirmed",
+      "reason": "公式コース案内の抽出本文では景観説明が得られず。画像リンクはロゴで、写真は未精査。"
+    }
+  ]
+}
