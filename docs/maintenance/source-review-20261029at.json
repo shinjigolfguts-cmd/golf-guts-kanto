@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": 102,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/saitama/oomurasaki/",
+      "finding": "公式予約カレンダーで2026年10月30日の「【ナイトゴルフ】☆彡18Hスルー/3B割増なし☆彡」総額7,990円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 103,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/sakuranosato/",
+      "finding": "公式予約カレンダーで2026年11月02日の「◇薄暮0.5Ｒプラン◇2名でも割増なし◇ ※日没ご了承」総額4,500円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 104,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "needs_deeper_review",
+      "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/",
+      "finding": "プラン名は2人乗りカート、同じ予約表の共通詳細は4人用カートと表示が一致しないため、料金欄へ採用せず条件確認を残す。"
+    },
+    {
+      "id": 105,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/kamogawa/",
+      "finding": "公式予約カレンダーで2026年10月30日の「☆早朝ハーフプレー☆食事別☆割増無※前金制」総額3,991円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 106,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/tokyowan/",
+      "finding": "公式予約カレンダーで2026年10月30日の「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」総額2,000円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 173,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/",
+      "finding": "公式予約カレンダーで2026年11月02日の「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」総額2,000円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 176,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/gunma/myogi/",
+      "finding": "公式予約カレンダーで2026年11月02日の「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」総額2,200円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 225,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/calendar/",
+      "finding": "公式予約カレンダーで2026年11月04日の「薄暮ハーフ ※日没了承 ロッカー別途」総額5,500円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 227,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/oakhills/calendar/",
+      "finding": "公式予約カレンダーで2026年11月02日の「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」総額3,000円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 228,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/calendar/",
+      "finding": "公式予約カレンダーで2026年11月02日の「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」総額5,000円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 229,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/higashichiba/calendar/",
+      "finding": "公式予約カレンダーで2026年10月30日の「西 ☆ナイトゴルフハーフ0.5R・2B割増無し☆ ※備考必読」総額4,990円と人数・食事・カート条件、空き枠を確認。"
+    },
+    {
+      "id": 230,
+      "field": "budget",
+      "checked": "2026-10-30",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/chiba/newnanso/",
+      "finding": "公式予約カレンダーで2026年11月04日の「【初心者応援9ホールプラン】★ゴルフマナー動画視聴あり★※備考必読※」総額2,000円と人数・食事・カート条件、空き枠を確認。"
+    }
+  ]
+}
