@@ -6768,7 +6768,13 @@ const DATA={
           ],
           "conditions": "2026-10-29掲載内容。日々の提供は要確認。公式特別営業案内では2026年12月31日・2027年1月1日はレストラン利用不可。"
         },
-        "stay": null,
+        "stay": {
+          "text": "2026年12月31日と2027年1月1日の特別営業日は、浴室を利用できません。通常日の浴室利用条件、温泉・宿泊設備は未確認です。",
+          "url": "https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q1qz.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "各コースの大晦日・元日特別営業告知で対象年月日と浴室利用不可を確認。元日の出典：https://www.taiheiyoclub.co.jp/course/kohnan/topics/lrhh7f000000q26x.html 。特別日の制限を通常営業へ一般化しない。"
+        },
         "budget": {
           "text": "会員同伴ゲストのキャディ付き掲載料金は平日26,400円、土日祝35,950円。紹介ゲストは各2,000円高くなります。",
           "url": "https://www.taiheiyoclub.co.jp/course/kohnan/price.html",
@@ -16745,7 +16751,13 @@ const DATA={
           "priceLabel": "平日16,500円／土日祝28,500円＋税等",
           "conditions": "ゲストセルフ料金欄の例。別欄に利用税1100円、協力金50円。キャディ付平日20900休日32900円。食事の込み表記なし。会員紹介または同伴条件あり。"
         },
-        "stay": null
+        "stay": {
+          "text": "2026年12月31日と2027年1月1日の特別営業日は、浴室を利用できません。通常日の浴室利用条件、温泉・宿泊設備は未確認です。",
+          "url": "https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000q3ef.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "各コースの大晦日・元日特別営業告知で対象年月日と浴室利用不可を確認。元日の出典：https://www.taiheiyoclub.co.jp/course/minori/topics/lrhh7f000000qbbf.html 。特別日の制限を通常営業へ一般化しない。"
+        }
       },
       "id": 295
     },

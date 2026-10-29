@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `3f8fbd9f1791130b5ab4390194013e968cf96af5d0b58b3b2d5e02dee624c9e1`
+data.js SHA256: `aafffb9faa94234045a1a3d73ef4880822c36176f7834025b5283f4b77ff2c5e`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -10,11 +10,11 @@ data.js SHA256: `3f8fbd9f1791130b5ab4390194013e968cf96af5d0b58b3b2d5e02dee624c9e
 | 車のアクセス | 8 |
 | 電車のアクセス | 34 |
 | 食事 | 49 |
-| 宿泊・お風呂 | 71 |
+| 宿泊・お風呂 | 69 |
 | 料金 | 258 |
 | 景色 | 18 |
 
-空欄を含む施設：313 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：311 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -90,7 +90,6 @@ data.js SHA256: `3f8fbd9f1791130b5ab4390194013e968cf96af5d0b58b3b2d5e02dee624c9e
 | 113 | [朝霞パブリックゴルフ場](https://asaka-pab-golf.com/) | 宿泊・お風呂 |
 | 117 | [箱根園ゴルフ場](https://www.princehotels.co.jp/golf/hakone-en/) | 料金 |
 | 118 | [大箱根カントリークラブ](https://www.princehotels.co.jp/golf/daihakone/) | 料金 |
-| 119 | [太平洋クラブ 江南コース](https://www.taiheiyoclub.co.jp/course/kohnan/information.html) | 宿泊・お風呂 |
 | 123 | [GMG八王子ゴルフ場](http://www.kanbun-group.co.jp/gmg/index.html) | 宿泊・お風呂 |
 | 125 | [東京五日市カントリー倶楽部](http://www.itukaiti.co.jp/) | 宿泊・お風呂 |
 | 128 | [八王子カントリークラブ](http://www.hachiojicc.co.jp) | 宿泊・お風呂 |
@@ -214,7 +213,6 @@ data.js SHA256: `3f8fbd9f1791130b5ab4390194013e968cf96af5d0b58b3b2d5e02dee624c9e
 | 292 | [セントラルゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/ibaraki/central/) | 料金 |
 | 293 | [セントラルゴルフクラブ NEWコース](https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/) | 料金 |
 | 294 | [セントラルゴルフクラブ 麻生コース](https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/) | 料金 |
-| 295 | [太平洋クラブ美野里コース](https://www.taiheiyoclub.co.jp/course/minori/) | 宿泊・お風呂 |
 | 298 | [玉造ゴルフ倶楽部 捻木コース](https://booking.pacificgolf.co.jp/guide/42.html) | 食事・料金 |
 | 299 | [玉造ゴルフ倶楽部 若海コース](https://booking.pacificgolf.co.jp/guide/41.html) | 食事・料金 |
 | 300 | [ダイヤグリーン倶楽部](http://www.daiyagreen.com) | 車のアクセス・電車のアクセス・食事・宿泊・お風呂 |
