@@ -1,6 +1,6 @@
 {
-  "baseline": "6a78b7d4aa5ac8fec6fb95cc1979104acea02c40",
-  "note": "2026-10-30 batch as published; twelve official booking-calendar budget fields verified and published.",
+  "baseline": "ef80c1831b8c8df2276dcdc0846c4a6754f88f41",
+  "note": "2026-10-30 batch at published; eleven official booking-calendar budget fields verified, one contradictory cart-condition item retained for deeper review.",
   "items": [
     {
       "id": 0,
@@ -807,35 +807,40 @@
       "name": "おおむらさきゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/saitama/oomurasaki/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 103,
       "name": "千葉桜の里ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/sakuranosato/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 104,
       "name": "取手桜が丘ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/",
-      "status": "pending_content_review"
+      "status": "needs_deeper_review",
+      "reviewRecord": "source-review-20261029at.json"
     },
     {
       "id": 105,
       "name": "鴨川カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/kamogawa/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 106,
       "name": "東京湾カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/tokyowan/detail",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 108,
@@ -1329,7 +1334,8 @@
       "name": "甘楽カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 175,
@@ -1344,7 +1350,8 @@
       "name": "妙義カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/gunma/myogi/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 178,
@@ -1902,7 +1909,8 @@
       "name": "グレンオークスカントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 226,
@@ -1916,28 +1924,32 @@
       "name": "オーク・ヒルズカントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/oakhills/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 228,
       "name": "アコーディア・ゴルフ 習志野カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 229,
       "name": "東千葉カントリークラブ",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/higashichiba/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 230,
       "name": "ニュー南総ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/chiba/newnanso/",
-      "status": "pending_content_review"
+      "status": "published_verified",
+      "evidenceBatch": "verified-followup-20261029at.json"
     },
     {
       "id": 231,
