@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"id":23,"field":"stay","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=32&date=&p=search.result_course","finding":"公式予約の現行プラン本文で、早朝ハーフはシャワー可、遅い時間帯の1Rスルーは浴室利用不可と確認。"},
+    {"id":92,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/?cc_id=72&news_id=51974&p=guide.news_detail","finding":"美里コースのレストランは8:00からランチ終了まで、朝食提供なし。"},
+    {"id":203,"field":"stay","checked":"2026-10-30","status":"content_verified","url":"https://www.tokyu-golf-resort.com/omigawa/information/","finding":"公式の元旦特別営業案内で浴室設備を確認。2027年1月1日は浴室利用不可。"},
+    {"id":235,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=56&date=&p=search.result_plan&page=1","finding":"公式予約本文で朝食は定食・軽食・ドリンクを別料金で提供、指定外昼食は差額ありと確認。"},
+    {"id":269,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=46&date=&p=search.result_plan&sort=3","finding":"公式予約本文でWeb限定うな重付きプランと限定条件を確認。"},
+    {"id":271,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=172&news_id=60770&p=guide.news_detail","finding":"公式の週替わり案内でポークソテーオニオンソースを確認。"},
+    {"id":370,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?ccid%5B%5D=34&date=&p=search.result_plan&page=5","finding":"公式予約本文で名物ジンギスカンと代替・差額条件を確認。"},
+    {"id":489,"field":"dining","checked":"2026-10-30","status":"content_verified","url":"https://booking.pacificgolf.co.jp/sp/?cc_id=66&news_id=61708&p=guide.news_detail","finding":"2026年9月1日以降の営業時間とランチ・ドリンク類の提供を公式案内で確認。"}
+  ]
+}
