@@ -15,8 +15,9 @@
       "name": "大原・御宿ゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.princehotels.co.jp/golf/ohara/",
-      "status": "reviewed_unconfirmed",
-      "reviewRecord": "source-review-20261029ad.json"
+      "status": "verified_pending_publication",
+      "reviewRecord": "source-review-20261029am.json",
+      "evidenceBatch": "verified-followup-20261029am.json"
     },
     {
       "id": 2,
@@ -112,7 +113,9 @@
       "name": "市原ゴルフクラブ 市原コース",
       "field": "budget",
       "officialUrl": "https://ichihara-gc.com/ichihara/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 18,
@@ -142,7 +145,9 @@
       "name": "ベルセルバカントリークラブ 市原コース",
       "field": "budget",
       "officialUrl": "https://www.belle-co.com/ichihara/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029am.json",
+      "reason": "503、許可された1回の再試行でも本文取得不可。施設不存在とは判断しない。"
     },
     {
       "id": 21,
@@ -166,7 +171,9 @@
       "name": "烏山城カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.karasuyamajo.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029am.json",
+      "reason": "公開本文に税等包含、バッグ割増・キャディフィあり。プレー本体は外部JavaScript calendarで未確認。"
     },
     {
       "id": 23,
@@ -243,7 +250,9 @@
       "name": "本千葉カントリークラブ",
       "field": "budget",
       "officialUrl": "https://honchiba-cc.co.jp/access/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029am.json",
+      "reason": "公式料金ページの静的本文に料金なく、valuegolfのJavaScript埋込を確認。実料金未確認。"
     },
     {
       "id": 41,
@@ -265,7 +274,9 @@
       "name": "相模湖カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.sagamiko-cc.jp/concept/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 47,
@@ -321,7 +332,7 @@
       "name": "豊里ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.toyosato-gc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
@@ -346,7 +357,7 @@
       "name": "つつじヶ丘カントリー倶楽部",
       "field": "budget",
       "officialUrl": "https://www.tsutsujicc.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
@@ -420,7 +431,7 @@
       "name": "宇都宮カンツリークラブ",
       "field": "budget",
       "officialUrl": "https://www.utsunomiya-cc.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029ae.json",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
@@ -740,7 +751,7 @@
       "name": "アゼリアヒルズカントリークラブ",
       "field": "scenery",
       "officialUrl": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "reviewRecord": "source-review-20261029af.json",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
@@ -838,14 +849,18 @@
       "name": "箱根園ゴルフ場",
       "field": "budget",
       "officialUrl": "https://www.princehotels.co.jp/golf/hakone-en/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 118,
       "name": "大箱根カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.princehotels.co.jp/golf/daihakone/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 119,
@@ -2321,7 +2336,7 @@
       "name": "桜の宮ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.sakuranomiyagc.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
@@ -2603,7 +2618,7 @@
       "name": "JGM笠間ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.jgmgroup.co.jp/kasama/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
@@ -2770,7 +2785,7 @@
       "name": "JGMやさと石岡ゴルフクラブ",
       "field": "budget",
       "officialUrl": "https://www.jgmgroup.co.jp/yasato/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029al.json"
     },
     {
@@ -3104,7 +3119,9 @@
       "name": "富士カントリー笠間倶楽部",
       "field": "budget",
       "officialUrl": "https://kasama-club.com/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 312,
@@ -3151,7 +3168,9 @@
       "name": "水戸グリーンカントリークラブ 山方コース",
       "field": "budget",
       "officialUrl": "https://www.mgcc.jp/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 314,
@@ -3167,7 +3186,9 @@
       "name": "水戸レイクスカントリークラブ",
       "field": "budget",
       "officialUrl": "http://mitolakes.jp",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 316,
@@ -3529,7 +3550,9 @@
       "name": "鹿沼プレミアゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.kanuma-premier.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029am.json",
+      "reason": "本文4,940/7,800円はメンバー料金。ビジター料金JSの掲載末尾は2023年5月で期限切れのため不採用。現在料金の一次資料を別途確認する必要あり。"
     },
     {
       "id": 351,
@@ -3650,7 +3673,9 @@
       "name": "ニュー・セントアンドリュースゴルフクラブ・ジャパン",
       "field": "budget",
       "officialUrl": "https://www.nsaj-gc.com/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029am.json",
+      "reason": "公式リンク先の公開カレンダーは取得中の表示まで。JavaScriptで読み込む実料金を未確認。認証は回避しない。"
     },
     {
       "id": 362,
@@ -4233,7 +4258,9 @@
       "name": "東松山カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.hmcc.co.jp/",
-      "status": "pending_content_review"
+      "status": "reviewed_unconfirmed",
+      "reviewRecord": "source-review-20261029am.json",
+      "reason": "2026年4月改定PDFで税別グリーンフィ・キャディカートフィ等は確認。その他施設費・利用税・シーズン定義と総額未確認。推測加算せず保留。"
     },
     {
       "id": 416,
@@ -4832,7 +4859,9 @@
       "name": "嬬恋高原ゴルフ場",
       "field": "budget",
       "officialUrl": "https://www.princehotels.co.jp/golf/tsumagoi/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     },
     {
       "id": 484,
@@ -4979,7 +5008,9 @@
       "name": "大磯ゴルフコース",
       "field": "budget",
       "officialUrl": "https://www.princehotels.co.jp/golf/oiso/",
-      "status": "pending_content_review"
+      "status": "verified_pending_publication",
+      "evidenceBatch": "verified-followup-20261029am.json",
+      "reviewRecord": "source-review-20261029am.json"
     }
   ]
 }

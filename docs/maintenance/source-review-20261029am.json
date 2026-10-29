@@ -1,0 +1,127 @@
+{
+  "checked": "2026-10-29",
+  "baseline": "e14b17831df8fee0f860e32895b8b0278a72cef7",
+  "verified": [
+    {
+      "id": 314,
+      "field": "budget",
+      "url": "https://www3.golfyoyaku.jp/rsv_sys/mgcc/mgcc/mreservation/index/date:20261104/plan:1399793/setid:705540/pid:978878",
+      "basis": "公式reserveページの公開カレンダーから対象プラン詳細を読み、対象日・税込額・食事・人数割増・ロッカー代を確認。",
+      "conditions": "2026-11-04のビジター直前優待。2B/3B+0円、ロッカー使用料110円別途。税込表示だが利用税包含の明示は未確認。FW乗入れは天候・コース状況次第。予約操作なし。",
+      "contentSha256": "1ed21e5d1388a937a11d98a624a63988d759305e65c6d7b4d87ab00762846bf5"
+    },
+    {
+      "id": 311,
+      "field": "budget",
+      "url": "https://kasama-club.com/announcement/2861",
+      "basis": "公式2026年11月〜2027年1月のビジター料金PDFを画像で確認。11月4日V7,330、11月7日V16,800と昼食付の対応を確認。",
+      "conditions": "2026-11-04/07のビジター掲載額。税区分・少人数割増・キャディ費は未確認。会員料金を転用しない。",
+      "pdfUrl": "https://kasama-club.com/system/announcements/file1s/000/001/809/5b66783e9c29879e2d30134dc91fa7cc744caf95/original.pdf?1791958256",
+      "pdfSha256": "3170843c2fc5566ae235c22869d6819a4355737ed35526d8fe176113c64dd96a"
+    },
+    {
+      "id": 315,
+      "field": "budget",
+      "url": "https://firstee.jp/mitolakes-cc/mitolakes-cc/plans/251827/detail",
+      "basis": "公式ホームからリンクされた予約サイトのプラン詳細で日付、総額、税額欄、昼食、時間帯、人数、ロッカーを確認。",
+      "conditions": "2026-11-01、3〜4人、7時台又は9:40以降。3B+0円、利用税450円・入湯税150円を記載。2B対象外。コンディションでカート乗入れ不可の場合あり。",
+      "contentSha256": "01c4664aba3efa72df68c38e7dc32f06b213317dc5c1046c0fede3407a808609"
+    },
+    {
+      "id": 498,
+      "field": "budget",
+      "url": "https://princegolfresort.jp/rsv_sys/prince/oiso/mreservation/index/date:20261104/plan:18488/setid:38824/pid:944543",
+      "basis": "公式カレンダーから9ホールプラン詳細を開き、日付・税込料金・補償料・割増・歩きプレーを確認。",
+      "conditions": "2026-11-04平日9H×1周。2名以上。消費税・補償料35円込み、2B/3B+0円。昼食付きとの表示なし。温泉の優待料金は別途。",
+      "contentSha256": "af8d421593a40898d357beda809dda4cb8ad865a41ffd238704969ceb2330435"
+    },
+    {
+      "id": 481,
+      "field": "budget",
+      "url": "https://princegolfresort.jp/rsv_sys/prince/tsumagoi/mreservation/index/date:20261104/plan:21627/setid:48472/pid:978917",
+      "basis": "公式ホーム掲載の公開キャンペーンリンクから詳細を確認。会員限定と追加費用を省略しない。",
+      "conditions": "2026-11-04、SEIBU PRINCE CLUB会員カード提示。3B+700円/2B+1,400円税込。表示額とは別に35+30+330円。FW乗入れは天候・コンディション次第。",
+      "contentSha256": "b32187b80afaa4b02e6406ba5c5beb1dab8dea65617b56b54f12ed924b3aceb0"
+    },
+    {
+      "id": 0,
+      "field": "budget",
+      "url": "https://princegolfresort.jp/rsv_sys/prince/ohara/mreservation/index/date:20261030/plan:20881/setid:46023/pid:969916",
+      "basis": "公式公開カレンダーから日別詳細の税、食事、人数割増、別途料金を照合。",
+      "conditions": "2026-10-30。2B+1,650円税込/3B+0円。ロッカー不要は受付申出。任意のFW乗入れ1,100円税込、当日コース状況で不可あり。日程・プランにより変動。",
+      "contentSha256": "6443368adc2d44dd41765b8ff96e1bccf3fdf5d828110e6609c0661f31c06f3c"
+    },
+    {
+      "id": 117,
+      "field": "budget",
+      "url": "https://princegolfresort.jp/rsv_sys/prince/hakone-en/mreservation/index/date:20261030/plan:20382/setid:44326/pid:964004",
+      "basis": "公式公開詳細の2価格帯・会員限定・日没注意・割増・別料金を確認。",
+      "conditions": "Seibu Prince Global Rewards会員限定。2026-10-30。昼食なし、2B+2,200円/3B+880円税込。9:30以降は日没で全ホールを回れない場合あり。ロッカー未使用時は浴室利用不可。",
+      "contentSha256": "a0058421a5531af7ee3f9fb8eee7b3ca1306344aa03ef60eeb03a6cd0f3bcd30"
+    },
+    {
+      "id": 118,
+      "field": "budget",
+      "url": "https://princegolfresort.jp/rsv_sys/prince/daihakone/mreservation/index/date:20261102/plan:19268/setid:40854/pid:952363",
+      "basis": "公式公開プラン詳細の対象日・会員条件・税込額・人数別割増・別料金を確認。",
+      "conditions": "2026-11-02。会員カード提示。2B+6,600円/3B+2,200円税込。ロッカー330円・補償料35円別途。昼食付きとの表示なし。料金は日程・プランで変動。",
+      "contentSha256": "6a1e06385047836b4e61342eb6d958953d003ef03e25a9cc51c8adadb9209763"
+    },
+    {
+      "id": 43,
+      "field": "budget",
+      "url": "https://webpack2.jp/reserve/calendar/visitor/372102",
+      "basis": "公式サイトの料金表リンク先で平日セルフ総額15,075円を確認し、plan_detail/372102/1800で食事別・2サム保証なし・サーチャージ包含を照合。",
+      "conditions": "確認時カレンダー2026-10-30〜11-29。平日セルフ、4〜5人乗りカート。2サム保証なし、人数割増未確認。掲載プラン例であり全日同料金とは断定しない。",
+      "contentSha256": "cf815a2dd21fa1d1b9d3c2088f006cffc4fd1d4ec7f59b7de59241471e75f9a4"
+    },
+    {
+      "id": 13,
+      "field": "budget",
+      "url": "https://ichihara-gc.com/ichihara/fee",
+      "basis": "2026年下半期料金表画像で11月4日9,800円・7日20,000円、3B/4B・2B注意を確認。本文の税包含・一般2B割増を照合。",
+      "conditions": "2026-11-04/07一般料金。一般2B割増は平日3,000円・土日祝6,000円。ただし2B予約原則不可・当日2Bは組合せと記載があり、可否と適用は施設に要確認。グリーンクラブ割引を適用しない。",
+      "imageUrl": "https://ichihara-gc.com/ichihara/wp-content/uploads/2026/03/ichihara.jpg",
+      "imageSha256": "f16d81cf1ecee62c489dca85cc6a04f1df024bc23e5ec5f652a501d090d53c1d"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "id": 351,
+      "field": "budget",
+      "url": "https://www.kanuma-premier.jp/fee.html",
+      "reason": "本文4,940/7,800円はメンバー料金。ビジター料金JSの掲載末尾は2023年5月で期限切れのため不採用。現在料金の一次資料を別途確認する必要あり。"
+    },
+    {
+      "id": 415,
+      "field": "budget",
+      "url": "https://www.hmcc.co.jp/news/7129/",
+      "reason": "2026年4月改定PDFで税別グリーンフィ・キャディカートフィ等は確認。その他施設費・利用税・シーズン定義と総額未確認。推測加算せず保留。"
+    },
+    {
+      "id": 361,
+      "field": "budget",
+      "url": "https://www.valuegolf.co.jp/rental/rental_top.cfm?rent_cid=090009701&page_flg=V",
+      "reason": "公式リンク先の公開カレンダーは取得中の表示まで。JavaScriptで読み込む実料金を未確認。認証は回避しない。"
+    },
+    {
+      "id": 19,
+      "field": "budget",
+      "url": "https://www.belle-co.com/ichihara/",
+      "reason": "503、許可された1回の再試行でも本文取得不可。施設不存在とは判断しない。"
+    },
+    {
+      "id": 22,
+      "field": "budget",
+      "url": "https://www.karasuyamajo.com/fee.html",
+      "reason": "公開本文に税等包含、バッグ割増・キャディフィあり。プレー本体は外部JavaScript calendarで未確認。"
+    },
+    {
+      "id": 40,
+      "field": "budget",
+      "url": "https://honchiba-cc.co.jp/price/",
+      "reason": "公式料金ページの静的本文に料金なく、valuegolfのJavaScript埋込を確認。実料金未確認。"
+    }
+  ],
+  "note": "HTTP成功だけで更新せず本文・料金画像・条件を照合。認証、予約、外部送信操作なし。"
+}

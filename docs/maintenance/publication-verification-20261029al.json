@@ -1,0 +1,54 @@
+{
+  "commit": "e14b17831df8fee0f860e32895b8b0278a72cef7",
+  "checkedAt": "2026-10-29T13:11:22.822117+00:00",
+  "files": [
+    {
+      "path": "data.js",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/data.js",
+      "sha256": "3f7875f3b602c9c19ba953c6d43121d0c804c0111b147b9e8f8e4d77b6de68bd",
+      "matches": true
+    },
+    {
+      "path": "courses/54.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/54.html",
+      "sha256": "fe78b050d7bc6d622bbd07a3bf3d4b4a6b5a753213ca3e8a57373928d7fd9f6f",
+      "matches": true
+    },
+    {
+      "path": "courses/57.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/57.html",
+      "sha256": "1dc3284777101bbd81c90d18b7e01d1a0b311549181342e36f12b350e6f27c26",
+      "matches": true
+    },
+    {
+      "path": "courses/66.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/66.html",
+      "sha256": "710ebd7ffefd278d7588ed5ba9036d8a5b05730268291fd4bcf304f4f9e3d757",
+      "matches": true
+    },
+    {
+      "path": "courses/100.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/100.html",
+      "sha256": "1ad9347a3e1866c101632a5240e88d2c93aa94bad216034f4026fbde193923bc",
+      "matches": true
+    },
+    {
+      "path": "courses/261.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/261.html",
+      "sha256": "8359d6f8d74823e2894fbd484be1b47537d9cfdaadeac43263cc7560027d8c17",
+      "matches": true
+    },
+    {
+      "path": "courses/274.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/274.html",
+      "sha256": "b57950a250fca77b53212d27bcc0346174c0c230b91a85f98dd09b43f0213d9a",
+      "matches": true
+    },
+    {
+      "path": "courses/288.html",
+      "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/288.html",
+      "sha256": "5970870623602b854fc99cf8b0d83fdd0f84e87809a2d07371c9aca076f52747",
+      "matches": true
+    }
+  ]
+}
