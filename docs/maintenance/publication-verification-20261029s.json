@@ -1,0 +1,169 @@
+{
+  "checkedAt": "2026-10-29T08:18:32.136885+00:00",
+  "publishedMain": "b0e3cd67e5f9e3eb931802680e0b7b4c7136dba6",
+  "verifiedUpdateRun": 40840517607,
+  "method": "Compare full public response bytes with locally tested generated files; every response matched.",
+  "matchedFiles": [
+    {
+      "path": "data.js",
+      "sha256": "df7e5cafd5c6a2146a5f29a45c6df831da297785d7eb87d983fb133db285baeb"
+    },
+    {
+      "path": "courses/21.html",
+      "sha256": "9937186a47cd90b598309dc130f43aedf7ffc4f7876b9f8645eb346597e5d8e1"
+    },
+    {
+      "path": "courses/71.html",
+      "sha256": "07a18795f7f14b5ca8a7ddff789804bc782011e55a014204dc60e8497e175c9f"
+    },
+    {
+      "path": "courses/74.html",
+      "sha256": "3fbd679baee9e75c2db88e67d962caafdfb28394778bf335860b69ad0ef8e1e9"
+    },
+    {
+      "path": "courses/129.html",
+      "sha256": "0c62d000106bbd79fb3d10443181d7cb2862c14086b7f16d8fe824c004c29e30"
+    },
+    {
+      "path": "courses/150.html",
+      "sha256": "ee2f275da28903e44eaeab96e479134bd19b24941f852c4140d49f73e39f4e25"
+    },
+    {
+      "path": "courses/153.html",
+      "sha256": "02f9d9c954024ce4c2c3612058df1a864896759dd825d5433aa93f75e82eb617"
+    },
+    {
+      "path": "courses/182.html",
+      "sha256": "3a9e86bed452d074a81bf4a54aafd636bcaf7664e2261ae87aa7f3650179edb1"
+    },
+    {
+      "path": "courses/201.html",
+      "sha256": "da8c86b953cc10d610f72c8075edc478b7fc9aea581b24ef91c6146d55a96d91"
+    },
+    {
+      "path": "courses/220.html",
+      "sha256": "502554d6e80522d167c75adafa4b2097630b7c74188055395314e3a19665b93f"
+    },
+    {
+      "path": "courses/221.html",
+      "sha256": "d09cdf3d717c022d68e9ad3d089a345c4589950671c1b3d3668bc9596506ceda"
+    },
+    {
+      "path": "courses/235.html",
+      "sha256": "848c374a92a85194082f5566536418ea4594009cf2c003fb50799b33eb4af194"
+    },
+    {
+      "path": "courses/236.html",
+      "sha256": "1aff5de4903b321fa119a8d1c452613a5e1e82c29bf86a1d5c0d9d9afec2c6d2"
+    },
+    {
+      "path": "courses/238.html",
+      "sha256": "1f9fa64848bf6abacc5d59e17070f80c6915183314f97255ae401f93ce5a3658"
+    },
+    {
+      "path": "courses/262.html",
+      "sha256": "7b373e533710dfd0b5f51b695959993d7edffd2927afb571bd72d5c799265605"
+    },
+    {
+      "path": "courses/263.html",
+      "sha256": "fee3668eb6a95b13af0f69fee75ea65b82c8277cae7b7cc665d32a7036fa96c8"
+    },
+    {
+      "path": "courses/264.html",
+      "sha256": "8dc6d68073411083308f35cfb8891b98e9e1eb2694a7e5e63100098e8e0ce1c7"
+    },
+    {
+      "path": "courses/265.html",
+      "sha256": "8d49234c4c75cc9ba6cd417f2e5e29cf6362b819ae3f39d77c8b94063bc1078d"
+    },
+    {
+      "path": "courses/266.html",
+      "sha256": "176332d6f47f9b3ad17f8ce0c4313917c347aca82a6fadcf7fc356d4bf785ebb"
+    },
+    {
+      "path": "courses/267.html",
+      "sha256": "f2bb1de654c78718f229ad0459da2ca6c34a36658cce5c0ce6989348a53778b7"
+    },
+    {
+      "path": "courses/268.html",
+      "sha256": "0816c0e6a64f3b4213902fce4adc10057594787eb63aa06f8c59569e1e381492"
+    },
+    {
+      "path": "courses/269.html",
+      "sha256": "a01e570f3dffca10115117a742d2e7e601afef44f75aaf7da2b274556efca288"
+    },
+    {
+      "path": "courses/270.html",
+      "sha256": "01865266885ae61af4227dba5d6c59523b428da9e6565ee99e7ff620b49c7527"
+    },
+    {
+      "path": "courses/271.html",
+      "sha256": "8e4ba0d22b202d5399ce6489a36f8bb288badd195d6926c8ea661cb00959dfde"
+    },
+    {
+      "path": "courses/298.html",
+      "sha256": "e48d7ea117fe3f94eeab2a3747b886a92815cf08f72560cf8c74f14f0af35dc8"
+    },
+    {
+      "path": "courses/299.html",
+      "sha256": "49c18da6323aa200c3695a61bab16d71a6a45e5b35c04159d1a4db530062fef5"
+    },
+    {
+      "path": "courses/370.html",
+      "sha256": "8b7cc59555a1254087583cb9ed1d4b9a735d7be5c6afc4f3d432c4cfe5680f6c"
+    },
+    {
+      "path": "courses/373.html",
+      "sha256": "23dd126f9fe7cf88629288b9bdadabf71d43af49ddd1b8aabd643055887517fb"
+    },
+    {
+      "path": "courses/374.html",
+      "sha256": "f8732703ad59f09494547e2d965c0081ad5e897911bf0b2a39b78299d8a277df"
+    },
+    {
+      "path": "courses/375.html",
+      "sha256": "dd8a303b65798825f076a48787a7995d50a3a38829473035bf06af878e30aebc"
+    },
+    {
+      "path": "courses/376.html",
+      "sha256": "567b1ea3f8b9b96d5bfcfd035dac982e92e2b89842d55edcdf58e7664c4de76f"
+    },
+    {
+      "path": "courses/460.html",
+      "sha256": "7608d745265e7819a793d7334c557cd5d73e2297a598cdc0aeb9a124e2b45790"
+    },
+    {
+      "path": "courses/471.html",
+      "sha256": "a2f3d14abdae3b27f5395d338b2130c98c820f61c1e1ecf4d2a0c928f25cd42e"
+    },
+    {
+      "path": "courses/489.html",
+      "sha256": "5bd8b67ef50e5d5f9616fcb990d0a9137d8036b002a4b56d5ea7b0cf9e98a485"
+    }
+  ],
+  "courseCount": 500,
+  "remainingMissingFields": {
+    "play": 0,
+    "car": 8,
+    "rail": 34,
+    "dining": 75,
+    "stay": 85,
+    "budget": 265,
+    "scenery": 22
+  },
+  "totalRemaining": 489,
+  "runBatches": [
+    "verified-followup-20261029p.json",
+    "verified-followup-20261029q.json",
+    "verified-followup-20261029r.json",
+    "verified-followup-20261029s.json"
+  ],
+  "runTotals": {
+    "courses": 100,
+    "newFields": 111,
+    "existingFieldUpdates": 6,
+    "remainingBefore": 600,
+    "remainingAfter": 489
+  },
+  "limitation": "Full investigation is unfinished. Fields containing partial verified details may still have explicitly unverified conditions. Missing fields remain null; no unsupported absence, price or travel time was invented."
+}

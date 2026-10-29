@@ -136,7 +136,7 @@
       "name": "ムーンレイクゴルフクラブ 茂原コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/65.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -404,7 +404,7 @@
       "name": "城里ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://shirosato-gc.com/hotel.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -420,7 +420,7 @@
       "name": "那須ちふり湖カントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.chifuriko.co.jp/hotel/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -822,7 +822,7 @@
       "name": "伊勢原カントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/154.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -981,7 +981,7 @@
       "name": "飯能くすの樹カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/75.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -996,7 +996,7 @@
       "name": "阿見ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/47.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1215,7 +1215,7 @@
       "name": "CPGカントリークラブ",
       "field": "budget",
       "officialUrl": "https://www.cpg.co.jp/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1391,7 +1391,7 @@
       "name": "南総ヒルズカントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/161.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1588,7 +1588,7 @@
       "name": "アバイディングクラブ ゴルフソサエティ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/61.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1610,7 +1610,7 @@
       "name": "京カントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/55.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1761,7 +1761,7 @@
       "name": "丸の内倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/56.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1790,7 +1790,7 @@
       "name": "総武カントリークラブ 印旛コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/63.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -1826,7 +1826,7 @@
       "name": "PGM南市原ゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/168.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2154,7 +2154,7 @@
       "name": "笠間カントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/44.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2176,7 +2176,7 @@
       "name": "霞ヶ浦カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/43.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2198,7 +2198,7 @@
       "name": "内原カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/151.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2213,7 +2213,7 @@
       "name": "扶桑カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/39.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2235,7 +2235,7 @@
       "name": "カントリークラブ・ザ・レイクス",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/38.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2250,7 +2250,7 @@
       "name": "グランドスラムカントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/40.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2265,7 +2265,7 @@
       "name": "勝田ゴルフ倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/45.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2294,7 +2294,7 @@
       "name": "スプリングフィルズゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/46.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2316,7 +2316,7 @@
       "name": "鹿島の杜カントリー倶楽部",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/157.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2338,7 +2338,7 @@
       "name": "オールドオーチャードゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/172.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2649,7 +2649,7 @@
       "name": "玉造ゴルフ倶楽部 捻木コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/42.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -2671,7 +2671,7 @@
       "name": "玉造ゴルフ倶楽部 若海コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/41.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -3390,7 +3390,7 @@
       "name": "皐月ゴルフ倶楽部 鹿沼コース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/34.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -3448,7 +3448,7 @@
       "name": "ピートダイゴルフクラブ VIPコース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/31.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -3470,7 +3470,7 @@
       "name": "ピートダイゴルフクラブ ロイヤルコース",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/32.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -3492,7 +3492,7 @@
       "name": "エヴァンタイユゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/26.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -3514,7 +3514,7 @@
       "name": "ハーモニーヒルズゴルフクラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/37.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -4306,7 +4306,7 @@
       "name": "軽井沢高原ゴルフ倶楽部",
       "field": "budget",
       "officialUrl": "https://www.karuizawa-kogen.com/",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
@@ -4443,7 +4443,7 @@
       "name": "秦野カントリークラブ",
       "field": "stay",
       "officialUrl": "https://booking.pacificgolf.co.jp/guide/66.html",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029s.json"
     },
     {
