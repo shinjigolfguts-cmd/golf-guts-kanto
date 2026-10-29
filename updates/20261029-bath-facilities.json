@@ -1,0 +1,35 @@
+{
+  "baseSha256": "da79a060a20097c85f0e5848ee6dd2779922e6ad1afb54df19034c7f02a9420c",
+  "reviewed": true,
+  "reviewer": "Codex official page review 2026-10-29",
+  "updates": [
+    {
+      "id": 10,
+      "name": "北武蔵カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスに大浴場があります。利用時間・営業条件は公式サイトでご確認ください。宿泊施設の有無は未確認です。",
+        "url": "https://www.resol-golf.jp/kitamusashi/clubhouse/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+      },
+      "evidenceNote": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+    },
+    {
+      "id": 53,
+      "name": "木更津東カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスに大浴場があります。利用時間・営業条件は公式サイトでご確認ください。宿泊施設の有無は未確認です。",
+        "url": "https://www.resol-golf.jp/kisarazuhigashi/clubhouse/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+      },
+      "evidenceNote": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+    }
+  ]
+}
