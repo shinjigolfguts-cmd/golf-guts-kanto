@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `fe95ef5ae9d057a9dcfe0ee58c27c21e18c75e908122ef3c5a4210867b43be89`
+data.js SHA256: `7a9d6db617ac651901a887131bcc3b54a5d23475100ac57a43613cabe3b21c63`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,7 +9,7 @@ data.js SHA256: `fe95ef5ae9d057a9dcfe0ee58c27c21e18c75e908122ef3c5a4210867b43be8
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 35 |
-| 食事 | 116 |
+| 食事 | 113 |
 | 宿泊・お風呂 | 177 |
 | 料金 | 286 |
 | 景色 | 42 |
@@ -55,12 +55,12 @@ data.js SHA256: `fe95ef5ae9d057a9dcfe0ee58c27c21e18c75e908122ef3c5a4210867b43be8
 | 55 | [米原ゴルフ倶楽部](https://yoneharagc.jp/) | 料金 |
 | 56 | [千代田カントリークラブ](https://www.pacificgolf.co.jp/chiyoda/) | 料金 |
 | 57 | [つつじヶ丘カントリー倶楽部](https://www.tsutsujicc.com/) | 料金 |
-| 58 | [イーグルレイクゴルフクラブ](https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp) | 食事・宿泊・お風呂・料金 |
+| 58 | [イーグルレイクゴルフクラブ](https://www.pacificgolf.co.jp/eaglelake/lesson/ladies_school.asp) | 宿泊・お風呂・料金 |
 | 59 | [ブリストルヒル ゴルフクラブ](https://bristol-hill.com/facility) | 料金 |
 | 60 | [四街道ゴルフ倶楽部](https://reserve.accordiagolf.com/golfCourse/chiba/yotsukaido/detail) | 料金 |
 | 61 | [アクアラインゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/chiba/aqualine/) | 料金 |
 | 62 | [藤岡ゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/gunma/fujioka/) | 料金 |
-| 63 | [東京相武カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tokyo/sobu/detail) | 食事・料金 |
+| 63 | [東京相武カントリークラブ](https://reserve.accordiagolf.com/golfCourse/tokyo/sobu/detail) | 料金 |
 | 64 | [さいたまゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/saitama/saitamagc/) | 料金 |
 | 65 | [房州カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/boushu/) | 料金 |
 | 66 | [宇都宮カンツリークラブ](https://www.utsunomiya-cc.co.jp/) | 料金 |
@@ -72,7 +72,7 @@ data.js SHA256: `fe95ef5ae9d057a9dcfe0ee58c27c21e18c75e908122ef3c5a4210867b43be8
 | 77 | [那須霞ヶ城 ゴルフ＆ホテルリゾート](https://nasukasumigajo.com/ja) | 食事・料金 |
 | 78 | [真名カントリークラブ 真名コース](https://www.mannacc.com/course/manna-course) | 食事・料金 |
 | 80 | [初穂カントリークラブ](https://www.hatsuhocc.co.jp/) | 食事・料金 |
-| 81 | [ムーンレイクゴルフクラブ 鶴舞コース](https://booking.pacificgolf.co.jp/guide/143.html) | 食事・料金 |
+| 81 | [ムーンレイクゴルフクラブ 鶴舞コース](https://booking.pacificgolf.co.jp/guide/143.html) | 料金 |
 | 82 | [佐原カントリークラブ](https://reserve.accordiagolf.com/golfCourse/chiba/sawara/) | 料金 |
 | 83 | [ムーンレイクゴルフクラブ 市原コース](https://booking.pacificgolf.co.jp/guide/141.html) | 食事・料金 |
 | 84 | [ダイナミックゴルフ千葉](https://dynamic-golf.jp/chiba/) | 食事・宿泊・お風呂 |
