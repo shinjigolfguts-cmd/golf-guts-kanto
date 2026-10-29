@@ -1,0 +1,1872 @@
+{
+  "checked": "2026-10-29",
+  "note": "検証JSONに採用した項目以外は未完了。HTTP成功を内容確認・情報不存在と見なさない。",
+  "items": [
+    {
+      "id": 5,
+      "name": "江戸川ラインゴルフショートコース",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://edogawaline.or.jp/",
+          "contentSha256": "11332e848ab5c10914e37ee5a2d69100f8d8c5ec464a0f0665fe95a8e0c12955",
+          "titleExcerpt": "江戸川ラインゴルフショートコース | ゴルフ練習場 MENU ホーム ショートコース ゴルフ練習場 ゴルフスクール 野球場 アクセス English Short"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "アジア取手カントリー倶楽部",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.asia-toride.com/",
+          "contentSha256": "e946d53c83899e627c592449e40d61702036d285c99527ceb8848f2518d99781",
+          "titleExcerpt": "﻿ アジア取手カントリー倶楽部 アジア取手カントリー倶楽部 TEL:0297-72-0727 FAX:0297-72-0795 オンライン予約 MENU ＨＯＭ"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "ダイナミックゴルフ千葉",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://dynamic-golf.jp/",
+          "contentSha256": "5706140d8061292dcd2ef62f07694a82abf4cb9da4b75500fa9bd63a7e89a60c",
+          "titleExcerpt": "ダイナミックゴルフ｜千葉県最大級の総合ゴルフ練習場 - ショートコース、アプローチ練習場、ゴルフスクール完備｜Dynamic Golf DYNAMIC GOLF"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.kasen-kikou.or.jp/tamagawa/golf.html",
+          "contentSha256": "5d7059ac2bbe19093f78496982907aa50fffb1c7cc332fb48f17de778808f327",
+          "titleExcerpt": "川崎リバーサイドパーク(ゴルフ場)-多摩川河川健康公園 一般社団法人 河川健康公園機構／多摩川河川健康公園 川崎リバーサイドパーク(ゴルフ場) GOLF\r\n  "
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "name": "千葉バーディクラブ",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.c-birdie.com/",
+          "contentSha256": "5be7ea30aa1fb7ee4e566884becc80afafb96b99dc9aec42965f25e9ec693ee6",
+          "titleExcerpt": "千葉バーディクラブ 千葉バーディークラブ 施設案内 コース ご利用案内 ギャラリー 八街未来都市 アクセス 会員権の ご案内 会員様の ご予約 ご予約・お問合わ"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "ミルフィーユゴルフクラブ",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.milgolf.co.jp/",
+          "contentSha256": "bb234039a9fad1524705cf3c7cf04e9599fb725f1ac518bcb759d4710a4aa78f",
+          "titleExcerpt": "千葉県のゴルフ場｜ミルフィーユゴルフクラブ【公式】 千葉県のゴルフ場・名匠加藤俊輔氏設計による自然の地形を活かした個性的で、あくまでも上質、どこまでも快適な美し"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "東京クラシッククラブ",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://tokyo-classic.jp/",
+          "contentSha256": "ff69d6d680a6cf1976d3a422b0f7e13a5df42f430d35f4cb239eeeb34c61009a",
+          "titleExcerpt": "東京クラシッククラブ | TOKYO CLASSIC TOKYO CLASSIC Official Site LOADING.... 0 % En Jp MEM"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "name": "茨城ゴルフ倶楽部",
+      "field": "dining",
+      "status": "verified_in_batch_r",
+      "resources": [
+        {
+          "url": "https://ibarakigc.jp",
+          "contentSha256": "a42e74bf8da9361f8ea14ee909d7d5f9976b4a73059e3dc42f389a4aecf31e10",
+          "titleExcerpt": "茨城ゴルフ倶楽部 | 茨城県つくばみらい市　東コース18H・西コース18H MENU ホーム 営業のご案内 施設利用時間のご案内 ドレスコード・エチケット・マナ"
+        },
+        {
+          "url": "https://ibarakigc.jp/clubhouse",
+          "contentSha256": "32eec5bc6acc53e703be3582ed86463f762342426caa302f894dbca35569b3fd",
+          "titleExcerpt": "クラブハウス | 茨城ゴルフ倶楽部 MENU ホーム 営業のご案内 施設利用時間のご案内 ドレスコード・エチケット・マナー 予約のご案内 ゲスト料金のご案内 コ"
+        },
+        {
+          "url": "https://ibarakigc.jp/archives/12404",
+          "contentSha256": "bce68251088d453f336454c64191dcd350f96c6a13dd94042fd91e271af98047",
+          "titleExcerpt": "【ランチメニュー】更新しました | 茨城ゴルフ倶楽部 MENU ホーム 営業のご案内 施設利用時間のご案内 ドレスコード・エチケット・マナー 予約のご案内 ゲス"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "name": "栗橋國際カントリー倶楽部",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.kurikan.co.jp/",
+          "contentSha256": "c1345f3cef44a541f8f43017d1c48af7e9f56118a4eca5b0350ef415f6fb6030",
+          "titleExcerpt": "栗橋國際カントリー倶楽部 最新情報 アクセス案内 お問い合わせ top page reservation course facilities restauran"
+        },
+        {
+          "url": "https://www.kurikan.co.jp/clubconcept/",
+          "contentSha256": "47f3c79a3c3a6ab6f711d0f849bbf77ced92990171904b7f84fa19ea58921710",
+          "titleExcerpt": "栗橋國際カントリー倶楽部 最新情報 アクセス案内 お問い合わせ top page reservation course facilities restauran"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "ジェイゴルフ霞ヶ浦",
+      "field": "dining",
+      "status": "verified_in_batch_r",
+      "resources": [
+        {
+          "url": "https://jgk.tatemono-golf.com/",
+          "contentSha256": "b5e516e0d668453a45d0cd1923dc804135b02c6a333502b06dc5461c95b37ebd",
+          "titleExcerpt": "ジェイゴルフ霞ヶ浦 | 東京建物リゾート株式会社 ゴルフコースサイト 東京建物リゾート株式会社 WEB会員募集中 WEB会員ログイン ゴルフコースポータルサイト"
+        },
+        {
+          "url": "https://jgk.tatemono-golf.com/restaurant/",
+          "contentSha256": "1f1ed708ae410bd0a47369df146e5fab0884d3118cee08273ca2ae4ee9bcdbaf",
+          "titleExcerpt": "レストランメニュー | ジェイゴルフ霞ヶ浦 | 東京建物リゾート株式会社 ゴルフコースサイト 東京建物リゾート株式会社 WEB会員募集中 WEB会員ログイン ゴ"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "太平洋クラブ美野里コース",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/minori/",
+          "contentSha256": "10e6f7c6c8fe2f6c66a5c68507fddf67b3d90fbc8a7a5cc8b6eaf2b7d575c6ec",
+          "titleExcerpt": "コース紹介｜太平洋クラブ Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global Sit"
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/index.html",
+          "contentSha256": "9fe95ed8b53981b05f28ce16fea68bde30afcec6190a1eeaf714bfa0e22e8301",
+          "titleExcerpt": "太平洋クラブ｜佐野ヒルクレストコース Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Glob"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "name": "太平洋クラブロイヤルコース",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/royal/",
+          "contentSha256": "4a8248337285a75f8776c600188af9b3a38e0c40ff3370e37e587593c3565a6c",
+          "titleExcerpt": "太平洋クラブ｜ロイヤルコース Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Global S"
+        },
+        {
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/index.html",
+          "contentSha256": "9fe95ed8b53981b05f28ce16fea68bde30afcec6190a1eeaf714bfa0e22e8301",
+          "titleExcerpt": "太平洋クラブ｜佐野ヒルクレストコース Taiheiyo Club コース紹介 会員権について 太平洋クラブの魅力 トーナメント Global Site Glob"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "name": "高萩カントリークラブ",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.takahagi-cc.jp/",
+          "contentSha256": "117e6082e808b33155cfed4e0c7155283822ec9ae8d8236a9e2b312abe9b7e23",
+          "titleExcerpt": "高萩カントリークラブ – 茨城県のゴルフ場高萩カントリークラブ。自然を生かした18ホールは、全体的に距離がある。特に夏場は高原の涼風と併せて快適なプレーが楽しめ"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "http://www.daiyagreen.com",
+          "contentSha256": "33b5d60a48afb872bc7c9088dd9424c3fe488c23ce15435a52604016388930f7",
+          "titleExcerpt": "ダイヤグリーン倶楽部 ダイヤグリーン倶楽部 サイトマップ お問い合わせ コンセプト コースガイド 施設紹介 ご利用料金 アクセス メンバー 東関東自動車道、佐原"
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "name": "マナゴルフクラブ",
+      "field": "dining",
+      "status": "verified_in_batch_r",
+      "resources": [
+        {
+          "url": "https://www.managolf.jp/",
+          "contentSha256": "b89c7b4ad6679daefdd019e59b9e862618ff27c667dacbf9ed50a23dea9e064d",
+          "titleExcerpt": "マナゴルフクラブ 競技規則 | プライバシーポリシー | 天気予報 | お問合せ 会員登録は こちら ホーム 施設・料金 マナホテル コースレイアウト レストラ"
+        },
+        {
+          "url": "https://www.managolf.jp/restrant/",
+          "contentSha256": "29cc8e8921fcdd99f13f6de47e0cd4a5ca1fc896bc9293509f59502b2b4b41f7",
+          "titleExcerpt": "レストラン | マナゴルフクラブ 競技規則 | プライバシーポリシー | 天気予報 | お問合せ 会員登録は こちら ホーム 施設・料金 マナホテル コースレイ"
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "name": "霞ヶ浦国際ゴルフコース",
+      "field": "dining",
+      "status": "verified_in_batch_r",
+      "resources": [
+        {
+          "url": "https://www.kasumigaura-kokusai-golf.com/",
+          "contentSha256": "853ab2acf8fbc7a32817264a28c72e675e3367f6a24ed92b241617dee94a7024",
+          "titleExcerpt": "霞ヶ浦国際ゴルフコース　Kasumigaura International Golf Course 霞ヶ浦国際ゴルフコース　Kasumigaura Intern"
+        },
+        {
+          "url": "https://www.kasumigaura-kokusai-golf.com/restaurant",
+          "contentSha256": "54cc083e6f1a5e8d487d54db6bb1545226e7c143dc1c02d9be28a292db6ac07c",
+          "titleExcerpt": "レストラン..Restaurant..餐廳 — 霞ヶ浦国際ゴルフコース　Kasumigaura International Golf Course 霞ヶ浦国際ゴ"
+        },
+        {
+          "url": "https://www.kasumigaura-kokusai-golf.com/rates",
+          "contentSha256": "267271b4b568bb27ce359fdfaac83adf02417a1546b507aa7974f928b631a62a",
+          "titleExcerpt": "料金案内..Rates..收費標準 — 霞ヶ浦国際ゴルフコース　Kasumigaura International Golf Course 霞ヶ浦国際ゴルフコー"
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://asia-shimodate.com/",
+          "contentSha256": "c33a9653237c3b5667b88a1d0e453a768078021ee9e1c7014a2b7d982073fe4a",
+          "titleExcerpt": "﻿ アジア下舘カントリー倶楽部 アジア下舘カントリー倶楽部 TEL:0296-75-3141 FAX:0296-75-2629 オンライン予約 MENU ＨＯＭ"
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "name": "25那須ゴルフガーデン",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://dormy-hotels.com/resort/hotels/nasu/golf/",
+          "contentSha256": "0b72b3f991b51809f5be9dee29b9d5b7752a135a66723444cc75049e79ba186a",
+          "titleExcerpt": "ウェルネスの森 那須 - 最低価格保証 | 共立リゾート Twitter Instagram Youtube Language 日本語 ENGLISH 한국어 "
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "name": "ベルセルバカントリークラブ さくらコース",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "http://www.belle-co.com/belleselva/",
+          "contentSha256": "9e82067c743d9f85ce7b42db9f4c7f4e28e97b3f372ee75cd456e7c8991e53b3",
+          "titleExcerpt": "ベルセルバカントリークラブ さくらコース/ホテルベルセルバ(栃木県 ゴルフ場&ホテル) HOME コース案内 ご利用料金 ホテル 施設紹介 温泉 アクセス オン"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "name": "東都秩父カントリー倶楽部",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.toto-motors.co.jp/golf/chichibu/",
+          "contentSha256": "9fa5e22bbbcfe92893285c0800a51a9ecc597e2e11841797572f6d948289b018",
+          "titleExcerpt": "東都秩父カントリー倶楽部 （ゴルフ場）【埼玉県秩父市のゴルフ場】 東都秩父カントリー倶楽部 ロゴ トップ 倶楽部について コース紹介 施設紹介 ご料金 アクセス"
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "name": "吉井カントリークラブ",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.ycc-golf.co.jp/",
+          "contentSha256": "bda638db122acb468c727d1094428a194a3f732a984665892dcd65184d09f5fd",
+          "titleExcerpt": "吉井カントリークラブ 吉井カントリークラブ紹介動画を見る 会社概要 お問い合わせ サイトマップ 吉井カントリークラブ オンライン予約 メニュー 吉井カントリーク"
+        },
+        {
+          "url": "https://www.ycc-golf.co.jp/institution/restaurant/",
+          "contentSha256": "bafecd526b3fa46056e800c443bc887086d0bc1702f061b535ed3d470cae28f5",
+          "titleExcerpt": "レストラン紹介｜吉井カントリークラブ 吉井カントリークラブ紹介動画を見る 会社概要 お問い合わせ サイトマップ 吉井カントリークラブ オンライン予約 メニュー "
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "ゴルフクラブスカイリゾート",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.gcsr.jp/",
+          "contentSha256": "e48d3810dd5785fee598a30b1bbf22f9965544ebd017dab817cb013b042c9494",
+          "titleExcerpt": "ゴルフクラブスカイリゾート　旧沼田スプリングス ゴルフクラブスカイリゾートロゴ Privacy policy Access Weather トップ ゴルフクラブ"
+        },
+        {
+          "url": "https://www.gcsr.jp/restaurant.html",
+          "contentSha256": "dc1de27fc9320c50f76a71f407f4a7f470fb392f542d33dc95cb9eee9772b5b5",
+          "titleExcerpt": "ゴルフクラブスカイリゾート - レストラン - ゴルフクラブスカイリゾートロゴ Privacy policy Access Weather メニューレストラン "
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "シルクカントリー倶楽部",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://rfgr.jp/silk/",
+          "contentSha256": "08e28c2c3f44b904d99ea592bc5f10ddced918ec9720aaa6f93091846729db5c",
+          "titleExcerpt": "シルクカントリー倶楽部 シルクカントリー倶楽部 シルクカントリー倶楽部 SILK COUNTRY CLUB 新着情報 料金 コース 施設 予約 新着情報 FEA"
+        },
+        {
+          "url": "https://rfgr.jp/silk/kasumian/",
+          "contentSha256": "66324fb930aada804cc6c6608d472c926d7852e2b6234d1a3c29eeecfda7fdfe",
+          "titleExcerpt": "レストラン 霞庵 - シルクカントリー倶楽部 シルクカントリー倶楽部 シルクカントリー倶楽部 SILK COUNTRY CLUB 新着情報 料金 コース 施設 "
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "name": "青梅リバーサイドパーク",
+      "field": "dining",
+      "status": "extracted_text_reviewed_images_or_related_links_pending",
+      "resources": [
+        {
+          "url": "https://www.riverside-park.co.jp/",
+          "contentSha256": "f0d0168e342e730825442782aab480d1f5802f51ca89f408034a19dab5bab7b4",
+          "titleExcerpt": "青梅リバーサイドパーク | 多摩川沿いの複合スポーツリゾート コンテンツへスキップ ナビゲーションに移動 青梅リバーサイドパーク 初めての方へ 営業時間・料金 "
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "ムーンレイクゴルフクラブ 茂原コース",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=65",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 37,
+      "officialImagesMetadataSha256": "f1ff7f073d39973df75550431cc500e4f27118539b753de97893a4f0100a31aa",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r65e5300c.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2024年03月04日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec50b.jpg",
+          "category": 5,
+          "caption": "彩りサラダプレート",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r66540ce9.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2024年05月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec4d5.jpg",
+          "category": 5,
+          "caption": "昆布水つけ麺",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec4b5.jpg",
+          "category": 5,
+          "caption": "カスクートドッグ",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec488.jpg",
+          "category": 5,
+          "caption": "カキフライ",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r66038a3c.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r660389fd.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r69967d94.jpg",
+          "category": 5,
+          "caption": "担々麺",
+          "posted": "2026年02月19日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r66df96a6.jpg",
+          "category": 5,
+          "caption": "五目あんかけ焼きそば",
+          "posted": "2024年09月10日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec9bd.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec93d.jpg",
+          "category": 5,
+          "caption": "かつ煮膳",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec871.jpg",
+          "category": 5,
+          "caption": "酸辣湯面",
+          "posted": "2026年10月14日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/65/r6acec5bf.jpg",
+          "category": 5,
+          "caption": "ビーフカレー",
+          "posted": "2026年10月14日"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "伊勢原カントリークラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=154",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 35,
+      "officialImagesMetadataSha256": "c266609bc7c59da0776f2124458409effd1fe6e597d8f8f9ef965f6396cb250a",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 139,
+      "name": "PGM市原カントリークラブ",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=178",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 17,
+      "officialImagesMetadataSha256": "d0b55fc8d1a505b4ce92b2cca5b3c5e603ef589f14558e2326b2209adf9a0746",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 150,
+      "name": "飯能くすの樹カントリー倶楽部",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=75",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 42,
+      "officialImagesMetadataSha256": "c43f18a9c88f8edb4f8b200c0da6061d83078d8755c08ea4e1290bba4122b658",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 153,
+      "name": "阿見ゴルフクラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=47",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 30,
+      "officialImagesMetadataSha256": "6c7e502f40ab3681ee6a84d96488af1ecf1e4a339c09d238da8b70a95c6ec881",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/47/r65a7906f.jpg",
+          "category": 5,
+          "caption": "モーニングセット",
+          "posted": "2024年01月17日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/47/r65018ea0.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2023年09月13日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/47/r65018ef6.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2023年09月13日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/47/r65018f18.jpg",
+          "category": 5,
+          "caption": "担々麺",
+          "posted": "2023年09月13日"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "name": "南総ヒルズカントリークラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=161",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 36,
+      "officialImagesMetadataSha256": "a04d08dae51ce9fce200d0866d74b17a8e52b9bd10fdb35c26c43565cb3a1841",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r69e6e4d4.jpg",
+          "category": 5,
+          "caption": "醤油ラーメンとミニ炒飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r69e6ea02.jpg",
+          "category": 5,
+          "caption": "ルーロー飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r67567d57.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2024年12月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r69e6f12f.jpg",
+          "category": 5,
+          "caption": "カツサンド",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r65e6d966.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r69b39fcb.jpg",
+          "category": 5,
+          "caption": "とんてき",
+          "posted": "2026年03月13日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r65e6d99d.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r66df9dca.jpg",
+          "category": 5,
+          "caption": "チキンカレー",
+          "posted": "2024年09月10日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r66038b4b.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r65e6d9e7.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(温",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r65e6d9c9.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(温",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r66038b31.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r69b3a1d2.jpg",
+          "category": 5,
+          "caption": "冷やし担担麺",
+          "posted": "2026年03月13日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r6602458b.jpg",
+          "category": 5,
+          "caption": "レバニラ炒め",
+          "posted": "2024年03月26日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r65e6da5c.jpg",
+          "category": 5,
+          "caption": "鶏の唐揚げ",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/161/r68f6e8e0.jpg",
+          "category": 5,
+          "caption": "彩りサラダプレート",
+          "posted": "2025年10月21日"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "name": "アバイディングクラブ ゴルフソサエティ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=61",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 51,
+      "officialImagesMetadataSha256": "21f1747667a80065fc0835f366846ed0bae82b43aa5cfb048ec3fefbcc90136c",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6e2fd.jpg",
+          "category": 5,
+          "caption": "醤油ラーメンとミニ炒飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6e9e6.jpg",
+          "category": 5,
+          "caption": "ルーロー飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r67567b65.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2024年12月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69e6f118.jpg",
+          "category": 5,
+          "caption": "カツサンド",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r65e177b7.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2024年03月01日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r6602306b.jpg",
+          "category": 5,
+          "caption": "鉄板ビーフガーリックライス",
+          "posted": "2024年03月26日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r65e18b06.jpg",
+          "category": 5,
+          "caption": "ロースとんかつ",
+          "posted": "2024年03月01日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r65e18b5f.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2024年03月01日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r66df9801.jpg",
+          "category": 5,
+          "caption": "チキンカレー",
+          "posted": "2024年09月10日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r65e18bc7.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(温",
+          "posted": "2024年03月01日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r66038aa3.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r65e18bab.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(温",
+          "posted": "2024年03月01日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r66038a83.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69b79ec5.jpg",
+          "category": 5,
+          "caption": "冷やし担々麺",
+          "posted": "2026年03月16日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r66df97de.jpg",
+          "category": 5,
+          "caption": "五目あんかけ焼きそば",
+          "posted": "2024年09月10日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/61/r69b37b87.jpg",
+          "category": 5,
+          "caption": "8品目のべジ粥",
+          "posted": "2026年03月13日"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "京カントリークラブ",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=55",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 32,
+      "officialImagesMetadataSha256": "3b723d2bc59ed3bc1226470aa3b424f8f11f10574f2a613392cb98bba3814e47",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 235,
+      "name": "丸の内倶楽部",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=56",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 25,
+      "officialImagesMetadataSha256": "dcfdaf4963e82a1bf75cdd08379bb41990caade726b15f9484efce3d82004a9c",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=63",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 33,
+      "officialImagesMetadataSha256": "ec1d8454178e7886edb42a780f685f92add65869e84d437b63cf5b907093171a",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/63/r64f8ea07.jpg",
+          "category": 1,
+          "caption": "7番グリーン写真",
+          "posted": "2023年09月07日"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "総武カントリークラブ 北コース",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=64",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 16,
+      "officialImagesMetadataSha256": "65670cc7c9a070066a16bfed55f6cc1015a5841259101e34fe1682d6b82d9287",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66c9c.jpg",
+          "category": 1,
+          "caption": "本社指定画像1",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66bda.jpg",
+          "category": 1,
+          "caption": "本社指定画像2",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66d37.jpg",
+          "category": 1,
+          "caption": "本社指定画像3",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66e31.jpg",
+          "category": 1,
+          "caption": "本社指定画像4",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66ecf.jpg",
+          "category": 1,
+          "caption": "本社指定画像5",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66f44.jpg",
+          "category": 1,
+          "caption": "本社指定画像6",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f66fe8.jpg",
+          "category": 1,
+          "caption": "本社指定画像7",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f671a3.jpg",
+          "category": 1,
+          "caption": "本社指定画像8",
+          "posted": "2023年09月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r64f0187b.jpg",
+          "category": 2,
+          "caption": "アスファルトスタンプ",
+          "posted": "2023年08月31日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r65dc29da.jpg",
+          "category": 6,
+          "caption": "電動カート",
+          "posted": "2024年02月26日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/64/r65dc2a5c.jpg",
+          "category": 6,
+          "caption": "手引きカート",
+          "posted": "2024年02月26日"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "PGM南市原ゴルフクラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=168",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 29,
+      "officialImagesMetadataSha256": "2f5f93c29a198c22a4bc1fee60beb9999a0c119d3d08c54c541015b477b980f3",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/168/r64fec7ea.jpg",
+          "category": 5,
+          "caption": "ロースとんかつ",
+          "posted": "2023年09月11日"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "笠間カントリークラブ",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=44",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 31,
+      "officialImagesMetadataSha256": "c2805251349ca0d6b809be3496238fada9bceb4c484dea4a87eb3cb84cbf78b1",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee88b6.jpg",
+          "category": 5,
+          "caption": "レストラン",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee87d4.jpg",
+          "category": 5,
+          "caption": "Ｃ5",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8fc8.jpg",
+          "category": 1,
+          "caption": "ＴＯＰ",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8fa5.jpg",
+          "category": 1,
+          "caption": "ＴＯＰ",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee85d0.jpg",
+          "category": 1,
+          "caption": "4",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee828d.jpg",
+          "category": 1,
+          "caption": "16",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee82ac.jpg",
+          "category": 1,
+          "caption": "17",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8455.jpg",
+          "category": 1,
+          "caption": "18",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8421.jpg",
+          "category": 1,
+          "caption": "18",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee82cc.jpg",
+          "category": 1,
+          "caption": "18",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8656.jpg",
+          "category": 2,
+          "caption": "ch",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8ff6.jpg",
+          "category": 2,
+          "caption": "ＴＯＰ",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8698.jpg",
+          "category": 2,
+          "caption": "PS",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee86b8.jpg",
+          "category": 2,
+          "caption": "L",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee86d8.jpg",
+          "category": 2,
+          "caption": "F",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8772.jpg",
+          "category": 2,
+          "caption": "パウダー",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8791.jpg",
+          "category": 2,
+          "caption": "ＬＦ",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8943.jpg",
+          "category": 6,
+          "caption": "レンジ",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8921.jpg",
+          "category": 6,
+          "caption": "ＰＴ",
+          "posted": "2023年08月30日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/44/r64ee8900.jpg",
+          "category": 6,
+          "caption": "ＡＰ",
+          "posted": "2023年08月30日"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "霞ヶ浦カントリー倶楽部",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=43",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 29,
+      "officialImagesMetadataSha256": "5968c48be26f1db6612bc1215d8c931e00afd1c0af2a958d00c0fe70f23501f6",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 264,
+      "name": "内原カントリー倶楽部",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=151",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 30,
+      "officialImagesMetadataSha256": "0ff669e8b0ed072411e9013295e07dbbf72135d363f58c35ec7fabbcc01fea76",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 265,
+      "name": "扶桑カントリー倶楽部",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=39",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 36,
+      "officialImagesMetadataSha256": "1775bd78a88605fa1da4271a2aef5d08537772d8c935dd672ebf1378d7247866",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r67565bf8.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2024年12月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r66de5b43.jpg",
+          "category": 5,
+          "caption": "カキフライ",
+          "posted": "2024年09月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r670e1a43.jpg",
+          "category": 5,
+          "caption": "ちゃんぽん",
+          "posted": "2024年10月15日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r65e6d5b4.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r65e6d5ce.jpg",
+          "category": 5,
+          "caption": "ロースとんかつ",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r65e6d5e5.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r65e6d5fa.jpg",
+          "category": 5,
+          "caption": "ビーフカレー",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r66038675.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r65e6d635.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(温",
+          "posted": "2024年03月05日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r66de5c56.jpg",
+          "category": 5,
+          "caption": "五目あんかけ焼きそば",
+          "posted": "2024年09月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r693633c7.jpg",
+          "category": 5,
+          "caption": "彩りサラダプレート",
+          "posted": "2025年12月08日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/39/r65e6d650.jpg",
+          "category": 5,
+          "caption": "カレーうどん",
+          "posted": "2024年03月05日"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "カントリークラブ・ザ・レイクス",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=38",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 36,
+      "officialImagesMetadataSha256": "29492d190740d04350e9ca162e77a658a77fe4c0789e30840b4f55102df67f51",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 267,
+      "name": "グランドスラムカントリークラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=40",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 41,
+      "officialImagesMetadataSha256": "59c62b6bc4ad9a53a5eb6692f61b03ef3457bd0070bae7725275728fcbe459b2",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r69e6e249.jpg",
+          "category": 5,
+          "caption": "醤油ラーメンとミニ炒飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r69e6e8bd.jpg",
+          "category": 5,
+          "caption": "ルーロー飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r675661e2.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2024年12月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r69e6efe4.jpg",
+          "category": 5,
+          "caption": "カツサンド",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r64fec5d6.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2023年09月11日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r66022f38.jpg",
+          "category": 5,
+          "caption": "鉄板ビーフガーリックライス",
+          "posted": "2024年03月26日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r65e56341.jpg",
+          "category": 5,
+          "caption": "ロースとんかつ",
+          "posted": "2024年03月04日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r65e5635b.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2024年03月04日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r66de6594.jpg",
+          "category": 5,
+          "caption": "チキンカレー",
+          "posted": "2024年09月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r660387b7.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r65e5639d.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(冷",
+          "posted": "2024年03月04日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r64fec561.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(冷",
+          "posted": "2023年09月11日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r66038796.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r69b7a4e2.jpg",
+          "category": 5,
+          "caption": "冷やし担々麺",
+          "posted": "2026年03月16日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r66de65c3.jpg",
+          "category": 5,
+          "caption": "五目あんかけ焼きそば",
+          "posted": "2024年09月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/40/r69b379e1.jpg",
+          "category": 5,
+          "caption": "8品目のべジ粥",
+          "posted": "2026年03月13日"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "勝田ゴルフ倶楽部",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=45",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 38,
+      "officialImagesMetadataSha256": "ece73f6585775cb4ea3b848f9c32664bd76b3707d3d025472b7e70acaae8dc8d",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6530883b.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2023年10月19日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r65308734.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2023年10月19日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf6cb4.jpg",
+          "category": 5,
+          "caption": "カキフライ",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf6d6f.jpg",
+          "category": 5,
+          "caption": "昆布水つけ麺",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf6e1f.jpg",
+          "category": 5,
+          "caption": "ナポリタン",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf6ec4.jpg",
+          "category": 5,
+          "caption": "とんかつ",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf6f81.jpg",
+          "category": 5,
+          "caption": "かれーうどん",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf6fcc.jpg",
+          "category": 5,
+          "caption": "ちゃんぽん",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf71e8.jpg",
+          "category": 5,
+          "caption": "あんかけ焼きそば",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf7258.jpg",
+          "category": 5,
+          "caption": "ビーフカレー",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf7296.jpg",
+          "category": 5,
+          "caption": "カスクートドック",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf72cf.jpg",
+          "category": 5,
+          "caption": "彩りサラダプレート",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf7378.jpg",
+          "category": 5,
+          "caption": "ざるそばとミニねぎとろ丼",
+          "posted": "2026年10月02日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/45/r6abf73c0.jpg",
+          "category": 5,
+          "caption": "ざるうどんとミニねぎとろ丼",
+          "posted": "2026年10月02日"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "name": "スプリングフィルズゴルフクラブ",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=46",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 25,
+      "officialImagesMetadataSha256": "f83437560d11a315d3bbfb9f019d84041ea25656d057f19aaec92cc655536687",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 270,
+      "name": "鹿島の杜カントリー倶楽部",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=157",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 37,
+      "officialImagesMetadataSha256": "2f55884f9debd6d4ae1f0220c23b5eed9b723ad77f01f3ccb78c77950d553455",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 271,
+      "name": "オールドオーチャードゴルフクラブ",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=172",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 36,
+      "officialImagesMetadataSha256": "3170e6db8fd0243b35dc7aeac58e8f1c487cb62263540b45a8508e313f3bec8b",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 298,
+      "name": "玉造ゴルフ倶楽部 捻木コース",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=42",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 25,
+      "officialImagesMetadataSha256": "e975fbf45a0dd1df223d0869b210c5420a3eab501b930816dc5b6cf511dcde07",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 299,
+      "name": "玉造ゴルフ倶楽部 若海コース",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=41",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 23,
+      "officialImagesMetadataSha256": "74c5a23183adc27b7d21b71c7fac5dd7291c7ea246fabecc865c2b09c2f81fcc",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 370,
+      "name": "皐月ゴルフ倶楽部 鹿沼コース",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=34",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 26,
+      "officialImagesMetadataSha256": "eaa35ea5059d79145e03ce91f466748c39e590b6da857aad46072a9a0c232612",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 371,
+      "name": "皐月ゴルフ倶楽部 佐野コース",
+      "fields": [
+        "dining"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=35",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 31,
+      "officialImagesMetadataSha256": "289b0744a54e500201efd2fde6e6d646a830e16709c0d0f321ae71c61e3665eb",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 373,
+      "name": "ピートダイゴルフクラブ VIPコース",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=31",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 44,
+      "officialImagesMetadataSha256": "b9a5ffc2178cb2c5ad32ede9b36baa579590dd93daa44f98fa7ab4ecaf385287",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r65123596.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2023年09月26日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04869.jpg",
+          "category": 5,
+          "caption": "ロースとんかつ",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04795.jpg",
+          "category": 5,
+          "caption": "ちゃんぽん",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac0474a.jpg",
+          "category": 5,
+          "caption": "かれーうどん",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04520.jpg",
+          "category": 5,
+          "caption": "酸辣湯麺",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac044f9.jpg",
+          "category": 5,
+          "caption": "昆布水つけ麺",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac044bc.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac0447f.jpg",
+          "category": 5,
+          "caption": "カキフライ",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04968.jpg",
+          "category": 5,
+          "caption": "カスクートドッグ",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac04989.jpg",
+          "category": 5,
+          "caption": "彩りサラダプレート",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r6ac0468e.jpg",
+          "category": 5,
+          "caption": "ビーフカレー",
+          "posted": "2026年10月03日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r51f089bb.jpg",
+          "category": 2,
+          "caption": "コンペルーム（大） 最大収容人数 着席：120名 立食：200名",
+          "posted": "2013年07月25日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r64f19d21.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2023年09月01日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r66038802.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/31/r66de6851.jpg",
+          "category": 5,
+          "caption": "五目あんかけ焼きそば",
+          "posted": "2024年09月09日"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "name": "ピートダイゴルフクラブ ロイヤルコース",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=32",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 28,
+      "officialImagesMetadataSha256": "8d9cb86a970e7ac4b6107cc818837782864d461858e784ddfed7e4dcc37e5cc6",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 375,
+      "name": "エヴァンタイユゴルフクラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=26",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 43,
+      "officialImagesMetadataSha256": "3368d4e7b6781b91f09c67b37f9885a2e33ad14555ff5a45ab7d24f6247fdb98",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 376,
+      "name": "ハーモニーヒルズゴルフクラブ",
+      "fields": [
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=37",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 43,
+      "officialImagesMetadataSha256": "6bc0ee5f91a7af6b97b1bc39a88228f325d0d49700cd8764c74ec6ceb89064bd",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69e6e299.jpg",
+          "category": 5,
+          "caption": "醤油ラーメンとミニ炒飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69e6e93d.jpg",
+          "category": 5,
+          "caption": "ルーロー飯",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r675664da.jpg",
+          "category": 5,
+          "caption": "スパゲティナポリタン",
+          "posted": "2024年12月09日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69e6f03b.jpg",
+          "category": 5,
+          "caption": "カツサンド",
+          "posted": "2026年04月21日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r65321a82.jpg",
+          "category": 5,
+          "caption": "粗挽きハンバーグ",
+          "posted": "2023年10月20日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r65321ddf.jpg",
+          "category": 5,
+          "caption": "鉄板ビーフガーリックライス",
+          "posted": "2023年10月20日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r65321b92.jpg",
+          "category": 5,
+          "caption": "ロースとんかつ",
+          "posted": "2023年10月20日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r65321c2d.jpg",
+          "category": 5,
+          "caption": "カツカレー",
+          "posted": "2023年10月20日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r66df900a.jpg",
+          "category": 5,
+          "caption": "チキンカレー",
+          "posted": "2024年09月10日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r660388da.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r65e568a1.jpg",
+          "category": 5,
+          "caption": "そばとミニネギトロ丼(温",
+          "posted": "2024年03月04日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r65e56877.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(温",
+          "posted": "2024年03月04日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r6603887c.jpg",
+          "category": 5,
+          "caption": "天婦羅そばとミニネギトロ丼(冷",
+          "posted": "2024年03月27日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69b7a201.jpg",
+          "category": 5,
+          "caption": "冷やし担々麺",
+          "posted": "2026年03月16日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r66df8fda.jpg",
+          "category": 5,
+          "caption": "五目あんかけ焼きそば",
+          "posted": "2024年09月10日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/37/r69b37a7c.jpg",
+          "category": 5,
+          "caption": "8品目のべジ粥",
+          "posted": "2026年03月13日"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "name": "PGM武蔵ゴルフクラブ",
+      "fields": [
+        "dining"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=169",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 18,
+      "officialImagesMetadataSha256": "c205509c0ff5c1e5b1b9a6d3c63f3fae6b1d65111f07a7d56512246993ee9008",
+      "nonemptyCaptions": [
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe95e9d.jpg",
+          "category": 2,
+          "caption": "クラブハウス外観",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe95feb.jpg",
+          "category": 1,
+          "caption": "OUT #05",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe95f98.jpg",
+          "category": 1,
+          "caption": "OUT #08",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe95f5e.jpg",
+          "category": 1,
+          "caption": "IN #16",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe96041.jpg",
+          "category": 1,
+          "caption": "IN #18",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe96194.jpg",
+          "category": 2,
+          "caption": "フロント横プロショップエリア",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe960ac.jpg",
+          "category": 2,
+          "caption": "フロントからレストランへ",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe96100.jpg",
+          "category": 1,
+          "caption": "レストラン内より",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe961d2.jpg",
+          "category": 2,
+          "caption": "ゆったりと寛げる大浴場",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe960cb.jpg",
+          "category": 2,
+          "caption": "コンペルーム",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe95ebe.jpg",
+          "category": 2,
+          "caption": "クラブハウス外観②",
+          "posted": "2020年12月28日"
+        },
+        {
+          "image": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/gallery/169/r5fe9615c.jpg",
+          "category": 1,
+          "caption": "バンカー＆アプローチ練習場",
+          "posted": "2020年12月28日"
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "name": "大秦野カントリークラブ",
+      "fields": [
+        "dining"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=153",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 55,
+      "officialImagesMetadataSha256": "6b4239fab7f0e60fe19da7132d3e8ba09456e101da93ad88e373074ad4cbc36b",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 489,
+      "name": "秦野カントリークラブ",
+      "fields": [
+        "dining",
+        "stay"
+      ],
+      "url": "https://booking.pacificgolf.co.jp/?p=guide.js_gallery_list&cc_id=66",
+      "status": "official_gallery_metadata_reviewed_image_content_pending",
+      "note": "公式画像metadataのみ。空captionから料理・浴場を判定しない。投稿年月は内容確認日ではない。",
+      "officialImageCount": 38,
+      "officialImagesMetadataSha256": "838e4bc665c4c3536712c2074a788c2f145403b4d9707e68e08e323f6f9bfb81",
+      "nonemptyCaptions": []
+    },
+    {
+      "id": 381,
+      "field": "scenery",
+      "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/detail",
+      "status": "verified_in_batch_r",
+      "contentSha256": "ced79135bcdb3697d8a951c0a8509b16256586e90fed354bc0e8c079c87f9f37"
+    },
+    {
+      "id": 460,
+      "field": "scenery",
+      "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanetsu/detail",
+      "status": "verified_in_batch_r",
+      "contentSha256": "265d89555c3b487d0cb153ab7f79936f86f0abf4b81da53ffcc48d8545d4bf0d"
+    },
+    {
+      "id": 292,
+      "field": "scenery",
+      "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/detail",
+      "status": "verified_in_batch_r",
+      "contentSha256": "ee8876b8652a50412932ebf2b44d420693c8c471d6f4fc23e6e42bc734f66429"
+    },
+    {
+      "id": 305,
+      "field": "scenery",
+      "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/dejima/detail",
+      "status": "verified_in_batch_r",
+      "contentSha256": "1c17c86ee78f4d4260c75a3d0b1880fc40e122d9b19d7305ff16fcec1fd48c8c"
+    }
+  ]
+}
