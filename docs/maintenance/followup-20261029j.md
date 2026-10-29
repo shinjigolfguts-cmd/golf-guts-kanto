@@ -44,3 +44,17 @@
 ドライラン→適用→500個別ページと残件生成完了。384検索条件、Python11テスト、500ページ/503URL SEO、data.js/finder.js構文、git diff --check通過。独立比較で承認11項目以外の全データ・500 ID/順序保持。デザイン/分類/お気に入りコード無変更。data.js SHA256:953d926ff3dbec565d1b4550ca3e816bd2f0149d2a7af221a1de9a94e002f68b。
 
 公開結果は後続で追記。Search Console非公開状態未閲覧、10月30日通知未変更。全件未完了。
+
+## 公開反映の検証結果
+
+入力コミット06d1364eb721907e83e1170c6245eac256356b1f、適用コミットb3b002bf5f67eff6895b39898efed6c2ec4ca1e4。verified-update実行40826559468成功。2026-10-29に公開data.jsと変更6ページ（200/220/222/249/250/255）を取得し、検証済みローカル生成物と全7ファイルのバイト一致を独立確認。
+
+```text
+data.js MATCH 953d926ff3dbec565d1b4550ca3e816bd2f0149d2a7af221a1de9a94e002f68b
+courses/200.html MATCH 98f3175ee79a1053a1a4e214ebf5f33639fa6e6903dd0184ceaf625e95410342
+courses/220.html MATCH e402e71df6e4ec43422816dbed20409331cfa77680261404f3aeba346c2a6a77
+courses/222.html MATCH c5b8765441dd3d2d56dcd4df958735406eef23097a3ef83a6df4cdbf96d17379
+courses/249.html MATCH 46bbb840c23801677fad0a3bfaecff96b8c361199dc7c71ce14e9e7ab5711a6b
+courses/250.html MATCH f2472774c0082101ab4f62cbcebc292ab92e03cba6a904e5f5763722132be676
+courses/255.html MATCH 46e8030ff870198389201da34926ede144545e9ffa21ca0d6f85a646e338e329
+```
