@@ -1938,8 +1938,24 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス本文：圏央厚木IC7km10分。ヘッダーは10kmと不一致のため本文採用"
         },
-        "dining": null,
-        "stay": null,
+        "dining": {
+          "text": "公式メニューに数量限定の「高座豚のロースとんかつ膳」を掲載。レストランの営業時間は7:00〜16:00です。提供内容は変更される場合があります。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。",
+          "dish": "高座豚のロースとんかつ膳",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/038_16_20261004161556.JPG.webp"
+          ]
+        },
+        "stay": {
+          "text": "浴場とタオル類を備えています。サウナ・宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": {
           "text": "東コースは樹木に囲まれた広いフェアウェイが特徴。西コース4番では、谷越えの地形が景色に変化を添えます。",
@@ -2646,8 +2662,24 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "ゴルフ場・運営会社の公式アクセス案内を確認"
         },
-        "dining": null,
-        "stay": null,
+        "dining": {
+          "text": "公式メニューに「ルーロー飯」を掲載。レストランは全日8:30からランチ終了まで営業します。提供内容は変更される場合があります。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。",
+          "dish": "ルーロー飯",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/011_15_20261008113108.jpg.webp"
+          ]
+        },
+        "stay": {
+          "text": "浴場とタオル類を備えています。サウナ・宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": {
           "text": "36ホールが広がる本格的な林間コース。林に囲まれた芝の景色を楽しめます。",
@@ -3716,10 +3748,11 @@ const DATA={
           "basis": "公式コース紹介・ホール解説を確認。"
         },
         "rail": {
-          "text": "宝積寺駅からタクシーで約15分。",
-          "url": "https://shinonome.chateraisegolf.jp/access/",
-          "checked": "2026-10-24",
-          "basis": "公式アクセス案内の記載内容：宝積寺駅からタクシーで約15分。"
+          "text": "宝積寺駅東口から予約制クラブバスで約15分。利用前に運行時刻と予約方法を公式サイトでご確認ください。",
+          "url": "https://shinonome.chateraisegolf.jp/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内のクラブバス欄でJR宝積寺東口、約15分、予約制と明記。"
         },
         "car": {
           "text": "矢板ICから車で約25分。",
@@ -3736,7 +3769,13 @@ const DATA={
           "dish": "黒毛和牛の和風ハンバーグ",
           "reviewSummary": ""
         },
-        "stay": null,
+        "stay": {
+          "text": "宿泊用ロッジと天然温泉の浴室があります。クラブハウスの露天風呂は夏季営業で、夏季以外は天候・気温により内湯のみとなります。ロッジの露天風呂も冬季は気温により休止します。",
+          "url": "https://shinonome.chateraisegolf.jp/facilities/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内のクラブハウス浴室・夏季露天・ロッジ宿泊施設・冬季露天休止を確認。"
+        },
         "budget": {
           "text": "10月10日〜11月30日のビジター基本料金は平日7,800円、土日14,000円、祝日11,000円。乗用カートセルフ・昼食付き。土日2名は2,200円追加。",
           "url": "https://shinonome.chateraisegolf.jp/fee/",
@@ -4796,7 +4835,13 @@ const DATA={
           "basis": "公式アクセス案内の記載内容：圏央厚木ICから車で約23分（10km）。"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴場があります。スルー・薄暮プレーはシャワーのみとなり、公式案内では冬季1〜3月は浴室営業を中止するとしています。冬季の利用条件は予約時にご確認ください。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_sakura/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": {
           "text": "約5,000本の桜に囲まれた丘陵コース。春の花景色と、広いフェアウェイの開放感を楽しめます。",
@@ -5028,7 +5073,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴場は12:00〜17:30に営業し、午後スループレーでも時間内は利用できます。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": {
           "text": "セルフ1R・昼食補助付きで総額14,990〜17,990円の掲載例。遅い時間帯限定・2名割増なしのプランです。日程やシーズンにより変動します。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/okadaira/",
@@ -5074,7 +5125,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴場とサウナを利用できます。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": {
           "text": "セルフ1R・昼食補助付きで総額6,990円の掲載例。3名以上で利用するプランで、2名では予約できません。日程やシーズンにより変動します。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/ishioka_west/",
@@ -5120,7 +5177,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴槽とシャワーを備えています。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": {
           "text": "セルフ1R・昼食補助付きで総額6,490〜12,990円の掲載例。早い時間帯限定・2名割増なし。ロッカー代や食事の差額は別途、日程により変動します。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/wildduck/",
@@ -5166,7 +5229,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴場には男女ともシャワーブースがあり、女性用の個室パウダールームも備えています。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumidai/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": {
           "text": "筑波山と霞ヶ浦を一望できる36ホール。豊かな松林がホールを隔て、山・湖・緑の景色を楽しめます。",
@@ -5210,7 +5279,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴場がありますが、5〜9月はシャワーのみの案内です。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/kantokokusai/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": {
           "text": "平日セルフなど予約日別プランを確認。現在の具体的な金額は未確認。",
           "url": "https://www.accordiagolf.com/beginners/",
@@ -5253,7 +5328,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴場は通常営業ですが、サウナの利用は休止中です。午後スループレーでは浴場を利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/hitotonoya/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": {
           "text": "高低差がほとんどない林間コース。木々に囲まれ、四季を通して自然との一体感を楽しむ景観です。",
@@ -5291,7 +5372,13 @@ const DATA={
           "basis": "公式アクセス案内の記載を確認"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴槽を利用できますが、午後スルー・午後ハーフプレーでは浴場を利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/azaleahills/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": null
       },
@@ -5476,7 +5563,13 @@ const DATA={
           "basis": "公式2026年9月12日告知の新IC約25〜30分を優先"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "浴槽を利用できます。午後スループレーはシャワーのみ、薄暮プレーは浴場を利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        },
         "budget": null,
         "scenery": {
           "text": "高低差３m以内の平坦な地形に、川と多くの池を配置。水辺と芝が織りなす景観を楽しめます。",
@@ -12089,7 +12182,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場にはシャワーブースがあり、女性用の個室パウダールームも備えています。午前スループレーはシャワーのみです。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "researchSources": [
         "https://reserve.accordiagolf.com/golfCourse/chiba/glenoaks/",
@@ -12241,7 +12340,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "入浴の利用時間は10:00〜18:00です。日の出スルーはシャワーのみ、午後スルーもシャワーのみとなる場合があります。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "researchSources": [
         "https://reserve.accordiagolf.com/golfCourse/chiba/narashino/",
@@ -12290,7 +12395,13 @@ const DATA={
           "dish": "旬彩御膳"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "男女とも浴槽とシャワーブースを備えています。女性浴場にはシャンプーバーがあります。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/higashichiba/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "researchSources": [
         "https://reserve.accordiagolf.com/golfCourse/chiba/higashichiba/",
@@ -12623,10 +12734,11 @@ const DATA={
         },
         "car": null,
         "rail": {
-          "text": "千葉ニュータウン中央駅・東葉勝田台駅からクラブバス。東葉勝田台駅便は予約制。",
+          "text": "千葉ニュータウン中央駅からクラブバス約15分、東葉勝田台駅から約30分。東葉勝田台駅便は予約が必要です。運行日は公式時刻表をご確認ください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文を確認。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブバス欄に両駅の所要時間と東葉勝田台駅便の要予約を明記。"
         },
         "scenery": {
           "text": "北総平野の年輪を重ねた樹木に囲まれる景観。",
@@ -12660,10 +12772,11 @@ const DATA={
         },
         "car": null,
         "rail": {
-          "text": "千葉ニュータウン中央駅からクラブバス約15分、印旛コース下車後徒歩約100m。",
+          "text": "千葉ニュータウン中央駅からクラブバス約15分、東葉勝田台駅から約30分。東葉勝田台駅便は要予約です。北コースには停車しないため印旛コースで下車し、約100m歩きます。運行日は公式時刻表をご確認ください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
-          "checked": "2026-10-24",
-          "basis": "公式ページ本文を確認。"
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式クラブバス欄に両駅の所要時間・東葉勝田台要予約・印旛下車徒歩100mを明記。"
         },
         "scenery": {
           "text": "印旛コースに隣接する林間9ホール。",
@@ -12881,7 +12994,13 @@ const DATA={
         "scenery": null,
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "ゴルフ場から車で約10分のコミュニケーションハウスを利用する宿泊プランがあります。送迎はありません。客室にはバス・トイレを備えています。宿泊料金や温浴施設の利用条件は公式案内をご確認ください。",
+          "url": "https://www.milgolf.co.jp/stay.htm",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式宿泊案内：コミュニケーションハウスは当クラブから車10分・送迎なし、全室バス・トイレ付き。敷地内宿泊とは記載しない。"
+        }
       },
       "researchSources": [
         "https://www.milgolf.co.jp/"
@@ -14526,7 +14645,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場があり、シャンプー・コンディショナーやドライヤーを備えています。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/kasumigaura/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "id": 278
     },
@@ -15170,7 +15295,13 @@ const DATA={
         "scenery": null,
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽とシャワーを利用できますが、午後プレーではシャワーのみです。宿泊施設はありません。季節・プラン別の利用条件は公式案内をご確認ください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。2026年7〜9月の平日シャワーのみという終了済みの案内は、現在の制限として転記しない。"
+        }
       },
       "id": 292
     },
@@ -15208,7 +15339,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽・シャワーは通常18:00まで利用できます。午後スルーはシャワーのみ、薄暮ハーフは浴場を利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_new/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "id": 293
     },
@@ -15247,7 +15384,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場があります。午後スルーはシャワーのみで、10〜3月はロッカー・浴室を利用できない案内です。9H＋α・薄暮ハーフも浴場を利用できません。18:00以降は利用制限の場合があります。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/central_aso/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。2026年7〜9月の平日シャワーのみという終了済みの案内は、現在の制限として転記しない。"
+        }
       },
       "id": 294
     },
@@ -15701,9 +15844,25 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース・施設紹介の景観・地形記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式メニューに「まぐろ丼」を掲載。レストランは9:00からランチ終了まで営業し、その後は予約済みパーティーのみ利用できます。メニューは変更される場合があります。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/restaurant",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式レストラン本文の営業時間と、リンク先のメニュー画像を目視確認。",
+          "dish": "まぐろ丼",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/images/restaurantMenus/033_3_20261005090529.jpg.webp"
+          ]
+        },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場はありますが、宿泊施設はありません。午後スルー（18ホール）・薄暮（9ホール）はロッカーとお風呂を利用できません。シャワーのみ平日17:30、土日祝18:00まで利用できます。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+        }
       },
       "id": 304
     },
@@ -19168,7 +19327,13 @@ const DATA={
           "dish": "佐野ラーメン餃子セット"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式案内では宿泊施設はありません。浴場の営業時間や利用条件は未確認のため、予約時にご確認ください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/iwafune/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式宿泊施設欄は「なし」。浴場欄に利用条件の説明がなく、アメニティから浴槽の有無・営業時間を推測しない。"
+        }
       },
       "id": 377
     },
@@ -19212,7 +19377,13 @@ const DATA={
           "dish": "佐野ラーメン唐揚げセット"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場にはシャワーブースがあり、女性用パウダールームも備えています。午後スルー・薄暮プレーでは浴場を利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/ohiradai/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "id": 378
     },
@@ -19305,7 +19476,13 @@ const DATA={
           "dish": "鉄板ハンバーグ シャリアピンソース"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場は12:00〜18:00に営業し、浴槽を利用できます。午後プレーでは利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/koryo/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "id": 380
     },
@@ -19339,7 +19516,13 @@ const DATA={
           "dish": "石焼麻婆豆腐"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴場はありますが、宿泊施設はありません。午後スループレーでは浴場・ロッカー・貴重品ボックスを利用できません。プレーできる服装で来場し、着替えは自身で管理する案内です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・アメニティ・宿泊施設欄とプラン別の利用制限を確認。"
+        }
       },
       "id": 381
     },
@@ -19383,7 +19566,13 @@ const DATA={
           "dish": "皆川城御膳"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "浴槽を利用でき、タオル類を備えています。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/minagawajo/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "id": 382
     },
@@ -21851,7 +22040,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "男女とも浴槽とシャワーブースを備えています。午後スループレーでは浴場を利用できません。宿泊施設はありません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/saitama/tamagawa/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
+        }
       },
       "id": 431
     },
