@@ -500,13 +500,31 @@ const DATA={
           "reviewSummary": ""
         },
         "stay": {
-          "text": "コース外の宿泊先として、伊香保温泉のホテル天坊、塚越屋七兵衛、晴観荘などを公式に紹介。コース内の宿泊設備や現在の浴室利用条件は未確認です。",
+          "text": "コース外の宿泊先として、伊香保温泉のホテル天坊、塚越屋七兵衛、晴観荘などを公式に紹介。2026年11月の乗用セルフ・昼食バイキング付きプランでは、ロッカーと浴場を利用できます。コース内の宿泊設備は未確認です。",
           "url": "https://www.ikaho-gc.co.jp/topix",
           "checked": "2026-10-29",
           "sourceType": "official",
-          "basis": "公式「お勧めのお宿」の施設名・住所を確認。宿泊先紹介とコース内設備を区別。2026年7月20日～9月18日のシャワー限定案内は終了済みなので現在の制限に転用しない。"
+          "basis": "既存の外部宿泊先紹介を保持。公式料金ページ経由の11月平日・土日祝プラン詳細で浴場利用可を確認。他プランへ一般化しない。",
+          "supportingUrls": [
+            "https://webpack2.jp/reserve/plan_detail/330203/4089",
+            "https://webpack2.jp/reserve/plan_detail/330203/4090"
+          ]
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の2026年11月掲載例は、11月2日（月）総額8,500円、11月1日（日）総額15,000円。1人・1R・4バッグ・乗用セルフ、昼食バイキングとドリンクバー付きです。",
+          "url": "https://www.ikaho-gc.co.jp/price",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式料金ページが埋め込むwebpack2予約表と各日付の予約内容を確認。4バッグ総額・昼食・人数割増を実読。表示総額をそのまま記録し税内訳を逆算しない。",
+          "supportingUrls": [
+            "https://webpack2.jp/iframeApp/330203",
+            "https://webpack2.jp/reserve/rt/v_entry/330203/4089/20261102",
+            "https://webpack2.jp/reserve/rt/v_entry/330203/4090/20261101"
+          ],
+          "conditions": "2026年11月2日・11月1日の公式WEB予約プラン例。1人1R、4バッグ、4〜5人乗りカート・セルフ。昼食バイキング・ドリンクバー込み。公式表示は総額、消費税・利用税の個別内訳は未確認。3B割増0円、2Bは平日1,100円・日曜2,200円（税込）追加。ロッカーと浴場利用可。日程・プランにより料金は変わる。",
+          "priceVerified": true,
+          "priceLabel": "2026年11月掲載例 総額8,500円／15,000円"
+        },
         "scenery": {
           "text": "標高611mの丘陵に広がる27ホール。広いフェアウェイと、四季で移り変わる自然の風景を楽しめます。",
           "url": "https://www.ikaho-gc.co.jp/course",
@@ -11343,7 +11361,16 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式本文を確認。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式の梅郷コース写真では、グリーン周囲に背の高い樹木が並び、林に囲まれた景観が見られます。",
+          "url": "https://www.chibacc.co.jp/umesato",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "梅郷ページのコース名と掲載写真thumbnail.jpgを照合し目視。写真の見える範囲に限定、樹齢や季節を推測しない。",
+          "supportingUrls": [
+            "https://www.chibacc.co.jp/wordpress/wp-content/uploads/2022/03/thumbnail.jpg"
+          ]
+        },
         "dining": {
           "text": "国産うな重を公式メニューに掲載。季節・仕入れにより変更があります。",
           "url": "https://www.chibacc.co.jp/umesato/umesato-restaurant",
@@ -12456,7 +12483,16 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式の川間コース写真では、池の水面と、その周囲に広がる芝生・樹木の景観が見られます。",
+          "url": "https://www.chibacc.co.jp/kawama/kawama-course",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "川間ページのコース名と掲載写真thumbnail_kawa.jpgを照合し目視。特定ホール番号や撮影季節を推測しない。",
+          "supportingUrls": [
+            "https://www.chibacc.co.jp/wordpress/wp-content/uploads/2022/04/thumbnail_kawa.jpg"
+          ]
+        },
         "dining": {
           "text": "洋風四季膳（秋）を掲載。",
           "url": "https://www.chibacc.co.jp/kawama/kawama-restaurant",
@@ -19681,7 +19717,17 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式コース表：OUT3376/IN3516、各par36。合計は単純加算。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式コース写真では、フェアウェイやグリーンを囲む樹木と、その奥に連なる山並みが見られます。",
+          "url": "https://www.kanuma-premier.jp/course.html",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式掲載コース写真DSC_0071.jpgとDSC_0083.jpgを目視。植生の種類・山名・季節を推測せず、写真で確認できる範囲を記載。",
+          "supportingUrls": [
+            "https://www.kanuma-premier.jp/images/course/DSC_0071.jpg",
+            "https://www.kanuma-premier.jp/images/course/DSC_0083.jpg"
+          ]
+        },
         "car": {
           "text": "鹿沼ICから車で約25分。",
           "url": "https://www.kanuma-premier.jp/images/access/map.gif",
@@ -21639,7 +21685,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。ジャック・ニクラス設計の18ホール。ショットの正確さと攻め方を考えるコース。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "最終ホールから筑波山を望む景観を公式に紹介。コースには四季を感じる花々もあり、レストランの大きな窓からコースを一望できます。",
+          "url": "https://www.jgmgroup.co.jp/utsunomiya/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式トップの最終ホール・筑波山、花々の写真説明とレストランからの眺望を本文確認。見える天候・季節を保証しない。"
+        },
         "car": {
           "text": "宇都宮ICから約5分。",
           "url": "https://www.jgmgroup.co.jp/utsunomiya/access/",
@@ -21668,7 +21720,13 @@ const DATA={
           "priceLabel": "平日 6,400〜7,800円\n土日祝 10,800〜15,800円",
           "conditions": "1R・4名セルフ・指定昼食・諸税込。土日祝は3名+1,100円、2名+3,300円。特定日別料金。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウス1階に男女の大浴場とロッカールームがあります。温泉・宿泊設備の有無、浴場の営業時間やプラン別利用条件は未確認です。",
+          "url": "https://www.jgmgroup.co.jp/utsunomiya/facility/",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式施設案内の1階男女浴室と大浴場の見出し・説明を実読。FAQにも宿泊・浴場制限の回答は見つからず、施設なしと扱わない。"
+        }
       },
       "id": 389
     },
