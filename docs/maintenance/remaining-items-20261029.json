@@ -1296,7 +1296,7 @@
       "name": "千葉カントリークラブ 梅郷コース",
       "field": "budget",
       "officialUrl": "https://www.chibacc.co.jp/umesato",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029o.json"
     },
     {
@@ -1454,7 +1454,7 @@
       "name": "千葉カントリークラブ 野田コース",
       "field": "budget",
       "officialUrl": "https://www.chibacc.co.jp/noda",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029o.json"
     },
     {
@@ -1477,7 +1477,7 @@
       "name": "千葉カントリークラブ 川間コース",
       "field": "budget",
       "officialUrl": "https://www.chibacc.co.jp/kawama",
-      "status": "verified_pending_publication",
+      "status": "published_verified",
       "evidenceBatch": "verified-followup-20261029o.json"
     },
     {
