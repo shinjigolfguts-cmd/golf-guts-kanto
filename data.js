@@ -45,7 +45,14 @@ const DATA={
             "https://onjuku-kairaku.com/"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10月30日の日にち限定・昼食付きプランは8,800円（税込）。3名割増なし、2名は1,650円追加。ロッカー代330円・補償料35円は別途、料理によって差額があります。",
+          "url": "https://princegolfresort.jp/rsv_sys/prince/ohara/mreservation/index/date:20261030/plan:20881/setid:46023/pid:969916",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式公開カレンダーから日別詳細の税、食事、人数割増、別途料金を照合。",
+          "conditions": "2026-10-30。2B+1,650円税込/3B+0円。ロッカー不要は受付申出。任意のFW乗入れ1,100円税込、当日コース状況で不可あり。日程・プランにより変動。"
+        },
         "scenery": {
           "text": "南房総の高台に広がる、南国風の丘陵コース。広いフェアウェイと白いバンカーの配置が景観の特徴です。",
           "url": "https://www.princehotels.co.jp/golf/experience/ohara/",
@@ -805,7 +812,14 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設紹介・利用案内の本文または設備写真の見出しを確認。温泉・宿泊設備は明記のない限り追加していない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の一般セルフ料金は9,800円、11月7日は20,000円（1名1ラウンド、3〜4名、消費税・利用税込）。通常日の昼食付き表示はありません。2名予約は原則受け付けず、当日2名の場合は組合せとなる案内です。",
+          "url": "https://ichihara-gc.com/ichihara/fee",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "2026年下半期料金表画像で11月4日9,800円・7日20,000円、3B/4B・2B注意を確認。本文の税包含・一般2B割増を照合。",
+          "conditions": "2026-11-04/07一般料金。一般2B割増は平日3,000円・土日祝6,000円。ただし2B予約原則不可・当日2Bは組合せと記載があり、可否と適用は施設に要確認。グリーンクラブ割引を適用しない。"
+        },
         "scenery": {
           "text": "丘陵の起伏に池を配したコース。中コース4番は、打ち下ろしと池越えが重なる名物ホールです。",
           "url": "https://ichihara-gc.com/ichihara/course/mid04/",
@@ -2602,7 +2616,14 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の浴室設備・利用条件を確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約カレンダー掲載の平日・乗用カートセルフプランは総額15,075円（昼食別）。燃料・光熱費サーチャージ110円（税込）はプレー代に含みます。2名保証はなく、少人数割増と予約日の総額は公式でご確認ください。",
+          "url": "https://webpack2.jp/reserve/calendar/visitor/372102",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式サイトの料金表リンク先で平日セルフ総額15,075円を確認し、plan_detail/372102/1800で食事別・2サム保証なし・サーチャージ包含を照合。",
+          "conditions": "確認時カレンダー2026-10-30〜11-29。平日セルフ、4〜5人乗りカート。2サム保証なし、人数割増未確認。掲載プラン例であり全日同料金とは断定しない。"
+        },
         "scenery": {
           "text": "丹沢山系を望む27ホール。木々で区切られたコースに池が配され、山並みと緑を楽しめます。",
           "url": "https://www.sagamiko-cc.jp/course/",
@@ -6870,7 +6891,14 @@ const DATA={
           "sourceType": "official",
           "basis": "ゴルフ場トップの付帯宿泊施設表示と周辺おすすめ施設欄を確認。周辺ホテル・日帰り温泉をクラブハウス内設備やプレー料金込みとは記載しない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10月30日の会員限定セルフプランは、時間帯により7,600円または8,100円（税込、昼食別）。3名は880円、2名は2,200円追加。ロッカー代330円・補償料35円は別途です。",
+          "url": "https://princegolfresort.jp/rsv_sys/prince/hakone-en/mreservation/index/date:20261030/plan:20382/setid:44326/pid:964004",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式公開詳細の2価格帯・会員限定・日没注意・割増・別料金を確認。",
+          "conditions": "Seibu Prince Global Rewards会員限定。2026-10-30。昼食なし、2B+2,200円/3B+880円税込。9:30以降は日没で全ホールを回れない場合あり。ロッカー未使用時は浴室利用不可。"
+        },
         "scenery": {
           "text": "駒ヶ岳を背に、芦ノ湖を見下ろす山裾のコース。天候がよければ富士山と湖を一緒に望めます。",
           "url": "https://www.princehotels.co.jp/golf/hakone-en/course/",
@@ -6920,7 +6948,14 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の浴室設備・利用条件を確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月2日の冷暖快適カート付きプランはSEIBU PRINCE CLUB会員限定で26,000円（税込、コースアテンダント付き）。3名は2,200円、2名は6,600円追加。ロッカー代330円・補償料35円は別途です。",
+          "url": "https://princegolfresort.jp/rsv_sys/prince/daihakone/mreservation/index/date:20261102/plan:19268/setid:40854/pid:952363",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式公開プラン詳細の対象日・会員条件・税込額・人数別割増・別料金を確認。",
+          "conditions": "2026-11-02。会員カード提示。2B+6,600円/3B+2,200円税込。ロッカー330円・補償料35円別途。昼食付きとの表示なし。料金は日程・プランで変動。"
+        },
         "scenery": {
           "text": "箱根外輪山の山並みを背景に、仙石原の広い敷地に18ホールが展開。高原らしい大きな景色が魅力です。",
           "url": "https://www.princehotels.co.jp/golf/daihakone/course/",
@@ -18303,7 +18338,14 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "美明豚トンテキ"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式ビジターカレンダーの掲載額は、2026年11月4日7,330円、11月7日16,800円（いずれも昼食付き）。税区分・少人数割増は資料に記載がないため、予約前に総額をご確認ください。",
+          "url": "https://kasama-club.com/announcement/2861",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式2026年11月〜2027年1月のビジター料金PDFを画像で確認。11月4日V7,330、11月7日V16,800と昼食付の対応を確認。",
+          "conditions": "2026-11-04/07のビジター掲載額。税区分・少人数割増・キャディ費は未確認。会員料金を転用しない。"
+        },
         "stay": {
           "text": "ゴルフ場併設のロッジに宿泊できます。客室はバス・トイレ付きで、全室無料Wi-Fiを利用できます。空室・料金は予約時にご確認ください。",
           "url": "https://kasama-club.com/facility",
@@ -18467,7 +18509,14 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "名物 冷やし納豆蕎麦"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日のビジター直前優待は7,180円（税込、昼食付き、ナビ付き乗用カート）。2名・3名とも割増なし。ロッカー使用料110円は別途必要です。対象日・プランにより料金が変わります。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/mgcc/mgcc/mreservation/index/date:20261104/plan:1399793/setid:705540/pid:978878",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式reserveページの公開カレンダーから対象プラン詳細を読み、対象日・税込額・食事・人数割増・ロッカー代を確認。",
+          "conditions": "2026-11-04のビジター直前優待。2B/3B+0円、ロッカー使用料110円別途。税込表示だが利用税包含の明示は未確認。FW乗入れは天候・コース状況次第。予約操作なし。"
+        },
         "stay": null
       },
       "id": 314
@@ -18511,7 +18560,14 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "弓豚焼きとん"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月1日の時間限定プランは総額13,000円（昼食・ソフトドリンクバー付き）。3〜4名対象、3名割増なし。7時台または9時40分以降スタートで、ロッカー代・入湯税を含みます。",
+          "url": "https://firstee.jp/mitolakes-cc/mitolakes-cc/plans/251827/detail",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ホームからリンクされた予約サイトのプラン詳細で日付、総額、税額欄、昼食、時間帯、人数、ロッカーを確認。",
+          "conditions": "2026-11-01、3〜4人、7時台又は9:40以降。3B+0円、利用税450円・入湯税150円を記載。2B対象外。コンディションでカート乗入れ不可の場合あり。"
+        },
         "stay": {
           "text": "プレー後は、掛け流しの天然温泉を利用できます。入浴時の注意事項も公式温泉案内に掲載されています。",
           "url": "https://www.mitolakes.jp/fp/hot-spring",
@@ -27540,7 +27596,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。ホテルを併設。宿泊ゴルフのプランを案内しています。"
         },
-        "budget": null
+        "budget": {
+          "text": "2026年11月4日の直前割はSEIBU PRINCE CLUB会員限定で6,100円（税込、昼食付き）。別途、補償料35円・振興基金30円・ロッカー代330円が必要です。3名は700円、2名は1,400円割増（税込）。",
+          "url": "https://princegolfresort.jp/rsv_sys/prince/tsumagoi/mreservation/index/date:20261104/plan:21627/setid:48472/pid:978917",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式ホーム掲載の公開キャンペーンリンクから詳細を確認。会員限定と追加費用を省略しない。",
+          "conditions": "2026-11-04、SEIBU PRINCE CLUB会員カード提示。3B+700円/2B+1,400円税込。表示額とは別に35+30+330円。FW乗入れは天候・コンディション次第。"
+        }
       },
       "id": 481
     },
@@ -28462,7 +28525,14 @@ const DATA={
           "basis": "公式サイトの本文を確認",
           "dish": "あじフライ定食"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年11月4日の平日9ホールプランは4,300円（税込、補償料35円込み）。2〜4名で、2名・3名とも割増なし。手引きカートによる歩きのプレーです。18ホール料金とは異なります。",
+          "url": "https://princegolfresort.jp/rsv_sys/prince/oiso/mreservation/index/date:20261104/plan:18488/setid:38824/pid:944543",
+          "checked": "2026-10-29",
+          "sourceType": "official",
+          "basis": "公式カレンダーから9ホールプラン詳細を開き、日付・税込料金・補償料・割増・歩きプレーを確認。",
+          "conditions": "2026-11-04平日9H×1周。2名以上。消費税・補償料35円込み、2B/3B+0円。昼食付きとの表示なし。温泉の優待料金は別途。"
+        },
         "stay": {
           "text": "付帯宿泊施設として大磯プリンスホテルを案内。宿泊料金・空室はホテル公式予約で確認できます。",
           "url": "https://www.princehotels.co.jp/golf/oiso/facility/",
