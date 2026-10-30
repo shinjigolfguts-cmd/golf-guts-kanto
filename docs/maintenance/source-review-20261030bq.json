@@ -1,0 +1,24 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "15c18332a5498b16f8818cf76fc26dbdec52d386",
+  "adopted": [
+    {"id": 223, "fields": ["car"], "source": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map", "reason": "公式所在地・地図を確認したがICからの時間は本文になく、未確認理由を記録。"},
+    {"id": 236, "fields": ["car", "dining"], "source": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map", "reason": "公式所在地・地図とレストラン掲載を確認。IC時間・料理名は推測しない。"},
+    {"id": 237, "fields": ["car"], "source": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map", "reason": "公式所在地・地図を確認したがICからの時間は本文になく、隣接コース情報を流用しない。"},
+    {"id": 283, "fields": ["car"], "source": "https://www.sakurasgo.com/access.html", "reason": "公式本文の4つのICからの経路を記録し、掲載のない所要時間は補わない。"},
+    {"id": 309, "fields": ["rail", "budget"], "source": "https://nscc.golftk.com/access.html", "reason": "公式アクセスは車経路のみ。料金は予約導線のみで現行総額を検証できず、未確認理由を記録。"},
+    {"id": 310, "fields": ["rail"], "source": "https://kabayagc.com/access/", "reason": "公式アクセスは車の距離のみで、鉄道・送迎情報を確認できない。"},
+    {"id": 311, "fields": ["car"], "source": "https://kasama-club.com/access", "reason": "公式はクラブバスを案内するがICからの車時間は本文にない。"},
+    {"id": 324, "fields": ["rail"], "source": "https://shimodate.co.jp/access", "reason": "公式案内図に下館駅はあるが、駅からの所要時間・送迎条件は確認できない。"},
+    {"id": 326, "fields": ["rail", "dining", "budget"], "source": "https://www.asia-shimodate.com/access.html", "reason": "公式車経路、レストラン設備、オンライン予約案内を確認。駅時間・料理名・現行総額は推測しない。"},
+    {"id": 330, "fields": ["budget"], "source": "https://www.nanmajo.golf-web.jp/fee.html", "reason": "公式の料金確認方法と部分条件を記録し、本文にない基本総額は補わない。"},
+    {"id": 334, "fields": ["budget"], "source": "https://www.taka-golf.co.jp/fee.html", "reason": "公式の追加料金・プレー条件を確認。対象年不明の料金や画像額は現行基本総額へ転用しない。"}
+  ],
+  "notAdopted": [
+    {"id": 300, "fields": ["car", "rail", "dining", "stay"], "source": "http://www.daiyagreen.com", "reason": "公式サイト本文を安定して取得できず、第三者予約サイトの情報だけでは更新しない。"},
+    {"id": 367, "fields": ["scenery"], "source": "https://www.royalcc.co.jp/course.html", "reason": "公式は旧ホール画像・情報を含むと明記しており、現行コースの景観説明として安全に転用できない。"},
+    {"id": 455, "fields": ["rail", "stay", "scenery"], "source": "https://www.yoshii-nanyodai.jp/", "reason": "公式サイトの取得がタイムアウト・ゲートウェイエラーとなり、HTTP応答や第三者情報だけで補完しない。"},
+    {"id": 465, "fields": ["rail", "dining", "stay", "budget", "scenery"], "source": "https://www.ota-futaba-cc.co.jp/", "reason": "公式本文を取得できず、群馬県協会の基本情報だけで複数項目を推測しない。"},
+    {"id": 486, "fields": ["stay"], "source": "https://sagamino-cc.jp/", "reason": "公式アクセス・料金本文は確認できたが、浴場・シャワー・宿泊の現行案内を確認できないため今回は保留。"}
+  ]
+}
