@@ -1,0 +1,58 @@
+{
+  "baseSha256": "6956025c3fcacd367b2fea771f3ede9a62095fd3e0b1dee330d19871f044deb7",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 178,
+      "name": "加茂ゴルフ倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式予約の料金例：2026年11月4日（水）、3名以上・昼食付きプランは1人9,300円（消費税・利用税込）。2名での利用は不可です。日付・プランで変動します。",
+        "url": "https://www3.golfyoyaku.jp/rsv_sys/bando/kamogolfclub/mreservation/index/date:20261104/plan:1393796/setid:692786/pid:970873",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップから予約カレンダー、11/4詳細へ進み、9,300円（消費税786円・利用税650円含む）、昼食付き、3名以上を確認。",
+        "conditions": "2026-11-04の11月平日3名以上プラン例。3B割増0円。2名になった場合は当該プラン利用不可。複数組は原則4名での組合せとし、規定外の組数は3B割増1,100円。対象日・空き枠により変動。",
+        "priceVerified": true,
+        "priceLabel": "2026/11/4・3名以上 9,300円"
+      },
+      "evidenceNote": "https://kamogolfclub.co.jp/から公式予約を確認。fee/の2020～2021年料金は不採用。予約画面の2B割増9,999円を利用可能な価格と解釈せず、本文の2B不可を採用。"
+    },
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式自社Web予約の料金例：2026年11月4日（水）、食事付きプランは1人7,085円（消費税・利用税・振興基金込み）。2B・3B割増なし。ロッカー・浴槽使用料は別途550円です。",
+        "url": "https://www3.golfyoyaku.jp/rsv_sys/ashikaga/takou/mreservation/index/date:20261104/plan:1393270/setid:691793/pid:970132",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式サイトのWEB会員予約から多幸の対象日詳細を確認。7,085円に消費税584円・利用税600円・基金50円を含む。",
+        "conditions": "2026-11-04、自社Web限定・食事付き・乗用カート・2サム保証プラン例。2B・3B割増0円。ロッカー・浴槽使用料は10～6月550円、7～9月275円と別掲。全費用込みの総額とは表示しない。日付・空き枠で変動。",
+        "priceVerified": true,
+        "priceLabel": "2026/11/4 7,085円＋ロッカー・浴槽料"
+      },
+      "evidenceNote": "飛駒コースに流用しない。税・基金内訳と別途費用まで本文で確認。"
+    },
+    {
+      "id": 316,
+      "name": "龍ヶ崎カントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式料金表の4バッグ・キャディ付き合計は、シーズン平日25,180円／土日祝37,280円、オフシーズン平日21,880円／土日祝31,780円（税込・利用税込）。予約申込みは会員からのみ受け付けています。",
+        "url": "https://www.ryugasaki-cc.com/guide/price.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式料金／予約ページの税込合計表、4バッグのキャディフィ4,510円、オフシーズン期間、会員経由予約条件を確認。",
+        "conditions": "表示合計はグリーンフィ・キャディフィ・施設維持費・キャディ維持費・利用税1,200円を含む。食事代は合計の内訳に記載なし。オフシーズンは1/4～3/14と7/1～9/14。3Bキャディ4,950円、2B6,490円等で変動。平日は会員紹介、土曜は原則会員同伴、日祝は会員同伴。予約時に最新条件を確認。",
+        "priceVerified": true,
+        "priceLabel": "4Bキャディ付 シーズン平日25,180円／土日祝37,280円"
+      },
+      "evidenceNote": "会員紹介・同伴制を一般無条件予約としない。公式表の合計を採用し、食事込みと推測していない。"
+    }
+  ]
+}
