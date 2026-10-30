@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `df7595ca17f0de43b6970583c4223d571d32d41d4ad47a8e49fdd0ad2b9dfe52`
+data.js SHA256: `ea287306234f3729bb6a7b5a3d501569934b96805e8cae2e0d09f177b46204ca`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -11,10 +11,10 @@ data.js SHA256: `df7595ca17f0de43b6970583c4223d571d32d41d4ad47a8e49fdd0ad2b9dfe5
 | 電車のアクセス | 24 |
 | 食事 | 25 |
 | 宿泊・お風呂 | 60 |
-| 料金 | 90 |
+| 料金 | 86 |
 | 景色 | 8 |
 
-空欄を含む施設：156 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：153 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -47,9 +47,8 @@ data.js SHA256: `df7595ca17f0de43b6970583c4223d571d32d41d4ad47a8e49fdd0ad2b9dfe5
 | 123 | [GMG八王子ゴルフ場](http://www.kanbun-group.co.jp/gmg/index.html) | 宿泊・お風呂 |
 | 125 | [東京五日市カントリー倶楽部](http://www.itukaiti.co.jp/) | 宿泊・お風呂 |
 | 134 | [チェックメイトカントリークラブ](http://checkmate-cc.com/) | 宿泊・お風呂・料金 |
-| 137 | [姉ヶ崎カントリー倶楽部](http://www.heiwanosan.co.jp/anegasaki/) | 料金 |
 | 138 | [一の宮カントリークラブ](http://www.ichinomiya.co.jp) | 宿泊・お風呂 |
-| 139 | [PGM市原カントリークラブ](https://booking.pacificgolf.co.jp/guide/178.html) | 食事・宿泊・お風呂・料金 |
+| 139 | [PGM市原カントリークラブ](https://booking.pacificgolf.co.jp/guide/178.html) | 食事・宿泊・お風呂 |
 | 140 | [鹿野山ゴルフ倶楽部](http://www.kanozan.co.jp) | 料金 |
 | 141 | [大栄カントリー倶楽部](http://www.taiei.cc/) | 料金 |
 | 144 | [森永高滝カントリー倶楽部](http://www.takatakicc.co.jp) | 料金 |
@@ -57,8 +56,6 @@ data.js SHA256: `df7595ca17f0de43b6970583c4223d571d32d41d4ad47a8e49fdd0ad2b9dfe5
 | 157 | [宍戸ヒルズカントリークラブ](http://www.shishido.co.jp) | 料金 |
 | 158 | [東筑波カントリークラブ](https://www.higashi-tsukuba.co.jp/) | 料金 |
 | 163 | [ゴールド栃木プレジデントカントリークラブ](http://www.president-cc.jp/) | 食事・料金 |
-| 165 | [西那須野カントリー倶楽部](http://www.horai-kk.co.jp/golf/nishicc.html) | 料金 |
-| 168 | [ホウライカントリー倶楽部](http://www.horai-kk.co.jp/golf/horaicc.html) | 料金 |
 | 171 | [伊香保カントリークラブ](https://www.ikahocc.co.jp/) | 料金 |
 | 172 | [小幡郷ゴルフ倶楽部](http://obatago-golf.com/) | 料金 |
 | 178 | [加茂ゴルフ倶楽部](https://kamogolfclub.co.jp/) | 料金 |
