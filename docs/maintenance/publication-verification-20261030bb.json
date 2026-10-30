@@ -1,0 +1,31 @@
+{
+  "batch": "verified-followup-20261030bb.json",
+  "checked": "2026-10-30",
+  "inputCommit": "8b047f4aef0ca62d7e330abddd273b56ec84dab2",
+  "generatedMainCommit": "deedab30d3c605e95a87c1a4d5f284a9c4231647",
+  "verifiedUpdateRun": {
+    "id": 40982016043,
+    "conclusion": "success"
+  },
+  "pagesRun": {
+    "id": 40982033921,
+    "conclusion": "success"
+  },
+  "files": {
+    "data.js": "ea287306234f3729bb6a7b5a3d501569934b96805e8cae2e0d09f177b46204ca",
+    "courses/137.html": "2cb0a05407cff2f6d4e20f8503b1da0c7bfcd982bdb010b7996ce6754662da9a",
+    "courses/139.html": "ba9b7bd77a83d4a07c450abc1d944fe323f23cf1754df0a35b25ae64cc9f144f",
+    "courses/165.html": "145079fa950101ff06375c060ad47a2e8032ac0371c91a780187d5ce11d9012e",
+    "courses/168.html": "b0a3e6ab4d167dd602b7e36a2240dc1594a917fad3d27b455a0fc2203cbbf138"
+  },
+  "result": "public_sha256_match",
+  "remaining": {
+    "total": 211,
+    "car": 8,
+    "rail": 24,
+    "dining": 25,
+    "stay": 60,
+    "budget": 86,
+    "scenery": 8
+  }
+}
