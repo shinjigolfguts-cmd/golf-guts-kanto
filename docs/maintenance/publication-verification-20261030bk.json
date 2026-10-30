@@ -1,0 +1,35 @@
+{
+    "checked": "2026-10-30",
+    "batch": "verified-followup-20261030bk.json",
+    "queuedCommit": "1040ce66e71a5250f176192d582613e2bf9dafde",
+    "generatedMainCommit": "5229df6c5ce71119129fa817e2449a8777ffe8cd",
+    "verifiedUpdateRun": 40992530430,
+    "verifiedUpdateConclusion": "success",
+    "pagesRun": 40992547077,
+    "pagesConclusion": "success",
+    "repositoryDataSha256": "a7070f57eb60d8fbe9325e8b58535c8cdc1e839e6787bfb9ff7ccd35505e812d",
+    "publicDataSha256": "a7070f57eb60d8fbe9325e8b58535c8cdc1e839e6787bfb9ff7ccd35505e812d",
+    "publicChecks": [
+        {
+            "id": 139,
+            "http": 200,
+            "content": "matched"
+        },
+        {
+            "id": 440,
+            "http": 200,
+            "content": "matched"
+        }
+    ],
+    "remaining": {
+        "total": 142,
+        "courses": 102,
+        "car": 8,
+        "rail": 23,
+        "dining": 19,
+        "stay": 19,
+        "budget": 65,
+        "scenery": 8
+    },
+    "searchConsole": "not_checked_or_changed_by_this_batch"
+}
