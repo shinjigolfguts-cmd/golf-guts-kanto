@@ -1,0 +1,29 @@
+{
+  "checked": "2026-10-30",
+  "workflowRun": 41004905674,
+  "workflowConclusion": "success",
+  "publishedCommit": "2f9d4fca70ab80ec0c10544124646082c457f568",
+  "localDataSha256": "df4d4f50cb3ed79b6a1250b7460bd5ce4aae6a0b71111a55c87da575290ba271",
+  "publicDataSha256": "df4d4f50cb3ed79b6a1250b7460bd5ce4aae6a0b71111a55c87da575290ba271",
+  "tests": {
+    "selectionCombinations": 384,
+    "courses": 500,
+    "pythonTests": 11,
+    "coursePages": 500,
+    "sitemapUrls": 503
+  },
+  "updatedCourseIds": [5, 7, 48, 84, 86, 88, 112, 240, 249, 281],
+  "publicationVerification": "GitHub Pages build completed and the public data.js SHA-256 matched the tested file.",
+  "remaining": {
+    "total": 111,
+    "courses": 79,
+    "play": 0,
+    "car": 8,
+    "rail": 20,
+    "dining": 13,
+    "stay": 14,
+    "budget": 51,
+    "scenery": 5
+  },
+  "searchConsole": "not accessed or changed"
+}
