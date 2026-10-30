@@ -1,0 +1,24 @@
+{
+  "checked": "2026-10-30",
+  "batch": "verified-followup-20261030bh.json",
+  "queuedCommit": "d2ad221e8e33d3cb170b96ba8b8446c6fac622b8",
+  "generatedMainCommit": "712b402c78679e9097bad1b1f50704edb7e13b47",
+  "verifiedUpdateRun": 40988941274,
+  "verifiedUpdateConclusion": "success",
+  "pagesRun": 40988954682,
+  "pagesConclusion": "success",
+  "repositoryDataSha256": "75ac6c1283c3ebe5861d587fb4b11d07f90680e1769a0022d5ad03fedcd3c0ee",
+  "publicDataSha256": "75ac6c1283c3ebe5861d587fb4b11d07f90680e1769a0022d5ad03fedcd3c0ee",
+  "publicChecks": [
+    {"id": 282, "http": 200, "content": "matched"},
+    {"id": 345, "http": 200, "content": "matched"},
+    {"id": 349, "http": 200, "content": "matched"},
+    {"id": 351, "http": 200, "content": "matched"},
+    {"id": 408, "http": 200, "content": "matched"},
+    {"id": 409, "http": 200, "content": "matched"},
+    {"id": 430, "http": 200, "content": "matched"},
+    {"id": 453, "http": 200, "content": "matched"}
+  ],
+  "remaining": {"total": 160, "courses": 112, "car": 8, "rail": 23, "dining": 20, "stay": 36, "budget": 65, "scenery": 8},
+  "searchConsole": "not_checked_or_changed_by_this_batch"
+}
