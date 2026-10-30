@@ -1,0 +1,41 @@
+{
+  "batch": "verified-followup-20261030bl.json",
+  "verifiedAt": "2026-10-30",
+  "workflowRunId": 40999145285,
+  "workflowConclusion": "success",
+  "publishedCommit": "2a32765df7b655faf4aee1546698c77d2e9cb71c",
+  "dataSha256": "9f199ecb51d491681e8a550b374c6913aa4599b6e5ad9a6b5988fe6518ff9428",
+  "publicDataSha256": "9f199ecb51d491681e8a550b374c6913aa4599b6e5ad9a6b5988fe6518ff9428",
+  "tests": {
+    "selectionCombinations": 384,
+    "courseCount": 500,
+    "unittestCount": 11,
+    "sitemapUrlCount": 503,
+    "result": "pass"
+  },
+  "contentStatus": {
+    "missingTotal": 133,
+    "coursesWithMissingFields": 95,
+    "byField": {
+      "play": 0,
+      "car": 8,
+      "rail": 23,
+      "dining": 19,
+      "stay": 19,
+      "budget": 59,
+      "scenery": 5
+    }
+  },
+  "publicPages": [
+    {"id": 2, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/2.html", "http": 200, "contentMatched": true},
+    {"id": 171, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/171.html", "http": 200, "contentMatched": true},
+    {"id": 217, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/217.html", "http": 200, "contentMatched": true},
+    {"id": 240, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/240.html", "http": 200, "contentMatched": true},
+    {"id": 284, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/284.html", "http": 200, "contentMatched": true},
+    {"id": 291, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/291.html", "http": 200, "contentMatched": true},
+    {"id": 415, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/415.html", "http": 200, "contentMatched": true},
+    {"id": 419, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/419.html", "http": 200, "contentMatched": true}
+  ],
+  "searchConsoleStatusChecked": false,
+  "note": "公開data.jsのSHA256一致と対象8ページのHTTP 200・掲載文一致を確認。Google Search Consoleの非公開ステータスは参照していない。"
+}
