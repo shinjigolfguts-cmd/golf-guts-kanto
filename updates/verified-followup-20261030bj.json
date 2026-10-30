@@ -1,0 +1,63 @@
+{
+  "baseSha256": "a31095a44dc5dce3f3a91bed15d13dca32535c0fa2f43fc8dc96b0ad883cf71e",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 356,
+      "name": "トムソンカントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "通常ロッカーと貴重品ロッカーがあります。浴場・宿泊設備の現在の利用条件は公式案内で確認できていません。", "url": "https://thomson-cc.com/yakkan.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式利用約款の第8条・第10条で通常ロッカーと貴重品ロッカーを確認。浴場・宿泊は未確認。"},
+      "evidenceNote": "公式利用約款本文を確認。"
+    },
+    {
+      "id": 362,
+      "name": "東ノ宮カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "ロッカールーム、貴重品ロッカー、お風呂があります。公式案内では宿泊施設はありません。", "url": "https://banryugolf.com/higashinomiya/course/index.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式コースガイドの施設情報でロッカー、貴重品ロッカー、お風呂を確認し、宿泊施設なしの明記も確認。"},
+      "evidenceNote": "公式施設情報表の内容を確認。"
+    },
+    {
+      "id": 387,
+      "name": "太平洋クラブ 佐野ヒルクレストコース",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにロッカールームとバスルームがあります。宿泊設備は公式施設案内で確認できていません。", "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/guide.html", "checked": "2026-10-30", "sourceType": "official", "basis": "佐野ヒルクレストコース公式施設案内でロッカールームとバスルームを確認。宿泊は未確認。"},
+      "evidenceNote": "公式コース施設案内本文を確認。"
+    },
+    {
+      "id": 405,
+      "name": "石坂ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "会員向け年間シューズロッカーは4,400円です。浴場・宿泊設備は公式案内で確認できていません。", "url": "https://www.ishizaka-gc.com/fee/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式料金案内で会員向け年間シューズロッカー料金を確認。浴場・宿泊は未確認。", "conditions": "会員向け年間契約のシューズロッカー。"},
+      "evidenceNote": "公式料金案内のその他料金表を確認。"
+    },
+    {
+      "id": 419,
+      "name": "長瀞カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "公式料金ページ掲載のアフタヌーン等の対象プランでは、浴室・ロッカー等の施設を利用できません。通常営業時の利用条件は公式本文で確認できていません。", "url": "https://www.kanbun-group.co.jp/ncc/fee.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式料金ページで対象プランの浴室・ロッカー等利用不可を確認。通常営業全体へ一般化せず限定条件として記録。", "conditions": "前金制・現金払い等が案内される公式料金ページ掲載の対象プラン。通常営業全体の設備有無を示すものではない。"},
+      "evidenceNote": "公式料金ページ本文を確認し、対象プラン限定で記録。"
+    },
+    {
+      "id": 421,
+      "name": "嵐山カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスに冷暖房付きのロッカーがあります。浴場・宿泊設備は公式案内で確認できていません。", "url": "https://www.ranzan.cc/wp-content/uploads/2026/01/RANZAN2024spring_4C.pdf", "checked": "2026-10-30", "sourceType": "official", "basis": "公式会報でロッカーへの冷暖房設置とラウンド後の着替え利用を確認。浴場・宿泊は未確認。"},
+      "evidenceNote": "公式会報本文を確認。"
+    },
+    {
+      "id": 480,
+      "name": "太平洋クラブ 高崎コース",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "ロッカールームとバスルームがあります。夏季（7月21日～9月末頃）はバスルームがシャワーのみの利用となります。", "url": "https://www.taiheiyoclub.co.jp/course/takasaki/topics/lrhh7f000000p4rm.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式夏季案内でバスルームのシャワー限定期間を確認し、公式施設案内でロッカールームを確認。", "conditions": "夏季のシャワー限定期間は7月21日から9月末頃の予定。", "supportingUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/guide.html"},
+      "evidenceNote": "公式トピックスと施設案内を照合。"
+    }
+  ]
+}
