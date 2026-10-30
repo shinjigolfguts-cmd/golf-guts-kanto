@@ -1,0 +1,48 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "0ee2ac7f4ecb1fe7763254cd010830f1426fb4c8",
+  "items": [
+    {
+      "id": 34,
+      "name": "大厚木カントリークラブ 本コース",
+      "field": "budget",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/kanagawa/daiatsugi_hon/?date=2026%2F11%2F02",
+      "finding": "公式予約で2026年11月2日の初心者応援9ホールプラン、税込総額4,000円、セルフ、GPSナビ付き4人乗りカート、2サム保証・割増なし、昼食なし、動画視聴条件を確認。"
+    },
+    {
+      "id": 47,
+      "name": "水戸・ゴルフ・クラブ",
+      "field": "budget",
+      "status": "content_verified",
+      "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/mito/?date=2026%2F11%2F02",
+      "finding": "公式予約で2026年11月2日の初心者応援9ホールプラン、税込総額2,000円、セルフ、4人乗りカート、2サム保証・割増なし、昼食なし、動画視聴条件を確認。"
+    },
+    {
+      "id": 211,
+      "name": "ジャパンPGAゴルフクラブ",
+      "field": "rail",
+      "status": "content_verified",
+      "url": "https://zuien.net/pga/faq/",
+      "supportingUrl": "https://zuien.net/pga/access/",
+      "finding": "公式FAQでJR内房線君津駅からタクシー約40分、5,000～6,000円、駅送迎なしを確認。金谷港送迎の予約期限は公式ページ間で表現が異なるため、最新条件の確認を促す。"
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "field": "dining",
+      "status": "content_verified",
+      "url": "https://www.mashikohills.com/",
+      "supportingUrl": "https://www.mashikohills.com/restaurant.html",
+      "finding": "公式トップで昼食のセットメニュー提供と毎週月曜のレストラン休業を確認。具体的なメニューは準備中のため料理名を補完しない。"
+    },
+    {
+      "id": 138,
+      "name": "一の宮カントリークラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://www.ichinomiya.co.jp/online-reserv/",
+      "finding": "現行の公式予約案内で浴場利用条件を確認。浴場の存在とタトゥー利用制限のみ採用し、宿泊・温泉・営業時間は推測しない。"
+    }
+  ]
+}
