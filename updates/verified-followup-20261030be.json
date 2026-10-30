@@ -1,0 +1,147 @@
+{
+  "baseSha256": "5ac4ee9b6ba92fdf1b79acb6590262f1c8c49a2cab9ca707ab37f10071eeade3",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 5,
+      "name": "江戸川ラインゴルフショートコース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ロッカーと更衣室はありません。浴場・シャワー・宿泊設備については公式案内で未確認です。",
+        "url": "https://edogawaline.or.jp/shortcourse/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式ショートコース案内本文でロッカーと更衣室がないことを確認。浴場・シャワー・宿泊設備の有無は推測しない。"
+      },
+      "evidenceNote": "現行の公式ショートコース案内で、ロッカーと更衣室が利用できない旨を確認。"
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "受付のある多摩川交流センターには休憩スペースとドリンクの自動販売機があります。レストランや調理済みの食事提供は公式案内で未確認です。",
+        "url": "https://www.kasen-kikou.or.jp/tamagawa/center.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "指定管理者の公式施設案内本文で休憩スペースとドリンク自動販売機を確認。レストランや食事提供の有無は推測しない。"
+      },
+      "evidenceNote": "公式の多摩川交流センター案内で休憩スペースとドリンク自動販売機を確認。"
+    },
+    {
+      "id": 87,
+      "name": "川崎リバーサイドパーク ゴルフ場",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "受付のある多摩川交流センターに更衣室と100円ロッカーがあります。浴場・シャワー・宿泊設備は公式案内で未確認です。",
+        "url": "https://www.kasen-kikou.or.jp/tamagawa/center.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "指定管理者の公式施設案内本文で更衣室と100円ロッカーを確認。浴場・シャワー・宿泊設備の有無は推測しない。"
+      },
+      "evidenceNote": "公式の多摩川交流センター案内で更衣室と100円ロッカーの利用案内を確認。"
+    },
+    {
+      "id": 88,
+      "name": "多摩川ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。",
+        "url": "https://tamagawagolfclub.com/facilities/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式施設紹介本文でクラブハウスのロッカールームを確認。浴場・シャワー・宿泊設備の有無は推測しない。"
+      },
+      "evidenceNote": "公式施設紹介でロッカールームの案内を確認。"
+    },
+    {
+      "id": 280,
+      "name": "栗橋國際カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "レストランの食事は軽食の食べ放題・セルフサービスです。朝食はありません。営業日・提供条件は来場前にご確認ください。",
+        "url": "https://www.kurikan.co.jp/faq/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式FAQ本文でレストラン、朝食なし、軽食の食べ放題・セルフサービスという提供条件を確認。"
+      },
+      "evidenceNote": "公式FAQのレストラン項目を実読し、朝食と食事提供方式を確認。"
+    },
+    {
+      "id": 347,
+      "name": "唐沢ゴルフ倶楽部 唐沢コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "お風呂があります。1月・2月のセルフデーはお風呂場を利用できません。宿泊設備は公式案内で未確認です。",
+        "url": "https://www.karasawa-golf.or.jp/playfee-karasawa/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "唐沢コースの公式プレー料金案内本文で、1月・2月のセルフデーのお風呂場利用不可条件を確認。宿泊設備は推測しない。"
+      },
+      "evidenceNote": "公式の唐沢コース料金案内でお風呂設備と冬季セルフデーの利用制限を確認。"
+    },
+    {
+      "id": 371,
+      "name": "皐月ゴルフ倶楽部 佐野コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "クラブハウスにレストランがあります。具体的な料理名・価格は公式フォトギャラリーでは未確認のため、来場前にご確認ください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.gallery",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM公式の同コースフォトギャラリーでレストラン設備を確認。料理名・価格は推測しない。"
+      },
+      "evidenceNote": "PGM公式フォトギャラリーのレストラン掲載を確認。"
+    },
+    {
+      "id": 437,
+      "name": "武蔵カントリークラブ 笹井コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場があります。公式利用約款では、泥酔している方、刺青のある方、感染症に罹患している方は浴室を利用できません。宿泊設備は公式案内で未確認です。",
+        "url": "https://www.musashi-cc.co.jp/terms/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "武蔵カントリークラブの公式利用約款で浴室と利用制限を確認。クラブ共通約款を笹井コースの施設利用条件として記録し、宿泊設備は推測しない。"
+      },
+      "evidenceNote": "クラブ公式利用約款の浴室利用条項を実読し、明記された利用制限のみ記載。"
+    },
+    {
+      "id": 438,
+      "name": "武蔵カントリークラブ 豊岡コース",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "浴場があります。公式利用約款では、泥酔している方、刺青のある方、感染症に罹患している方は浴室を利用できません。宿泊設備は公式案内で未確認です。",
+        "url": "https://www.musashi-cc.co.jp/terms/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "武蔵カントリークラブの公式利用約款で浴室と利用制限を確認。クラブ共通約款を豊岡コースの施設利用条件として記録し、宿泊設備は推測しない。"
+      },
+      "evidenceNote": "クラブ公式利用約款の浴室利用条項を実読し、明記された利用制限のみ記載。"
+    },
+    {
+      "id": 475,
+      "name": "ゴルフクラブスカイリゾート",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "レストランでは毎日おすすめメニューを用意し、内容は当日スタッフへ確認する案内です。コンペ料理は予算に応じて用意し、季節・仕入れにより内容が変わります。",
+        "url": "https://www.gcsr.jp/restaurant.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式レストラン案内本文で日替わりのおすすめメニューと、予算に応じたコンペ料理、季節・仕入れによる変更条件を確認。"
+      },
+      "evidenceNote": "公式レストラン案内で通常メニューの案内方法とコンペ料理の変動条件を確認。"
+    }
+  ]
+}
