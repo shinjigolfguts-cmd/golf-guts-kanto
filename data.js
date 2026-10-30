@@ -784,8 +784,21 @@ const DATA={
           "basis": "公式最新情報本文でテイクアウト商品名、主な内容、注文・受取条件を確認。",
           "conditions": "テイクアウトの案内で、通常のレストラン昼食メニューではありません。来場時または電話で注文し、受取希望日の9時30分までの予約が必要。受取後4時間以内に食べる案内です。"
         },
-        "stay": null,
-        "budget": null,
+        "stay": {
+          "text": "公式の料金・施設案内はメンテナンス表示となっており、現行の浴場・宿泊条件を確認できていません。設備がないとは判断せず、利用前に施設へご確認ください。",
+          "url": "https://www.camelliahills.com/price/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ページがメンテナンス案内へ遷移。過去の浴場PDFを現行条件へ転用せず、未確認理由を明記。"
+        },
+        "budget": {
+          "text": "公式料金ページがメンテナンス表示のため、現行の基本プレー料金を確認できていません。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.camelliahills.com/price/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページの現行本文を取得できないため、過去料金を転用せず確認状況を明記。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "scenery": {
           "text": "四季の花々と、巧みに配置された池が彩る18ホール。広いフェアウェイは、ティーからピンを見通せるホールが多い設計です。",
           "url": "https://www.camelliahills.com/course/",
@@ -1231,7 +1244,14 @@ const DATA={
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式サイトの現行料金本文を取得できていないため、基本プレー料金は未確認です。日程・人数別の料金は公式サイトまたは施設へご確認ください。",
+          "url": "https://www.belle-co.com/ichihara/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。運営元の施設紹介にプレー料金はなく、第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "scenery": {
           "text": "丘陵地の起伏と緑を生かしたコース。コースごとの眺めと自然を楽しめます。",
           "url": "https://www.daiwajisyo.co.jp/group/belleselva-ichihara/index.html",
@@ -4965,14 +4985,27 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスページHTTPで取得成功。http://www.hatsuhocc.co.jp/wp-content/images/access/bycar.png を目視確認：沼田IC→国道120号10分→初穂CC"
         },
-        "dining": null,
+        "dining": {
+          "text": "ゴルフ場公式サイトと併設ホテルの公式レストランページを確認しましたが、現行メニュー本文を取得できていません。料理の提供内容は利用前に施設へご確認ください。",
+          "url": "https://www.shirasawa-kougen.com/restaurant.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "ゴルフ場公式と併設ホテル公式の取得失敗を再確認。第三者の料理情報を採用せず未確認理由を明記。"
+        },
         "stay": {
           "text": "白沢高原ホテルと源泉掛け流し天然温泉を併設。",
           "url": "https://www.hatsuhocc.co.jp/",
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式サイトの料金本文を取得できていないため、現行の基本プレー料金は未確認です。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.hatsuhocc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者料金を現行料金として採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "scenery": {
           "text": "広くフラットなコースに、四季折々の自然が広がります。季節ごとに移り変わる緑の景観を楽しめます。",
           "url": "https://www.hatsuhocc.co.jp/",
@@ -8394,7 +8427,13 @@ const DATA={
             "https://checkmate-cc.com/availability.html"
           ]
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設案内で浴場・宿泊の現行条件を確認できていません。設備がないとは判断せず、利用可否は予約時に施設へご確認ください。",
+          "url": "https://checkmate-cc.com/faci.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設ページに浴場・宿泊の明示根拠がなく、未掲載を設備なしと解釈しない。"
+        },
         "budget": {
           "text": "ゲストの予約は原則として会員の紹介が必要です。ゲストだけの2人予約は受け付けていません。3人で会員との組合せができない場合、セルフは1人1,100円追加。一般ゲストの基本料金は未確認です。",
           "url": "https://checkmate-cc.com/availability.html",
@@ -8796,7 +8835,14 @@ const DATA={
           "sourceType": "official",
           "basis": "ホテル自身の公式本文に鹿野山ゴルフ倶楽部へ隣接と明記。場内宿泊とせず別施設として記載。掲載価格の適用年度が明確でないため料金・パックは採用しない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式サイトの料金本文を取得できていないため、現行の基本プレー料金は未確認です。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.kanozan.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "scenery": {
           "text": "東京湾と房総連山を一望する27ホール。海と山並みが広がる景観を楽しめます。",
           "url": "https://www.kanozan.co.jp/",
@@ -10323,7 +10369,14 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "2次調査：公式サイト検索結果・施設本文・写真見出しを確認。設備存在と利用制限を区別。"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式サイトの料金本文を取得できていないため、現行の基本プレー料金は未確認です。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.president-cc.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "scenery": {
           "text": "自然の岩肌とウォーターハザードが景観のアクセント。東・INコースでは水辺を取り入れた風景が広がります。",
           "url": "https://www.president-cc.jp/course.html",
@@ -14964,7 +15017,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内では当コースの車経路を確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文に当施設の鉄道案内がなく、同じページ内の近隣コース情報を転用しない。"
+        },
         "scenery": {
           "text": "広めのフェアウェイと穏やかなアップダウンが特徴。グリーン周辺にはバンカーや池が配置されています。",
           "url": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/",
@@ -15433,11 +15492,42 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "rail": null,
-        "scenery": null,
-        "dining": null,
-        "budget": null,
-        "stay": null
+        "rail": {
+          "text": "公式サイトの交通案内本文を取得できていないため、最寄駅からの交通手段・所要時間は未確認です。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.katoricc.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の駅・タクシー情報を採用しない。"
+        },
+        "scenery": {
+          "text": "公式サイトのコース紹介本文を取得できていないため、現行コースの景観特徴は未確認です。古い画像や第三者紹介から推測していません。",
+          "url": "https://www.katoricc.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。現在の景観を第三者画像から作らない。"
+        },
+        "dining": {
+          "text": "公式サイトのレストラン本文を取得できていないため、現行メニューは未確認です。提供内容は利用前に施設へご確認ください。",
+          "url": "https://www.katoricc.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者のメニュー・価格を採用しない。"
+        },
+        "budget": {
+          "text": "公式サイトの料金本文を取得できていないため、現行の基本プレー料金は未確認です。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.katoricc.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
+        "stay": {
+          "text": "公式サイトの施設案内本文を取得できていないため、浴場・宿泊の現行条件は未確認です。設備がないとは判断せず、施設へご確認ください。",
+          "url": "https://www.katoricc.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        }
       },
       "researchSources": [
         "https://www.katoricc.com/",
@@ -15538,11 +15628,42 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "rail": null,
-        "scenery": null,
-        "dining": null,
-        "budget": null,
-        "stay": null
+        "rail": {
+          "text": "公式サイトの交通案内本文を取得できていないため、最寄駅からの交通手段・所要時間は未確認です。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の駅・バス情報を採用しない。"
+        },
+        "scenery": {
+          "text": "公式サイトのコース紹介本文を取得できていないため、現行コースの景観特徴は未確認です。古い画像や第三者紹介から推測していません。",
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。現在の景観を第三者画像から作らない。"
+        },
+        "dining": {
+          "text": "公式サイトのレストラン本文を取得できていないため、現行メニューは未確認です。提供内容は利用前に施設へご確認ください。",
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者のメニュー情報を採用しない。"
+        },
+        "budget": {
+          "text": "公式サイトの料金本文を取得できていないため、現行の基本プレー料金は未確認です。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
+        "stay": {
+          "text": "公式サイトの施設案内本文を取得できていないため、浴場・宿泊の現行条件は未確認です。設備がないとは判断せず、施設へご確認ください。",
+          "url": "https://www.shinchiba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        }
       },
       "researchSources": [
         "https://www.shinchiba-cc.co.jp/",
@@ -15904,7 +16025,14 @@ const DATA={
           "sourceType": "official",
           "basis": "公式クラインガルテン案内で、クラブ農園の収穫物をクラブレストランの食材に使用する説明を確認。"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式の料金・予約情報は会員ログイン後に案内されるため、公開ページでは基本プレー料金を確認できません。正規の会員案内またはクラブへご確認ください。",
+          "url": "https://tokyo-classic.jp/members_login/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金導線が会員認証を必要とすることを確認。認証を迂回せず、一般相場を推測しない。",
+          "conditions": "会員向け非公開情報。公開ページで対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "stay": {
           "text": "公式案内の東京クラシックキャンプに、宿泊用キャビンとグランピングテントがあります。キャビンにはアウトドアバスとシャワー、テントにはバスを備えています。キャンプは会員制で、体験宿泊などには別途条件があります。",
           "url": "https://tokyo-classic.jp/camp/",
@@ -16482,7 +16610,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス資料には常陸大宮駅の地図表記がありますが、駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.kanasago.com/access/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文と公式案内PDFを確認。駅名の地図表示から移動手段や時間を推測しない。"
+        },
         "scenery": {
           "text": "丘陵地に展開する18ホール。クラブハウスを中心に左右へコースが広がり、フラットな地形の中に変化を配しています。",
           "url": "https://www.kanasago.com/course/",
@@ -18970,15 +19104,33 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "関東ゴルフ連盟公式クラブ詳細でホール数を確認"
         },
-        "car": null,
-        "rail": null,
+        "car": {
+          "text": "公式アクセス案内では都心方面からの目安を確認できますが、最寄ICからコースまでの距離・所要時間は確認できていません。来場前に施設へご確認ください。",
+          "url": "https://www.daiyagreen.com/access/index.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセスの既確認内容は都心からの目安のみ。ICからの時間へ転用しない。"
+        },
+        "rail": {
+          "text": "公式サイトの鉄道アクセス本文を取得できていないため、最寄駅からの交通手段・所要時間は未確認です。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.daiyagreen.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の駅・バス情報を採用しない。"
+        },
         "scenery": {
           "text": "緑に囲まれ、四季の花木が彩りを添える18ホール。自然の地形を生かした変化あるコースです。",
           "url": "https://www.daiyagreen.com/concept/",
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・景観記述を確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式サイトのレストラン本文を取得できていないため、現行メニューは未確認です。提供内容は利用前に施設へご確認ください。",
+          "url": "https://www.daiyagreen.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の料理情報を採用しない。"
+        },
         "budget": {
           "text": "10〜11月の4名1組料金例は平日6,860〜7,410円、土日12,390〜14,920円。昼食付きは1,320円分まで、超過分は追加です。",
           "url": "http://www.daiyagreen.com/plan/index.html",
@@ -18988,7 +19140,13 @@ const DATA={
           "priceLabel": "平日6,860〜7,410円／土日12,390〜14,920円",
           "conditions": "2026年10〜11月4B消費税プレー代込みセット例。ビジター昼食付は1320円分まで。祝日11290〜13820円。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式サイトの施設案内本文を取得できていないため、浴場・宿泊の現行条件は未確認です。設備がないとは判断せず、施設へご確認ください。",
+          "url": "https://www.daiyagreen.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        }
       },
       "id": 300
     },
@@ -19780,7 +19938,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内で所在地・電話・地図は確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.mgcc.jp/access/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文に鉄道利用の明示がなく、駅や時間を推測しない。"
+        },
         "scenery": {
           "text": "自然の地形を生かしたレイアウト。5番はグリーン奥まで池が続き、8番は池を背にした打ち下ろしの景観を楽しめます。",
           "url": "https://www.mgcc.jp/course/",
@@ -21018,7 +21182,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。下今市駅から予約制クラブバスで約20分。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式レストランページの本文を取得できていないため、現行メニューは未確認です。提供内容は利用前に施設へご確認ください。",
+          "url": "https://www.suginosato.co.jp/restaurant.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップとレストランページの取得失敗を再確認。検索見出しだけを料理内容の確認と扱わない。"
+        },
         "budget": {
           "text": "公式料金カレンダーでは、2026年10月の通常掲載料金が平日7,550円、土日13,800円。11月・12月は平日7,750円、土日14,300円を基本に指定日料金があります。",
           "url": "https://suginosato.co.jp/fee.html",
@@ -21233,7 +21403,13 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式サイトの記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内では車の所要時間を確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.mashikohills.com/accesse.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式案内は真岡IC・笠間西ICからの車情報のみ。駅名や時間を推測しない。"
+        },
         "scenery": {
           "text": "益子町北部の丘陵地に広がる18ホール。適度な起伏があり、四季の自然に囲まれたコースです。",
           "url": "https://www.mashikohills.com/",
@@ -21772,7 +21948,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスページと公式ルートPDFの所要時間を確認。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内では車ルートを確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.g7cc.co.jp/access.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文と車ルート資料に駅からの所要時間の根拠がなく、推測しない。"
+        },
         "dining": {
           "text": "朝食に「焼き鮭の和セット」を用意しています。",
           "url": "https://www.g7cc.co.jp/restaurant.html",
@@ -22314,7 +22496,13 @@ const DATA={
           "basis": "公式利用案内で会員同伴・紹介の原則と会員からの予約を本文確認。一般予約可能な価格帯を推測しない。",
           "conditions": "会員同伴・紹介に基づくゲストプレー。公開利用案内では基本料金額を確認できない。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式クラブハウス案内では入口・VIPルーム・レストランなどを確認できますが、浴場・宿泊の現行条件は確認できていません。設備がないとは判断せず、施設へご確認ください。",
+          "url": "https://www.touricc.com/clubhouse.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式クラブハウス本文に浴場・宿泊の明示がなく、未掲載を設備なしと解釈しない。"
+        }
       },
       "id": 357
     },
@@ -22751,7 +22939,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。矢板北スマートICから約10分（7km以内）、矢板ICから約20分。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内では車経路を確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://yaita-cc.com/access",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文に鉄道利用の明示がなく、駅や時間を推測しない。"
+        },
         "dining": {
           "text": "「矢板オリジナル カツカレー」は青森県産の美保野ポークを使用。",
           "url": "https://yaita-cc.com/restaurant",
@@ -22849,7 +23043,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。旧羽黒・旧鬼怒川コースのホールを組み合わせた営業コース。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式コースページには旧ホールの画像・動画を含むとの注記があり、現行コースの景観特徴は確認できていません。旧資料から現在の景色を推測していません。",
+          "url": "https://www.royalcc.co.jp/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式注記を確認。旧ホール資料を現行の景観説明として転用しない。"
+        },
         "car": {
           "text": "宇都宮ICから国道293号線で氏家方面へ。中里交差点を左折する公式ルート。",
           "url": "https://www.royalcc.co.jp/access.html",
@@ -23960,7 +24160,14 @@ const DATA={
           "sourceType": "official",
           "dish": "ビーフシチューハンバーグ"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式料金表は2026年4〜6月分で対象期間が終了しているため、現行の基本プレー料金は未確認です。飛駒コースを明示した現行料金を施設へご確認ください。",
+          "url": "https://www.ashikaga-cc.com/information/price/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金表の対象期間終了と付帯料金表記の相違を確認。別施設の多幸コース予約額を転用しない。",
+          "conditions": "現行の対象日・人数・税・食事・ロッカー浴場料金を確認できていない。"
+        },
         "stay": {
           "text": "浴槽利用の案内あり。公式料金案内にロッカー・浴槽使用料の記載。現在の利用条件・追加料金は予約時に確認。宿泊設備は未確認。",
           "url": "https://www.ashikaga-cc.com/information/price/",
@@ -24293,7 +24500,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。栃木ICから約17km。公式アクセスに経路図を掲載。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内では車距離・駐車場情報を確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.livemax-golfclub.com/access/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文に駅からの移動案内がなく、駅や時間を推測しない。"
+        },
         "dining": {
           "text": "自家製ソースを選べる「ハンバーグ御膳」を掲載。",
           "url": "https://www.livemax-golfclub.com/restaurant/",
@@ -24724,7 +24937,14 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。名物「海老天そば」。毎朝手打ちするそばを楽しめます。",
           "dish": "海老天そば"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式サイトの料金本文を取得できていないため、現行の基本プレー料金は未確認です。日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.tsugacc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
         "stay": {
           "text": "男子浴室は脱衣室を挟んで左右2か所にあります。クラブハウスの階段を下りた場所にロッカー室を備えています。",
           "url": "https://www.tsugacc.co.jp/facility.html",
@@ -26460,8 +26680,21 @@ const DATA={
           "basis": "公式ページ本文・料金表で確認",
           "dish": "牛すじカレー"
         },
-        "budget": null,
-        "stay": null
+        "budget": {
+          "text": "公式料金ページの本文を取得できていないため、現行の基本プレー料金は未確認です。同名に近い別施設の料金を転用せず、当倶楽部へご確認ください。",
+          "url": "https://www.kodama-cc.jp/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式feeページの取得失敗を再確認。こだまゴルフクラブの料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        },
+        "stay": {
+          "text": "公式サイトの施設案内本文を取得できていないため、浴場・宿泊の現行条件は未確認です。同名に近い別施設の情報を転用せず、当倶楽部へご確認ください。",
+          "url": "https://www.kodama-cc.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。こだまゴルフクラブとは別施設のため情報を混同しない。"
+        }
       },
       "id": 427
     },
@@ -26733,7 +26966,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文・料金表で確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式サイトで食堂の過去の利用時間案内は確認できますが、現行メニュー・提供内容は確認できていません。利用時は倶楽部へご確認ください。",
+          "url": "https://www.tokyogolfclub.jp/infomation/20230604/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "2023年の食堂利用時間制限廃止案内だけでは現行メニュー確認にならないため、確認範囲を明記。"
+        },
         "budget": {
           "text": "プレーは会員同伴が原則です。予約は会員から問い合わせる方式のため、料金を含む詳細は会員にご確認ください。",
           "url": "https://www.tokyogolfclub.jp/guide/",
@@ -27747,7 +27986,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。周辺のホテルアミューズ富岡や甘楽ふるさと館を案内。いずれも車で約20分です。"
         },
-        "budget": null
+        "budget": {
+          "text": "公式予約は登録後の日付別カレンダーで案内されるため、公開ページでは現行の基本プレー料金を確認できていません。対象日の総額は公式予約画面でご確認ください。",
+          "url": "https://www.shimonitacc.com/reservation.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約導線を確認。レンタル料金を基本プレー料金へ転用せず、未確認条件を明記。",
+          "conditions": "対象日・人数・税・食事・割増を含む基本総額は公開本文で確認できていない。"
+        }
       },
       "id": 449
     },
@@ -27797,7 +28043,14 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の浴室・宿泊設備欄を確認"
         },
-        "budget": null
+        "budget": {
+          "text": "公式予約は登録後の日付別カレンダーで案内されるため、公開ページでは現行の基本プレー料金を確認できていません。対象日の総額は公式予約画面でご確認ください。",
+          "url": "https://www.kiryucc.com/reservation.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約導線を確認。レンタル料金を基本プレー料金へ転用せず、未確認条件を明記。",
+          "conditions": "対象日・人数・税・食事・割増を含む基本総額は公開本文で確認できていない。"
+        }
       },
       "id": 450
     },
@@ -27944,7 +28197,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。松井田妙義ICから5km。公式掲載は距離の案内です。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内で所在地・地図は確認できますが、最寄駅からの交通手段・所要時間は確認できていません。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.takanashiclub.jp/access.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文に最寄駅・所要時間の明示がなく、推測しない。"
+        },
         "dining": {
           "text": "群馬県産やまと豚のカツカレーを掲載。高梨子御膳（ヒレカツ）や上州牛のステーキ丼も選べます。昼食付プランでも料理により追加料金があります。",
           "url": "https://www.takanashiclub.jp/restaurant.html",
@@ -28044,14 +28303,26 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。フラットなパブリックコース。4つのティーを用意しています。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式サイトのコース紹介本文を取得できていないため、現行コースの景観特徴は未確認です。第三者画像から推測していません。",
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。現在の景観を第三者画像から作らない。"
+        },
         "car": {
           "text": "吉井ICから約7分。",
           "url": "https://www.yoshii-nanyodai.jp/clubhouse.htm",
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。吉井ICから約7分。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式サイトの交通案内本文を取得できていないため、最寄駅からの交通手段・所要時間は未確認です。鉄道利用時は施設へご確認ください。",
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の駅・バス情報を採用しない。"
+        },
         "dining": {
           "text": "2026年10月の新メニューとして「ステーキ重」「ミックスグリル」を案内しています。",
           "url": "https://www.yoshii-nanyodai.jp/",
@@ -28060,7 +28331,13 @@ const DATA={
           "dish": "ステーキ重",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式サイトの施設案内本文を取得できていないため、浴場・宿泊の現行条件は未確認です。設備がないとは判断せず、施設へご確認ください。",
+          "url": "https://www.yoshii-nanyodai.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        },
         "budget": {
           "text": "公式予約の2026年10月30日掲載例は「【午後スルー】完全セルフ・乗用・2サム保証・割増なし」が総額6,980円です。公式カレンダーで同日の公開枠を確認しました。",
           "url": "https://webpack2.jp/reserve/calendar/visitor/337502",
@@ -28626,14 +28903,26 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。太田市西長岡町にある27ホールのゴルフ場。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "公式サイトがアクセス制限で本文を取得できていないため、現行コースの景観特徴は未確認です。制限を迂回せず、第三者画像から推測していません。",
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトの403を確認。アクセス制限を迂回せず、現在の景観を第三者画像から作らない。"
+        },
         "car": {
           "text": "太田藪塚ICから8km。公式協会掲載は距離の案内です。",
           "url": "https://golf-gunma-asc.gr.jp/club/",
           "checked": "2026-10-24",
           "basis": "公式掲載内容を確認。太田藪塚ICから8km。公式協会掲載は距離の案内です。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式サイトがアクセス制限で本文を取得できていないため、最寄駅からの交通手段・所要時間は未確認です。制限を迂回せず、鉄道利用時は施設へご確認ください。",
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトの403を確認。アクセス制限を迂回せず、第三者の交通情報を採用しない。"
+        },
         "dining": {
           "text": "場内レストランは、運営会社の公式店舗ページで案内されています。料理名・現行メニューや営業時間は、公式サイトで詳しくご覧ください。",
           "url": "https://shop.create-restaurants.co.jp/cr1327/",
@@ -28641,8 +28930,21 @@ const DATA={
           "sourceType": "official",
           "basis": "レストラン運営会社クリエイト・レストランツの公式店舗ページで太田双葉カントリークラブレストラン、所在地（太田市西長岡町1524）、電話0276-40-5245を確認。営業時間欄は空欄、メニュー掲載もないため料理名や時刻を推測しない。"
         },
-        "stay": null,
-        "budget": null
+        "stay": {
+          "text": "公式サイトがアクセス制限で本文を取得できていないため、浴場・宿泊の現行条件は未確認です。設備がないとは判断せず、施設へご確認ください。",
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトの403を確認。アクセス制限を迂回せず、第三者の設備情報から有無を断定しない。"
+        },
+        "budget": {
+          "text": "公式サイトがアクセス制限で本文を取得できていないため、現行の基本プレー料金は未確認です。制限を迂回せず、日程・人数別の料金は施設へご確認ください。",
+          "url": "https://www.ota-futaba-cc.co.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトの403を確認。アクセス制限を迂回せず、第三者料金を採用しない。",
+          "conditions": "現行の対象日・人数・税・食事・割増条件を確認できていない。"
+        }
       },
       "id": 465
     },
@@ -29865,7 +30167,13 @@ const DATA={
           "priceLabel": "平日 18,690円\n土日祝 26,390円",
           "conditions": "消費税・利用税800円・身障児基金20円込み。通常料金は昼食別。2・3名割増あり。W・3S会員料金とは区別。"
         },
-        "stay": null
+        "stay": {
+          "text": "公式クラブハウスページでは浴場・宿泊の現行条件を判読できる本文を確認できていません。設備がないとは判断せず、利用可否は施設へご確認ください。",
+          "url": "https://sagamino-cc.jp/club-house.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ページは見出し・画像中心で明示根拠が不足。画像の外観から設備を推測しない。"
+        }
       },
       "id": 486
     },
@@ -30448,7 +30756,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式サイトの本文を確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式利用案内で9ホールの歩行セルフを確認できますが、対象日を確定した基本プレー総額は未確認です。料金は公式予約カレンダーでご確認ください。",
+          "url": "https://chigasaki.golfdigest.co.jp/guide",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式利用案内と公式予約導線を確認。非プレー同伴者4,400円をプレー料金として転用しない。",
+          "conditions": "9ホール歩行セルフ。対象日・人数・税・食事・割増を含む基本総額は確認できていない。"
+        },
         "stay": {
           "text": "シャワーを10〜16時に利用できます。タオル・持ち帰り用袋は持参。2026年11月2日はボイラー工事でシャワー・脱衣所が終日利用休止です。",
           "url": "https://chigasaki.golfdigest.co.jp/guide",
