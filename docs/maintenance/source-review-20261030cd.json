@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "d267d8d4c796e12b309264934b307a5cc8042d01",
+  "scope": "完了台帳ccの未確認34項目を再調査し、公式公開本文で新たに確定できた差分だけを採用。",
+  "counts": {
+    "unresolvedAtStart": 34,
+    "newlyConfirmed": 1,
+    "unresolvedAfterBatch": 33
+  },
+  "confirmed": [
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "budget",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "result": "平日限定の初心者向けピクニックゴルフについて、9ホール・食事付き3,950円と付帯条件を公式本文で確認。",
+      "conditions": "通常1ラウンド料金ではない。経験者同伴が必要。ロッカー・浴槽使用料は公式ページ内に440円と2026年4月1日以降550円の両記載があるため要確認。"
+    }
+  ],
+  "notAdopted": [
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "field": "budget",
+      "url": "https://www.camelliahills.com/price/",
+      "reason": "検索索引には終了済みの2026年7〜9月料金と11月イベントが残るが、現在の公式ページは緊急メンテナンス表示。現行基本料金へ転用しない。"
+    },
+    {
+      "id": 163,
+      "name": "ゴールド栃木プレジデントカントリークラブ",
+      "field": "budget",
+      "url": "https://www.president-cc.jp/fee.html",
+      "reason": "公式料金ページの本文取得が502/503。古い索引の料金や会員限定料金を現行ビジター料金へ転用しない。"
+    },
+    {
+      "id": 367,
+      "name": "ロイヤルカントリークラブ",
+      "field": "scenery",
+      "url": "https://www.royalcc.co.jp/course.html",
+      "reason": "現行の18・19ホール運用は確認できたが、公式自身が画像・動画は旧ホール情報と明記。現行景観の説明へ転用しない。"
+    }
+  ],
+  "searchConsole": "非公開ステータスは確認していない。"
+}
