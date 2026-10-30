@@ -10757,10 +10757,11 @@ const DATA={
       "id": 168,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=9093",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "ロバート・ボン・ヘギー設計の18ホール・パー72。那須野が原の平坦な地形と大きな赤松林を生かし、ホール同士を離して配置したレイアウトです。",
+          "url": "https://golf.horai-kk.com/course_h.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式ホウライ専用コース案内の設計者、OUT1〜9/IN10〜18とPAR36+36、フラットな大地・大木の赤松林・ホール同士が隣接しない配置という本文を確認。西那須野の1番/ベント芝等の事実は転用せず、ボールが飛んでこないという安全保証や主観的な最上級表現も採用しない。"
         },
         "rail": {
           "text": "那須塩原駅西口からタクシーで約15分。予約制クラブバスも運行し、公式FAQではコースまで約20分。",
@@ -10823,10 +10824,11 @@ const DATA={
       "id": 169,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=50020",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72のパブリックコース。標高400メートルのなだらかな丘陵に赤松を中心とした自然林がホールを区切り、フェアウェイは広くフラットと公式に案内されています。",
+          "url": "https://akagi-cc.com/pages/2/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式会社概要で赤城CCのパブリック区分、18H/PAR72、標高400m・なだらかな丘陵・赤松中心の自然林による区切り・各ホールの広くフラットなFWを明示。コース案内は画像中心のため未見図から配置を推定しない。Main/Subの固定距離はティー条件が十分明示されないため提案に採用しない。"
         },
         "rail": {
           "text": "赤城駅からタクシーで約15分（約8km）。",
@@ -10887,10 +10889,14 @@ const DATA={
       "id": 170,
       "comparison": {
         "play": {
-          "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10001",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "南・西・東の計27ホール。松林で区切られたコースにベントの2グリーンを備え、南1番はフェアウェイが左へ傾き、花道が狭いホールです。",
+          "url": "https://www.akagi-icc.co.jp/course/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式コース紹介本文の南西東・27H・松林によるセパレート・2グリーンとベント（ペンクロス）を確認。南1番個別ページの左傾斜と狭い花道を本文確認し、南1番の特徴を全27Hへ一般化しない。コース概要の複数距離/組合せ値は採用しない。",
+          "supportingUrls": [
+            "https://www.akagi-icc.co.jp/course/south_1/"
+          ]
         },
         "rail": {
           "text": "前橋駅からタクシーで約25分。",
@@ -10951,10 +10957,14 @@ const DATA={
       "id": 171,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10003",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。1番はやや打ち下ろしの左ドッグレッグ、2番は打ち上げのショート、6番は谷越えのショートです。杉・桧の林を生かした下山忠廉設計のコースです。",
+          "url": "https://www.ikahocc.co.jp/course.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式コース総合本文の下山忠廉設計・杉桧の林、OUT1〜9/IN10〜18のPAR36+36=72を確認。公式OUT本文の1番やや打下ろし左ドッグ、2番打上げショート、6番谷越えショートを確認。特定ティー距離は採用せず、総合本文の全ラウンドキャディ付き表現は別セルフプランとの適用範囲を混同し得るため今回追加しない。",
+          "supportingUrls": [
+            "https://www.ikahocc.co.jp/out.html"
+          ]
         },
         "rail": {
           "text": "渋川駅からタクシーで約15分。路線バスなら伊香保温泉行きで約25分、「伊香保カントリークラブ前」で下車。",
@@ -11015,10 +11025,11 @@ const DATA={
       "id": 172,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10010",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホールの丘陵コース。ホール間で高低差を吸収し、各ホールは平坦と公式に案内されています。OUTはやや狭く、INは広い構成です。",
+          "url": "https://www.obatago-golf.com/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップL81–83で18H・丘陵/ホール間で高低差吸収/ホール平坦、OUTやや狭い/IN広いを本文確認。全国JLPGAコース数や最難度等の比較・古いカート導入日から現在装備を断定する記述は採用しない。"
         },
         "rail": {
           "text": "上州福島駅からタクシーで約7分。",
@@ -11084,10 +11095,14 @@ const DATA={
       "id": 173,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10013",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。緩やかな自然の起伏を生かし、広く平坦なフェアウェイを赤松林で区切ったコースです。公式距離表は第1・第2グリーン別に案内されています。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップL170の自然の起伏/赤松樹林/広くフラットなFW、layout L178–317各1〜18と第1/第2グリーン、L323/340 PAR36+36を確認。使用中グリーンは日別で変わるため特定せず、予約カレンダーや料金には触れない。",
+          "supportingUrls": [
+            "https://reserve.accordiagolf.com/golfCourse/gunma/kanra/layout"
+          ]
         },
         "rail": {
           "text": "高崎駅からタクシーで約30分。",
@@ -11152,10 +11167,11 @@ const DATA={
       "id": 174,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10016",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。2番は打ち下ろしでフェアウェイが左へ緩く傾斜し、12番は2つ目の池から先が打ち上げになる右ドッグレッグです。",
+          "url": "https://www.kusatsu-cc.com/course/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "コース紹介L46–47の1〜18/PAR72、L102–104の2番打下ろし/左傾斜、L229–230の12番2池以降上り右ドッグを実読。1963/1966の開場年表記が混在するため歴史年を採用しない。霧がかからない/飛距離が伸びる等の保証も採用しない。末尾PHPinclude警告はコース本文不足やサイト全体障害と同一視しない。"
         },
         "rail": {
           "text": "長野原草津口駅からタクシー・クラブバスで約10分。",
@@ -11216,10 +11232,11 @@ const DATA={
       "id": 175,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10024",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。広い敷地に池を配置したコースで、公式距離表のREGULAR TEEは6,567ヤードです。詳しい起伏や各ホールのレイアウトは未確認です。",
+          "url": "https://www.shiromizu-gc.com/course.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式course L13–15の18H/池配置、L25–41とL44–60の1〜18/PAR72/REGULAR TEE6567を確認。OUT詳細は距離表と未読画像のみで具体的起伏の本文を得られないため部分補完・未確認保持。レーティングの発行日2025-10-30を今回確認日と混同しない。"
         },
         "rail": {
           "text": "渋川駅からタクシーで約15分。",
@@ -11281,10 +11298,11 @@ const DATA={
       "id": 176,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=10048",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。公式距離表のOUT・INを合算すると、Blueティーは6,417ヤード、Whiteティーは6,042ヤードです。詳しい起伏や各ホールのレイアウトは未確認です。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/gunma/myogi/layout",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式layout L171–258の1〜18/PAR、L264/275 PAR36+36、L265/276 Blue3213+3204=6417、L266/277 White3028+3014=6042を計算照合。画像から地形を推測せず、詳細起伏が未確認と残す。Blue/WhiteをBack/Regularに置換しない。"
         },
         "rail": {
           "text": "松井田駅からタクシーで約15分。",
