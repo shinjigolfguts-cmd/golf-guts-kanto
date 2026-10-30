@@ -1,0 +1,671 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "4f9f321fe6757b1ff68a7752ffdc722f64c61b88",
+  "baseSha256": "651ee447f6d4eb669d58fae4df3c28b4804c9ac8132fb5e6f4003598835c4fe4",
+  "scope": "最新mainの残り50空欄/31施設を全件処理。公式情報で対象事実を確認できない項目は、調査先と未確認理由を掲載値として明示。取得失敗・未掲載を設備なしや無料とは解釈しない。",
+  "counts": {
+    "initialNull": 50,
+    "reviewedCourses": 31,
+    "processedFields": 50,
+    "newlyNonNull": 50,
+    "expectedRemainingNull": 0,
+    "targetFactsStillUnconfirmed": 50
+  },
+  "handling": {
+    "meaning": "空欄0は、各項目の確認状況と未確認理由を明示したことを示す。対象事実50件が判明したことを意味しない。",
+    "prohibitedInferences": [
+      "取得失敗を施設なしとしない",
+      "公開料金なしを無料としない",
+      "地図の駅名から所要時間を作らない",
+      "第三者情報を公式一次資料として採用しない"
+    ]
+  },
+  "entries": [
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "fields": [
+        "stay",
+        "budget"
+      ],
+      "urls": [
+        "https://www.camelliahills.com/price/"
+      ],
+      "findings": [
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式ページがメンテナンス案内へ遷移。過去の浴場PDFを現行条件へ転用せず、未確認理由を明記。"
+        },
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式料金ページの現行本文を取得できないため、過去料金を転用せず確認状況を明記。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "ベルセルバカントリークラブ 市原コース",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.belle-co.com/ichihara/"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。運営元の施設紹介にプレー料金はなく、第三者料金を採用しない。"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "初穂カントリークラブ",
+      "fields": [
+        "dining",
+        "budget"
+      ],
+      "urls": [
+        "https://www.shirasawa-kougen.com/restaurant.html",
+        "https://www.hatsuhocc.co.jp/"
+      ],
+      "findings": [
+        {
+          "field": "dining",
+          "result": "公式対象情報は未確認",
+          "reason": "ゴルフ場公式と併設ホテル公式の取得失敗を再確認。第三者の料理情報を採用せず未確認理由を明記。"
+        },
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者料金を現行料金として採用しない。"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "チェックメイトカントリークラブ",
+      "fields": [
+        "stay"
+      ],
+      "urls": [
+        "https://checkmate-cc.com/faci.html"
+      ],
+      "findings": [
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式施設ページに浴場・宿泊の明示根拠がなく、未掲載を設備なしと解釈しない。"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "鹿野山ゴルフ倶楽部",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.kanozan.co.jp/"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者料金を採用しない。"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "ゴールド栃木プレジデントカントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.president-cc.jp/"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者料金を採用しない。"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "name": "富士市原ゴルフクラブ",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文に当施設の鉄道案内がなく、同じページ内の近隣コース情報を転用しない。"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "fields": [
+        "rail",
+        "dining",
+        "stay",
+        "budget",
+        "scenery"
+      ],
+      "urls": [
+        "https://www.katoricc.com/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の駅・タクシー情報を採用しない。"
+        },
+        {
+          "field": "dining",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者のメニュー・価格を採用しない。"
+        },
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        },
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者料金を採用しない。"
+        },
+        {
+          "field": "scenery",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。現在の景観を第三者画像から作らない。"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "fields": [
+        "rail",
+        "dining",
+        "stay",
+        "budget",
+        "scenery"
+      ],
+      "urls": [
+        "https://www.shinchiba-cc.co.jp/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の駅・バス情報を採用しない。"
+        },
+        {
+          "field": "dining",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者のメニュー情報を採用しない。"
+        },
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        },
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者料金を採用しない。"
+        },
+        {
+          "field": "scenery",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。現在の景観を第三者画像から作らない。"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "東京クラシッククラブ",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://tokyo-classic.jp/members_login/"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式料金導線が会員認証を必要とすることを確認。認証を迂回せず、一般相場を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "金砂郷カントリークラブ",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://www.kanasago.com/access/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文と公式案内PDFを確認。駅名の地図表示から移動手段や時間を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "fields": [
+        "car",
+        "rail",
+        "dining",
+        "stay"
+      ],
+      "urls": [
+        "https://www.daiyagreen.com/access/index.html",
+        "https://www.daiyagreen.com/"
+      ],
+      "findings": [
+        {
+          "field": "car",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセスの既確認内容は都心からの目安のみ。ICからの時間へ転用しない。"
+        },
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の駅・バス情報を採用しない。"
+        },
+        {
+          "field": "dining",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の料理情報を採用しない。"
+        },
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "name": "水戸グリーンカントリークラブ 山方コース",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://www.mgcc.jp/access/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文に鉄道利用の明示がなく、駅や時間を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "name": "杉ノ郷カントリークラブ",
+      "fields": [
+        "dining"
+      ],
+      "urls": [
+        "https://www.suginosato.co.jp/restaurant.html"
+      ],
+      "findings": [
+        {
+          "field": "dining",
+          "result": "公式対象情報は未確認",
+          "reason": "公式トップとレストランページの取得失敗を再確認。検索見出しだけを料理内容の確認と扱わない。"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://www.mashikohills.com/accesse.html"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式案内は真岡IC・笠間西ICからの車情報のみ。駅名や時間を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "name": "G7カントリー倶楽部",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://www.g7cc.co.jp/access.html"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文と車ルート資料に駅からの所要時間の根拠がなく、推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "name": "桃里カントリー倶楽部",
+      "fields": [
+        "stay"
+      ],
+      "urls": [
+        "https://www.touricc.com/clubhouse.html"
+      ],
+      "findings": [
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式クラブハウス本文に浴場・宿泊の明示がなく、未掲載を設備なしと解釈しない。"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "name": "矢板カントリークラブ",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://yaita-cc.com/access"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文に鉄道利用の明示がなく、駅や時間を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "name": "ロイヤルカントリークラブ",
+      "fields": [
+        "scenery"
+      ],
+      "urls": [
+        "https://www.royalcc.co.jp/course.html"
+      ],
+      "findings": [
+        {
+          "field": "scenery",
+          "result": "公式対象情報は未確認",
+          "reason": "公式注記を確認。旧ホール資料を現行の景観説明として転用しない。"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.ashikaga-cc.com/information/price/"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式料金表の対象期間終了と付帯料金表記の相違を確認。別施設の多幸コース予約額を転用しない。"
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "name": "LiVE MAX GOLF CLUB 栃木",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://www.livemax-golfclub.com/access/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文に駅からの移動案内がなく、駅や時間を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "name": "都賀カンツリー倶楽部",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.tsugacc.co.jp/"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者料金を採用しない。"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "name": "児玉カントリー倶楽部",
+      "fields": [
+        "stay",
+        "budget"
+      ],
+      "urls": [
+        "https://www.kodama-cc.jp/",
+        "https://www.kodama-cc.jp/fee.html"
+      ],
+      "findings": [
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。こだまゴルフクラブとは別施設のため情報を混同しない。"
+        },
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式feeページの取得失敗を再確認。こだまゴルフクラブの料金を採用しない。"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "name": "東京ゴルフ倶楽部",
+      "fields": [
+        "dining"
+      ],
+      "urls": [
+        "https://www.tokyogolfclub.jp/infomation/20230604/"
+      ],
+      "findings": [
+        {
+          "field": "dining",
+          "result": "公式対象情報は未確認",
+          "reason": "2023年の食堂利用時間制限廃止案内だけでは現行メニュー確認にならないため、確認範囲を明記。"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "name": "下仁田カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.shimonitacc.com/reservation.html"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式予約導線を確認。レンタル料金を基本プレー料金へ転用せず、未確認条件を明記。"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "name": "桐生カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://www.kiryucc.com/reservation.html"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式予約導線を確認。レンタル料金を基本プレー料金へ転用せず、未確認条件を明記。"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "name": "髙梨子倶楽部",
+      "fields": [
+        "rail"
+      ],
+      "urls": [
+        "https://www.takanashiclub.jp/access.html"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式アクセス本文に最寄駅・所要時間の明示がなく、推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "fields": [
+        "rail",
+        "stay",
+        "scenery"
+      ],
+      "urls": [
+        "https://www.yoshii-nanyodai.jp/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の駅・バス情報を採用しない。"
+        },
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。第三者の設備情報から有無を断定しない。"
+        },
+        {
+          "field": "scenery",
+          "result": "公式対象情報は未確認",
+          "reason": "公式本文の取得失敗を再確認。現在の景観を第三者画像から作らない。"
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "fields": [
+        "rail",
+        "stay",
+        "budget",
+        "scenery"
+      ],
+      "urls": [
+        "https://www.ota-futaba-cc.co.jp/"
+      ],
+      "findings": [
+        {
+          "field": "rail",
+          "result": "公式対象情報は未確認",
+          "reason": "公式サイトの403を確認。アクセス制限を迂回せず、第三者の交通情報を採用しない。"
+        },
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式サイトの403を確認。アクセス制限を迂回せず、第三者の設備情報から有無を断定しない。"
+        },
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式サイトの403を確認。アクセス制限を迂回せず、第三者料金を採用しない。"
+        },
+        {
+          "field": "scenery",
+          "result": "公式対象情報は未確認",
+          "reason": "公式サイトの403を確認。アクセス制限を迂回せず、現在の景観を第三者画像から作らない。"
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "相模野カントリー倶楽部",
+      "fields": [
+        "stay"
+      ],
+      "urls": [
+        "https://sagamino-cc.jp/club-house.html"
+      ],
+      "findings": [
+        {
+          "field": "stay",
+          "result": "公式対象情報は未確認",
+          "reason": "公式ページは見出し・画像中心で明示根拠が不足。画像の外観から設備を推測しない。"
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "name": "GDO茅ヶ崎ゴルフリンクス",
+      "fields": [
+        "budget"
+      ],
+      "urls": [
+        "https://chigasaki.golfdigest.co.jp/guide"
+      ],
+      "findings": [
+        {
+          "field": "budget",
+          "result": "公式対象情報は未確認",
+          "reason": "公式利用案内と公式予約導線を確認。非プレー同伴者4,400円をプレー料金として転用しない。"
+        }
+      ]
+    }
+  ],
+  "publication": "verified-updateワークフローで適用・テスト・Pages反映・公開データ照合後に別途記録する。",
+  "searchConsole": "非公開ステータスは確認していない。既存の通知設定は変更しない。"
+}
