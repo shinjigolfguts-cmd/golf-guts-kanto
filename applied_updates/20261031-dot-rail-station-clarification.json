@@ -1,0 +1,59 @@
+{
+  "baseSha256": "01a0035985be09b6c66b3099302587fefd4de5ac5489b67e3130cb4830976ab9",
+  "baseMain": "02671e8422a3fd73a95f0cc512b52cff4f2b8de9",
+  "reviewed": true,
+  "reviewer": "dot — official text actually retrieved/reviewed2026-10-31JST (2026-10-30T22:11–22:12UTC); source captures retained",
+  "scope": "2 rail fields only, disclose independently verified official-source station-label inconsistency without guessing intended station/time. Other3498fields unchanged. Original local33 unchanged.",
+  "updates": [
+    {
+      "id": 383,
+      "name": "足利カントリークラブ 多幸コース",
+      "field": "rail",
+      "before": {
+        "text": "公式アクセスでは、浅草駅から東武伊勢崎線を利用し、足利駅で下車する経路を案内しています。駅からコースまでの所要時間・送迎条件は未確認です。",
+        "url": "https://www.ashikaga-cc.com/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+      },
+      "after": {
+        "text": "公式アクセスは「浅草駅から東武伊勢崎線足利駅下車」と案内しています。一方、東武の駅案内は「足利市駅」の表記です。利用駅は事前に施設へご確認ください。駅からコースまでの所要時間・送迎条件は未確認です。",
+        "url": "https://www.ashikaga-cc.com/",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "ゴルフ場公式共通ACCESS欄の「浅草駅から東武伊勢崎線足利駅下車」と、東武公式の足利市駅・東武伊勢崎線の表示を独立照合。駅名表記の不一致を明示するだけで、ゴルフ場が意図する利用駅を確定したり、足利市駅を最寄駅と断定したりしない。時間・送迎条件の未確認は保持。",
+        "supportingUrls": [
+          "https://www.tobu.co.jp/railway/guide/station/info/1705/"
+        ]
+      },
+      "evidenceNote": "ゴルフ場公式共通ACCESS欄の「浅草駅から東武伊勢崎線足利駅下車」と、東武公式の足利市駅・東武伊勢崎線の表示を独立照合。駅名表記の不一致を明示するだけで、ゴルフ場が意図する利用駅を確定したり、足利市駅を最寄駅と断定したりしない。時間・送迎条件の未確認は保持。",
+      "markerRemoved": false,
+      "reviewStatus": "conflicting_official_station_label_warning_only"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "rail",
+      "before": {
+        "text": "公式アクセスでは、浅草駅から東武伊勢崎線を利用し、足利駅で下車する経路を案内しています。駅からコースまでの所要時間・送迎条件は未確認です。",
+        "url": "https://www.ashikaga-cc.com/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式トップのACCESS欄で浅草駅から東武伊勢崎線・足利駅下車を本文確認。駅からの時間や送迎は記載がないため推測しない。"
+      },
+      "after": {
+        "text": "公式アクセスは「浅草駅から東武伊勢崎線足利駅下車」と案内しています。一方、東武の駅案内は「足利市駅」の表記です。利用駅は事前に施設へご確認ください。駅からコースまでの所要時間・送迎条件は未確認です。",
+        "url": "https://www.ashikaga-cc.com/",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "ゴルフ場公式共通ACCESS欄の「浅草駅から東武伊勢崎線足利駅下車」と、東武公式の足利市駅・東武伊勢崎線の表示を独立照合。駅名表記の不一致を明示するだけで、ゴルフ場が意図する利用駅を確定したり、足利市駅を最寄駅と断定したりしない。時間・送迎条件の未確認は保持。",
+        "supportingUrls": [
+          "https://www.tobu.co.jp/railway/guide/station/info/1705/"
+        ]
+      },
+      "evidenceNote": "ゴルフ場公式共通ACCESS欄の「浅草駅から東武伊勢崎線足利駅下車」と、東武公式の足利市駅・東武伊勢崎線の表示を独立照合。駅名表記の不一致を明示するだけで、ゴルフ場が意図する利用駅を確定したり、足利市駅を最寄駅と断定したりしない。時間・送迎条件の未確認は保持。",
+      "markerRemoved": false,
+      "reviewStatus": "conflicting_official_station_label_warning_only"
+    }
+  ]
+}
