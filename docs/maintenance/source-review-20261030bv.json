@@ -1,0 +1,20 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "20bea232538d11c6f29c9dc689ea1e59da443cdf",
+  "adopted": [
+    {"id":139,"fields":["dining"],"source":"https://booking.pacificgolf.co.jp/guide/178.html","reason":"PGM公式トップと公式フォトギャラリーでレストラン区分を確認。料理名・現行メニューは公式本文にないため画像から推測せず、未確認範囲を記録。"},
+    {"id":246,"fields":["car"],"source":"https://www.brickandwood.jp/official/access/","reason":"公式アクセスで所在地・公式地図・営業時間を確認。最寄IC名と所要時間は本文に掲載がなく、地図から推測しない。"},
+    {"id":246,"fields":["budget"],"source":"https://www.brickandwood.jp/membership/","reason":"公式会員募集に視察プレー9,400円、公式FAQにビジター予約条件を確認。ただし一般ビジターの現行基本総額ではないため転用しない。"},
+    {"id":352,"fields":["stay"],"source":"https://www.ashikagajo.jp/sitemap/","reason":"公式サイトの公開ページ構成と料金ページを確認。宿泊・浴場の現行案内は確認できず、設備なしとは判定しない。定休日セルフデーはクラブハウス閉鎖・トイレのみの条件を確認。"},
+    {"id":352,"fields":["budget"],"source":"https://www.ashikagajo.jp/price-1/","reason":"公式料金ページに予約方法、2B割増、定休日セルフデー条件を確認。基本料金は2026年7〜9月PDF表示で確認日現在は対象期間外のため、現行一般総額へ転用しない。"},
+    {"id":394,"fields":["car"],"source":"https://www.linehill2026.com/","reason":"公式トップで所在地を確認。公開メニューにアクセスページがなく、最寄IC・車の所要時間を公式本文から検証できない。"},
+    {"id":435,"fields":["budget"],"source":"https://www.yc21.co.jp/heisei/fee.html","reason":"公式料金ページで自社予約に料金掲載、表示料金の条件、キャンセル条件を確認。基本総額はJavaScript表示で本文取得できず、現行額を推測しない。"},
+    {"id":492,"fields":["dining"],"source":"https://www.riverside-park.co.jp/facilities/","reason":"公式施設案内でテラスのカフェタイム利用を確認。料理名・現行メニュー・提供条件は本文に掲載がないため、名物や評価を作らない。"},
+    {"id":495,"fields":["stay"],"source":"https://www.shonanseaside.com/index.html","reason":"公式一枚ページの倶楽部情報・料金・練習場・コース・アクセスを実読。宿泊・浴場の現行案内は確認できず、第三者施設情報を採用せず設備なしとも判定しない。"}
+  ],
+  "notAdopted": [
+    {"id":399,"fields":["dining"],"source":"http://www.belle-co.com/belleselva/","reason":"公式サイト本文が502で取得できず、第三者サイトの料理・施設情報は採用しない。"},
+    {"id":19,"fields":["dining","budget"],"source":"https://www.belle-co.com/ichihara/","reason":"公式サイト本文がタイムアウトし、公式一次資料で料理名と現行一般総額を確認できないため保留。"},
+    {"id":495,"fields":["stay"],"source":"https://reserve.golfdigest.co.jp/golf-course/372202/","reason":"第三者予約サイトには浴場・宿泊情報があるが、公式本文で裏付けられないため施設事実としては採用しない。"}
+  ]
+}
