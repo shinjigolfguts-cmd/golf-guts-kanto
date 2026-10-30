@@ -1,0 +1,148 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "d4cdaff30581b4bc0dbe48103ec3cd316c37aacf",
+  "scope": "実情報未確認47項目の継続調査。公式サイト本文・公式画像を内容確認し、交通、料理、料金、コース特徴、浴場条件の差分だけを更新。",
+  "counts": {
+    "initialTargetFactsStillUnconfirmed": 47,
+    "reviewedCourses": 4,
+    "confirmedFields": 13,
+    "expectedTargetFactsStillUnconfirmed": 34
+  },
+  "entries": [
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "rail",
+      "url": "https://www.katoricc.com/access/index3.html",
+      "result": "高速バス送迎サービスは現在休止中です。再開時は公式サイトで案内するとしています。鉄道・高速バス利用時は、最新の運行状況を確認してください。",
+      "conditions": "公式アクセス案内本文で、高速バス送迎サービスの現在休止と再開時の告知方針を確認。駅や所要時間は推測していない。"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "dining",
+      "url": "https://www.katoricc.com/facilities/index4.html",
+      "result": "香取弁当、豚ロース生姜焼き御膳、ひれかつ御膳などを各2,750円で掲載。魚介豚骨つけ麺は1,650円です。料金は消費税込みで、メニューは季節により変更されます。",
+      "conditions": "公式レストラン案内の料理名・税込価格・季節変更注記を本文と画像代替テキストで確認。"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "budget",
+      "url": "https://www.katoricc.com/plan/index.html",
+      "result": "2026年11月4日の4名1組料金例は11,820円で昼食付きです。",
+      "conditions": "2026年11月4日、4名1組の料金例。昼食付き。消費税・プレー代を含むセット料金。キャンセル料等は公式規定を確認。"
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "scenery",
+      "url": "https://www.katoricc.com/guide/index.html",
+      "result": "個性豊かな表情と戦略性に富んだ18ホール。池を配したホールを含み、コースガイドで各ホールを案内しています。",
+      "conditions": "公式コースガイドと公式サイトの説明で、18ホール、個性ある表情、戦略性、池を配したホールを確認。"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "rail",
+      "url": "https://www.shinchiba-cc.co.jp/publics/index/36/",
+      "result": "JR大網駅から予約制の倶楽部バスで約25〜30分。迎えは7:10、8:25発、土日祝のみ9:30発も運行します。乗車予約は前日15時までです。",
+      "conditions": "公式送迎バス案内画像で大網駅、所要時間、発車時刻、予約制、前日15時までの連絡条件を確認。"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "budget",
+      "url": "https://www.shinchiba-cc.co.jp/publics/index/68/",
+      "result": "視察プレーは、4バッグのセルフ乗用カートで平日7,990円、土日祝10,450円です。ランチ優待券付きで消費税込み、利用税別です。",
+      "conditions": "会員制度の視察プレー。1組1〜4名、各コース1回・合計3回まで、全日限定組数。4バッグのセルフ乗用カート。ランチ優待券付き、消費税込み、利用税別。"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "scenery",
+      "url": "https://www.shinchiba-cc.co.jp/publics/index/18/",
+      "result": "あさぎり・つくも・たちばなの3コース。あさぎりは大胆でストレートな挑戦、つくもはコントロール主体で戦略的、たちばなは変化に富む構成と案内しています。",
+      "conditions": "公式3コース紹介（あさぎり・つくも・たちばな）の各本文を確認。景観を画像だけから推測していない。"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "car",
+      "url": "https://www.daiyagreen.com/access/index2.html",
+      "result": "千代田石岡ICからクラブハウスまで約30分。潮来ICからは約35分です。",
+      "conditions": "公式アクセス案内の画像代替テキストで、各ICからクラブハウスまでの所要時間を確認。"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "rail",
+      "url": "https://www.daiyagreen.com/access/index2.html",
+      "result": "JR常磐線・石岡駅からクラブバスでクラブハウスまで約25分。平日の利用は2日前までの連絡が必要です。",
+      "conditions": "公式アクセス案内本文でJR石岡駅、クラブバス、約25分、平日は2日前までの連絡条件を確認。"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "dining",
+      "url": "https://www.daiyagreen.com/facilities/index6.html",
+      "result": "鉄火丼とざるそば2,860円、とんかつ膳1,980円、天ざるそば1,650円、担々麺1,320円などを掲載。料金は消費税込みです。",
+      "conditions": "公式レストラン案内の料理名・価格と税込注記を本文・画像代替テキストで確認。"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "rail",
+      "url": "https://www.yoshii-nanyodai.jp/access.htm",
+      "result": "JR高崎駅からタクシーで約10分（約1,900円の案内）。公式ページでは長野新幹線・高崎駅から約8kmとも案内しています。",
+      "conditions": "公式アクセス本文で高崎駅、約8km、タクシー約10分・約1,900円の記載を確認。"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "stay",
+      "url": "https://www.yoshii-nanyodai.jp/clubhouse.htm",
+      "result": "男女のロッカールームにシャワールームがあります。浴槽はなく、シャワーのみです。宿泊可否は公式案内で確認できていません。",
+      "conditions": "公式クラブハウス案内本文で、男女のシャワールームと「浴槽はありません。シャワーのみ」を確認。宿泊設備の有無には拡張していない。"
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "field": "scenery",
+      "url": "https://www.yoshii-nanyodai.jp/clubhouse.htm",
+      "result": "フラットなレイアウトの18ホール。クラブハウスのレストランからコースを望めると案内しています。",
+      "conditions": "公式サイトのコース説明にあるフラットなレイアウトと、公式クラブハウス案内の「コースを望むレストラン」を確認。"
+    }
+  ],
+  "unresolvedReviewed": [
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "field": "stay",
+      "url": "https://www.katoricc.com/facilities/index3.html",
+      "reason": "公式施設案内ではロッカールームを確認したが、浴場・宿泊の現行条件を確認できず、設備なしとは判断しない。"
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "field": "dining,stay",
+      "url": "https://www.shinchiba-cc.co.jp/",
+      "reason": "公式サイト内で現行メニューと浴場・宿泊条件を確認できる一次資料を特定できず、第三者情報へ置換しない。"
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "field": "stay",
+      "url": "https://www.daiyagreen.com/facilities/index4.html",
+      "reason": "公式施設案内ではロッカールームを確認したが、浴場・宿泊条件の本文を確認できず、設備なしとは判断しない。"
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "budget",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "reason": "通常料金表は2026年4〜6月分で対象期間終了。現行の基本1R料金を確認できないため、期間外料金を転用しない。"
+    }
+  ],
+  "searchConsole": "非公開ステータスは確認していない。"
+}
