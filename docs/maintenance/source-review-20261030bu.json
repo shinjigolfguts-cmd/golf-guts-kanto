@@ -1,0 +1,63 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "96438e475ec6050ea6cc1d61e82a166f50034306",
+  "adopted": [
+    {
+      "id": 478,
+      "fields": ["budget"],
+      "source": "https://www.562-489.jp/websystem/yoyaku/reserve/calendar_main_yoko?golf_id=147&grp_id=79&select_date=2026-10-30",
+      "officialEntry": "https://rfgr.jp/silk/",
+      "reason": "公式トップの『自社ウェブ予約』から遷移した現行カレンダーで、2026-10-30から11-29までのプラン名、曜日別料金、食事・人数条件と空き枠を実読した。"
+    }
+  ],
+  "notAdopted": [
+    {
+      "id": 365,
+      "fields": ["rail"],
+      "source": "https://yaita-cc.com/access",
+      "reason": "公式アクセス本文は矢板・矢板北ICからの車経路のみ。第三者サイトの矢板駅送迎情報は公式一次資料で確認できないため不採用。"
+    },
+    {
+      "id": 314,
+      "fields": ["rail"],
+      "source": "https://mitogreen-yamagata.jp/",
+      "reason": "検索で鉄道所要時間を確認できたのは第三者予約サイトのみ。公式一次資料の本文で確認できず、料金・交通時間を転用しない。"
+    },
+    {
+      "id": 259,
+      "fields": ["rail"],
+      "source": "https://www.kanasago.com/access/",
+      "reason": "公式アクセス本文は乗用車経路のみ。鉄道・送迎の記載がないため、施設なしとはせず未確認を維持。"
+    },
+    {
+      "id": 134,
+      "fields": ["budget", "stay"],
+      "source": "https://checkmate-cc.com/availability.html",
+      "reason": "公式本文は会員料金とゲスト予約条件を掲載し、ゲスト料金は埋め込みカレンダー参照。公開カレンダーから現行ゲスト総額を抽出できず、会員料金を一般料金へ流用しない。施設案内に宿泊の明示もなく、不明を施設なしにしない。"
+    },
+    {
+      "id": 163,
+      "fields": ["budget"],
+      "source": "https://www.president-cc.jp/fee.html",
+      "reason": "公式料金ページは含有費目と追加キャディ料金を確認できたが、基本料金額が本文で取得できず、第三者予約価格は不採用。"
+    },
+    {
+      "id": 158,
+      "fields": ["budget"],
+      "source": "https://www.higashi-tsukuba.co.jp/reservation/reservation/",
+      "reason": "公式本文は料金が季節変動し予約カレンダー確認と案内するのみ。現行総額を公式公開本文で検証できず不採用。"
+    },
+    {
+      "id": 335,
+      "fields": ["dining"],
+      "source": "https://www.suginosato.co.jp/restaurant.html",
+      "reason": "公式検索結果で2026-10-01のメニュー更新と各メニュー区分は確認。料理名は画像内で、本文取得はタイムアウト後の1回再試行もタイムアウトしたため推測しない。"
+    },
+    {
+      "id": 496,
+      "fields": ["budget"],
+      "source": "https://chigasaki.golfdigest.co.jp/",
+      "reason": "公式本文で9ホール・完全セルフ等は確認したが、現行料金額は公開本文に見つからず、第三者集計値は不採用。"
+    }
+  ]
+}
