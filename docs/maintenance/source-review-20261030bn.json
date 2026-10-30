@@ -1,0 +1,23 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "7c62f9822cd3b12859f6165230ce2174739b4dac",
+  "adopted": [
+    {"id": 193, "field": "budget", "source": "https://www.daichibacc.com/news/previous/5", "reason": "公式お知らせで2026年10月から12月の電話予約料金と税込・食事別条件を確認。"},
+    {"id": 240, "field": "budget", "source": "https://www.takanodaicc.or.jp/guide", "reason": "公式ご利用案内で令和8年度のゲスト基本料金、キャディー・諸経費、利用条件を確認。"},
+    {"id": 304, "field": "rail", "source": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/notice", "reason": "運営会社公式のお知らせで取手駅送迎バスの廃止日を確認し、現行アクセスに鉄道案内がないことを照合。"},
+    {"id": 322, "field": "budget", "source": "https://www.wpgcc.com/fee.html", "reason": "公式料金ページで宿泊パックとキャディー・追加ハーフ料金を確認。"},
+    {"id": 335, "field": "budget", "source": "https://suginosato.co.jp/fee.html", "reason": "公式の2026年10月から12月料金カレンダーと税・食事・割増条件を確認。"},
+    {"id": 353, "field": "budget", "source": "https://www3.golfyoyaku.jp/rsv_sys/kanesu/sano_golf/mcalendar/", "reason": "公式サイト接続先の予約カレンダーで2026年10月30日の公開プラン総額を確認。"}
+  ],
+  "notAdopted": [
+    {"id": 223, "fields": ["car"], "source": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map", "reason": "公式アクセス本文は駅からのクラブバス条件のみで、ICからの車所要時間を確認できない。"},
+    {"id": 236, "fields": ["car", "dining"], "source": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map", "reason": "公式アクセスはクラブバスのみ。レストランは存在を確認できるが、現行料理内容を本文で確認できない。"},
+    {"id": 237, "fields": ["car"], "source": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map", "reason": "公式アクセス本文は駅からのクラブバス条件のみで、ICからの車所要時間を確認できない。"},
+    {"id": 246, "fields": ["car", "rail"], "source": "https://www.brickandwood.jp/official/access/", "reason": "公式本文は住所と予約制バス条件を掲載するが、IC・鉄道駅からの所要時間は確認できない。第三者経路は採用しない。"},
+    {"id": 283, "fields": ["car"], "source": "https://www.sakurasgo.com/access.html", "reason": "公式本文は複数ICからの道順を掲載するが、コースまでの時間・距離を確認できない。"},
+    {"id": 311, "fields": ["car"], "source": "https://kasama-club.com/access", "reason": "公式アクセス本文はクラブバス条件のみで、車の所要時間を確認できない。"},
+    {"id": 330, "fields": ["budget"], "source": "https://www.nanmajo.golf-web.jp/fee.html", "reason": "公式本文は追加料金を掲載するが、リンク先の現行基本プレー料金を本文で確認できない。"},
+    {"id": 352, "fields": ["stay"], "source": "https://www.ashikagajo.jp/price-1/", "reason": "定休日セルフデーのクラブハウス閉鎖は確認できるが、通常営業時の浴場・宿泊設備を確認できない。"},
+    {"id": 394, "fields": ["car"], "source": "https://www.linehill2026.com/", "reason": "公式トップ・アクセス対象ページでICからの現行所要時間を確認できない。"}
+  ]
+}
