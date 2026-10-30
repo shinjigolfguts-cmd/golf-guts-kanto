@@ -1,0 +1,39 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "4725fee0a87f9ecb78900cb8265418fab3134840",
+  "scope": "前回の実情報未確認50項目から、公式一次資料で内容を確認できた2項目を実情報へ更新。HTTP成功だけでは採用せず、料金は対象期間・人数・食事・割増条件を記録。",
+  "counts": {
+    "initialTargetFactsStillUnconfirmed": 50,
+    "reviewedCourses": 2,
+    "confirmedFields": 2,
+    "expectedTargetFactsStillUnconfirmed": 48
+  },
+  "entries": [
+    {
+      "id": 335,
+      "name": "杉ノ郷カントリークラブ",
+      "field": "dining",
+      "url": "https://www.suginosato.co.jp/restaurant.html",
+      "result": "公式レストランページでランチ・おつまみ・朝食・午後メニューの4区分を確認",
+      "conditions": "料理名と価格は画像掲載のため推測せず、公式ページでの確認を案内。公式トップの2026年7月1日更新告知を照合。"
+    },
+    {
+      "id": 496,
+      "name": "GDO茅ヶ崎ゴルフリンクス",
+      "field": "budget",
+      "url": "https://reserve.golfdigest.co.jp/golf-course/373203/calendar/",
+      "result": "2026年11月対象プランと通常9Hプランの料金・人数割増を確認",
+      "conditions": "対象期間・曜日・時間帯・9H歩行セルフ・昼食なし・前払い組額・2B/3B割増を記録。別期間へ一般化しない。"
+    }
+  ],
+  "notAdopted": [
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "field": "budget",
+      "url": "https://www.ashikaga-cc.com/information/price/",
+      "reason": "公式ページに掲載された2026年4〜6月料金は対象期間終了済み。2026年10月の現行料金として転用しない。"
+    }
+  ],
+  "searchConsole": "非公開ステータスは確認していない。"
+}
