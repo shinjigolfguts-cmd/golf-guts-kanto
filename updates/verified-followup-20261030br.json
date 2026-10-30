@@ -1,0 +1,86 @@
+{
+  "baseSha256": "b4b952b7c49280a4c0d6309f6d187069703a26b756bbaf7b57876ba49cd6b56d",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 246,
+      "name": "ブリック＆ウッドクラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公共交通利用時は、市原鶴舞バスターミナルから約15分、袖ヶ浦バスターミナルから約30分の無料クラブバスを案内。メンバー同伴・前日までの予約が必要です。運行日・出発時刻は予約時に確認してください。",
+        "url": "https://www.brickandwood.jp/official/qa/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式FAQのクラブバス欄で両ターミナルからの所要時間、無料、前日予約、メンバー同伴条件を確認。鉄道駅からの時間ではない。"
+      },
+      "evidenceNote": "公式FAQでは市原鶴舞8:10、公式コンセプトページhttps://www.brickandwood.jp/official/では9:15と異なるため出発時刻を採用しない。駅からの経路時間は未確認。"
+    },
+    {
+      "id": 381,
+      "name": "ディアレイク・カントリー倶楽部",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式施設案内では送迎バスなし。鉄道駅からの経路・タクシー所要時間は未確認のため、公共交通での来場方法は施設へ確認してください。",
+        "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/detail",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "運営会社の公式詳細ページ「送迎バス なし」を確認。駅からの時間は推測していない。"
+      },
+      "evidenceNote": "送迎なしは明記された事実。鉄道駅・所要時間まで確定した扱いにはしない。"
+    },
+    {
+      "id": 256,
+      "name": "茨城ロイヤルカントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式予約の料金例：2026年11月4日（水）、時間限定・4名1組の1Rセルフは1人総額6,600円（消費税・利用税込）、昼食付き。日付・人数・プランで変動します。",
+        "url": "https://firstee.jp/ibrcc/ibarakiroyalcc/plans/229470?date=2026-11-04",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式サイトからリンクする公式ネット予約の対象日プラン本文を確認。内訳5,591円＋消費税559円＋利用税450円。",
+        "conditions": "2026-11-04の時間限定4B・1Rセルフ・GPS乗用カート・昼食付きの例。当日2～3名への変更は1人550円増、組合せの可能性あり。クーラー付きカートは有料オプション。常時料金や空き枠を保証しない。",
+        "priceVerified": true,
+        "priceLabel": "2026/11/4・4B限定 総額6,600円"
+      },
+      "evidenceNote": "https://www.ibarakiroyalcc.com/からfirstee公式予約へのリンクを確認。日付・総額・税・人数・昼食を本文照合。"
+    },
+    {
+      "id": 366,
+      "name": "レイクランドカントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式予約の料金例：2026年11月2日（月）、4名1組の1Rセルフは1人総額6,200円（消費税・利用税込）、指定昼食付き。日付・人数・プランで変動します。",
+        "url": "https://firstee.jp/lakelandcc/lakelandcc/plans/233774?date=2026-11-02",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップから公式予約に進み、対象日プランの内訳5,091円＋消費税509円＋利用税600円、指定昼食付き、1Rセルフを確認。",
+        "conditions": "2026-11-02の4B限定・1Rセルフ・GPS電磁誘導式乗用カート・指定昼食付きの例。当日3名は1人550円増、2名は1人1,100円増、組合せの可能性あり。キャディへの変更は別途。常時料金や空き枠を保証しない。",
+        "priceVerified": true,
+        "priceLabel": "2026/11/2・4B限定 総額6,200円"
+      },
+      "evidenceNote": "https://lakelandcc.co.jp/から公式予約に到達。11/5・11/6プラン詳細は金額非表示のため採用せず、金額と条件が同時に確認できる11/2のみ採用。"
+    },
+    {
+      "id": 179,
+      "name": "ゴールデンクロスカントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式予約の料金例：2026年11月4日（水）、1R乗用カートセルフは1人総額12,300円（消費税・利用税込）、指定昼食付き。2～4名で利用でき、2名・3名の割増なし。日付・プランで変動します。",
+        "url": "https://firstee.jp/goldencrosscc/goldencrosscc/plans/240876?date=2026-11-04",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップ掲載のfirstee予約から対象日詳細へ進み、10,819円＋消費税1,081円＋利用税400円、1Rセルフ、指定昼食、2～4名、割増なしを確認。",
+        "conditions": "2026-11-04の当該プランの例。指定外の昼食は差額あり。2名では2サムカートやナビなしカートの場合あり。複数組予約には組合せ調整条件あり。常時料金や空き枠を保証しない。",
+        "priceVerified": true,
+        "priceLabel": "2026/11/4 総額12,300円"
+      },
+      "evidenceNote": "https://www.goldencrosscc.com/から公式予約へ到達。古い一覧の金額だけを採用せず、11/4詳細本文の金額・条件で照合。"
+    }
+  ]
+}
