@@ -1,0 +1,221 @@
+{
+  "baseSha256": "067b5e16aecfb58b49bef365be1ab791325ce3fb7d85cdb32adea0c999ce0255",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 223,
+      "name": "長太郎カントリークラブ",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "公式ゴルフ場情報では所在地と地図を確認できますが、最寄ICからの現行所要時間は本文に掲載されていません。経路・所要時間は公式地図または施設へ確認してください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM公式アクセス・ゴルフ場情報を確認。所在地、地図、クラブバス情報はあるが、IC名と車の所要時間を本文で検証できない。"
+      },
+      "evidenceNote": "地図の見た目からICや時間を推測せず、公式本文で未確認であることを記録。"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "公式ゴルフ場情報では所在地と地図を確認できますが、最寄ICからの現行所要時間は本文に掲載されていません。来場前に公式地図または施設へ確認してください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報で所在地・地図・クラブバス条件を確認。ICからの所要時間は本文で確認できない。"
+      },
+      "evidenceNote": "第三者の経路時間を転用せず、公式本文の確認範囲を記録。"
+    },
+    {
+      "id": 236,
+      "name": "総武カントリークラブ 印旛コース",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式サイトにレストランのフォトギャラリーがありますが、確認時点で料理名・現行メニュー・提供条件を本文から検証できていません。最新内容は施設へ確認してください。",
+        "url": "https://booking.pacificgolf.co.jp/guide/63.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM公式トップにレストランのフォトギャラリー区分を確認。写真だけから料理名や提供条件を推測しない。"
+      },
+      "evidenceNote": "レストラン掲載は確認したが、料理名を画像から推測せず、メニュー未確認を明示。"
+    },
+    {
+      "id": 237,
+      "name": "総武カントリークラブ 北コース",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "公式ゴルフ場情報では所在地と地図を確認できますが、最寄ICからの現行所要時間は本文に掲載されていません。来場前に公式地図または施設へ確認してください。",
+        "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM公式ゴルフ場情報で所在地・地図・印旛コースからの徒歩条件を確認。ICからの所要時間は本文で確認できない。"
+      },
+      "evidenceNote": "隣接コースの所要時間を流用せず、公式本文で未確認として整理。"
+    },
+    {
+      "id": 283,
+      "name": "桜ゴルフ倶楽部",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "公式アクセスでは、稲敷東IC・大栄IC・桜土浦IC・稲敷ICからの車ルートを案内しています。各ICからコースまでの所要時間は公式本文に掲載されていません。",
+        "url": "https://www.sakurasgo.com/access.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式アクセス本文で各ICからの交差点・国道経路を確認。所要時間は確認できないため補わない。"
+      },
+      "evidenceNote": "公式ルートのみ採用し、ICからの時間は推測していない。"
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式交通案内では潮来IC・土浦北ICからの車ルートを確認できますが、鉄道駅からの移動方法・所要時間・クラブバスは本文で確認できていません。",
+        "url": "https://nscc.golftk.com/access.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式交通案内を確認。掲載本文は車の2経路で、鉄道・送迎の現行案内は確認できない。"
+      },
+      "evidenceNote": "第三者の駅・タクシー時間を採用せず、公式本文で未確認として整理。"
+    },
+    {
+      "id": 309,
+      "name": "ノースショアカントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式サイトに予約導線がありますが、確認時点で一般向けの現行基本プレー総額を公式本文から検証できていません。対象日の公式予約画面または施設へ確認してください。",
+        "url": "https://nscc.golftk.com/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップと予約案内を確認。レストラン等の現行告知はあるが、日付・人数・税を含む基本料金総額は本文で確認できない。",
+        "conditions": "料金は日付・人数・プランで変わります。第三者予約価格や古い掲載額を現行一般料金へ転用していません。"
+      },
+      "evidenceNote": "予約導線の存在を金額確認済みとは扱わず、総額未確認を明示。"
+    },
+    {
+      "id": 310,
+      "name": "ひたち大宮ゴルフクラブ",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式アクセス案内では水戸IC・水戸北スマートICからの距離を確認できますが、鉄道駅からの現行移動方法・所要時間・送迎案内は確認できていません。",
+        "url": "https://kabayagc.com/access/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式アクセス本文を確認。掲載は所在地と車の距離案内で、鉄道・送迎情報は確認できない。"
+      },
+      "evidenceNote": "駅や所要時間を推測せず、公式本文での未確認状態を記録。"
+    },
+    {
+      "id": 311,
+      "name": "富士カントリー笠間倶楽部",
+      "field": "car",
+      "before": null,
+      "after": {
+        "text": "公式アクセス案内では所在地とJR友部駅からのクラブバスを確認できますが、最寄ICからの車の所要時間は本文に掲載されていません。",
+        "url": "https://kasama-club.com/access",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式アクセス本文を確認。所在地・連絡先・クラブバス時刻はあるが、IC名と車の所要時間を確認できない。"
+      },
+      "evidenceNote": "地図からIC・時間を推測せず、公式本文で未確認として整理。"
+    },
+    {
+      "id": 324,
+      "name": "下館ゴルフ倶楽部",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式アクセス図にはJR水戸線と下館駅が表示されていますが、駅からの現行移動方法・所要時間・クラブバス案内は公式本文で確認できていません。",
+        "url": "https://shimodate.co.jp/access",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式アクセスページと公式案内図PDFを確認。下館駅の位置表示はあるが、鉄道利用の所要時間や送迎条件は記載されていない。"
+      },
+      "evidenceNote": "第三者掲載のタクシー時間を採用せず、公式一次資料の確認範囲を記録。"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "rail",
+      "before": null,
+      "after": {
+        "text": "公式アクセス案内は桜川筑西IC・谷和原ICからの車経路を掲載していますが、鉄道駅からの現行移動方法・所要時間・送迎案内は確認できていません。",
+        "url": "https://www.asia-shimodate.com/access.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式アクセス本文を確認。掲載は車経路のみで、鉄道・送迎条件は確認できない。"
+      },
+      "evidenceNote": "駅名や所要時間を推測せず、公式本文で未確認として整理。"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "公式施設案内で2階レストランとテラスを確認できますが、料理名・現行メニュー・提供条件は本文に掲載されていません。最新内容は施設へ確認してください。",
+        "url": "https://asia-shimodate.com/facility.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式施設案内のレストラン欄でテラスと2階レストランを確認。画像から料理名を推測しない。"
+      },
+      "evidenceNote": "レストラン設備は確認したが、料理名・評価を作らず未確認範囲を明示。"
+    },
+    {
+      "id": 326,
+      "name": "アジア下館カントリー倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式料金案内はホームページオンライン予約をベストレートとしていますが、確認できる本文には現行の一般プレー総額が掲載されていません。",
+        "url": "https://asia-shimodate.com/fee.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式料金案内でオンライン予約の位置付けとセグウェイ利用条件を確認。一般向け現行総額は本文で検証できない。",
+        "conditions": "セグウェイは利用規約への同意と初回講習が必要です。対象日の総額は公式予約または施設へ確認してください。"
+      },
+      "evidenceNote": "古い講習料や第三者予約額を現行基本料金へ転用せず、公式の確認方法を記録。"
+    },
+    {
+      "id": 330,
+      "name": "南摩城カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式料金ページは最新料金を別の予約・料金表示で確認する方式です。本文ではキャディフィー、追加ハーフ、セルフデー等の条件を確認できますが、現行の一般プレー総額は確認できていません。",
+        "url": "https://www.nanmajo.golf-web.jp/fee.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式プレー料金本文で最新料金への導線、キャディ・追加ハーフ・セルフデー・割引条件を確認。基本総額は本文にない。",
+        "conditions": "毎週月・金は指定日を除きセルフデー。人数別キャディフィーや追加ハーフ、利用税免除・コンペ割引は別条件です。対象日の総額は公式予約で確認してください。"
+      },
+      "evidenceNote": "部分料金を基本プレー総額として扱わず、現行総額未確認を明示。"
+    },
+    {
+      "id": 334,
+      "name": "鷹ゴルフ倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {
+        "text": "公式料金ページではカート追加料金、早朝・午後プレー、コンペ条件を確認できますが、一般1ラウンドの現行基本総額は本文から安全に検証できていません。",
+        "url": "https://www.taka-golf.co.jp/fee.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式料金本文を確認。掲載の早朝料金は日付に年の明記がなく、一般料金表は画像中心のため、2026年の現行基本総額として採用しない。",
+        "conditions": "フェアウェイ乗り入れカートは1台1,200円、予約制で天候・コース状態による制限があります。一般プレー総額は対象日の公式予約または施設へ確認してください。"
+      },
+      "evidenceNote": "対象年が不明な料金や画像の不確かな読取りを避け、確認できた追加条件のみ記録。"
+    }
+  ]
+}
