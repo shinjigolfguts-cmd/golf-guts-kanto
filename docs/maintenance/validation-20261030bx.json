@@ -1,0 +1,38 @@
+{
+  "checked": "2026-10-30",
+  "batchCommit": "2620178bd0a90a52bc3212e24d3077abcfea968a",
+  "appliedCommit": "d7e8f8d9dba2f1be972d2fe94ff89ba66354ac82",
+  "workflow": {
+    "id": 41033458297,
+    "name": "関東版・確認済み情報を検証して公開",
+    "conclusion": "success"
+  },
+  "counts": {
+    "courses": 500,
+    "processedCourses": 31,
+    "processedFields": 50,
+    "remainingNullFields": 0,
+    "coursesWithNullFields": 0,
+    "publicCoursePagesChecked": 31,
+    "publicFieldsMatched": 50
+  },
+  "preservation": {
+    "courseIdsAndOrder": true,
+    "classification": true,
+    "nonTargetValues": true,
+    "designSourceChanged": false,
+    "favoriteStorageKeyChanged": false
+  },
+  "tests": {
+    "selectionCombinations": 384,
+    "javascriptSyntax": "passed",
+    "pythonUnitTests": 11,
+    "coursePages": 500,
+    "sitemapUrls": 503,
+    "diffCheck": "passed"
+  },
+  "publicDataSha256": "c240247819b5d63f93d34fe6b7f6b01f1c1c33e0fc2b005452145baefcaa845f",
+  "publicDataMatched": true,
+  "meaning": "空欄50項目は、公式確認先と未確認理由を明記して処理済み。設備なし・無料・交通時間・料金相場は推測していない。空欄0は対象事実50件が判明したことを意味しない。",
+  "searchConsole": "非公開ステータスは確認していない。"
+}
