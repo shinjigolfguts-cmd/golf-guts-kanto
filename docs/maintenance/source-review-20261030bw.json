@@ -1,0 +1,825 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "48a2e0f9a8cc9bd03a1e6a6954e29270b8745681",
+  "baseSha256": "9b16f2214c720ac933a4a714cb19fc1f193b7b7244881f310c49d6ac0807a0ce",
+  "scope": "基準mainの未入力67項目/43施設を確認。HTTP成功と内容検証は別。null解消と実料金判明は別。",
+  "counts": {
+    "initialNull": 67,
+    "reviewedCourses": 43,
+    "patchCourses": 17,
+    "patchFields": 18,
+    "newlyNonNull": 17,
+    "expectedRemainingNull": 50,
+    "budgetWithConfirmedBasicPrice": 1,
+    "budgetConditionOnlyBasePriceUnverified": 13,
+    "diningFacilityOnlyMenuUnverified": 3
+  },
+  "entries": [
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "fields": [
+        "stay",
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.camelliahills.com/price/"
+      ],
+      "status": "maintenance",
+      "reason": "料金ページがメンテナンス案内へ遷移。検索に残る過去7〜9月料金・2025年浴場PDFを現行情報へ転用しない。",
+      "nextAction": "復旧後の公式料金・施設案内の本文確認。",
+      "updates": []
+    },
+    {
+      "id": 19,
+      "name": "ベルセルバカントリークラブ 市原コース",
+      "fields": [
+        "dining",
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.belle-co.com/ichihara/",
+        "https://www.daiwajisyo.co.jp/group/belleselva-ichihara/index.html"
+      ],
+      "status": "partial-alternative-primary",
+      "reason": "bvの公式本文タイムアウトを引継ぎ。今回の公式ドメイン検索で新たな一次資料は得られず。 追加調査：運営元の大和地所公式施設紹介本文で居酒屋と23時までの営業案内を確認。昼食レストランと同じ施設とは断定しない。料理名・料金・当日営業は未確認。",
+      "nextAction": "同じ検索の反復を避け、本文取得回復または公式運営会社の別資料を確認。",
+      "updates": [
+        "dining"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "初穂カントリークラブ",
+      "fields": [
+        "dining",
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.hatsuhocc.co.jp/",
+        "https://www.shirasawa-kougen.com/restaurant.html"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。第三者の料理・料金は不採用。 併設ホテル公式レストランURLも502後に1回再試行しタイムアウト。",
+      "nextAction": "公式本文取得回復時に飲食と料金を確認。",
+      "updates": []
+    },
+    {
+      "id": 134,
+      "name": "チェックメイトカントリークラブ",
+      "fields": [
+        "stay",
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://checkmate-cc.com/availability.html",
+        "https://checkmate-cc.com/faci.html"
+      ],
+      "status": "partial",
+      "reason": "料金は会員紹介・ゲスト2B不可・3B割増を確認。会員料金を一般ゲスト総額へ転用しない。施設ページには浴場・宿泊の本文根拠なし。",
+      "nextAction": "ゲスト料金の埋込表と浴場・宿泊の公式明示が必要。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "鹿野山ゴルフ倶楽部",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.kanozan.co.jp/"
+      ],
+      "status": "fetch-failure",
+      "reason": "502後、3秒後1回再試行がタイムアウト。現行料金本文を確認できず。",
+      "nextAction": "公式本文取得回復または運営会社の料金資料。",
+      "updates": []
+    },
+    {
+      "id": 157,
+      "name": "宍戸ヒルズカントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.hillsgolf.jp/shishido/",
+        "https://wst1.asts.jp/golfnet/cc/0308CC/plan/",
+        "https://wst1.asts.jp/golfnet/cc/0308CC/plan/index.asp?D=20261104&P=1087&m=e"
+      ],
+      "status": "partial-conflict",
+      "reason": "公式予約プラン1087に東セルフ3B660円・2B1980円。プラン詳細17200円と日付画面0円の基本額が一致しないためどちらも総額として不採用。0円を無料と解釈しない。",
+      "nextAction": "日付・税込総額・対象人数が一致する現行プランの再確認。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "東筑波カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.higashi-tsukuba.co.jp/reservation/reservation/",
+        "https://www.higashi-tsukuba.co.jp/reserve/"
+      ],
+      "status": "partial",
+      "reason": "季節別カレンダー案内と土日祝3組以上キャンセル規定を確認。基本金額は未確認。",
+      "nextAction": "公式日付別カレンダーで一般総額を確認。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "ゴールド栃木プレジデントカントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.president-cc.jp/"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。",
+      "nextAction": "公式料金本文の取得回復。",
+      "updates": []
+    },
+    {
+      "id": 234,
+      "name": "富士市原ゴルフクラブ",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式アクセス本文は車・住所。近隣コースの電車アクセスを当施設へ転用しない。",
+      "nextAction": "当施設を明示する駅からの移動案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 241,
+      "name": "香取カントリークラブ",
+      "fields": [
+        "rail",
+        "scenery",
+        "dining",
+        "budget",
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.katoricc.com/"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。公式ドメイン検索で新たな本文なし。",
+      "nextAction": "公式の交通・食事・宿泊浴場・料金・景観の本文取得回復。",
+      "updates": []
+    },
+    {
+      "id": 243,
+      "name": "新千葉カントリー倶楽部",
+      "fields": [
+        "rail",
+        "scenery",
+        "dining",
+        "budget",
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.shinchiba-cc.co.jp/"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。公式ドメイン検索で新たな本文なし。",
+      "nextAction": "公式の交通・食事・宿泊浴場・料金・景観の本文取得回復。",
+      "updates": []
+    },
+    {
+      "id": 248,
+      "name": "銚子カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.unimat-golf.jp/choshi/price/",
+        "https://firstee.jp/unimat-golf/choshi/plans/240260/detail"
+      ],
+      "status": "verified",
+      "reason": "運営会社公式料金ページから公式予約へ遷移。2026年11月対象平日セルフ1R総額9000円・昼食・2B1100円・3B0円・税条件を確認。",
+      "nextAction": "対象期間変更時に改めて現行プランを確認。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "東京クラシッククラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://tokyo-classic.jp/",
+        "https://tokyo-classic.jp/members_login/"
+      ],
+      "status": "authentication-required",
+      "reason": "公式サイトの料金導線は会員ログイン。認証を迂回せず、基本額は未確認。",
+      "nextAction": "公開料金資料の追加または正規会員による情報提供が必要。",
+      "updates": []
+    },
+    {
+      "id": 254,
+      "name": "イーグルポイントゴルフクラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.eaglepoint.co.jp/?page_id=39"
+      ],
+      "status": "partial",
+      "reason": "会員同伴・紹介、土日祝同伴必須、3か月前月初予約を本文確認。会員専用Web予約への認証は行っていない。",
+      "nextAction": "一般ゲスト基本料金の公開資料または正規の確認が必要。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "金砂郷カントリークラブ",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.kanasago.com/access/",
+        "https://www.kanasago.com/wp-content/uploads/2024/07/info_roadmap_240703.pdf"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式本文は車アクセス。公式PDF1ページを画像で目視、常陸大宮駅の地図表記はあるが駅からの交通手段・所要時間はなし。地図距離から時間推定しない。",
+      "nextAction": "公式の駅からの移動手段・所要時間を記した資料が必要。",
+      "updates": []
+    },
+    {
+      "id": 260,
+      "name": "ゴルフ倶楽部セブンレイクス",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://sevenlakes.jp/fee.html"
+      ],
+      "status": "partial",
+      "reason": "10〜12月キャンセル条件とセルフ開放デーの施設利用制限・前金制を確認。料金カレンダーはJavaScriptで基本額未確認。",
+      "nextAction": "公式カレンダーの現行一般総額確認。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "ダイヤグリーン倶楽部",
+      "fields": [
+        "car",
+        "rail",
+        "dining",
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.daiyagreen.com/"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。第三者のバス情報・施設案内を公式根拠として使わない。",
+      "nextAction": "公式交通・食事・宿泊浴場資料が必要。",
+      "updates": []
+    },
+    {
+      "id": 314,
+      "name": "水戸グリーンカントリークラブ 山方コース",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.mgcc.jp/access/"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式アクセスは所在地・電話・地図。駅からの交通手段・所要時間の明示を確認できず。",
+      "nextAction": "鉄道利用の公式案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 335,
+      "name": "杉ノ郷カントリークラブ",
+      "fields": [
+        "dining"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.suginosato.co.jp/",
+        "https://www.suginosato.co.jp/restaurant.html"
+      ],
+      "status": "fetch-failure",
+      "reason": "トップ、レストランともタイムアウト後1回再試行も失敗。検索抜粋の10月1日メニュー見出しだけでは料理の実内容確認にならない。",
+      "nextAction": "公式レストラン本文またはメニュー画像を実読する必要。",
+      "updates": []
+    },
+    {
+      "id": 339,
+      "name": "益子ヒルズゴルフクラブ",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.mashikohills.com/accesse.html"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式案内は真岡IC20分・笠間西IC30分など車情報のみ。電車の駅名・時間へ転用しない。",
+      "nextAction": "鉄道利用の公式案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 348,
+      "name": "G7カントリー倶楽部",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.g7cc.co.jp/access.html"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式アクセスに車ルートPDFと交通情報。本文に駅からの所要時間の確認根拠なし。",
+      "nextAction": "鉄道利用の公式案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 354,
+      "name": "栃木カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://tochigicc.com/reservation.html",
+        "https://tochigicc.com/access.html"
+      ],
+      "status": "partial",
+      "reason": "ビジターキャンセル料なしを確認。栃木駅南口バス約15分・完全予約制・8:50全日/7:45土日祝を現行案内表で確認。基本料金カレンダーの額は未確認。",
+      "nextAction": "公式ビジター日付別総額の確認。",
+      "updates": [
+        "budget",
+        "rail"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "トムソンカントリー倶楽部",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://thomson-cc.com/fee.html",
+        "https://www.valuegolf.co.jp/rental/rental_top.cfm?page_flg=V&rent_cid=090007701"
+      ],
+      "status": "partial",
+      "reason": "昼食・消費税・利用税込み、1R GPSカートセルフ3B/4B条件を確認。予約取得結果は2025年表示/取得中のため現行額と見なさない。",
+      "nextAction": "公式予約の現行月プラン金額の確認。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 357,
+      "name": "桃里カントリー倶楽部",
+      "fields": [
+        "budget",
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.touricc.com/playguide.html",
+        "https://www.touricc.com/clubhouse.html",
+        "https://www.touricc.com/access.html"
+      ],
+      "status": "partial",
+      "reason": "ゲスト会員同伴・紹介と会員から予約の条件を確認。クラブハウスは入口・桜・VIP・レストラン等で浴場宿泊の明示なし。トップ12kmとアクセス10kmの差は解消できず、既存車アクセスは変更しない。",
+      "nextAction": "基本料金・浴場宿泊の公式明示が必要。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 365,
+      "name": "矢板カントリークラブ",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://yaita-cc.com/access"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式アクセス本文で車案内を確認、駅からの経路・時間は確認できず。",
+      "nextAction": "鉄道利用の公式案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 367,
+      "name": "ロイヤルカントリークラブ",
+      "fields": [
+        "scenery"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.royalcc.co.jp/course.html"
+      ],
+      "status": "stale-source",
+      "reason": "現コース公開まで旧ホール画像・動画を使用との公式注記あり。古い画像から現在の景観特徴を推測しない。",
+      "nextAction": "現行レイアウトと景観を明示した公式本文・資料の追加待ち。",
+      "updates": []
+    },
+    {
+      "id": 384,
+      "name": "足利カントリークラブ 飛駒コース",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.ashikaga-cc.com/information/price/",
+        "https://www3.golfyoyaku.jp/rsv_sys/ashikaga/takou/mcalendar/"
+      ],
+      "status": "stale-conflict",
+      "reason": "公式料金表は2026年4〜6月で期限外。ロッカー浴場550円/440円の記述相違あり。リンク先Takouの料金を彦駒へ転用しない。",
+      "nextAction": "彦駒を明示した現行日付プラン・付帯料金の確認。",
+      "updates": []
+    },
+    {
+      "id": 390,
+      "name": "LiVE MAX GOLF CLUB 栃木",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.livemax-golfclub.com/access/"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式アクセスは車17km・駐車場情報。駅からの移動案内は未確認。",
+      "nextAction": "鉄道利用の公式案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 397,
+      "name": "都賀カンツリー倶楽部",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.tsugacc.co.jp/"
+      ],
+      "status": "fetch-failure",
+      "reason": "502後、3秒後1回再試行はタイムアウト。",
+      "nextAction": "公式料金本文取得回復。",
+      "updates": []
+    },
+    {
+      "id": 399,
+      "name": "ベルセルバカントリークラブ さくらコース",
+      "fields": [
+        "dining"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "http://www.belle-co.com/belleselva/",
+        "https://www.daiwajisyo.co.jp/group/belleselva-sakura/index.html"
+      ],
+      "status": "partial-alternative-primary",
+      "reason": "bvの公式本文502を引継ぎ。今回の公式ドメイン検索で新たな一次資料を取得できず。 追加調査：運営元の大和地所公式施設紹介本文で居酒屋の併設を確認。昼食メニュー、料理名、営業時間は未確認。",
+      "nextAction": "公式レストラン本文回復または別の公式メニュー資料。",
+      "updates": [
+        "dining"
+      ]
+    },
+    {
+      "id": 424,
+      "name": "オリムピックナショナルゴルフクラブ EAST",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.olympicnational.co.jp/east/fee.html",
+        "https://www.olympicnational.co.jp/east/reservation.html",
+        "https://www.jgo-os.com/11109/003/reserve/"
+      ],
+      "status": "partial",
+      "reason": "平日人数割増と利用税別途を確認。公式リンク経由の予約画面はゴルフ場情報の取得失敗。",
+      "nextAction": "予約画面回復後に基本総額・対象日・食事条件を確認。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "オリムピックナショナルゴルフクラブ WEST",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.olympicnational.co.jp/west/fee.html",
+        "https://www.olympicnational.co.jp/west/reservation.html",
+        "https://www.jgo-os.com/11117/003/reserve/"
+      ],
+      "status": "partial-conflict",
+      "reason": "平日人数割増、税込み、土日祝2B不可を確認。料金表の土日祝2B欄は予約条件と不整合なので料金を採用しない。予約画面はゴルフ場情報の取得失敗。",
+      "nextAction": "公式予約回復後に基本総額を確認。2B制限との不整合を解消するまで土日祝2B金額は載せない。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 426,
+      "name": "霞ヶ関カンツリー倶楽部",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.kasumigasekicc.or.jp/information/index.html"
+      ],
+      "status": "partial",
+      "reason": "平日会員同伴/紹介状・土日祝同伴・予約人数と時期を本文確認。一般料金の公開額は未確認。",
+      "nextAction": "公開料金または正規会員経由の資料が必要。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "児玉カントリー倶楽部",
+      "fields": [
+        "budget",
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.kodama-cc.jp/",
+        "https://www.kodama-cc.jp/fee.html"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。 公式fee.htmlもタイムアウト、1回再試行でも失敗。同名に近い『こだまゴルフクラブ』kodama-gc.comは別施設なので不採用。",
+      "nextAction": "公式の宿泊浴場・料金本文取得回復。",
+      "updates": []
+    },
+    {
+      "id": 432,
+      "name": "東京ゴルフ倶楽部",
+      "fields": [
+        "dining",
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.tokyogolfclub.jp/guide/",
+        "https://www.tokyogolfclub.jp/infomation/20230604/"
+      ],
+      "status": "partial-stale",
+      "reason": "会員同伴原則と会員から予約を確認。食堂の2023年6月4日利用時間制限廃止案内だけでは現行メニュー確認としない。",
+      "nextAction": "基本料金・現行食事案内の公式資料が必要。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 449,
+      "name": "下仁田カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.shimonitacc.com/reservation.html"
+      ],
+      "status": "dynamic-price",
+      "reason": "公式予約は登録・カレンダー導線。レンタル3300円などをプレー基本額へ転用しない。",
+      "nextAction": "現行日付の基本総額・含まれる費用を確認。",
+      "updates": []
+    },
+    {
+      "id": 450,
+      "name": "桐生カントリークラブ",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.kiryucc.com/reservation.html"
+      ],
+      "status": "dynamic-price",
+      "reason": "公式予約は登録・カレンダー導線。レンタルなど付帯料金は基本プレー総額でない。",
+      "nextAction": "現行日付の基本総額・含まれる費用を確認。",
+      "updates": []
+    },
+    {
+      "id": 453,
+      "name": "髙梨子倶楽部",
+      "fields": [
+        "rail"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.takanashiclub.jp/access.html"
+      ],
+      "status": "no-target-fact",
+      "reason": "公式アクセスは所在地と地図。最寄駅・駅からの所要時間は本文で未確認。",
+      "nextAction": "鉄道利用の公式案内が必要。",
+      "updates": []
+    },
+    {
+      "id": 455,
+      "name": "吉井南陽台ゴルフコース",
+      "fields": [
+        "scenery",
+        "rail",
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.yoshii-nanyodai.jp/"
+      ],
+      "status": "fetch-failure",
+      "reason": "タイムアウト、3秒後1回再試行もタイムアウト。第三者ホテル・施設案内を根拠に交通/宿泊/景観を補完しない。",
+      "nextAction": "公式本文取得回復または公式運営者の別資料。",
+      "updates": []
+    },
+    {
+      "id": 465,
+      "name": "太田双葉カントリークラブ",
+      "fields": [
+        "scenery",
+        "rail",
+        "dining",
+        "stay",
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://www.ota-futaba-cc.co.jp/",
+        "https://shop.create-restaurants.co.jp/cr1327/"
+      ],
+      "status": "partial-alternative-primary",
+      "reason": "403。再試行・アクセス制限回避なし。公式内容を確認できていない。 追加調査：レストラン運営会社クリエイト・レストランツの公式店舗ページで太田双葉カントリークラブレストラン、所在地（太田市西長岡町1524）、電話0276-40-5245を確認。営業時間欄は空欄、メニュー掲載もないため料理名や時刻を推測しない。",
+      "nextAction": "正規に閲覧可能な公式資料が必要。",
+      "updates": [
+        "dining"
+      ]
+    },
+    {
+      "id": 476,
+      "name": "THE CLUB golf village",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://tcgv.jp/"
+      ],
+      "status": "partial",
+      "reason": "GOLF欄で完全会員制を確認。ホテル/スパ/レストラン価格をゴルフ料金として転用しない。",
+      "nextAction": "正規会員用の料金情報または公開ゴルフ料金の追加が必要。",
+      "updates": [
+        "budget"
+      ]
+    },
+    {
+      "id": 486,
+      "name": "相模野カントリー倶楽部",
+      "fields": [
+        "stay"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://sagamino-cc.jp/club-house.html"
+      ],
+      "status": "image-insufficient",
+      "reason": "クラブハウス頁の取得本文は見出し中心。画像リンクもクラブハウス見出しで、浴場・宿泊の明示根拠を確認できず。",
+      "nextAction": "公式の設備案内本文または判読できる明示資料が必要。",
+      "updates": []
+    },
+    {
+      "id": 496,
+      "name": "GDO茅ヶ崎ゴルフリンクス",
+      "fields": [
+        "budget"
+      ],
+      "checked": "2026-10-30",
+      "urls": [
+        "https://chigasaki.golfdigest.co.jp/guide",
+        "https://reserve.golfdigest.co.jp/golf-course/373203/calendar/"
+      ],
+      "status": "dynamic-price",
+      "reason": "公式利用案内に9ホール歩行セルフ。非プレー同伴者4400円をプレー料金と見なさない。公式リンク先予約で選択日・現行基本総額を取得できず。",
+      "nextAction": "公式予約の対象日を確定した基本料金確認。",
+      "updates": []
+    }
+  ],
+  "completion": "未完了。未入力50項目に加え、本バッチの条件のみ掲載した13料金欄は基本額未確認、3食事欄は具体的メニュー未確認として残す。取得失敗を公式情報不存在と判定しない。過去バッチの部分記載も別途残る。",
+  "supplementaryTransportCheck": {
+    "note": "Web検索取得に加え実行環境からも確認。初回から3秒以上あけて各1回再試行。503は経路・実行環境由来の可能性を区別できず、公式サーバ自体の障害とは断定しない。内容確認の代わりに使わない。",
+    "results": [
+      {
+        "id": 19,
+        "url": "https://www.belle-co.com/ichihara/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 80,
+        "url": "https://www.hatsuhocc.co.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 140,
+        "url": "https://www.kanozan.co.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 163,
+        "url": "https://www.president-cc.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 241,
+        "url": "https://www.katoricc.com/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 243,
+        "url": "https://www.shinchiba-cc.co.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 300,
+        "url": "https://www.daiyagreen.com/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 335,
+        "url": "https://www.suginosato.co.jp/restaurant.html",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 397,
+        "url": "https://www.tsugacc.co.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 427,
+        "url": "https://www.kodama-cc.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 455,
+        "url": "https://www.yoshii-nanyodai.jp/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "id": 399,
+        "url": "https://www.belle-co.com/belleselva/",
+        "first": "HTTP 503",
+        "retry": "HTTP Error 503: Service Unavailable"
+      }
+    ]
+  }
+}
