@@ -343,7 +343,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式交通アクセス:三郷南IC約10分、金町駅バス15分+バス停徒歩5分。タクシー分数なし"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式サイトでショートコースと練習場の利用案内を確認しましたが、食事施設や料理メニューの案内は確認できていません。食事の提供有無は利用前に施設へ確認してください。",
+          "url": "https://edogawaline.or.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップとショートコース案内の掲載内容を確認。食事施設なしとは断定せず、公式本文で未確認であることを記録。"
+        },
         "stay": {
           "text": "ロッカーと更衣室はありません。浴場・シャワー・宿泊設備については公式案内で未確認です。",
           "url": "https://edogawaline.or.jp/shortcourse/",
@@ -473,7 +479,14 @@ const DATA={
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式オンライン予約の2026年10月30日掲載例は、セルフ・乗用カート・2サム保証・昼食別が税込6,610円。4バッグ優待・昼食付きが税込6,900円です。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/reiwagolfresort/murasakigc/mcalendar/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトから案内される予約カレンダーで2026年10月30日の公開プラン名・税込総額・空き表示を確認。",
+          "conditions": "公開枠のセルフ・乗用カートプラン。6,610円は2サム保証・昼食別、6,900円は4バッグ優待・昼食付きです。日付・人数・空き状況で変わります。"
+        },
         "scenery": {
           "text": "なだらかな丘陵に、池や滝を配した庭園のような景観。幅の広いフェアウェイと水辺のコントラストが特徴です。",
           "url": "https://www.murasakigc.com/ゴルフ",
@@ -2996,7 +3009,14 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式案内本文を確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式オンライン予約の2026年10月30日掲載例は、セルフ・フェアウェイ乗入れ・ブッフェ昼食・ナビ付きが13,800円です。",
+          "url": "https://wst1.asts.jp/golfnet/cc/06651CC/plan/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コースページから案内される予約画面で、2026年10月30日のプラン名、2サム保証表示、100円単位の掲載額138を確認。",
+          "conditions": "公開枠のセルフプレー。フェアウェイ乗入れ、ブッフェ昼食、ナビ付き。日付・空き状況・人数・乗入れ可否で条件が変わります。"
+        },
         "scenery": {
           "text": "九十九里を見渡す打ち下ろしホールと、赤砂のウエストエリアが特徴。レストランからも、コースの緑と九十九里の海を眺められます。",
           "url": "https://www.mannacc.com/course",
@@ -5189,7 +5209,13 @@ const DATA={
           "sourceType": "official",
           "basis": "公式千葉店ページのレストラン本文を確認。成田・茂原店と区別。PC版メニュー詳細は取得不能のため料理名を補わない。"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設・料金案内ではショートコース、練習場、レストラン等を確認しましたが、浴場・シャワー・宿泊設備の案内は確認できていません。設備なしとは断定しません。",
+          "url": "https://dynamic-golf.jp/chiba/facility_fee/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式千葉店の施設・料金案内を確認。浴場・シャワー・宿泊設備について公式本文で未確認であることを記録。"
+        },
         "budget": {
           "text": "平日 2,900円、土日祝 3,900円。9Hショートコース1周・一般ビジター料金。食事・レンタル等は別途。2026年8月改定後の掲載料金。",
           "priceLabel": "平日 2,900円\n土日祝 3,900円",
@@ -5305,7 +5331,13 @@ const DATA={
           "dish": "特製ハンバーグ",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "公式施設・料金案内ではショートコース、練習場、レストラン等を確認しましたが、浴場・シャワー・宿泊設備の案内は確認できていません。設備なしとは断定しません。",
+          "url": "https://dynamic-golf.jp/mobara/facility_fee/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式茂原店の施設・料金案内を確認。浴場・シャワー・宿泊設備について公式本文で未確認であることを記録。"
+        },
         "budget": {
           "text": "平日 2,750円、土日祝 3,960円。9Hショートコース1周・税込。食事セットとは別の基本料金。2周・回り放題は別料金。",
           "priceLabel": "平日 2,750円\n土日祝 3,960円",
@@ -5427,7 +5459,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセスページのaccess_banner1.jpgを目視確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式サイトのコース・施設案内では、レストランや食事メニューの案内を確認できていません。食事の提供有無は利用前に施設へ確認してください。",
+          "url": "https://tamagawagolfclub.com/facilities/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース・施設案内を確認。食事施設なしとは断定せず、公式本文で未確認であることを記録。"
+        },
         "stay": {
           "text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。",
           "url": "https://tamagawagolfclub.com/facilities/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/",
@@ -6905,7 +6943,17 @@ const DATA={
           "dish": "肉汁うどん",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "男女とも浴槽とシャワーを利用できます。平日のセルフデーなど、公式のお知らせで利用休止となる日があるため、来場日の営業条件を確認してください。",
+          "url": "https://page.line.me/895hxrnv/showcase/1772387649268928/item/1844214866655096",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "吉見ゴルフ場の公式LINE施設情報で男女の浴槽・シャワーを確認し、運営会社公式お知らせのセルフデー利用休止条件を照合。",
+          "conditions": "セルフデー等はお風呂・シャワーを利用できない場合があります。宿泊設備は公式本文で確認できていません。",
+          "supportingUrls": [
+            "https://www.river-golf.com/contents/golf/page/7"
+          ]
+        },
         "budget": {
           "text": "午後ハーフの料金を公開。18Hと9Hは別条件で比較。",
           "url": "https://www.river-golf.com/yoshimi/fee.html",
@@ -15234,7 +15282,13 @@ const DATA={
           "basis": "公式ご利用案内の令和8年度ゲスト基本料金・諸料金表を確認。",
           "conditions": "消費税込、4バッグ特級キャディーフィ・諸経費・利用税込の概算。食事代は別。会員同伴・紹介などの利用条件があります。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにお風呂とロッカールームがあります。公式施設案内の「ゲストルーム」は宴会場として掲載されており、宿泊施設とは確認できていません。",
+          "url": "https://www.takanodaicc.or.jp/facility/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内でお風呂・ロッカールームを確認し、ゲストルームの用途が宴会場であることを照合。"
+        }
       },
       "researchSources": [
         "https://www.takanodaicc.or.jp/",
@@ -15700,7 +15754,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "クラブ農園で収穫した野菜をクラブレストランの食材として使用しています。農園では馬ふんとクラブで出た野菜くずを堆肥化しています。具体的な当日メニューは公式本文で確認できていません。",
+          "url": "https://tokyo-classic.jp/kleingarten/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式クラインガルテン案内で、クラブ農園の収穫物をクラブレストランの食材に使用する説明を確認。"
+        },
         "budget": null,
         "stay": {
           "text": "公式案内の東京クラシックキャンプに、宿泊用キャビンとグランピングテントがあります。キャビンにはアウトドアバスとシャワー、テントにはバスを備えています。キャンプは会員制で、体験宿泊などには別途条件があります。",
@@ -17644,7 +17704,14 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "イクラたっぷりサーモン三色丼"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式オンライン予約の2026年11月4日掲載例は、7時台前半の平日セルフ・昼食付き・2サム保証が税込6,940円です。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/alpen-group/kasama/mcalendar/index/start:202611",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトから案内される2026年11月予約カレンダーで、11月4日のプラン名、税込総額、空き表示を確認。",
+          "conditions": "公開枠の7時台前半、平日セルフ、昼食付き、2サム保証。日付・スタート時間・人数・空き状況で変わります。"
+        },
         "stay": {
           "text": "女性浴室がありますが、設備工事のため2026年11月30日は終日利用できない予定です。該当日の利用条件をご確認ください。",
           "url": "https://www.alpen-group.net/kasama-forest/",
