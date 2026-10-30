@@ -1,0 +1,36 @@
+{
+  "checked": "2026-10-30",
+  "batch": "verified-followup-20261030bg.json",
+  "queuedCommit": "828e77191dea10dc229a155e27af18c33824afe3",
+  "generatedMainCommit": "d5a3035de15ffc985df7c45d97778b97e710216a",
+  "verifiedUpdateRun": 40988105535,
+  "verifiedUpdateConclusion": "success",
+  "pagesRun": 40988121275,
+  "pagesConclusion": "success",
+  "repositoryDataSha256": "dd647613ff3645672794a212ca03408e09325d49b33e9173a9a216c7e83ea216",
+  "publicDataSha256": "dd647613ff3645672794a212ca03408e09325d49b33e9173a9a216c7e83ea216",
+  "publicChecks": [
+    {"id": 51, "http": 200, "content": "matched"},
+    {"id": 53, "http": 200, "content": "matched"},
+    {"id": 104, "http": 200, "content": "matched"},
+    {"id": 141, "http": 200, "content": "matched"},
+    {"id": 144, "http": 200, "content": "matched"},
+    {"id": 172, "http": 200, "content": "matched"},
+    {"id": 189, "http": 200, "content": "matched"},
+    {"id": 190, "http": 200, "content": "matched"},
+    {"id": 195, "http": 200, "content": "matched"},
+    {"id": 208, "http": 200, "content": "matched"},
+    {"id": 244, "http": 200, "content": "matched"}
+  ],
+  "remaining": {
+    "total": 168,
+    "courses": 119,
+    "car": 8,
+    "rail": 23,
+    "dining": 20,
+    "stay": 36,
+    "budget": 73,
+    "scenery": 8
+  },
+  "searchConsole": "not_checked_or_changed_by_this_batch"
+}
