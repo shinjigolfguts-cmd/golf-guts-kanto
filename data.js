@@ -3164,7 +3164,16 @@ const DATA={
           "checked": "2026-10-22〜23",
           "basis": "既存掲載情報を項目別に確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "クラブロイヤルオーク年間会員の平日料金は、セルフ7,590円、キャディ付11,990円です。一般ビジター料金は公式予約カレンダーで確認する案内です。",
+          "url": "https://www.alpen-group.net/oakvillage/reserve/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式プレー料金表で年間会員の平日セルフ・キャディ付料金と、ビジターは予約カレンダー確認であることを確認。",
+          "conditions": "クラブロイヤルオーク年間会員の平日1R。消費税10%・ゴルフ場利用税800円込み。2B・3B、追加ハーフは別途。一般ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "年間会員・平日セルフ7,590円"
+        },
         "scenery": {
           "text": "アーサー王伝説をモチーフにした池やバンカー、モニュメントが特徴。コースに配された造形も見どころです。",
           "url": "https://www.alpen-group.net/oakvillage/course/",
@@ -3275,7 +3284,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "会員のプレー料金は平日6,600円、土日祝7,600円です。いずれも諸税込・昼食付です。",
+          "url": "https://www.resol-golf.jp/kisarazuhigashi/membership/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式会員権情報のプレー料金欄で会員料金、税、昼食条件、バッグ割増を確認。",
+          "conditions": "会員料金。平日はバッグ割増なし。土日祝は3Bが1人1,100円、2Bが1人4,400円加算。全日ツーサム可。ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "会員・平日6,600円"
+        },
         "scenery": {
           "text": "亀山湖畔の自然に囲まれたコース。入口を彩る花木や、池越えとなる17番の景色が見どころです。",
           "url": "https://www.resol-golf.jp/kisarazuhigashi/concept/",
@@ -6400,7 +6418,16 @@ const DATA={
           "sourceType": "official",
           "basis": "公式詳細ページの浴場・宿泊施設欄を読み、設備とプラン別の利用制限を確認。"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式掲載の早朝9ホールプラン例は総額7,990円です。2サム保証・割増なし、セルフ、ナビ付2人乗りカート、昼食なしです。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "アコーディア公式予約ページで早朝9Hプランの総額、期間、利用税、プレースタイルを確認。",
+          "conditions": "2027年1月17日までの早朝ハーフ9Hプラン。利用税475円、諸経費0円を含む総額。組合せなし。風呂・シャワー利用不可。通常1R料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "早朝9H・総額7,990円"
+        },
         "scenery": {
           "text": "高低差３m以内の平坦な地形に、川と多くの池を配置。水辺と芝が織りなす景観を楽しめます。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/detail",
@@ -8718,7 +8745,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設紹介・利用案内の本文または設備写真の見出しを確認。温泉・宿泊設備は明記のない限り追加していない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年度の10～11月料金は、平日21,450円、土日祝31,450円です。いずれもキャディ付・4バッグ・1ラウンドの料金です。",
+          "url": "https://www.taiei.cc/system/free_files/files/000/010/548/bf1d1d4869749ba610c676bf0550ad6a77722dc5/original.pdf?1770789806=",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式の令和8年度営業案内で期間別料金、キャディ・バッグ条件、セルフ差額、サーチャージを確認。",
+          "conditions": "2026年10～11月、キャディ付4B・1R。3Bは550円、2Bは2,750円加算。セルフは表示額から3,000円引き（セルフ2B・3B割増あり）。別途光熱費サーチャージ550円。土日祝は会員同伴または紹介が必要。",
+          "priceVerified": true,
+          "priceLabel": "10～11月・平日21,450円"
+        },
         "scenery": {
           "text": "日本庭園をモチーフにしたコース景観。庭園の趣を取り入れた設計が特徴です。",
           "url": "https://www.taiei.cc/",
@@ -8909,7 +8945,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設紹介・利用案内の本文または設備写真の見出しを確認。温泉・宿泊設備は明記のない限り追加していない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10～11月のセルフ料金は、月曜14,500円、火～金曜15,000円、土曜25,500円、日祝24,500円です。月曜・平日は昼食付です。",
+          "url": "https://takatakicc.co.jp/fee/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページで2026年10月・11月の日別区分、昼食、税込条件、バッグ割増を確認。",
+          "conditions": "プレー代、乗用カート、諸経費、利用税、消費税込み。セルフ3Bは820円、2Bは1,920円加算。土日祝の2Bは原則不可。キャディ付は別途加算。",
+          "priceVerified": true,
+          "priceLabel": "10～11月・平日15,000円"
+        },
         "scenery": {
           "text": "房総丘陵の自然地形に溶け込むコース。丘陵の起伏を生かした風景が広がります。",
           "url": "https://takatakicc.co.jp/course/",
@@ -10728,7 +10773,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の浴室・宿泊設備欄を確認"
         },
-        "budget": null,
+        "budget": {
+          "text": "正規のメンバー料金は、セルフが平日7,530円・土日祝8,630円、キャディ付が平日11,710円・土日祝12,810円です。",
+          "url": "https://www.obatago-golf.com/reservation/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式予約ページのメンバー専用正規料金表で税込料金とバッグ割増を確認。",
+          "conditions": "会員権を持つメンバーの税込料金。キャディフィとカートフィは3B・2Bで別途割増。ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "メンバー・平日セルフ7,530円"
+        },
         "scenery": {
           "text": "春の桜、秋の紅葉、冬の浅間山の雪景色。季節ごとに移り変わる景観を楽しめます。",
           "url": "https://www.obatago-golf.com/",
@@ -11772,7 +11826,16 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "牡蠣フライと大判ヒレカツ膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "ゲスト通常料金の平日は、4～6月・10～12月が22,500円、3月・7月・9月が20,900円です。",
+          "url": "https://www.hightree.co.jp/price/01.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページのゲスト通常料金欄で季節別の平日料金を確認。",
+          "conditions": "ゲスト通常料金の平日。予約・土日祝料金や追加条件は公式窓口で要確認。",
+          "priceVerified": true,
+          "priceLabel": "10～12月・平日22,500円"
+        },
         "stay": {
           "text": "公式サイトで近隣のアートホテル成田などを紹介。アートホテル成田には天然温泉の温浴施設があります。コース内の宿泊施設ではなく、ホテルを別途予約する形です。",
           "url": "https://www.hightree.co.jp/guide/index.html",
@@ -11836,7 +11899,16 @@ const DATA={
             "https://national-cc.jp/chiba1/wp-content/uploads/2026/10/chiba.menu_lunch-.pdf"
           ]
         },
-        "budget": null,
+        "budget": {
+          "text": "メンバー料金は通常期（3～6月・9～12月）が平日7,950円、土日祝8,500円です。いずれも食事代1,540円分付きです。",
+          "url": "https://national-cc.jp/chiba/member/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式メンバーページで通常期・オフシーズンの税込料金と食事条件を確認。",
+          "conditions": "メンバー料金。通常期は3～6月・9～12月。税込、食事代1,540円分付き。未使用差額の返金なし。ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "メンバー通常期・平日7,950円"
+        },
         "stay": {
           "text": "クラブハウスに浴場を備えています。公式施設案内に浴場の写真が掲載されています。",
           "url": "https://national-cc.jp/chiba/facility/",
@@ -12133,7 +12205,16 @@ const DATA={
           "basis": "公式本文を確認。",
           "dish": "菜の花ポークのロースカツ膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10月の料金は、平日11,600円、土曜20,550円、日曜・祝日19,850円です。",
+          "url": "https://www.chonan-cc.com/fp/fee",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式プレー料金ページの2026年9～12月表で10月の曜日別料金を確認。",
+          "conditions": "2026年10月の掲載料金。プレー条件、昼食、バッグ割増などは予約時に公式案内で要確認。",
+          "priceVerified": true,
+          "priceLabel": "2026年10月・平日11,600円"
+        },
         "stay": {
           "text": "クラブハウスに男性浴室を備えています。公式施設紹介で写真を掲載しています。",
           "url": "https://www.chonan-cc.com/facility/",
@@ -12983,7 +13064,16 @@ const DATA={
           "basis": "公式レストランメニュー本文",
           "dish": "シュウマイ"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10～12月の通常料金は、平日24,500円、土曜37,000円、日曜・祝日34,500円です。",
+          "url": "https://www.kingf-gc.jp/guide/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式利用案内の2026年料金表で対象月、曜日別料金、含有費用、バッグ割増を確認。",
+          "conditions": "4Bキャディ付。グリーンフィ、キャディフィ、カート、諸経費、ロッカー、利用税、消費税込み。3Bは1人1,650円、2Bは1人5,500円加算。特定期間は特別料金の場合あり。",
+          "priceVerified": true,
+          "priceLabel": "10～12月・平日24,500円"
+        },
         "stay": {
           "text": "男女の浴室を備え、男性用はサウナも案内。女性用には専用パウダールームと個室シャワーがあります。",
           "url": "https://www.kingf-gc.jp/facilities/bathroom.php",
@@ -15250,7 +15340,16 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "自家製ローストビーフサンド"
         },
-        "budget": null,
+        "budget": {
+          "text": "ビジター料金はキャディ付で、平日28,000円、土日祝42,000円です。",
+          "url": "https://asakura-gc.jp/user_guide/charges.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金案内で税込ビジター料金、利用税、バッグ割増、予約条件を確認。",
+          "conditions": "キャディ付。消費税・ゴルフ場利用税1,150円込み。3Bは2,530円、2Bは7,600円加算。会員の同伴または紹介が必要。土日祝の2サムは不可。",
+          "priceVerified": true,
+          "priceLabel": "ビジター・平日28,000円"
+        },
         "stay": {
           "text": "クラブハウスに浴室を備えています。公式施設紹介で浴室を案内しています。",
           "url": "https://www.asakura-gc.jp/club/",
