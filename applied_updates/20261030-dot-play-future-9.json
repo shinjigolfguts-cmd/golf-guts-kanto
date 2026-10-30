@@ -1,0 +1,212 @@
+{
+  "baseSha256": "9b0def1b80adecc62df934ceeae59575c224270550b8867c10b34eaf2cb4c737",
+  "baseMain": "e1929e77ee0b28c6f7e09382142e1d4ac728ed6f",
+  "reviewed": true,
+  "reviewer": "dot — official text read2026-10-30 and independent saved-raw QA PASS; latest-base rechecked2026-10-30UTC/10-31JST",
+  "scope": "9 play fields only:8 concrete updates and1 partial retaining explicit unknown. Other3491fields unchanged. Local33 unchanged.",
+  "updates": [
+    {
+      "id": 143,
+      "name": "館山カントリークラブ",
+      "field": "play",
+      "before": {
+        "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=12052",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "西・中・東の27ホールのシーサイドコース。フェアウェイは平坦ながら細かな起伏があり、中1・8番は太平洋方向への打ち下ろし、東2・3番にはクリークが絡みます。",
+        "url": "https://tateyama-cc.com/course.html",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式コースガイド本文の27H、各9Hの西・中・東、平坦なフェアウェイと微妙な起伏、中1・8番の打ち下ろし、東2・3番のクリークを確認。全ホールが平坦とは一般化しない。"
+      },
+      "evidenceNote": "公式コースガイド本文の27H、各9Hの西・中・東、平坦なフェアウェイと微妙な起伏、中1・8番の打ち下ろし、東2・3番のクリークを確認。全ホールが平坦とは一般化しない。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 145,
+      "name": "浦和ゴルフ倶楽部",
+      "field": "play",
+      "before": {
+        "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11004",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "18ホール・パー72の平坦な林間コース。池とフェアウェイに張り出した立木が攻略ルートに関わり、次の一打を考えたコースマネジメントが必要と公式に案内されています。",
+        "url": "https://www.urawagc.jp/course/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式コース案内本文の雑木林で分かれた各ホール、フラットな地形、多用された池とフェアウェイに張り出した立木、次打を考えた攻めを確認。OUT1〜9・IN10〜18の表とPAR36+36=72も照合。"
+      },
+      "evidenceNote": "公式コース案内本文の雑木林で分かれた各ホール、フラットな地形、多用された池とフェアウェイに張り出した立木、次打を考えた攻めを確認。OUT1〜9・IN10〜18の表とPAR36+36=72も照合。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 146,
+      "name": "大宮ゴルフコース",
+      "field": "play",
+      "before": {
+        "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11006",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "18ホール・パー72のフラットな林間コース。公式のAグリーン距離表ではBACK 6,912ヤード、FRONT 6,560ヤードと案内されています。",
+        "url": "https://omiyagc.jp/course/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップのフラットな林間コースという地形説明と、公式コースガイドの1〜18番・PAR72を確認。距離はA Greenと明示された表のBACK 6912/FRONT 6560のみを使用し、Regularなど別のティー呼称へ変更しない。1番個別ページは画像中心で詳細地形の本文は取得できず、その図から事実を補わない。",
+        "supportingUrls": [
+          "https://omiyagc.jp/"
+        ]
+      },
+      "evidenceNote": "公式トップのフラットな林間コースという地形説明と、公式コースガイドの1〜18番・PAR72を確認。距離はA Greenと明示された表のBACK 6912/FRONT 6560のみを使用し、Regularなど別のティー呼称へ変更しない。1番個別ページは画像中心で詳細地形の本文は取得できず、その図から事実を補わない。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 147,
+      "name": "越生ゴルフクラブ",
+      "field": "play",
+      "before": {
+        "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11009",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "18ホール・パー72。OUTは比較的平坦なホールが多く、IN13番は打ち下ろしの左ドッグレッグ、15番は第3打から打ち上げになるロングホールです。",
+        "url": "https://ogosegc.co.jp/course/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式コースガイド本文の18H・OUTは平坦なホールが多いという限定、13番の打ち下ろし左ドッグレッグ、15番PAR5の第3打からの打ち上げを確認。OUT/IN距離表のPAR36+36=72も照合。全OUTを平坦と断定せず、掲載されたティー/グリーン別距離は省略。"
+      },
+      "evidenceNote": "公式コースガイド本文の18H・OUTは平坦なホールが多いという限定、13番の打ち下ろし左ドッグレッグ、15番PAR5の第3打からの打ち上げを確認。OUT/IN距離表のPAR36+36=72も照合。全OUTを平坦と断定せず、掲載されたティー/グリーン別距離は省略。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 148,
+      "name": "こだまゴルフクラブ",
+      "field": "play",
+      "before": {
+        "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11020",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "18ホール・パー72。1番は広く平坦なミドルで、第2打地点からグリーンへ緩やかに下ります。6番も広い平坦なミドルで、フェアウェイ中央のケヤキと奥行きのあるグリーンが特徴です。",
+        "url": "https://www.kodama-gc.com/courses",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式コース紹介の18HとOld/New両グリーン表のPAR72、公式1番の広く平坦なミドル・第2打地点以降の緩い下り、公式6番の広く平坦なミドル・中央のケヤキ・グリーン奥行きを本文確認。1・6番の地形を全体へ一般化しない。",
+        "supportingUrls": [
+          "https://www.kodama-gc.com/courses/1",
+          "https://www.kodama-gc.com/courses/6"
+        ]
+      },
+      "evidenceNote": "公式コース紹介の18HとOld/New両グリーン表のPAR72、公式1番の広く平坦なミドル・第2打地点以降の緩い下り、公式6番の広く平坦なミドル・中央のケヤキ・グリーン奥行きを本文確認。1・6番の地形を全体へ一般化しない。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 151,
+      "name": "飯能グリーンカントリークラブ",
+      "field": "play",
+      "before": {
+        "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11042",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "18ホール・パー72。緩やかな打ち上げ、砲台グリーン、池越えで6メートル打ち下ろすショートなど、起伏と水辺を組み合わせたコースです。ベントと高麗のグリーン別に距離表を案内しています。",
+        "url": "https://www.hanno-green.co.jp/golf/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式OUT表1〜9/IN表10〜18・TOTAL72を確認。OUT本文に緩やかな打上げ、砲台グリーン、池越え6m打下ろし、表見出しBent/Koraiがある。写真の並びだけでホール番号を推定せず、提案に特定番号は付さない。",
+        "supportingUrls": [
+          "https://www.hanno-green.co.jp/golf/golf/"
+        ]
+      },
+      "evidenceNote": "公式OUT表1〜9/IN表10〜18・TOTAL72を確認。OUT本文に緩やかな打上げ、砲台グリーン、池越え6m打下ろし、表見出しBent/Koraiがある。写真の並びだけでホール番号を推定せず、提案に特定番号は付さない。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 154,
+      "name": "江戸崎カントリー倶楽部",
+      "field": "play",
+      "before": {
+        "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8015",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "東・南の計36ホール。東は赤松林に囲まれ、南は開放的なコースとして公式に紹介されています。Aグリーン・WHITEティーの距離は東6,346ヤード、南6,284ヤードで、両コースともパー72。詳しい起伏や各ホールのレイアウトは未確認です。",
+        "url": "https://www.edosaki-cc.co.jp/course/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式コースガイドの36ホール・東赤松林/南開放的、東Aと南Aの各1〜18表・合計PAR72・WHITE総距離6346/6284を確認。個別ページは画像と距離表が中心で本文の詳細起伏根拠を得られないためpartialとして未確認を保持。Aグリーン/WHITEの条件を省かない。",
+        "supportingUrls": [
+          "https://www.edosaki-cc.co.jp/course/east-a/",
+          "https://www.edosaki-cc.co.jp/course/south-a/"
+        ]
+      },
+      "evidenceNote": "公式コースガイドの36ホール・東赤松林/南開放的、東Aと南Aの各1〜18表・合計PAR72・WHITE総距離6346/6284を確認。個別ページは画像と距離表が中心で本文の詳細起伏根拠を得られないためpartialとして未確認を保持。Aグリーン/WHITEの条件を省かない。",
+      "status": "partial_information_with_explicit_unknown_retained",
+      "markerRemoved": false
+    },
+    {
+      "id": 155,
+      "name": "大洗ゴルフ倶楽部",
+      "field": "play",
+      "before": {
+        "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8017",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "黒松林に囲まれた砂丘地の18ホール。3番は松枝がフェアウェイにせり出す直線ホール、6番はティーとグリーンの間に丘があり、自然の地形と樹木を生かした構成です。",
+        "url": "https://www.oarai-golf-club.co.jp/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式トップの砂丘地/黒松林、OUT1〜9とIN10〜18の案内、明記された3番の松枝・直線、6番のティーとグリーンの間の丘を確認。同ページは10/23〜11/4予定でお知らせ投稿機能のメンテナンスを明示しているがコース本文は取得できた。営業停止や安全性の推測はしない。"
+      },
+      "evidenceNote": "公式トップの砂丘地/黒松林、OUT1〜9とIN10〜18の案内、明記された3番の松枝・直線、6番のティーとグリーンの間の丘を確認。同ページは10/23〜11/4予定でお知らせ投稿機能のメンテナンスを明示しているがコース本文は取得できた。営業停止や安全性の推測はしない。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    },
+    {
+      "id": 156,
+      "name": "大利根カントリークラブ",
+      "field": "play",
+      "before": {
+        "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
+        "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8018",
+        "checked": "2026-10-22〜23",
+        "basis": "既存掲載情報を項目別に確認"
+      },
+      "after": {
+        "text": "井上誠一設計の東・西36ホール。公式案内では高低差3メートルの平坦な地形で、松林がホールを区切り、池やバンカーを配置したレイアウトです。ベントグリーンを備えています。",
+        "url": "https://www.ohtone.co.jp/course-east/",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "公式東コースページL44–47に井上誠一設計・高低差3m・平坦な東西36ホール・松林による区切り・池/バンカー配置・ベントグリーン。本文のコースレート74.0と詳細表の条件別数値は差があるためレートは採用せず、難度の独自評価もしない。"
+      },
+      "evidenceNote": "公式東コースページL44–47に井上誠一設計・高低差3m・平坦な東西36ホール・松林による区切り・池/バンカー配置・ベントグリーン。本文のコースレート74.0と詳細表の条件別数値は差があるためレートは採用せず、難度の独自評価もしない。",
+      "status": "verified_specific_information",
+      "markerRemoved": true
+    }
+  ]
+}
