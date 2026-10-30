@@ -1,0 +1,16 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "ccb6f67efee16fe853de65024a005381cf510b41",
+  "items": [
+    {"id": 5, "name": "江戸川ラインゴルフショートコース", "field": "stay", "status": "content_verified", "url": "https://edogawaline.or.jp/shortcourse/", "finding": "公式案内でロッカーと更衣室がないことを確認。浴場・シャワー・宿泊設備は未確認。"},
+    {"id": 87, "name": "川崎リバーサイドパーク ゴルフ場", "field": "dining", "status": "content_verified", "url": "https://www.kasen-kikou.or.jp/tamagawa/center.html", "finding": "指定管理者の公式施設案内で休憩スペースとドリンク自動販売機を確認。レストラン・食事提供は未確認。"},
+    {"id": 87, "name": "川崎リバーサイドパーク ゴルフ場", "field": "stay", "status": "content_verified", "url": "https://www.kasen-kikou.or.jp/tamagawa/center.html", "finding": "指定管理者の公式施設案内で更衣室と100円ロッカーを確認。浴場・シャワー・宿泊設備は未確認。"},
+    {"id": 88, "name": "多摩川ゴルフ倶楽部", "field": "stay", "status": "content_verified", "url": "https://tamagawagolfclub.com/facilities/%E6%96%BD%E8%A8%AD%E7%B4%B9%E4%BB%8B/", "finding": "公式施設紹介でクラブハウスのロッカールームを確認。浴場・シャワー・宿泊設備は未確認。"},
+    {"id": 280, "name": "栗橋國際カントリー倶楽部", "field": "dining", "status": "content_verified", "url": "https://www.kurikan.co.jp/faq/", "finding": "公式FAQでレストラン、朝食なし、軽食食べ放題・セルフサービスを確認。"},
+    {"id": 347, "name": "唐沢ゴルフ倶楽部 唐沢コース", "field": "stay", "status": "content_verified", "url": "https://www.karasawa-golf.or.jp/playfee-karasawa/", "finding": "唐沢コースの公式料金案内でお風呂と、1月・2月のセルフデー利用不可を確認。宿泊設備は未確認。"},
+    {"id": 371, "name": "皐月ゴルフ倶楽部 佐野コース", "field": "dining", "status": "content_verified", "url": "https://booking.pacificgolf.co.jp/?cc_id=35&p=guide.gallery", "finding": "PGM公式フォトギャラリーでレストラン設備を確認。料理名・価格は未確認。"},
+    {"id": 437, "name": "武蔵カントリークラブ 笹井コース", "field": "stay", "status": "content_verified", "url": "https://www.musashi-cc.co.jp/terms/", "finding": "クラブ公式利用約款で浴室と、泥酔・刺青・感染症の場合の利用制限を確認。宿泊設備は未確認。"},
+    {"id": 438, "name": "武蔵カントリークラブ 豊岡コース", "field": "stay", "status": "content_verified", "url": "https://www.musashi-cc.co.jp/terms/", "finding": "クラブ公式利用約款で浴室と、泥酔・刺青・感染症の場合の利用制限を確認。宿泊設備は未確認。"},
+    {"id": 475, "name": "ゴルフクラブスカイリゾート", "field": "dining", "status": "content_verified", "url": "https://www.gcsr.jp/restaurant.html", "finding": "公式レストラン案内で毎日のおすすめメニュー、予算に応じたコンペ料理、季節・仕入れによる変更条件を確認。"}
+  ]
+}
