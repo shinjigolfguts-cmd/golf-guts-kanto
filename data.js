@@ -14177,7 +14177,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "car": null,
+        "car": {
+          "text": "公式ゴルフ場情報では所在地と地図を確認できますが、最寄ICからの現行所要時間は本文に掲載されていません。経路・所要時間は公式地図または施設へ確認してください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=58&p=guide.access_map",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式アクセス・ゴルフ場情報を確認。所在地、地図、クラブバス情報はあるが、IC名と車の所要時間を本文で検証できない。"
+        },
         "rail": {
           "text": "下総神崎駅からクラブバス約10分、成田駅から約30分。運行曜日と予約条件を確認。",
           "url": "https://www.pacificgolf.co.jp/selection/train/",
@@ -15032,7 +15038,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "car": null,
+        "car": {
+          "text": "公式ゴルフ場情報では所在地と地図を確認できますが、最寄ICからの現行所要時間は本文に掲載されていません。来場前に公式地図または施設へ確認してください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報で所在地・地図・クラブバス条件を確認。ICからの所要時間は本文で確認できない。"
+        },
         "rail": {
           "text": "千葉ニュータウン中央駅からクラブバス約15分、東葉勝田台駅から約30分。東葉勝田台駅便は予約が必要です。運行日は公式時刻表をご確認ください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.access_map",
@@ -15046,7 +15058,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "dining": null,
+        "dining": {
+          "text": "公式サイトにレストランのフォトギャラリーがありますが、確認時点で料理名・現行メニュー・提供条件を本文から検証できていません。最新内容は施設へ確認してください。",
+          "url": "https://booking.pacificgolf.co.jp/guide/63.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式トップにレストランのフォトギャラリー区分を確認。写真だけから料理名や提供条件を推測しない。"
+        },
         "budget": {
           "text": "2026年11月29日の7時台・指定昼食付きセルフは4名1組で1人21,900円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=63&p=guide.coursecalendar",
@@ -15092,7 +15110,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文を確認。"
         },
-        "car": null,
+        "car": {
+          "text": "公式ゴルフ場情報では所在地と地図を確認できますが、最寄ICからの現行所要時間は本文に掲載されていません。来場前に公式地図または施設へ確認してください。",
+          "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式ゴルフ場情報で所在地・地図・印旛コースからの徒歩条件を確認。ICからの所要時間は本文で確認できない。"
+        },
         "rail": {
           "text": "千葉ニュータウン中央駅からクラブバス約15分、東葉勝田台駅から約30分。東葉勝田台駅便は要予約です。北コースには停車しないため印旛コースで下車し、約100m歩きます。運行日は公式時刻表をご確認ください。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=64&p=guide.access_map",
@@ -17841,7 +17865,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "関東ゴルフ連盟公式クラブ詳細でホール数を確認"
         },
-        "car": null,
+        "car": {
+          "text": "公式アクセスでは、稲敷東IC・大栄IC・桜土浦IC・稲敷ICからの車ルートを案内しています。各ICからコースまでの所要時間は公式本文に掲載されていません。",
+          "url": "https://www.sakurasgo.com/access.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文で各ICからの交差点・国道経路を確認。所要時間は確認できないため補わない。"
+        },
         "rail": {
           "text": "土浦駅からタクシー約40分。",
           "url": "http://www.sakurasgo.com/access.html",
@@ -19354,7 +19384,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式交通案内では潮来IC・土浦北ICからの車ルートを確認できますが、鉄道駅からの移動方法・所要時間・クラブバスは本文で確認できていません。",
+          "url": "https://nscc.golftk.com/access.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式交通案内を確認。掲載本文は車の2経路で、鉄道・送迎の現行案内は確認できない。"
+        },
         "scenery": {
           "text": "水郷・北浦湖畔に広がる、自然地形を活かしたコース。",
           "url": "https://nscc.golftk.com/",
@@ -19369,7 +19405,14 @@ const DATA={
           "sourceType": "official",
           "dish": "魚介塩ラーメン"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式サイトに予約導線がありますが、確認時点で一般向けの現行基本プレー総額を公式本文から検証できていません。対象日の公式予約画面または施設へ確認してください。",
+          "url": "https://nscc.golftk.com/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップと予約案内を確認。レストラン等の現行告知はあるが、日付・人数・税を含む基本料金総額は本文で確認できない。",
+          "conditions": "料金は日付・人数・プランで変わります。第三者予約価格や古い掲載額を現行一般料金へ転用していません。"
+        },
         "stay": {
           "text": "クラブハウスにロッカールームがあります。浴場・宿泊設備は公式案内で確認できていません。",
           "url": "https://nscc.golftk.com/img/dresscode_manner.pdf",
@@ -19400,7 +19443,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内では水戸IC・水戸北スマートICからの距離を確認できますが、鉄道駅からの現行移動方法・所要時間・送迎案内は確認できていません。",
+          "url": "https://kabayagc.com/access/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文を確認。掲載は所在地と車の距離案内で、鉄道・送迎情報は確認できない。"
+        },
         "scenery": {
           "text": "御前山の自然と那珂川に接する立地を生かしたコース。水と緑の調和を図り、丘陵地ながら高低差を抑えています。",
           "url": "https://kabayagc.com/course/",
@@ -19448,7 +19497,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "関東ゴルフ連盟公式クラブ詳細でホール数を確認"
         },
-        "car": null,
+        "car": {
+          "text": "公式アクセス案内では所在地とJR友部駅からのクラブバスを確認できますが、最寄ICからの車の所要時間は本文に掲載されていません。",
+          "url": "https://kasama-club.com/access",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文を確認。所在地・連絡先・クラブバス時刻はあるが、IC名と車の所要時間を確認できない。"
+        },
         "rail": {
           "text": "JR友部駅北口から予約制クラブバスを運行。8:20・8:50発の2便です。",
           "url": "https://kasama-club.com/access",
@@ -20198,7 +20253,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス図にはJR水戸線と下館駅が表示されていますが、駅からの現行移動方法・所要時間・クラブバス案内は公式本文で確認できていません。",
+          "url": "https://shimodate.co.jp/access",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセスページと公式案内図PDFを確認。下館駅の位置表示はあるが、鉄道利用の所要時間や送迎条件は記載されていない。"
+        },
         "scenery": {
           "text": "筑波山を望む、広々とした平坦な18ホール。池・樹木・起伏を配したコースから、四季の筑波の眺めを楽しめます。",
           "url": "https://shimodate.co.jp/hole",
@@ -20308,15 +20369,34 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式アクセス案内は桜川筑西IC・谷和原ICからの車経路を掲載していますが、鉄道駅からの現行移動方法・所要時間・送迎案内は確認できていません。",
+          "url": "https://www.asia-shimodate.com/access.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式アクセス本文を確認。掲載は車経路のみで、鉄道・送迎条件は確認できない。"
+        },
         "scenery": {
           "text": "1番のフェアウェイ脇の松、7番中央の植栽など、樹木がコースの目印。蛇行する6番や9番の打ち下ろしも地形の変化を添えます。",
           "url": "https://asia-shimodate.com/out-course.html",
           "checked": "2026-10-24",
           "basis": "公式コース紹介の地形・樹木・水景の記述を確認"
         },
-        "dining": null,
-        "budget": null,
+        "dining": {
+          "text": "公式施設案内で2階レストランとテラスを確認できますが、料理名・現行メニュー・提供条件は本文に掲載されていません。最新内容は施設へ確認してください。",
+          "url": "https://asia-shimodate.com/facility.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内のレストラン欄でテラスと2階レストランを確認。画像から料理名を推測しない。"
+        },
+        "budget": {
+          "text": "公式料金案内はホームページオンライン予約をベストレートとしていますが、確認できる本文には現行の一般プレー総額が掲載されていません。",
+          "url": "https://asia-shimodate.com/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金案内でオンライン予約の位置付けとセグウェイ利用条件を確認。一般向け現行総額は本文で検証できない。",
+          "conditions": "セグウェイは利用規約への同意と初回講習が必要です。対象日の総額は公式予約または施設へ確認してください。"
+        },
         "stay": {
           "text": "庭園を望む石造りの浴場を公式に案内。女子浴場には専用パウダールームとマッサージルームを掲載。温泉・宿泊設備、営業時間・プラン別制限は未確認です。",
           "url": "https://asia-shimodate.com/facility.html",
@@ -20543,7 +20623,14 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。対象サービスデーは「松花堂弁当」を案内。通常日の食事形式も予約時に確認できます。",
           "dish": "松花堂弁当"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式料金ページは最新料金を別の予約・料金表示で確認する方式です。本文ではキャディフィー、追加ハーフ、セルフデー等の条件を確認できますが、現行の一般プレー総額は確認できていません。",
+          "url": "https://www.nanmajo.golf-web.jp/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式プレー料金本文で最新料金への導線、キャディ・追加ハーフ・セルフデー・割引条件を確認。基本総額は本文にない。",
+          "conditions": "毎週月・金は指定日を除きセルフデー。人数別キャディフィーや追加ハーフ、利用税免除・コンペ割引は別条件です。対象日の総額は公式予約で確認してください。"
+        },
         "stay": {
           "text": "男性用・女性用それぞれの浴室と脱衣所を備えています。",
           "url": "https://www.nanmajo.golf-web.jp/facility.html",
@@ -20773,7 +20860,14 @@ const DATA={
           "basis": "公式レストランページ本文でランチ、食事券付きセット、朝食のメニュー区分と料理名を確認。",
           "conditions": "プランに昼食が含まれるか、追加料金、提供状況は予約日・プランと当日のメニューで確認してください。"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式料金ページではカート追加料金、早朝・午後プレー、コンペ条件を確認できますが、一般1ラウンドの現行基本総額は本文から安全に検証できていません。",
+          "url": "https://www.taka-golf.co.jp/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金本文を確認。掲載の早朝料金は日付に年の明記がなく、一般料金表は画像中心のため、2026年の現行基本総額として採用しない。",
+          "conditions": "フェアウェイ乗り入れカートは1台1,200円、予約制で天候・コース状態による制限があります。一般プレー総額は対象日の公式予約または施設へ確認してください。"
+        },
         "stay": {
           "text": "クラブハウスに浴室があります。利用時間・利用できる設備は予約するプレープランによりご確認ください。",
           "url": "https://www.taka-golf.co.jp/house.html",

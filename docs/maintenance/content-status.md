@@ -1,20 +1,20 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `067b5e16aecfb58b49bef365be1ab791325ce3fb7d85cdb32adea0c999ce0255`
+data.js SHA256: `b4b952b7c49280a4c0d6309f6d187069703a26b756bbaf7b57876ba49cd6b56d`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
 | 項目 | 空欄数 |
 |---|---:|
 | プレー | 0 |
-| 車のアクセス | 8 |
-| 電車のアクセス | 19 |
-| 食事 | 13 |
+| 車のアクセス | 3 |
+| 電車のアクセス | 15 |
+| 食事 | 11 |
 | 宿泊・お風呂 | 12 |
-| 料金 | 43 |
+| 料金 | 39 |
 | 景色 | 5 |
 
-空欄を含む施設：69 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：58 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -33,10 +33,7 @@ data.js SHA256: `067b5e16aecfb58b49bef365be1ab791325ce3fb7d85cdb32adea0c999ce025
 | 163 | [ゴールド栃木プレジデントカントリークラブ](http://www.president-cc.jp/) | 料金 |
 | 178 | [加茂ゴルフ倶楽部](https://kamogolfclub.co.jp/) | 料金 |
 | 179 | [ゴールデンクロスカントリークラブ](https://www.goldencrosscc.com/) | 料金 |
-| 223 | [長太郎カントリークラブ](https://booking.pacificgolf.co.jp/guide/58.html) | 車のアクセス |
 | 234 | [富士市原ゴルフクラブ](https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/) | 電車のアクセス |
-| 236 | [総武カントリークラブ 印旛コース](https://booking.pacificgolf.co.jp/guide/63.html) | 車のアクセス・食事 |
-| 237 | [総武カントリークラブ 北コース](https://booking.pacificgolf.co.jp/guide/64.html) | 車のアクセス |
 | 241 | [香取カントリークラブ](https://www.katoricc.com/) | 電車のアクセス・食事・宿泊・お風呂・料金・景色 |
 | 243 | [新千葉カントリー倶楽部](https://www.shinchiba-cc.co.jp/) | 電車のアクセス・食事・宿泊・お風呂・料金・景色 |
 | 246 | [ブリック＆ウッドクラブ](https://www.brickandwood.jp/) | 車のアクセス・電車のアクセス・料金 |
@@ -46,17 +43,9 @@ data.js SHA256: `067b5e16aecfb58b49bef365be1ab791325ce3fb7d85cdb32adea0c999ce025
 | 256 | [茨城ロイヤルカントリー倶楽部](https://www.ibarakiroyalcc.com/) | 料金 |
 | 259 | [金砂郷カントリークラブ](https://www.kanasago.com/) | 電車のアクセス |
 | 260 | [ゴルフ倶楽部セブンレイクス](https://sevenlakes.jp/) | 料金 |
-| 283 | [桜ゴルフ倶楽部](http://www.sakurasgo.com) | 車のアクセス |
 | 300 | [ダイヤグリーン倶楽部](http://www.daiyagreen.com) | 車のアクセス・電車のアクセス・食事・宿泊・お風呂 |
-| 309 | [ノースショアカントリークラブ](https://nscc.golftk.com/) | 電車のアクセス・料金 |
-| 310 | [ひたち大宮ゴルフクラブ](http://kabayagc.com/) | 電車のアクセス |
-| 311 | [富士カントリー笠間倶楽部](https://kasama-club.com/) | 車のアクセス |
 | 314 | [水戸グリーンカントリークラブ 山方コース](https://www.mgcc.jp/) | 電車のアクセス |
 | 316 | [龍ヶ崎カントリー倶楽部](http://www.ryugasaki-cc.com) | 料金 |
-| 324 | [下館ゴルフ倶楽部](https://shimodate.co.jp/) | 電車のアクセス |
-| 326 | [アジア下館カントリー倶楽部](https://asia-shimodate.com/) | 電車のアクセス・食事・料金 |
-| 330 | [南摩城カントリークラブ](https://nanmajo.golf-web.jp/) | 料金 |
-| 334 | [鷹ゴルフ倶楽部](https://www.taka-golf.co.jp/) | 料金 |
 | 335 | [杉ノ郷カントリークラブ](https://www.suginosato.co.jp/) | 食事 |
 | 339 | [益子ヒルズゴルフクラブ](https://www.mashikohills.com/) | 電車のアクセス |
 | 348 | [G7カントリー倶楽部](https://www.g7cc.co.jp/) | 電車のアクセス |
