@@ -1,0 +1,26 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "62809803932c9e0ee607897fedc5087852e0b579",
+  "adopted": [
+    {"id": 5, "field": "dining", "source": "https://edogawaline.or.jp/", "reason": "公式サイトで食事案内を確認できず、施設なしとは断定せず未確認として整理。"},
+    {"id": 7, "field": "budget", "source": "https://www3.golfyoyaku.jp/rsv_sys/reiwagolfresort/murasakigc/mcalendar/", "reason": "公式予約で2026年10月30日の公開2プランの税込総額と条件を確認。"},
+    {"id": 48, "field": "budget", "source": "https://wst1.asts.jp/golfnet/cc/06651CC/plan/", "reason": "公式予約で2026年10月30日の公開プランと100円単位の金額表示を確認。"},
+    {"id": 84, "field": "stay", "source": "https://dynamic-golf.jp/chiba/facility_fee/", "reason": "公式施設案内を確認し、浴場・シャワー・宿泊設備は未確認として整理。"},
+    {"id": 86, "field": "stay", "source": "https://dynamic-golf.jp/mobara/facility_fee/", "reason": "公式施設案内を確認し、浴場・シャワー・宿泊設備は未確認として整理。"},
+    {"id": 88, "field": "dining", "source": "https://tamagawagolfclub.com/facilities/", "reason": "公式施設案内で食事案内を確認できず、提供なしとは断定せず未確認として整理。"},
+    {"id": 112, "field": "stay", "source": "https://page.line.me/895hxrnv/showcase/1772387649268928/item/1844214866655096", "reason": "公式LINE施設情報で男女の浴槽・シャワーを確認し、運営会社公式のセルフデー休止条件を照合。"},
+    {"id": 240, "field": "stay", "source": "https://www.takanodaicc.or.jp/facility/", "reason": "公式施設案内でお風呂とロッカーを確認。ゲストルームは宴会場であり宿泊室とは扱わない。"},
+    {"id": 249, "field": "dining", "source": "https://tokyo-classic.jp/kleingarten/", "reason": "公式農園案内で収穫野菜をクラブレストラン食材に使用する説明を確認。"},
+    {"id": 281, "field": "budget", "source": "https://www3.golfyoyaku.jp/rsv_sys/alpen-group/kasama/mcalendar/index/start:202611", "reason": "公式予約で2026年11月4日の公開プラン総額と条件を確認。"}
+  ],
+  "notAdopted": [
+    {"id": 59, "fields": ["budget"], "source": "https://bristol-hill.com/", "reason": "公式サイトから予約画面へ進めるが、公開中の基本プレー料金を本文で確認できない。"},
+    {"id": 183, "fields": ["budget"], "source": "https://kamagaya-cc.co.jp/", "reason": "公式予約画面に一般向け公開プランの金額を確認できない。"},
+    {"id": 186, "fields": ["budget"], "source": "https://www.kunocc.co.jp/", "reason": "公式掲載料金は会員向けで、一般ゲストの公開料金として採用できない。"},
+    {"id": 216, "fields": ["budget"], "source": "https://www.yc21.co.jp/mangijo/", "reason": "公式本文は公式Web料金を案内するが、現行の具体的総額を本文で確認できない。"},
+    {"id": 218, "fields": ["budget"], "source": "https://www.yamadahaiji.jp/", "reason": "公式料金ページの条件は確認できるが、現行価格の表示を本文で検証できない。"},
+    {"id": 287, "fields": ["stay"], "source": "https://shiraho-cc.com/", "reason": "公式サイトで浴場・シャワー・宿泊設備の現行案内を確認できない。第三者情報は採用しない。"},
+    {"id": 303, "fields": ["stay"], "source": "https://www.tukubane.com/", "reason": "公式サイト本文で浴場・シャワー・宿泊設備を確認できない。第三者予約サイトの設備欄は採用しない。"},
+    {"id": 318, "fields": ["budget"], "source": "https://onewaygc.co.jp/fee/", "reason": "公式の現行料金表が画像中心で、プラン条件と金額を本文として安全に照合できないため今回は採用しない。"}
+  ]
+}
