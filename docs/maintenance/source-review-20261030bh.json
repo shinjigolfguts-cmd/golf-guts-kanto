@@ -1,0 +1,19 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "1027a0a18cf1c6a65cc8ff853b6003dd1fa64e00",
+  "items": [
+    {"id": 282, "name": "ゴルフ5カントリーサニーフィールド", "field": "budget", "status": "content_verified", "url": "https://www.alpen-group.net/sunnyfield/cottage/", "finding": "2026年改定の平日1泊2Rビジター料金と食事・税条件を確認。"},
+    {"id": 345, "name": "鹿沼72カントリークラブ", "field": "budget", "status": "content_verified", "url": "https://kanuma72.jp/plan/", "finding": "10～12月の平日おしどり夫婦パック2名合計額と除外日を確認。"},
+    {"id": 349, "name": "新宇都宮カントリークラブ", "field": "budget", "status": "content_verified", "url": "https://shinutsu.com/fee/", "finding": "1泊朝食付きロッジ料金を確認。プレー料金は埋込表示のため採用しない。"},
+    {"id": 351, "name": "鹿沼プレミアゴルフ倶楽部", "field": "budget", "status": "content_verified", "url": "https://www.kanuma-premier.jp/fee.html", "finding": "2026年4月4日以降の通年総額とセルフ・乗用カート・1R条件を確認。"},
+    {"id": 408, "name": "鴻巣カントリークラブ", "field": "budget", "status": "content_verified", "url": "https://kcc.kanbun-group.co.jp/announcement/23a4", "finding": "2027年1～2月の開場50周年対象日料金と除外条件を確認。"},
+    {"id": 409, "name": "高麗川カントリークラブ", "field": "budget", "status": "content_verified", "url": "https://www.komagawacc.co.jp/news/37028.html", "finding": "2026年からの登録家族料金と季節・利用税条件を確認。"},
+    {"id": 430, "name": "ザ ナショナルカントリー倶楽部 埼玉", "field": "budget", "status": "content_verified", "url": "https://national-cc.jp/saitama/member/", "finding": "メンバー通常期料金と食事代条件を確認。"},
+    {"id": 453, "name": "髙梨子倶楽部", "field": "budget", "status": "content_verified", "url": "https://www.onogi.jp/tomo/top.html", "finding": "2026年度友の会料金、サービス期間、ハイシーズン期間を確認。"},
+    {"id": 281, "name": "ゴルフ5カントリーかさまフォレスト", "field": "budget", "status": "not_adopted_no_base_amount", "url": "https://www.alpen-group.net/kasama-forest/reserve/", "finding": "バッグ割増と追加ハーフ料金は確認できるが、基本プレー料金は公開本文で確認できず採用しない。"},
+    {"id": 284, "name": "サミットゴルフクラブ", "field": "budget", "status": "not_adopted_external_calendar", "url": "https://www.summit-golf-club.jp/playfee/", "finding": "最新料金は外部予約カレンダー確認の案内で、公式本文に通常料金がないため採用しない。"},
+    {"id": 291, "name": "スパ＆ゴルフリゾート久慈", "field": "budget", "status": "not_adopted_image_only", "url": "https://www.resol-golf.jp/kuji/recommend/golf_stay26autumn", "finding": "2026年10月以降のプラン存在は確認できるが、具体額が画像・PDF内で本文確認できず採用しない。"},
+    {"id": 383, "name": "足利カントリークラブ 多幸コース", "field": "budget", "status": "not_adopted_expired_period", "url": "https://www.ashikaga-cc.com/information/price/", "finding": "確認できた具体額が4～6月分で、2026年10月現在の料金として採用しない。"},
+    {"id": 384, "name": "足利カントリークラブ 飛駒コース", "field": "budget", "status": "not_adopted_expired_period", "url": "https://www.ashikaga-cc.com/information/price/", "finding": "確認できた具体額が4～6月分で、2026年10月現在の料金として採用しない。"}
+  ]
+}
