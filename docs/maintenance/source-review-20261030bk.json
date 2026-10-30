@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "5877200d0451554d319b7be69d75b66bf34b1a43",
+  "adopted": [
+    {
+      "id": 139,
+      "field": "stay",
+      "source": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/course_news/658b66f2/tmp_main_r_174_edit_confirm_1703634659.pdf",
+      "reason": "PGM公式PDFでロッカー・浴室、220円、利用制限、貴重品ロッカーを確認。"
+    },
+    {
+      "id": 440,
+      "field": "dining",
+      "source": "https://www.pacificgolf.co.jp/musashi/restaurant.asp",
+      "reason": "公式レストラン本文で現行メニュー名と朝食・デザート・パーティーメニューを確認。"
+    }
+  ],
+  "notAdopted": [
+    {
+      "id": 84,
+      "fields": ["stay"],
+      "source": "https://dynamic-golf.jp/",
+      "reason": "千葉店の公式施設列挙に浴場・シャワーの記載がないが、記載なしを施設なしとは判断しない。"
+    },
+    {
+      "id": 86,
+      "fields": ["stay"],
+      "source": "https://dynamic-golf.jp/",
+      "reason": "茂原店の公式施設列挙に浴場・シャワーの記載がないが、記載なしを施設なしとは判断しない。"
+    },
+    {
+      "id": 112,
+      "fields": ["stay"],
+      "source": "https://www.river-golf.com/contents/golf/yoshimi",
+      "reason": "検索で確認できた入浴制限は別コースのセルフデー案内であり、吉見へ転用しない。"
+    },
+    {
+      "id": 453,
+      "fields": ["rail"],
+      "source": "https://www.takanashiclub.jp/access.html",
+      "reason": "公式アクセスページ本文に電車・タクシー・送迎の所要条件がなく、地図から推測しない。"
+    }
+  ]
+}
