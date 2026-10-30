@@ -1,0 +1,95 @@
+{
+  "baseSha256": "7c298ddfd7086a9dd5f7c6084ffe5451f1189ef290900e73baa5b3fbe33d9c53",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 113,
+      "name": "朝霞パブリックゴルフ場",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスに男性用・女性用の浴室とロッカールームがあります。ロッカーは100円コインロッカーです。宿泊設備は公式案内で未確認です。", "url": "https://asaka-pab-golf.com/facility.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式施設案内本文で男女浴室、男女ロッカールーム、100円コインロッカーを確認。宿泊設備は推測しない。"},
+      "evidenceNote": "公式施設案内のクラブハウス館内説明を実読し、男女別設備とロッカー料金を確認。"
+    },
+    {
+      "id": 184,
+      "name": "我孫子ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "ゲスト用ロッカーは1日330円です。浴場・シャワー・宿泊設備は公式料金案内で未確認です。", "url": "https://www.abikogc.com/guide/charge/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式料金案内本文でゲスト用ロッカーフィー1日330円を確認。未記載設備の有無は推測しない。"},
+      "evidenceNote": "公式料金表のロッカーフィーを確認し、浴場等は未確認として区別。"
+    },
+    {
+      "id": 193,
+      "name": "大千葉カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "公式の営業案内ではロッカーとシャワールームを利用でき、シャワールームは8時30分からと案内されています。浴槽・宿泊設備は未確認です。", "url": "https://www.daichibacc.com/news/202492b", "checked": "2026-10-30", "sourceType": "official", "basis": "公式お知らせ本文でロッカーとシャワールーム、シャワー開始時刻を確認。浴槽・宿泊設備は推測しない。"},
+      "evidenceNote": "公式営業案内を実読し、利用可能設備と開始時刻を確認。"
+    },
+    {
+      "id": 216,
+      "name": "万木城カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにロッカーがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。", "url": "https://www.yc21.co.jp/mangijo/house.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式施設案内本文でクラブハウスのロッカーを確認。未記載設備の有無は推測しない。"},
+      "evidenceNote": "山田クラブ21の公式施設案内でロッカー掲載を確認。"
+    },
+    {
+      "id": 217,
+      "name": "南茂原カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。", "url": "https://yc21.co.jp/minamimobara/house.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式施設案内本文でクラブハウスのロッカールームを確認。未記載設備の有無は推測しない。"},
+      "evidenceNote": "山田クラブ21の公式施設案内でロッカールーム掲載を確認。"
+    },
+    {
+      "id": 400,
+      "name": "足利渡良瀬ゴルフ場",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにシャワー室があります。公式トップページには改修工事による一時クローズ案内が掲載されているため、最新の利用可否は来場前にご確認ください。宿泊設備は未確認です。", "url": "https://ashikaga-watarase-golf.jp/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式トップページ本文のシャワー室改修工事案内から設備の存在を確認。工事後の利用可否と宿泊設備は推測しない。"},
+      "evidenceNote": "公式のお知らせでシャワー室を確認し、工事案内があるため利用可否の確認条件を明記。"
+    },
+    {
+      "id": 412,
+      "name": "高根カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "貴重品ロッカーと当日貸しロッカーがあります。浴場・シャワー・宿泊設備は公式利用約款で未確認です。", "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2022/06/rule.pdf", "checked": "2026-10-30", "sourceType": "official", "basis": "公式ゴルフ場利用約款の貴重品保管条項と貸しロッカー条項を実読。未記載設備の有無は推測しない。"},
+      "evidenceNote": "公式利用約款で貴重品ロッカーと当日貸しロッカーを確認。"
+    },
+    {
+      "id": 432,
+      "name": "東京ゴルフ倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式案内で未確認です。", "url": "https://www.tokyogolfclub.jp/wp-content/uploads/2021/06/%E6%96%B0%E3%81%97%E3%81%84%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A62021%E3%82%A2%E3%83%B3%E3%82%AF%E3%83%AB%EF%BC%89.docx.pdf", "checked": "2026-10-30", "sourceType": "official", "basis": "公式ドレスコード本文で来場時の着替え場所としてロッカールームを確認。浴場等は推測しない。"},
+      "evidenceNote": "公式ドレスコードのロッカールーム利用記載を確認。"
+    },
+    {
+      "id": 435,
+      "name": "平成倶楽部 鉢形城コース",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。", "url": "https://www.yc21.co.jp/heisei/house.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式施設案内本文でクラブハウスのロッカールームを確認。未記載設備の有無は推測しない。"},
+      "evidenceNote": "山田クラブ21の公式施設案内でロッカールーム掲載を確認。"
+    },
+    {
+      "id": 469,
+      "name": "大間々ゴルフクラブ",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "男性用・女性用のロッカールーム、脱衣所、大浴場があります。早朝ラウンドスルーではシャワー利用は別途400円で、ロッカーは利用できません。宿泊設備は公式案内で未確認です。", "url": "https://www.omama-gc.com/clubhouse.htm", "checked": "2026-10-30", "sourceType": "official", "basis": "公式クラブハウス案内で男女別ロッカー・脱衣所・大浴場を確認し、公式プレー料金案内で早朝ラウンドのシャワー料金とロッカー利用不可条件を確認。"},
+      "evidenceNote": "公式施設案内と公式プレー料金案内を照合し、通常設備と早朝プラン条件を区別。"
+    },
+    {
+      "id": 484,
+      "name": "東京カントリー倶楽部",
+      "field": "stay",
+      "before": null,
+      "after": {"text": "クラブハウスにロッカーがあります。浴場・シャワー・宿泊設備は公式クラブハウス案内で未確認です。", "url": "https://www.tokyo-cc.jp/clubhouse/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式クラブハウス案内本文でロッカーを確認。未記載設備の有無は推測しない。"},
+      "evidenceNote": "公式クラブハウス案内でロッカー掲載を確認。"
+    }
+  ]
+}
