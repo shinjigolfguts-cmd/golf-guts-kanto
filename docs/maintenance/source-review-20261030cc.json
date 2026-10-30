@@ -17,6 +17,7 @@
     {"id":140,"name":"鹿野山ゴルフ倶楽部","field":"budget","url":"https://www.kanozan.co.jp/","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、第三者料金を採用しない。"},
     {"id":163,"name":"ゴールド栃木プレジデントカントリークラブ","field":"budget","url":"https://www.president-cc.jp/","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、第三者料金を採用しない。"},
     {"id":234,"name":"富士市原ゴルフクラブ","field":"rail","url":"https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access","result":"reviewed_unresolved","reason":"公式アクセス本文に当施設の鉄道案内がなく、同ページ内の近隣コース情報を転用しない。"},
+    {"id":241,"name":"香取カントリークラブ","field":"stay","url":"https://www.katoricc.com/facilities/index3.html","result":"reviewed_unresolved","reason":"公式施設案内ではロッカールームを確認したが、浴場・宿泊の現行条件を確認できず、設備なしとは判断しない。"},
     {"id":243,"name":"新千葉カントリー倶楽部","field":"dining","url":"https://www.shinchiba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトで現行レストランメニュー本文を特定できず、第三者情報を採用しない。"},
     {"id":243,"name":"新千葉カントリー倶楽部","field":"stay","url":"https://www.shinchiba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトで浴場・宿泊の現行条件を特定できず、設備なしとは判断しない。"},
     {"id":249,"name":"東京クラシッククラブ","field":"budget","url":"https://tokyo-classic.jp/members_login/","result":"reviewed_unresolved","reason":"料金・予約情報は会員ログイン後の案内。認証を迂回せず、一般相場を推測しない。"},
