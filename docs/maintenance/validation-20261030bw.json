@@ -1,0 +1,142 @@
+{
+  "checked": "2026-10-30",
+  "publishedCommit": "1b66bdc8817735c3e7f445b538af8740ea9bbdea",
+  "batch": "applied_updates/verified-followup-20261030bw.json",
+  "workflow": {
+    "id": 41031473737,
+    "url": "https://github.com/shinjigolfguts-cmd/golf-guts-kanto/actions/runs/41031473737",
+    "conclusion": "success"
+  },
+  "pages": {
+    "id": 41031497338,
+    "url": "https://github.com/shinjigolfguts-cmd/golf-guts-kanto/actions/runs/41031497338",
+    "conclusion": "success"
+  },
+  "changes": {
+    "courses": 17,
+    "fields": 18,
+    "newlyNonNull": 17,
+    "existingFieldSupplement": 1
+  },
+  "tests": {
+    "selectionCombinations": 384,
+    "pythonTests": 11,
+    "coursePages": 500,
+    "sitemapURLs": 503,
+    "javascriptSyntax": "passed",
+    "diffWhitespace": "passed",
+    "allNonTargetDataPreserved": true,
+    "all500IDsAndOrderPreserved": true,
+    "categoriesDesignFavoritesPreserved": true
+  },
+  "liveVerification": [
+    {
+      "path": "data.js",
+      "match": true,
+      "sha256": "651ee447f6d4eb669d58fae4df3c28b4804c9ac8132fb5e6f4003598835c4fe4"
+    },
+    {
+      "path": "courses/19.html",
+      "match": true,
+      "sha256": "cd6aff9cadd465ac8089bdd33bcb72199398254ed8fc562ec17efcfd51ed40fd"
+    },
+    {
+      "path": "courses/134.html",
+      "match": true,
+      "sha256": "31288f0f931bace0b064cd0f84db9f6e55912e0b6231e3b82cca9fb7a1061335"
+    },
+    {
+      "path": "courses/157.html",
+      "match": true,
+      "sha256": "1bec19b849da9965129907dfbf4773a6d489787fb44f42e69aa3bd81f49ed66b"
+    },
+    {
+      "path": "courses/158.html",
+      "match": true,
+      "sha256": "96a44e6e83f7a87e0e66f75f0f055c4d659647e6ef5119fcd10f797157855943"
+    },
+    {
+      "path": "courses/248.html",
+      "match": true,
+      "sha256": "a05c10b9eac6d20262b57c13fbfac24dda1cf40b54981745f9ff0501ce8947d8"
+    },
+    {
+      "path": "courses/254.html",
+      "match": true,
+      "sha256": "4cde9597e123d1b582e4e73357a467cde801af6b40c6b69fb5ff26c7f65fb270"
+    },
+    {
+      "path": "courses/260.html",
+      "match": true,
+      "sha256": "3d0c521a283a225ae72ae8b9ae55295d943d0fe8c0ff6ad2270346170433a669"
+    },
+    {
+      "path": "courses/354.html",
+      "match": true,
+      "sha256": "36f1b1a56ff0a1c07b613adfd2f73b360d4d90240c8ca52d3c40bc14515f7a49"
+    },
+    {
+      "path": "courses/356.html",
+      "match": true,
+      "sha256": "1b479f63bdccae2d0d6d0de9c29b716751bb5e94bb7dbaaede2f4f5db965d331"
+    },
+    {
+      "path": "courses/357.html",
+      "match": true,
+      "sha256": "358d9871458c5673c30f0683d893555fa184da8268d39bca2e6b9d272d61429b"
+    },
+    {
+      "path": "courses/399.html",
+      "match": true,
+      "sha256": "9a0b61b6cded908e43cbb18cf1d385d5ff3bd209cdf890c9cf3b5f89a515b15d"
+    },
+    {
+      "path": "courses/424.html",
+      "match": true,
+      "sha256": "a6df9781dcd15496a22ec291c9b90b4dc8d1204f8a071f58926e73bfaf47b839"
+    },
+    {
+      "path": "courses/425.html",
+      "match": true,
+      "sha256": "c9c3a18c9d49acafcf7cc8b76e36287d78586f535c73c1a8abd5b068221d90e8"
+    },
+    {
+      "path": "courses/426.html",
+      "match": true,
+      "sha256": "7d2d9cbb66f7e05701515bdc0d4020b576c447c11dd09e23e51c4cb72c7c6304"
+    },
+    {
+      "path": "courses/432.html",
+      "match": true,
+      "sha256": "e9fe169ee70b6be6d325859a30e1b94ea71e77c5c3f68fbe17bdd7ae76d6bb0a"
+    },
+    {
+      "path": "courses/465.html",
+      "match": true,
+      "sha256": "d9e5cff47f2a3532a9d60e7ea26690b504127309f29527bc38d0f6a4768f35f7"
+    },
+    {
+      "path": "courses/476.html",
+      "match": true,
+      "sha256": "041cb3547b8badb90d930ec43a329d4aa236ed740f2c654369ec217f29d7896d"
+    }
+  ],
+  "remaining": {
+    "nullFields": 50,
+    "coursesWithNull": 31,
+    "byField": {
+      "car": 1,
+      "rail": 13,
+      "dining": 6,
+      "stay": 10,
+      "budget": 15,
+      "scenery": 5
+    },
+    "thisBatchPartialBudgetBasePriceUnknown": 13,
+    "thisBatchPartialDiningMenuUnknown": 3,
+    "note": "50は未入力欄のみ。既に部分記載した欄の未確認事実は別に残る。今回の条件部分記載16件や過去バッチの部分記載を内容確認済みと数えない。全体完了ではない。"
+  },
+  "next": "source-review-20261030bw.jsonの各nextActionに沿って、既失敗URLの同一反復を避け、公式資料の追加・予約画面回復・公開された運営元資料を確認する。取得失敗を情報不存在と扱わない。",
+  "searchConsole": "非公開ステータス未確認。通知設定変更なし。",
+  "automation": "全体未完了かつ一時的取得失敗等が残るため継続タスク設定は変更していない。"
+}
