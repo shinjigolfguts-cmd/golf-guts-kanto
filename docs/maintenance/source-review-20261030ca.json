@@ -1,0 +1,22 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "c6fd7727be7c1a0b6df144d3931ada5661146f05",
+  "scope": "実情報未確認48項目の継続調査。カメリアヒルズの公式施設案内本文から浴場設備を確認し、宿泊可否へ拡張せず差分更新。",
+  "counts": {
+    "initialTargetFactsStillUnconfirmed": 48,
+    "reviewedCourses": 1,
+    "confirmedFields": 1,
+    "expectedTargetFactsStillUnconfirmed": 47
+  },
+  "entries": [
+    {
+      "id": 12,
+      "name": "カメリアヒルズカントリークラブ",
+      "field": "stay",
+      "url": "https://www.camelliahills.com/facilities/",
+      "result": "男女別浴室・露天風呂・サウナ・個室浴室・VIP室専用浴室を確認",
+      "conditions": "施設案内は浴場とVIP室の設備説明。宿泊可能とは記載されていないため、宿泊施設とは扱わない。"
+    }
+  ],
+  "searchConsole": "非公開ステータスは確認していない。"
+}
