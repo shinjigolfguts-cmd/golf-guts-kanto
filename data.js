@@ -7705,7 +7705,13 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式レストラン本文を確認"
         },
-        "stay": null,
+        "stay": {
+          "text": "クラブハウスにロッカーがあります。浴場・宿泊設備は公式施設案内で確認できていません。",
+          "url": "https://www.itukaiti.co.jp/facility/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内の設備一覧でロッカーを確認。浴場・宿泊は同ページに記載がないため未確認として区別。"
+        },
         "budget": {
           "text": "4名・キャディ付きの一般ゲスト料金は、平日18,709〜21,109円、土日祝22,790〜24,970円。消費税・利用税を含み、季節により変わります。通常日のセルフは3,300円引きです。",
           "url": "https://www.itukaiti.co.jp/fee/",
@@ -9759,7 +9765,13 @@ const DATA={
           "dish": "常陸牛ステーキ重",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "来場者はクラブハウスのロッカーでゴルフシューズに履き替えます。浴場・宿泊設備は公式案内で確認できていません。",
+          "url": "https://www.ohtone.co.jp/forvisitors/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式来場者案内でロッカーでの履き替えを確認。浴場・宿泊は同ページに記載がないため未確認として区別。"
+        },
         "budget": {
           "text": "2026年ゲスト料金表は、週日22,590～26,660円、休日28,750～38,320円の区分を掲載しています。ゲスト感謝デーは17,750円。4バッグ・1ラウンド・キャディ付きで、諸経費と消費税を含み、飲食費は別です。",
           "url": "https://www.ohtone.co.jp/content/wp-content/uploads/2025/12/fee_2026.pdf",
@@ -11283,7 +11295,13 @@ const DATA={
           "priceLabel": "WEB予約 平日12,300円／土日24,000～27,000円",
           "conditions": "2026年10～12月の公式WEB予約料金、セルフ、食事・消費税・利用税込み。祝日および人数追加料金は予約時確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "通常ロッカーと暗証番号式の貴重品ロッカーがあります。浴場・宿泊設備の現在の利用条件は公式案内で確認できていません。",
+          "url": "https://www.naritaff.com/rules/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設利用約款で通常ロッカーと貴重品ロッカーを確認。過去のお知らせは現在条件の根拠に使用しない。"
+        }
       },
       "researchSources": [
         "https://www.naritaff.com/",
@@ -16310,7 +16328,13 @@ const DATA={
           "basis": "公式ビジター料金表と税・時季変更の注記を本文で照合。",
           "conditions": "通常案内の掲載料金。少人数割増は未確認。予約料金は時季・プランで変動。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスに貴重品ロッカーがあります。浴場・宿泊設備は公式施設案内で確認できていません。",
+          "url": "https://www.sakuranomiyagc.jp/facility_other.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内でサブカウンター・貴重品ロッカーを確認。浴場・宿泊は同ページに記載がないため未確認として区別。"
+        }
       },
       "id": 261
     },
@@ -17671,7 +17695,13 @@ const DATA={
           "priceVerified": true,
           "priceLabel": "2026年11月30日掲載例 総額8,570円"
         },
-        "stay": null
+        "stay": {
+          "text": "男女のロッカールームと浴室、本格サウナがあります。宿泊設備は公式施設案内で確認できていません。",
+          "url": "https://www.sakurasgo.com/facility.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内で男女ロッカールーム、男女浴室、サウナ、脱衣所を確認。宿泊は記載がないため未確認として区別。"
+        }
       },
       "id": 283
     },
@@ -19118,7 +19148,13 @@ const DATA={
           "dish": "魚介塩ラーメン"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカールームがあります。浴場・宿泊設備は公式案内で確認できていません。",
+          "url": "https://nscc.golftk.com/img/dresscode_manner.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ドレスコード・マナー資料でゴルフシューズをロッカールームで履き替える案内を確認。浴場・宿泊は未確認。"
+        }
       },
       "id": 309
     },
@@ -19389,7 +19425,14 @@ const DATA={
           "basis": "公式reserveページの公開カレンダーから対象プラン詳細を読み、対象日・税込額・食事・人数割増・ロッカー代を確認。",
           "conditions": "2026-11-04のビジター直前優待。2B/3B+0円、ロッカー使用料110円別途。税込表示だが利用税包含の明示は未確認。FW乗入れは天候・コース状況次第。予約操作なし。"
         },
-        "stay": null
+        "stay": {
+          "text": "ゲスト用ロッカーがあり、使用料は110円です。浴場・宿泊設備は公式案内で確認できていません。",
+          "url": "https://www.mgcc.jp/event/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式営業案内で2026年1月からのゲストロッカー使用料110円を確認。浴場・宿泊は未確認。",
+          "conditions": "ロッカーを使用するゲストに、カレンダー料金とは別に110円が加算。"
+        }
       },
       "id": 314
     },
@@ -20525,7 +20568,14 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式料金ページ掲載の対象プランでは、ロッカーとお風呂は利用できません。通常営業時の設備・宿泊は公式本文で確認できていません。",
+          "url": "https://suginosato.co.jp/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページで対象プランのロッカー・お風呂利用不可を確認。通常営業全体へ一般化せず、対象プランの条件として記録。",
+          "conditions": "公式料金ページで『ロッカー、お風呂はご利用いただけません』と案内される対象プラン。通常営業の設備有無を示すものではない。"
+        }
       },
       "id": 335
     },
@@ -20749,7 +20799,14 @@ const DATA={
           "priceVerified": true,
           "priceLabel": "指定日7,990～8,590円＋別途費用"
         },
-        "stay": null
+        "stay": {
+          "text": "浴室はシャワー利用となり、ロッカー費は150円です。宿泊設備は公式案内で確認できていません。",
+          "url": "https://www.mashikohills.com/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式プレー料金ページで浴室はシャワーであることとロッカー費150円を確認。宿泊は未確認。",
+          "conditions": "ロッカー利用料150円はプレー料金と別。"
+        }
       }
     },
     {
