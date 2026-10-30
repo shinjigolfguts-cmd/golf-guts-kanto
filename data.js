@@ -17608,7 +17608,16 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "梅蕎麦と鮪山かけ丼"
         },
-        "budget": null,
+        "budget": {
+          "text": "平日限定の1泊2ラウンド『ゴルフ満喫プラン』は、3～12月のビジター料金が16,520円です。",
+          "url": "https://www.alpen-group.net/sunnyfield/cottage/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コテージ案内で2026年4月改定後の1泊2R料金、対象月、食事・税条件を確認。",
+          "conditions": "平日限定。サニーフィールドとかさまフォレストの1泊2プレー、昼食2回・朝食1回付き。消費税・ゴルフ場利用税込み。3～12月のビジター料金。",
+          "priceVerified": true,
+          "priceLabel": "平日1泊2R・16,520円"
+        },
         "stay": {
           "text": "コテージ10棟を案内。1棟貸切で宿泊できます。",
           "url": "https://www.alpen-group.net/sunnyfield/cottage/",
@@ -21086,7 +21095,16 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。名物「牛魂一擲 鹿沼カルビラーメン」を掲載。",
           "dish": "牛魂一擲 鹿沼カルビラーメン"
         },
-        "budget": null,
+        "budget": {
+          "text": "平日限定のおしどり夫婦パックは、10～12月が夫婦2名で13,400円です。乗用カート・セルフプレー・昼食付きです。",
+          "url": "https://kanuma72.jp/plan/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式お得プランページで対象月、2名合計額、プレースタイル、除外日を確認。",
+          "conditions": "夫婦2名の合計プレー代。平日限定。4月30日、5月1～2日、12月30～31日および年末年始・GW・定休日開放デーは対象外。キャディ付は別料金。",
+          "priceVerified": true,
+          "priceLabel": "夫婦2名・13,400円"
+        },
         "stay": {
           "text": "クラブハウスに、広めの浴槽を備えた大浴場があります。",
           "url": "https://kanuma72.jp/facilities/",
@@ -21303,7 +21321,16 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。「特製手こねハンバーグおろしステーキソース」をランチに掲載。",
           "dish": "特製手こねハンバーグおろしステーキソース"
         },
-        "budget": null,
+        "budget": {
+          "text": "併設ロッジの1泊朝食付き料金は、2名以上利用で1人4,350円、1名利用で5,500円です。",
+          "url": "https://shinutsu.com/fee/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金案内でロッジ宿泊料金と朝食条件を確認。プレー料金は埋込カレンダーのため転用しない。",
+          "conditions": "ロッジ和室の宿泊料金。1泊朝食込み。プレー料金は含まない。然寿庵は別料金。",
+          "priceVerified": true,
+          "priceLabel": "ロッジ2名以上・1人4,350円"
+        },
         "stay": {
           "text": "和室ロッジと数寄屋造りの「然寿庵」を用意。1泊朝食付きで、1人利用と2名以上の利用で料金が異なります。",
           "url": "https://shinutsu.com/fee/",
@@ -21415,7 +21442,16 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。「自家製もつ煮込み定食」や「自家製辛口ホルモン定食」を掲載。",
           "dish": "自家製もつ煮込み定食"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年4月4日以降の通年料金は、平日が税込総額4,940円、土日祝・特別料金日が税込総額7,800円です。",
+          "url": "https://www.kanuma-premier.jp/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページで2026年4月4日以降の通年料金、セルフ・乗用カート・1R条件を確認。",
+          "conditions": "乗用カート、セルフプレー、1ラウンド。キャディ付は4Bで1人3,300円、3Bで4,400円、2Bで6,600円加算。",
+          "priceVerified": true,
+          "priceLabel": "平日・税込総額4,940円"
+        },
         "stay": {
           "text": "ゴルフ場内に併設ロッヂがあります。公式案内は洋室・和室の素泊まりで、食事別・浴衣なし。浴室の設備や利用条件は未確認です。",
           "url": "https://www.kanuma-premier.jp/house.html",
@@ -24704,7 +24740,16 @@ const DATA={
           "sourceType": "official",
           "dish": "こうのす担々麺"
         },
-        "budget": null,
+        "budget": {
+          "text": "開場50周年企画の対象日（5日・15日・25日）は、2027年1～2月のゲスト料金が平日セルフ9,555円、土日祝セルフ12,555円です。",
+          "url": "https://kcc.kanbun-group.co.jp/announcement/23a4",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式2026年2月告知で対象期間、対象日、ゲスト料金、税・昼食・人数条件を確認。",
+          "conditions": "2027年1～2月の5日・15日・25日。消費税・ゴルフ場利用税込み、昼食別。貸切・特別優待期間・オープンコンペは対象外。4名未満は追加料金あり。",
+          "priceVerified": true,
+          "priceLabel": "対象日・平日セルフ9,555円"
+        },
         "stay": {
           "text": "クラブハウスに浴室とパウダールームを備えています。公式施設案内で各設備の写真を紹介しています。",
           "url": "https://kcc.kanbun-group.co.jp/facility",
@@ -24754,7 +24799,16 @@ const DATA={
           "sourceType": "official",
           "dish": "栃木県産豚のかつカレー"
         },
-        "budget": null,
+        "budget": {
+          "text": "登録家族の2026年トップシーズン料金は、平日16,940～17,140円、土日祝20,740～20,940円です。",
+          "url": "https://www.komagawacc.co.jp/news/37028.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金改定案内で2026年1月3日からの登録家族料金、季節区分、税・利用税条件を確認。",
+          "conditions": "登録家族制度の料金。トップシーズンは3～6月・9～12月。消費税込み、月により利用税1,000～1,200円込み。一般ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "登録家族・平日16,940円～"
+        },
         "stay": {
           "text": "浴場を利用できます。セルフ営業日も通常の入浴は可能ですが、サウナは休止します。宿泊施設の有無は未確認です。",
           "url": "https://www.komagawacc.co.jp/fee",
@@ -25894,7 +25948,16 @@ const DATA={
           "dish": "特製上州牛サーロインステーキ",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "メンバー料金は通常期（3～6月・9～12月）が平日6,210円、土日祝7,750円です。食事代1,540円分が付きます。",
+          "url": "https://national-cc.jp/saitama/member/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式メンバーページで通常期・オフシーズンの税込料金と食事条件を確認。",
+          "conditions": "メンバー料金。通常期は3～6月・9～12月。税込、食事代1,540円分付き。未使用差額の返金なし。ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "メンバー通常期・平日6,210円"
+        },
         "stay": {
           "text": "公式施設案内に浴場があります。温泉・サウナ・宿泊設備、利用時間やプラン別制限は未確認です。",
           "url": "https://national-cc.jp/saitama/facility/",
@@ -27202,7 +27265,16 @@ const DATA={
           "checked": "2026-10-25",
           "basis": "公式施設案内の浴室・宿泊設備欄を確認"
         },
-        "budget": null
+        "budget": {
+          "text": "2026年度の友の会会員料金は、通常期が平日5,690円・土日祝8,880円、土日祝ハイシーズンが9,980円です。",
+          "url": "https://www.onogi.jp/tomo/top.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "施設公式サイトから案内される友の会ページで2026年度料金と期間区分を確認。",
+          "conditions": "友の会会員料金。ハイシーズンは2026年10月24日～2027年1月3日の土日祝で、2Bは2,200円加算。一般ビジター料金ではない。",
+          "priceVerified": true,
+          "priceLabel": "友の会通常期・平日5,690円"
+        }
       },
       "id": 453
     },
