@@ -1,0 +1,25 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "68f1bc14a73b65f96396d96f705d5084a6a01734",
+  "adopted": [
+    {"id": 2, "field": "scenery", "source": "https://www.h-abiko-cc.com/group/", "reason": "公式本文でフラットな18ホールと適度なアンジュレーションを確認。"},
+    {"id": 171, "field": "budget", "source": "https://www.ikahocc.co.jp/onewayself.html", "reason": "公式限定プランの開催条件と区分別税込料金を確認。"},
+    {"id": 217, "field": "budget", "source": "https://www.yc21.co.jp/minamimobara/", "reason": "公式予約カレンダーの現行掲載プラン、食事条件、料金を確認。"},
+    {"id": 240, "field": "scenery", "source": "https://www.takanodaicc.or.jp/history/", "reason": "公式歴史ページでクラブハウスからの景観説明を確認。"},
+    {"id": 284, "field": "budget", "source": "https://www.summit-golf-club.jp/date/2026/", "reason": "公式2026年イベント一覧で特定日の料金と含有内容を確認。"},
+    {"id": 291, "field": "budget", "source": "https://www.resol-golf.jp/uploads/recommend/2026/p5_260709195228.pdf", "reason": "公式秋プランPDFで期間・月別曜日別料金・割増条件を確認。"},
+    {"id": 415, "field": "budget", "source": "https://www.hmcc.co.jp/wp1/wp-content/uploads/2026/03/1c734aabd3ed4df11730b0f9b5811ddd.pdf", "reason": "公式料金改定PDFで税別グリーンフィと別費目を確認。"},
+    {"id": 419, "field": "scenery", "source": "https://www.kanbun-group.co.jp/ncc/course.html", "reason": "公式コース案内で秩父連山の眺望、打ち下ろし、自然との調和を確認。"},
+    {"id": 419, "field": "budget", "source": "https://www.kanbun-group.co.jp/ncc/fee.html", "reason": "公式料金ページで2026年4月以降のアフタヌーン料金と制限を確認。"}
+  ],
+  "notAdopted": [
+    {"id": 41, "fields": ["budget"], "source": "https://www.matsuogolfclub.jp/guide/", "reason": "公式本文で人数割増と料金に含む項目は確認できたが、基準となるプレー総額が非掲載のため採用しない。"},
+    {"id": 139, "fields": ["dining"], "source": "https://booking.pacificgolf.co.jp/?cc_id=178&p=guide.gallery", "reason": "公式フォトギャラリーのレストラン欄は確認できたが、現行メニューや営業条件を本文で確認できず採用しない。"},
+    {"id": 179, "fields": ["budget"], "source": "https://www.goldencrosscc.com/fp/fee", "reason": "公式ページがビジター料金表を現在非公開と明記しており、残る過去表示を現行料金として採用しない。"},
+    {"id": 183, "fields": ["budget"], "source": "https://www.higashimatsuen-cc.jp/", "reason": "公式料金枠で現行の数値料金を確認できず、終了済みイベント料金を転用しない。"},
+    {"id": 248, "fields": ["budget"], "source": "https://www.golfclub.co.jp/ibaraki/rate/", "reason": "公式のプレー料金カレンダー本文を確認できず、宿泊料金をプレー料金として転用しない。"},
+    {"id": 394, "fields": ["car"], "source": "https://www.oyamacc.com/", "reason": "公式サイトでICからの所要時間を確認できず、第三者サイトの所要時間を採用しない。"},
+    {"id": 455, "fields": ["scenery"], "source": "https://www.hakonecc.com/", "reason": "公式本文で今回の対象欄に使える景観記述を確認できず、第三者紹介を採用しない。"},
+    {"id": 465, "fields": ["scenery"], "source": "https://www.daishin-golf.co.jp/", "reason": "公式本文で今回の対象欄に使える景観記述を確認できず、第三者紹介を採用しない。"}
+  ]
+}
