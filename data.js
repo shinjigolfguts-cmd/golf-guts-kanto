@@ -1095,10 +1095,14 @@ const DATA={
       "note": "武蔵丘ゴルフコースとは別施設。送迎時刻とプランを確認。",
       "comparison": {
         "play": {
-          "text": "パブリックコース。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.princehotels.co.jp/golf/shinmusashi/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "パブリックコース。18ホール・パー71。適度な起伏にクリークや池を配置したコースで、ナビ付き乗用カートを使う完全セルフのスループレースタイルです。",
+          "url": "https://www.princehotels.co.jp/golf/shinmusashi/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース概要に18ホール・パー71、適度なアップダウン、クリークと池、完全セルフのスループレー、ナビ付乗用ゴルフカーの記載を確認。 既存掲載のパブリック区分は保持し、旧出典を補足出典として残す。",
+          "supportingUrls": [
+            "https://www.princehotels.co.jp/golf/shinmusashi/"
+          ]
         },
         "rail": {
           "text": "飯能駅からタクシーで約7分。南口ロータリーから無料シャトルバスもあり、平常時約15分です。",
@@ -2823,10 +2827,11 @@ const DATA={
       "id": 45,
       "comparison": {
         "play": {
-          "text": "18番ホールのあるパブリックコース。詳しいレイアウトの比較情報は未確認。",
-          "url": "https://www.fujisawagc.jp/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "安田幸吉設計の18ホール。自然の樹林と起伏を生かした広めのフェアウェイに、グリーン周りの変化を組み合わせたパブリックコースです。",
+          "url": "https://www.fujisawagc.jp/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介に安田幸吉設計、18ホール、自然の樹林・起伏、広いフェアウェイ、グリーン周りの変化を確認。"
         },
         "rail": {
           "text": "長後駅からタクシーで約10分。",
@@ -3010,10 +3015,11 @@ const DATA={
       "url": "https://www.mannacc.com/restaurant/gp-grill",
       "comparison": {
         "play": {
-          "text": "遠方の九十九里を望むコース。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.mannacc.com/restaurant/gp-grill",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "ゲーリー・プレーヤー設計の18ホール。大きなベントのワングリーン、九十九里を見渡す打ち下ろしのミドル、両側に赤砂のウエストエリアがあるショートが特徴です。",
+          "url": "https://www.mannacc.com/course/gp-course",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "ゲーリー・プレーヤーコース専用の公式紹介で18ホール、ベントのワングリーン、九十九里を見渡す打ち下ろしミドル、赤砂のウエストエリアを確認。別の真名27ホールの特徴は転記しない。"
         },
         "rail": {
           "text": "誉田駅南口から無料送迎バスで約20分。タクシーの分数は確認した公式案内に記載がありません。",
@@ -7283,10 +7289,11 @@ const DATA={
       "id": 117,
       "comparison": {
         "play": {
-          "text": "芦ノ湖を望む立地。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.princehotels.co.jp/golf/",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー71。芦ノ湖を見渡す駒ヶ岳の山裾にある傾斜地のコースで、公式は高低差を強く感じさせないレイアウトと案内しています。",
+          "url": "https://www.princehotels.co.jp/golf/hakone-en/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース概要で18ホール・パー71、芦ノ湖を見下ろす傾斜地、駒ヶ岳の山裾をめぐりアップダウンをあまり感じさせないレイアウトとの説明を確認。平坦とは言い換えない。"
         },
         "rail": {
           "text": "箱根湯本駅からタクシーで約30分（平常時）。",
@@ -7530,10 +7537,11 @@ const DATA={
       "id": 121,
       "comparison": {
         "play": {
-          "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13003",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "東・西・中の27ホール。霞丘陵の自然林を残したコースで、ホールごとに構成が変わり、コースマネジメントが求められると公式に案内されています。",
+          "url": "https://omegolfclub.jp/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介の霞丘陵、自然林を随所に残すこと、趣の異なるホール、緻密なコースマネジメントの説明と東・西・中の構成を確認。"
         },
         "rail": {
           "text": "東青梅駅北口からクラブバスで約8分。平日・土日祝とも電車の到着に合わせた便を運行。",
@@ -7665,10 +7673,11 @@ const DATA={
       "id": 123,
       "comparison": {
         "play": {
-          "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13001",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "南・東・西の27ホール。南4番は長い上りがあり、南5番は尾根上にあるやや打ち下ろしのショートホールです。ホールにより起伏が変わるため、高低差を踏まえた距離判断が必要です。",
+          "url": "https://gmg.kanbun-group.co.jp/courses",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ページの南・東・西の各9ホールと、南4番「やっこらさ」の場内で最も長い上り、南5番「馬の背」の尾根上・やや打ち下ろしを確認。総論のフラット表現を全ホールに拡張しない。"
         },
         "rail": {
           "text": "八王子駅から車で約30分。",
@@ -7730,10 +7739,11 @@ const DATA={
       "id": 124,
       "comparison": {
         "play": {
-          "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13008",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "草花・奥多摩の2コース、計36ホール。自然の丘陵地形を生かした変化のあるレイアウトと、ベントグリーンを備えています。",
+          "url": "https://www.tachikawakokusai.co.jp/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介で草花・奥多摩の36ホール、自然の丘陵地形を生かしたレイアウト、ベントグリーンを確認。ドローン画像と現在のペナルティエリアの相違には踏み込まない。"
         },
         "rail": {
           "text": "福生駅西口からタクシーで約10分。",
@@ -7794,10 +7804,11 @@ const DATA={
       "id": 125,
       "comparison": {
         "play": {
-          "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13011",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "東・西・南の27ホール。緩やかな起伏に打ち上げ・打ち下ろしを組み合わせ、3コースで異なる構成を楽しめると公式に案内されています。",
+          "url": "https://www.itukaiti.co.jp/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介で緩やかな起伏、適度な打ち上げ・打ち下ろし、東・西・南それぞれの特色と各9ホールを確認。"
         },
         "rail": {
           "text": "武蔵増戸駅からタクシーで約10分。",
@@ -7859,10 +7870,11 @@ const DATA={
       "id": 126,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13012",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "多摩丘陵の地形を生かした18ホール。全体に細かな起伏があり、飛距離より方向性を重視したショットが攻略のポイントと公式に案内されています。",
+          "url": "https://tokyo.chateraisegolf.jp/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介で多摩丘陵の変化に富んだ地形、全体に微妙なアンジュレーション、距離より方向の正確さを重視する説明とOUT・IN各9ホールを確認。"
         },
         "rail": {
           "text": "唐木田駅からタクシーで約3分。多摩センター駅からは約10分。多摩センター駅南口から路線バスを利用する場合、鶴牧5丁目まで約7分。",
@@ -7923,10 +7935,11 @@ const DATA={
       "id": 127,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13015",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "打ち上げの1番、左ドッグレッグの3番、打ち下ろしの4番など、起伏と方向の変化を組み合わせた18ホール。公式攻略案内では、方向性や高低差に応じたクラブ選択が重視されています。",
+          "url": "https://www.tokyoyomiuri.com/course/holes/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ホール紹介で1番打ち上げのパー4、3番緩やかな左ドッグレッグ、4番打ち下ろしのパー5と高低差を考慮した攻略説明を確認。"
         },
         "rail": {
           "text": "稲城駅からタクシーで約15分。新百合ヶ丘駅からはクラブバスまたはタクシーで約20分。クラブバスは南口ホテルモリノ正面玄関前から発車。",
