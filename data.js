@@ -11326,7 +11326,16 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "国産豚ロースカツカレーうどん"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の料金例：2026年11月4日（水）、1R乗用カートセルフは1人総額12,300円（消費税・利用税込）、指定昼食付き。2～4名で利用でき、2名・3名の割増なし。日付・プランで変動します。",
+          "url": "https://firstee.jp/goldencrosscc/goldencrosscc/plans/240876?date=2026-11-04",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップ掲載のfirstee予約から対象日詳細へ進み、10,819円＋消費税1,081円＋利用税400円、1Rセルフ、指定昼食、2～4名、割増なしを確認。",
+          "conditions": "2026-11-04の当該プランの例。指定外の昼食は差額あり。2名では2サムカートやナビなしカートの場合あり。複数組予約には組合せ調整条件あり。常時料金や空き枠を保証しない。",
+          "priceVerified": true,
+          "priceLabel": "2026/11/4 総額12,300円"
+        },
         "stay": {
           "text": "浴室とサウナを備えています。公式施設案内でそれぞれの設備写真を紹介しています。",
           "url": "https://www.goldencrosscc.com/facility",
@@ -15642,7 +15651,13 @@ const DATA={
           "basis": "公式ページ本文を確認。"
         },
         "car": null,
-        "rail": null,
+        "rail": {
+          "text": "公共交通利用時は、市原鶴舞バスターミナルから約15分、袖ヶ浦バスターミナルから約30分の無料クラブバスを案内。メンバー同伴・前日までの予約が必要です。運行日・出発時刻は予約時に確認してください。",
+          "url": "https://www.brickandwood.jp/official/qa/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式FAQのクラブバス欄で両ターミナルからの所要時間、無料、前日予約、メンバー同伴条件を確認。鉄道駅からの時間ではない。"
+        },
         "scenery": {
           "text": "池やバンカーが配置され、季節によって自然の表情が変わるコースと公式案内で紹介されています。",
           "url": "https://www.brickandwood.jp/membership/",
@@ -16244,7 +16259,16 @@ const DATA={
           "basis": "公式案内の本文を確認",
           "dish": "料理長のハンバーグ きのこのソース"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の料金例：2026年11月4日（水）、時間限定・4名1組の1Rセルフは1人総額6,600円（消費税・利用税込）、昼食付き。日付・人数・プランで変動します。",
+          "url": "https://firstee.jp/ibrcc/ibarakiroyalcc/plans/229470?date=2026-11-04",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトからリンクする公式ネット予約の対象日プラン本文を確認。内訳5,591円＋消費税559円＋利用税450円。",
+          "conditions": "2026-11-04の時間限定4B・1Rセルフ・GPS乗用カート・昼食付きの例。当日2～3名への変更は1人550円増、組合せの可能性あり。クーラー付きカートは有料オプション。常時料金や空き枠を保証しない。",
+          "priceVerified": true,
+          "priceLabel": "2026/11/4・4B限定 総額6,600円"
+        },
         "stay": {
           "text": "宿泊ロッジあり。ゴルフを利用しない宿泊も案内しています。",
           "url": "https://www.ibarakiroyalcc.com/",
@@ -22672,7 +22696,16 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。数量限定「古賀志山御膳」は刺身・焼き魚・豚角煮・茶碗蒸し・冷そばなどの御膳。",
           "dish": "古賀志山御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の料金例：2026年11月2日（月）、4名1組の1Rセルフは1人総額6,200円（消費税・利用税込）、指定昼食付き。日付・人数・プランで変動します。",
+          "url": "https://firstee.jp/lakelandcc/lakelandcc/plans/233774?date=2026-11-02",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップから公式予約に進み、対象日プランの内訳5,091円＋消費税509円＋利用税600円、指定昼食付き、1Rセルフを確認。",
+          "conditions": "2026-11-02の4B限定・1Rセルフ・GPS電磁誘導式乗用カート・指定昼食付きの例。当日3名は1人550円増、2名は1人1,100円増、組合せの可能性あり。キャディへの変更は別途。常時料金や空き枠を保証しない。",
+          "priceVerified": true,
+          "priceLabel": "2026/11/2・4B限定 総額6,200円"
+        },
         "stay": {
           "text": "ホテルを併設し、ゴルフと宿泊の利用を案内。",
           "url": "https://lakelandcc.co.jp/",
@@ -23612,7 +23645,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページの本文・メニュー・料金表を確認。鹿沼ICから約25分（10km）。"
         },
-        "rail": null,
+        "rail": {
+          "text": "公式施設案内では送迎バスなし。鉄道駅からの経路・タクシー所要時間は未確認のため、公共交通での来場方法は施設へ確認してください。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/detail",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "運営会社の公式詳細ページ「送迎バス なし」を確認。駅からの時間は推測していない。"
+        },
         "dining": {
           "text": "公式メニューに「石焼麻婆豆腐」を掲載。提供内容は季節により変わります。",
           "url": "https://reserve.accordiagolf.com/golfCourse/tochigi/deerlake/restaurant",
