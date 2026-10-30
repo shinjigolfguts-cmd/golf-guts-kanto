@@ -11272,7 +11272,16 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "鍋焼きラーメンと特製チャーシュー"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式予約の料金例：2026年11月4日（水）、3名以上・昼食付きプランは1人9,300円（消費税・利用税込）。2名での利用は不可です。日付・プランで変動します。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/bando/kamogolfclub/mreservation/index/date:20261104/plan:1393796/setid:692786/pid:970873",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップから予約カレンダー、11/4詳細へ進み、9,300円（消費税786円・利用税650円含む）、昼食付き、3名以上を確認。",
+          "conditions": "2026-11-04の11月平日3名以上プラン例。3B割増0円。2名になった場合は当該プラン利用不可。複数組は原則4名での組合せとし、規定外の組数は3B割増1,100円。対象日・空き枠により変動。",
+          "priceVerified": true,
+          "priceLabel": "2026/11/4・3名以上 9,300円"
+        },
         "stay": {
           "text": "男女の浴室を備えています。ロッカー利用料はプレー料金に含まれています。",
           "url": "https://kamogolfclub.co.jp/house/",
@@ -19833,7 +19842,16 @@ const DATA={
           "dish": "つくば鶏と奥久慈卵の親子重",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式料金表の4バッグ・キャディ付き合計は、シーズン平日25,180円／土日祝37,280円、オフシーズン平日21,880円／土日祝31,780円（税込・利用税込）。予約申込みは会員からのみ受け付けています。",
+          "url": "https://www.ryugasaki-cc.com/guide/price.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金／予約ページの税込合計表、4バッグのキャディフィ4,510円、オフシーズン期間、会員経由予約条件を確認。",
+          "conditions": "表示合計はグリーンフィ・キャディフィ・施設維持費・キャディ維持費・利用税1,200円を含む。食事代は合計の内訳に記載なし。オフシーズンは1/4～3/14と7/1～9/14。3Bキャディ4,950円、2B6,490円等で変動。平日は会員紹介、土曜は原則会員同伴、日祝は会員同伴。予約時に最新条件を確認。",
+          "priceVerified": true,
+          "priceLabel": "4Bキャディ付 シーズン平日25,180円／土日祝37,280円"
+        },
         "stay": {
           "text": "公式英語版の施設一覧に浴場を掲載。利用時間・サウナ・温泉・宿泊設備については未確認のため、来場前にご確認ください。",
           "url": "https://www.ryugasaki-cc.com/english/",
@@ -23779,7 +23797,16 @@ const DATA={
           "sourceType": "official",
           "dish": "豚の角煮定食"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式自社Web予約の料金例：2026年11月4日（水）、食事付きプランは1人7,085円（消費税・利用税・振興基金込み）。2B・3B割増なし。ロッカー・浴槽使用料は別途550円です。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/ashikaga/takou/mreservation/index/date:20261104/plan:1393270/setid:691793/pid:970132",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトのWEB会員予約から多幸の対象日詳細を確認。7,085円に消費税584円・利用税600円・基金50円を含む。",
+          "conditions": "2026-11-04、自社Web限定・食事付き・乗用カート・2サム保証プラン例。2B・3B割増0円。ロッカー・浴槽使用料は10～6月550円、7～9月275円と別掲。全費用込みの総額とは表示しない。日付・空き枠で変動。",
+          "priceVerified": true,
+          "priceLabel": "2026/11/4 7,085円＋ロッカー・浴槽料"
+        },
         "stay": {
           "text": "浴槽利用の案内あり。公式料金案内にロッカー・浴槽使用料の記載。現在の利用条件・追加料金は予約時に確認。宿泊設備は未確認。",
           "url": "https://www.ashikaga-cc.com/information/price/",
