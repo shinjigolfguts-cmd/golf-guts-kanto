@@ -1,0 +1,21 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "557f6dd6a4a9df54eb98b06c27511078c289336e",
+  "items": [
+    {"id": 51, "name": "ゴルフ5カントリー オークビレッヂ", "field": "budget", "status": "content_verified", "url": "https://www.alpen-group.net/oakvillage/reserve/", "finding": "年間会員と正会員の料金、ビジターは予約カレンダー確認、税・バッグ割増を確認。年間会員例のみ採用。"},
+    {"id": 53, "name": "木更津東カントリークラブ", "field": "budget", "status": "content_verified", "url": "https://www.resol-golf.jp/kisarazuhigashi/membership/", "finding": "会員の平日・土日祝料金と諸税込・昼食付、バッグ割増を確認。会員料金として採用。"},
+    {"id": 104, "name": "取手桜が丘ゴルフクラブ", "field": "budget", "status": "content_verified", "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/toride/", "finding": "2027年1月17日までの早朝9Hプランの総額、2B、入浴制限を確認。9H例として採用。"},
+    {"id": 141, "name": "大栄カントリー倶楽部", "field": "budget", "status": "content_verified", "url": "https://www.taiei.cc/system/free_files/files/000/010/548/bf1d1d4869749ba610c676bf0550ad6a77722dc5/original.pdf?1770789806=", "finding": "令和8年度営業案内で10～11月料金、キャディ・バッグ条件、セルフ差額、サーチャージを確認。"},
+    {"id": 144, "name": "森永高滝カントリー倶楽部", "field": "budget", "status": "content_verified", "url": "https://takatakicc.co.jp/fee/", "finding": "2026年10～11月の曜日別料金、昼食、税・バッグ条件を確認。"},
+    {"id": 172, "name": "小幡郷ゴルフ倶楽部", "field": "budget", "status": "content_verified", "url": "https://www.obatago-golf.com/reservation/", "finding": "メンバー正規料金とバッグ割増を確認。会員料金として採用。"},
+    {"id": 189, "name": "ゴルフ倶楽部 成田ハイツリー", "field": "budget", "status": "content_verified", "url": "https://www.hightree.co.jp/price/01.html", "finding": "ゲスト通常料金の対象月と平日料金を確認。"},
+    {"id": 190, "name": "ザ ナショナルカントリー倶楽部 千葉", "field": "budget", "status": "content_verified", "url": "https://national-cc.jp/chiba/member/", "finding": "メンバー通常期料金と食事代条件を確認。会員料金として採用。"},
+    {"id": 195, "name": "長南カントリークラブ", "field": "budget", "status": "content_verified", "url": "https://www.chonan-cc.com/fp/fee", "finding": "2026年10月の曜日別料金を確認。記載のない付帯条件は推測しない。"},
+    {"id": 208, "name": "キングフィールズゴルフクラブ", "field": "budget", "status": "content_verified", "url": "https://www.kingf-gc.jp/guide/", "finding": "2026年10～12月の通常料金、4Bキャディ付の内訳、バッグ割増を確認。"},
+    {"id": 244, "name": "麻倉ゴルフ倶楽部", "field": "budget", "status": "content_verified", "url": "https://asakura-gc.jp/user_guide/charges.html", "finding": "ビジター税込料金、利用税、バッグ割増、会員同伴・紹介条件を確認。"},
+    {"id": 171, "name": "伊香保カントリークラブ", "field": "budget", "status": "not_adopted_stale", "url": "https://www.ikahocc.co.jp/onewayself.html", "finding": "年末プラン本文はあるがカレンダーが2025年のため、2026年現在の料金とは判断せず採用しない。"},
+    {"id": 179, "name": "ゴールデンクロスカントリークラブ", "field": "budget", "status": "not_adopted_stale", "url": "https://www.goldencrosscc.com/fp/fee", "finding": "ページ見出しが現在ビジター料金表を掲載していないと明記し、本文の月日料金は年を特定できないため採用しない。"},
+    {"id": 183, "name": "鎌ヶ谷カントリークラブ", "field": "budget", "status": "not_adopted_no_current_amount", "url": "https://kamagaya-cc.co.jp/fee", "finding": "公式料金ページ本文で税込内訳は確認できるが、現在の具体額は埋込表示で本文確認できず採用しない。"},
+    {"id": 186, "name": "久能カントリー倶楽部", "field": "budget", "status": "not_adopted_members_only", "url": "https://www.kunocc.co.jp/reservation/", "finding": "公式案内がプレー料金は会員専用ページで確認と案内しており、公開本文に具体額がないため採用しない。"}
+  ]
+}
