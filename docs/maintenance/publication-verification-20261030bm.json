@@ -1,0 +1,31 @@
+{
+  "batch": "verified-followup-20261030bm.json",
+  "verifiedAt": "2026-10-30",
+  "workflowRunId": 40999902311,
+  "workflowConclusion": "success",
+  "publishedCommit": "59a7df3b18d2eccd7ae96b8e77be4e4cacd8bc01",
+  "dataSha256": "4fe7ca354a47375f6d25ffa245116fa53acd1e4740fb3e55caff76f3cea697a6",
+  "publicDataSha256": "4fe7ca354a47375f6d25ffa245116fa53acd1e4740fb3e55caff76f3cea697a6",
+  "tests": {
+    "selectionCombinations": 384,
+    "courseCount": 500,
+    "unittestCount": 11,
+    "sitemapUrlCount": 503,
+    "result": "pass"
+  },
+  "contentStatus": {
+    "missingTotal": 127,
+    "coursesWithMissingFields": 92,
+    "byField": {"play": 0, "car": 8, "rail": 21, "dining": 16, "stay": 18, "budget": 59, "scenery": 5}
+  },
+  "publicPages": [
+    {"id": 12, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/12.html", "http": 200, "contentMatched": true},
+    {"id": 163, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/163.html", "http": 200, "contentMatched": true},
+    {"id": 306, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/306.html", "http": 200, "contentMatched": true},
+    {"id": 321, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/321.html", "http": 200, "contentMatched": true},
+    {"id": 334, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/334.html", "http": 200, "contentMatched": true},
+    {"id": 458, "url": "https://shinjigolfguts-cmd.github.io/golf-guts-kanto/courses/458.html", "http": 200, "contentMatched": true}
+  ],
+  "searchConsoleStatusChecked": false,
+  "note": "公開data.jsのSHA256一致と対象6ページのHTTP 200・掲載文一致を確認。Google Search Consoleの非公開ステータスは参照していない。"
+}
