@@ -12135,7 +12135,14 @@ const DATA={
           "dish": "自家製ビーフシチューのオムライス",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式案内の2026年電話予約料金は、10月・11月が平日8,000円、土曜16,000円。10月の日曜15,000円、12月は平日8,000円、土曜15,000円、日曜14,000円です。",
+          "url": "https://www.daichibacc.com/news/previous/5",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式お知らせの2026年10月から12月の電話予約料金を確認。",
+          "conditions": "税込・食事別の電話予約料金。指定日や営業状況で変わるため予約時に確認が必要です。"
+        },
         "stay": {
           "text": "公式の営業案内ではロッカーとシャワールームを利用でき、シャワールームは8時30分からと案内されています。浴槽・宿泊設備は未確認です。",
           "url": "https://www.daichibacc.com/news/202492b",
@@ -15219,7 +15226,14 @@ const DATA={
           "dish": "和牛ミニッツステーキ",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年度のゲスト料金概算は、通常期の週日29,500円、土日祝38,300円。17名以上の通常期週日コンペは26,200円です。",
+          "url": "https://www.takanodaicc.or.jp/guide",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ご利用案内の令和8年度ゲスト基本料金・諸料金表を確認。",
+          "conditions": "消費税込、4バッグ特級キャディーフィ・諸経費・利用税込の概算。食事代は別。会員同伴・紹介などの利用条件があります。"
+        },
         "stay": null
       },
       "researchSources": [
@@ -18908,7 +18922,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文の記載を確認"
         },
-        "rail": null,
+        "rail": {
+          "text": "取手駅とクラブハウス間の送迎バスは、2026年3月31日で廃止されました。現在の公式アクセスページは車経路のみで、鉄道駅からの現行移動方法は公式本文で確認できていません。",
+          "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/notice",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "運営会社公式の重要なお知らせで送迎バスの廃止日を確認し、現行アクセスページに鉄道案内がないことを照合。",
+          "conditions": "旧送迎時刻は利用できません。現行の鉄道・タクシー等の経路は施設へ確認してください。"
+        },
         "scenery": {
           "text": "霞ヶ浦南岸に位置し、高低差がほとんどないフラットな地形が特徴。ゆったりした地形の中でラウンドを楽しめます。",
           "url": "https://reserve.accordiagolf.com/golfCourse/ibaraki/tsuchiura/",
@@ -19940,7 +19961,14 @@ const DATA={
           "basis": "公式ページ本文の記載を確認",
           "dish": "特製つくば鶏のステーキ"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式掲載の宿泊パックは、1泊1R・3食付き18,300円から、1泊2R・4食付き25,600円からです。キャディーフィは4バッグで1名4,200円、追加ハーフは平日3,300円・土日祝5,500円です。",
+          "url": "https://www.wpgcc.com/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページの宿泊パック、キャディー、追加ハーフ料金を確認。",
+          "conditions": "宿泊パックは日によって料金が異なり、通常の1Rプレー料金とは別商品です。予約時に対象日・人数・食事条件の確認が必要です。"
+        },
         "stay": {
           "text": "併設ホテルにシングル・ツイン・スーペリア。1泊1R3食付き、1泊2R4食付きのプランがあり、宿泊受付は2日前まで。",
           "url": "https://www.wpgcc.com/fee.html",
@@ -20647,7 +20675,14 @@ const DATA={
           "basis": "公式ページの本文・メニュー・料金表を確認。下今市駅から予約制クラブバスで約20分。"
         },
         "dining": null,
-        "budget": null,
+        "budget": {
+          "text": "公式料金カレンダーでは、2026年10月の通常掲載料金が平日7,550円、土日13,800円。11月・12月は平日7,750円、土日14,300円を基本に指定日料金があります。",
+          "url": "https://suginosato.co.jp/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "2026年10月7日更新案内と公式料金カレンダーの10月から12月の金額・条件を確認。",
+          "conditions": "消費税、利用税700円、振興基金50円を含む1R乗用カートセルフ。通常日は昼食付き、セルフデーは昼食別。指定日・貸切・2バッグ割増等があります。"
+        },
         "stay": {
           "text": "公式料金ページ掲載の対象プランでは、ロッカーとお風呂は利用できません。通常営業時の設備・宿泊は公式本文で確認できていません。",
           "url": "https://suginosato.co.jp/fee.html",
@@ -21684,7 +21719,14 @@ const DATA={
           "dish": "和牛カルビ丼とコムタン麺",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "公式オンライン予約の2026年10月30日表示では、平日公開枠の駒コース昼食付きが総額5,490円、出流コース昼食付きが総額5,990円からです。",
+          "url": "https://www3.golfyoyaku.jp/rsv_sys/kanesu/sano_golf/mcalendar/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式サイトから案内されるオンライン予約カレンダーで当日の公開プラン名と総額を確認。",
+          "conditions": "公開枠・セルフ・乗用カート・昼食付き。コース、日付、人数、空き枠で料金と割増条件が変わります。ロッカー代は別条件です。"
+        },
         "stay": {
           "text": "男性用の展望風呂、女性浴室、パウダールームを備えています。",
           "url": "https://www.sano-golfclub.co.jp/facility.html",
