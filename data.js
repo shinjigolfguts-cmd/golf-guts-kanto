@@ -8630,7 +8630,14 @@ const DATA={
           "basis": "PGM市原CC現行公式情報は所在地とクラブバスのみ。旧市原京急公式資料は取得不可。未掲載とは断定しない。"
         },
         "dining": null,
-        "stay": null,
+        "stay": {
+          "text": "ロッカーと浴室があり、利用時は220円（税込）です。ロッカーを利用しない場合と、スルー・ハーフプレーでは浴室も利用できません。貴重品ロッカーは通常ロッカーを利用しない場合も使えます。宿泊設備は公式案内で確認できていません。",
+          "url": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/course_news/658b66f2/tmp_main_r_174_edit_confirm_1703634659.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM公式のロッカー・浴室利用案内で、男女ロッカー、浴室、貴重品ロッカー、料金と利用制限を確認。宿泊は確認できないため未確認として区別。",
+          "conditions": "2024年4月1日から、ロッカー・浴室利用は220円（税込）。ロッカー利用なし、スルー・ハーフプレーはロッカー・浴室利用不可。年次会員はロッカー料金請求なし。"
+        },
         "budget": {
           "text": "2026年11月4日のWeb会員限定・乗用カートセルフ・昼食付きプランは11,490円（税込総額）です。2サム保証で、2バッグは1人2,400円（税込）の割増です。",
           "url": "https://www.valuegolf.co.jp/rental/view_plan.cfm?rent_cid=120000801&page_flg=V&plan_id=P01145223&view_st=2026%2F11%2F01",
@@ -26599,7 +26606,14 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文・料金表で確認"
         },
-        "dining": null,
+        "dining": {
+          "text": "メインダイニングで、武蔵御膳、国産鶏のフレッシュトマト煮込み、海老フライ、ペスカトーレ、粗挽きハンバーグなどを提供しています。朝食・デザート・パーティーメニューも掲載されています。",
+          "url": "https://www.pacificgolf.co.jp/musashi/restaurant.asp",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "PGM武蔵ゴルフクラブ公式レストランページの現行メニュー本文を確認。",
+          "conditions": "季節や月により献立・提供内容が変わる場合があります。"
+        },
         "budget": {
           "text": "2026年11月3日の時間帯限定・GPS乗用カートセルフは1人27,490円（消費税・利用税等込み）です。",
           "url": "https://booking.pacificgolf.co.jp/?cc_id=169&p=guide.coursecalendar",

@@ -1,6 +1,6 @@
 # 掲載情報の残作業一覧
 
-data.js SHA256: `bc8b3762f465b768475aeb54cc9c1acfdc2e8d271f8f4568519b1830c4cd0701`
+data.js SHA256: `a7070f57eb60d8fbe9325e8b58535c8cdc1e839e6787bfb9ff7ccd35505e812d`
 
 この一覧は空欄の所在を示すもので、完成率ではありません。情報がある項目も、全件の再検証が済んだという意味ではありません。未確認と「設備・サービスなし」を区別し、根拠のない補完はしません。
 
@@ -9,12 +9,12 @@ data.js SHA256: `bc8b3762f465b768475aeb54cc9c1acfdc2e8d271f8f4568519b1830c4cd070
 | プレー | 0 |
 | 車のアクセス | 8 |
 | 電車のアクセス | 23 |
-| 食事 | 20 |
-| 宿泊・お風呂 | 20 |
+| 食事 | 19 |
+| 宿泊・お風呂 | 19 |
 | 料金 | 65 |
 | 景色 | 8 |
 
-空欄を含む施設：103 / 500。項目数には同じ施設の重複があります。
+空欄を含む施設：102 / 500。項目数には同じ施設の重複があります。
 
 ## 次に調べる項目
 
@@ -36,7 +36,7 @@ data.js SHA256: `bc8b3762f465b768475aeb54cc9c1acfdc2e8d271f8f4568519b1830c4cd070
 | 88 | [多摩川ゴルフ倶楽部](https://tamagawagolfclub.com/facilities/) | 食事 |
 | 112 | [吉見ゴルフ場](https://www.river-golf.com/yoshimi/fee.html) | 宿泊・お風呂 |
 | 134 | [チェックメイトカントリークラブ](http://checkmate-cc.com/) | 宿泊・お風呂・料金 |
-| 139 | [PGM市原カントリークラブ](https://booking.pacificgolf.co.jp/guide/178.html) | 食事・宿泊・お風呂 |
+| 139 | [PGM市原カントリークラブ](https://booking.pacificgolf.co.jp/guide/178.html) | 食事 |
 | 140 | [鹿野山ゴルフ倶楽部](http://www.kanozan.co.jp) | 料金 |
 | 157 | [宍戸ヒルズカントリークラブ](http://www.shishido.co.jp) | 料金 |
 | 158 | [東筑波カントリークラブ](https://www.higashi-tsukuba.co.jp/) | 料金 |
@@ -112,7 +112,6 @@ data.js SHA256: `bc8b3762f465b768475aeb54cc9c1acfdc2e8d271f8f4568519b1830c4cd070
 | 427 | [児玉カントリー倶楽部](https://www.kodama-cc.jp/) | 宿泊・お風呂・料金 |
 | 432 | [東京ゴルフ倶楽部](https://www.tokyogolfclub.jp/) | 食事・料金 |
 | 435 | [平成倶楽部 鉢形城コース](https://www.yc21.co.jp/heisei/) | 料金 |
-| 440 | [PGM武蔵ゴルフクラブ](https://booking.pacificgolf.co.jp/guide/169.html) | 食事 |
 | 449 | [下仁田カントリークラブ](https://www.shimonitacc.com/) | 料金 |
 | 450 | [桐生カントリークラブ](https://www.kiryucc.com/) | 料金 |
 | 453 | [髙梨子倶楽部](https://www.takanashiclub.jp/) | 電車のアクセス |
