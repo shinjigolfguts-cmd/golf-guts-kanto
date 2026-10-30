@@ -9512,10 +9512,14 @@ const DATA={
       "id": 150,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11041",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。OUTは平坦で広く、INは正確で慎重なショットが求められる構成として公式に紹介されています。性格の異なるOUT・INを組み合わせたコースです。",
+          "url": "https://booking.pacificgolf.co.jp/guide/75.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップL72–74のOUT/IN対比、コースガイドL45–65の1〜18、L77–93のPAR36+36を確認。難易度の独自判定や未読レイアウト図の解釈はしない。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=75&p=guide.course_layout"
+          ]
         },
         "rail": {
           "text": "飯能駅からクラブバスで約15分。確認した公式案内にタクシーの所要時間記載なし。",
@@ -9726,10 +9730,14 @@ const DATA={
       "id": 153,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8006",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "自然林に囲まれた平坦な18ホール・パー72の林間コース。公式は多様なホール構成と、プロトーナメント開催実績を案内しています。",
+          "url": "https://booking.pacificgolf.co.jp/guide/47.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップL63–68のプロ開催・自然林・フラット林間・18ホール、コースガイドL77–92のOUT/IN表・PAR36+36を確認。個別ホールの図を見たことにはしない。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=47&p=guide.course_layout"
+          ]
         },
         "rail": {
           "text": "荒川沖駅から予約制送迎車で約15分。確認した公式案内にタクシーの所要時間の記載はありません。",
@@ -10008,10 +10016,14 @@ const DATA={
       "id": 157,
       "comparison": {
         "play": {
-          "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8047",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "東・西各18ホール、計36ホール。西1番は左側にバンカーがあり、グリーンは左奥・右奥・手前の3面に分かれ、左奥にマウンドを備えています。",
+          "url": "https://www.hillsgolf.jp/shishido/course/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式総合コース案内の東西36H・各1〜18番の表と、西1番本文の左バンカー・グリーン3面・左奥マウンドを確認。段の上まで260ydは起点/ティー条件を省いた距離断定を避けて採用しない。西1番の構成を他ホールへ一般化しない。",
+          "supportingUrls": [
+            "https://www.hillsgolf.jp/shishido/course/west/hole1-w/"
+          ]
         },
         "rail": {
           "text": "友部駅からタクシーで約10分。",
@@ -10071,10 +10083,14 @@ const DATA={
       "id": 158,
       "comparison": {
         "play": {
-          "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8076",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "赤松林に囲まれた丘陵地の北・中・南27ホール。ウォルター・マクネイル設計で、ベントの2グリーンを備えるコースです。",
+          "url": "https://www.higashi-tsukuba.co.jp/course/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップの赤松に囲まれた丘陵地・北中南27H、コース概要の設計者・丘陵・ベント2グリーンを確認。グリーン/ティー/組合せにより異なる距離・レートは採用せず、未見のコース図から個別起伏を推定しない。",
+          "supportingUrls": [
+            "https://www.higashi-tsukuba.co.jp/"
+          ]
         },
         "rail": {
           "text": "石岡駅からタクシーで約20分。",
@@ -10260,10 +10276,14 @@ const DATA={
       "id": 161,
       "comparison": {
         "play": {
-          "text": "27ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=9012",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "富澤誠造設計、東・中・西各9ホールの丘陵コース。ブラインドホールが少なく、グリーンを守るバンカーが配置されています。各コースのパーは36です。",
+          "url": "https://booking.pacificgolf.co.jp/guide/27.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップL68–73の設計者・27ホール・ブラインドが少ない・ガードバンカー・丘陵、コースガイドL45–75とL87–116の東中西各9/各PAR36を確認。距離の一般化や難易度の独自評価は採用しない。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=27&p=guide.course_layout"
+          ]
         },
         "rail": {
           "text": "片岡駅から車で約10分。",
@@ -10330,10 +10350,11 @@ const DATA={
       "id": 162,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=9010",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "大久保昌設計の18ホール。アップダウンが少なく、ほぼフラットな地形に大小5つの池を配したレイアウトです。",
+          "url": "https://www.goldgolf.co.jp/sano/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式トップ本文で大久保昌設計・18H・アップダウンが少なくほぼフラット・大小5池を確認。「ほぼ」の限定を維持し、全ホールを完全に平坦と断定しない。"
         },
         "rail": {
           "text": "田沼駅からタクシーで約10分。佐野駅から約20分。",
@@ -10525,10 +10546,14 @@ const DATA={
       "id": 165,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=9076",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "ロバート・ボン・ヘギー設計の18ホール・パー72。1番は左ドッグレッグで、グリーン右側の高いマウンドと左手前のグラスバンカーが特徴です。ティーとフェアウェイにはベントグラスを使用しています。",
+          "url": "https://golf.horai-kk.com/course_n.html",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式西那須野案内の設計者、1〜18番表/PAR36+36=72、ティー・フェアウェイのベントグラスを確認。公式西那須野HOLE1本文で左ドッグ・右側高いマウンド・左手前グラスバンカーを確認。隣接ホウライコースの情報は転用しない。",
+          "supportingUrls": [
+            "https://golf.horai-kk.com/nishi/01.html"
+          ]
         },
         "rail": {
           "text": "那須塩原駅西口からタクシーで約15分。予約制クラブバスも運行し、公式FAQではコースまで約20分。",
@@ -10591,10 +10616,11 @@ const DATA={
       "id": 166,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=9077",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "井上誠一設計の18ホール・パー72。大谷川の河床に造られ、天然の起伏を生かしたフェアウェイと赤松林が特徴です。",
+          "url": "https://www.nikkocc.or.jp/course/",
+          "checked": "2026-10-31",
+          "sourceType": "official",
+          "basis": "公式コースガイド本文の井上誠一設計・大谷川河床・天然のアンジュレーション・赤松林と、1〜18番表/PAR72を確認。松の枝に関する設計者の将来予測の引用は、現状の枝の配置を直接確認したものとは区別して本文へ追加しない。"
         },
         "rail": {
           "text": "東武日光駅からタクシーで約7～8分。",
