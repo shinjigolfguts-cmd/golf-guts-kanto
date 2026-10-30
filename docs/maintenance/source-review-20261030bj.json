@@ -1,0 +1,16 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "74a8f479a582e173d8808831055dd2b56fe1865f",
+  "items": [
+    {"id": 356, "name": "トムソンカントリー倶楽部", "field": "stay", "status": "content_verified", "url": "https://thomson-cc.com/yakkan.html", "finding": "公式利用約款で通常ロッカーと貴重品ロッカーを確認。"},
+    {"id": 362, "name": "東ノ宮カントリークラブ", "field": "stay", "status": "content_verified", "url": "https://banryugolf.com/higashinomiya/course/index.html", "finding": "公式施設情報でロッカー、貴重品ロッカー、お風呂、宿泊施設なしを確認。"},
+    {"id": 387, "name": "太平洋クラブ 佐野ヒルクレストコース", "field": "stay", "status": "content_verified", "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/guide.html", "finding": "公式施設案内でロッカールームとバスルームを確認。"},
+    {"id": 405, "name": "石坂ゴルフ倶楽部", "field": "stay", "status": "content_verified", "url": "https://www.ishizaka-gc.com/fee/", "finding": "会員向け年間シューズロッカー4,400円を確認。"},
+    {"id": 419, "name": "長瀞カントリークラブ", "field": "stay", "status": "content_verified_with_condition", "url": "https://www.kanbun-group.co.jp/ncc/fee.html", "finding": "対象プランの浴室・ロッカー利用不可を確認し、通常営業全体へ一般化しない。"},
+    {"id": 421, "name": "嵐山カントリークラブ", "field": "stay", "status": "content_verified", "url": "https://www.ranzan.cc/wp-content/uploads/2026/01/RANZAN2024spring_4C.pdf", "finding": "公式会報で冷暖房付きロッカーを確認。"},
+    {"id": 480, "name": "太平洋クラブ 高崎コース", "field": "stay", "status": "content_verified", "url": "https://www.taiheiyoclub.co.jp/course/takasaki/topics/lrhh7f000000p4rm.html", "finding": "公式案内でロッカールーム、バスルーム、夏季シャワー限定期間を確認。"},
+    {"id": 357, "name": "桃里カントリー倶楽部", "field": "stay", "status": "not_adopted_no_explicit_facility", "url": "https://www.touricc.com/clubhouse.html", "finding": "クラブハウスの紹介は確認できたが、浴室・ロッカー・宿泊の明示がなく採用しない。"},
+    {"id": 458, "name": "板倉ゴルフ場", "field": "stay", "status": "not_adopted_renovation_state_unclear", "url": "https://www.tokyu-golf-resort.com/itakura/information/", "finding": "過去の料金表では設備なし、新しい案内では改修後の状態が明記されず、現在条件を特定できないため採用しない。"},
+    {"id": 486, "name": "相模野カントリー倶楽部", "field": "stay", "status": "not_adopted_image_only", "url": "https://sagamino-cc.jp/price-list.html", "finding": "利用案内が画像中心で設備内容を公式本文として確認できず採用しない。"}
+  ]
+}
