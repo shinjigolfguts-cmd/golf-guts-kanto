@@ -1,0 +1,42 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "e10c43400b64d4d5052fc32187ce38958dd57fa9",
+  "items": [
+    {
+      "id": 137,
+      "name": "姉ヶ崎カントリー倶楽部",
+      "field": "budget",
+      "status": "content_verified",
+      "url": "https://heiwanosan.co.jp/anegasaki/charge/",
+      "supportingUrl": "https://docs.google.com/spreadsheets/d/11MQIQS-zUynzDAUkS42zxY2FiOBwmo_x8Zikjk3edHQ/gviz/tq?tqx=out:json&sheet=2026%E5%B9%B410%E6%9C%88",
+      "finding": "公式ページ内の現行料金シートで2026年10月30日の4Bキャディ付き税込総額19,760円、包含費用、利用税、赤文字特定日の昼食条件を確認。"
+    },
+    {
+      "id": 139,
+      "name": "PGM市原カントリークラブ",
+      "field": "budget",
+      "status": "content_verified",
+      "url": "https://booking.pacificgolf.co.jp/htmls/guide/178/index.html",
+      "supportingUrl": "https://www.valuegolf.co.jp/rental/view_plan.cfm?rent_cid=120000801&page_flg=V&plan_id=P01145223&view_st=2026%2F11%2F01",
+      "finding": "PGM公式の予約案内からリンクされた公開プランで2026年11月4日の11,490円、税込・昼食・2B割増条件を確認。"
+    },
+    {
+      "id": 165,
+      "name": "西那須野カントリー倶楽部",
+      "field": "budget",
+      "status": "content_verified",
+      "url": "https://golf.horai-kk.com/fee.html",
+      "supportingUrl": "https://golf.horai-kk.com/calendar/cal_settei.js",
+      "finding": "公式料金カレンダーの2026年9月1日～11月30日設定で平日のリモコン乗用カート・セルフ11,500円、税込・別途基金条件を確認。"
+    },
+    {
+      "id": 168,
+      "name": "ホウライカントリー倶楽部",
+      "field": "budget",
+      "status": "content_verified",
+      "url": "https://golf.horai-kk.com/fee.html",
+      "supportingUrl": "https://golf.horai-kk.com/calendar/cal_settei.js",
+      "finding": "公式料金カレンダーの2026年9月1日～11月30日設定で平日のキャディ17,000円、G-CART13,000円、セルフ11,500円、税込・別途基金条件を確認。"
+    }
+  ]
+}
