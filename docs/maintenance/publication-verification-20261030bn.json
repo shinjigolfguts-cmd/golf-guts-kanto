@@ -1,0 +1,35 @@
+{
+  "checked": "2026-10-30",
+  "workflowRun": 41000890278,
+  "workflowConclusion": "success",
+  "publishedCommit": "e6f5f629a9ccfe981f78d314a443ee4c39b43220",
+  "localDataSha256": "eb55b8ee693fb40ee9acf13dc644fdaf19b5f16f513873f30a56c8291ac91e5a",
+  "publicDataSha256": "eb55b8ee693fb40ee9acf13dc644fdaf19b5f16f513873f30a56c8291ac91e5a",
+  "tests": {
+    "selectionCombinations": 384,
+    "courses": 500,
+    "pythonTests": 11,
+    "coursePages": 500,
+    "sitemapUrls": 503
+  },
+  "publicPages": [
+    {"id": 193, "status": 200, "contentMatched": true},
+    {"id": 240, "status": 200, "contentMatched": true},
+    {"id": 304, "status": 200, "contentMatched": true},
+    {"id": 322, "status": 200, "contentMatched": true},
+    {"id": 335, "status": 200, "contentMatched": true},
+    {"id": 353, "status": 200, "contentMatched": true}
+  ],
+  "remaining": {
+    "total": 121,
+    "courses": 88,
+    "play": 0,
+    "car": 8,
+    "rail": 20,
+    "dining": 16,
+    "stay": 18,
+    "budget": 54,
+    "scenery": 5
+  },
+  "searchConsole": "not accessed or changed"
+}
