@@ -8069,10 +8069,15 @@ const DATA={
       "id": 129,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14003",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72の丘陵コース。ベントの2グリーンを備え、GPSナビ付き乗用カートでセルフプレーするスタイルです。",
+          "url": "https://booking.pacificgolf.co.jp/guide/154.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式PGMコーストップの丘陵、コースガイドのOUT1〜9/IN10〜18とPAR36+36、ゴルフ場情報のGPSナビ付き乗用カート・セルフプレー/ベント2グリーンを本文で確認。",
+          "supportingUrls": [
+            "https://booking.pacificgolf.co.jp/?cc_id=154&p=guide.course_layout",
+            "https://booking.pacificgolf.co.jp/?cc_id=154&p=guide.access_map"
+          ]
         },
         "rail": {
           "text": "伊勢原駅から車で約15分。",
@@ -8142,10 +8147,11 @@ const DATA={
       "id": 130,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14007",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。相模湾方向へ高低差100ヤードを打ち下ろす10番と、狭く距離の長い6番など、ホールごとに構成が異なるコースです。",
+          "url": "https://www.odawarajocc.com/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介の高低差100Yを打ち下ろす10番、狭く長い6番、個性的な18ホールと総PAR72の表を確認。6番626Yは紹介文にあるがティー条件を省いた断定を避け、提案本文には固定距離を入れない。"
         },
         "rail": {
           "text": "根府川駅からクラブバスで約15〜20分。完全予約制で、プレー前日の正午までに電話予約が必要です。",
@@ -8214,10 +8220,11 @@ const DATA={
       "id": 131,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14008",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "富沢誠造設計の18ホール・パー71。地形を生かしたコースで、ベントとプリモゾイシアのグリーン別に距離表を案内しています。詳しい起伏やホールごとのレイアウトは未確認です。",
+          "url": "https://www.odawarayumotocc.com/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コースガイドの富沢誠造設計・地形を生かした設計、OUT1〜9/IN10〜18、PAR71、ベント/プリモゾイシアの表を確認。OUT個別ページは図中心で起伏説明の本文は取得できず、詳しい起伏の未確認表記を残す。"
         },
         "rail": {
           "text": "箱根湯本駅から車で約10分。クラブバスも駅とクラブハウスを約10分で結び、平日・土日祝別の時刻表を掲載。",
@@ -8349,10 +8356,11 @@ const DATA={
       "id": 133,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14013",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "J.ニクラウス設計の18ホール・パー72。池やグラスバンカー、コース全体の起伏を組み合わせ、ベント芝のワングリーンを備えています。",
+          "url": "https://www.kiyokawa-cc.jp/course/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース概要のJ.ニクラウス設計、18H/PAR72、グラスバンカー・種々の池・コース全体のアンジュレーション、ベント芝ワングリーンを本文確認。日々変わるグリーン速さ等は今回の提案に入れない。"
         },
         "rail": {
           "text": "本厚木駅からタクシーで約20分。",
@@ -8411,10 +8419,14 @@ const DATA={
       "id": 134,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14024",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール・パー72。公式のティー別距離表はBack 6,913ヤード、Regular 6,297ヤード、Ladies 4,663ヤードを掲載しています。詳しい起伏やホールごとのレイアウトは未確認です。",
+          "url": "https://checkmate-cc.com/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース表のOUT1〜9/IN10〜18・PAR36+36・ティー別合計距離と、クラブ概要18H/6913Y/Par72を照合。公式リンク先GOLBOOKは取得本文1行で個別説明を読めず、詳細起伏の未確認表記を残す。",
+          "supportingUrls": [
+            "https://checkmate-cc.com/overview.html"
+          ]
         },
         "rail": {
           "text": "新松田駅から送迎バスで約15〜20分。車・タクシーの所要時間は確認した公式案内に記載がありません。",
@@ -8479,10 +8491,15 @@ const DATA={
       "id": 135,
       "comparison": {
         "play": {
-          "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14037",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "ダイヤモンド・エメラルドの計36ホール。ダイヤモンドは高低差を生かし、エメラルドには谷越えの2番、強い上りの5番、S字に曲がる打ち下ろしの7番などがあります。",
+          "url": "https://www.hayama-kokusai-cc.com/diamond/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップにダイヤモンドとエメラルドの全36ホール、ダイヤモンド紹介に高低差、エメラルドの2番谷越え/5番きつい上り/7番S字打ち下ろしを本文確認。全体を平坦などに一般化しない。",
+          "supportingUrls": [
+            "https://www.hayama-kokusai-cc.com/emerald/",
+            "https://www.hayama-kokusai-cc.com/"
+          ]
         },
         "rail": {
           "text": "逗子・葉山駅からタクシーで約23分、JR逗子駅から約25分。JR逗子駅東口から無料クラブバスも運行（アクセスページでは約30分）。",
@@ -8546,10 +8563,11 @@ const DATA={
       "id": 136,
       "comparison": {
         "play": {
-          "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=14045",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "東・西の計36ホール。湘南の丘陵地に湖や木々を配したレイアウトで、フェアウェイとグリーンに水辺や森を組み合わせたコースです。",
+          "url": "https://lake-wood.co.jp/lakewood/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース案内L7–10で西・東36ホール、湘南の丘陵地、湖と木々・森を配したフェアウェイとグリーンを確認。L26–56/68–117の東西各18ホール表も確認。"
         },
         "rail": {
           "text": "二宮駅・秦野駅から車で約20分。両駅から予約不要の無料クラブバスも運行し、公式時刻表ではコースまで約25分。",
@@ -8612,10 +8630,11 @@ const DATA={
       "id": 137,
       "comparison": {
         "play": {
-          "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=12001",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "東・西の計36ホール。西コースは広く緩やかなフェアウェイが特徴で、東コースは公式トーナメントの開催実績があり、戦術を考えて攻める構成として公式に紹介されています。",
+          "url": "https://heiwanosan.co.jp/anegasaki/about/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式倶楽部案内L41–45で西の広く緩やかなフェアウェイと東の戦術性・トーナメント開催実績、36ホールを確認。L50にも36HOLES。東西双方を全体に平坦とはしない。"
         },
         "rail": {
           "text": "姉ヶ崎駅から車で約15分。駅からの送迎バスも約15分で、6時45分便は平日のみ予約制です。定休日セルフデーはクラブバスを運行しません。最新の時刻・運行日は公式案内をご確認ください。",
@@ -8880,10 +8899,11 @@ const DATA={
       "id": 141,
       "comparison": {
         "play": {
-          "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=12048",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "18ホール。4番は池越えのショート、5番は打ち上げのミドル、6番は短い右ドッグレッグのミドルです。池やバンカーに加え、グリーンの傾斜やマウンドを踏まえた攻略が求められます。",
+          "url": "https://www.taiei.cc/courses",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース紹介のOUT1–9/IN10–18表で18ホールを確認。4番L121–125は池越えとグリーンの傾斜、5番L145–150は打上げ・アンジュレーション、6番L169–172は短い右ドッグレッグ・グリーンの2マウンドを確認。"
         },
         "rail": {
           "text": "JR成田駅・京成成田駅から車で約30分（ゴルフ場の求人票に記載）。",
@@ -8945,10 +8965,11 @@ const DATA={
       "id": 142,
       "comparison": {
         "play": {
-          "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-          "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=12065",
-          "checked": "2026-10-22〜23",
-          "basis": "既存掲載情報を項目別に確認"
+          "text": "東・西各18ホール、計36ホール。東4番の池越えショート、東14番のきついドッグレッグ、西17番の池越えミドルなど、池と方向の変化を組み合わせたコースです。",
+          "url": "https://www.tokyu-golf-resort.com/tsurumai/course_m/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース全体マップL30–35で東西各18・計36、東4池越え/14きついドッグレッグ/西17池越えミドルを確認。古いパンフレットではなく現行の公式本文を根拠にする。"
         },
         "rail": {
           "text": "茂原駅から車で約25分。五井駅からは約35分。",
