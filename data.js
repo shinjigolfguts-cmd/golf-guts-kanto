@@ -6915,7 +6915,13 @@ const DATA={
           "dish": "肉汁うどん",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "クラブハウスに男性用・女性用の浴室とロッカールームがあります。ロッカーは100円コインロッカーです。宿泊設備は公式案内で未確認です。",
+          "url": "https://asaka-pab-golf.com/facility.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内本文で男女浴室、男女ロッカールーム、100円コインロッカーを確認。宿泊設備は推測しない。"
+        },
         "budget": {
           "text": "午後9Hは平日3,700〜4,500円／土日祝4,700〜5,600円。1・2・7・8月は下限、その他の月は上限の料金です。",
           "url": "https://asaka-pab-golf.com/news.html",
@@ -11464,7 +11470,13 @@ const DATA={
           "priceLabel": "平日26,500～32,000円／土日祝34,200～39,700円",
           "conditions": "2026年6月1日改定・ゲスト正規料金・季節別。食事別、会員制の利用条件あり。"
         },
-        "stay": null
+        "stay": {
+          "text": "ゲスト用ロッカーは1日330円です。浴場・シャワー・宿泊設備は公式料金案内で未確認です。",
+          "url": "https://www.abikogc.com/guide/charge/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金案内本文でゲスト用ロッカーフィー1日330円を確認。未記載設備の有無は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.abikogc.com/",
@@ -12000,7 +12012,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式の営業案内ではロッカーとシャワールームを利用でき、シャワールームは8時30分からと案内されています。浴槽・宿泊設備は未確認です。",
+          "url": "https://www.daichibacc.com/news/202492b",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式お知らせ本文でロッカーとシャワールーム、シャワー開始時刻を確認。浴槽・宿泊設備は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.daichibacc.com/"
@@ -13485,7 +13503,13 @@ const DATA={
           "dish": "鯵フライ膳"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカーがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。",
+          "url": "https://www.yc21.co.jp/mangijo/house.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内本文でクラブハウスのロッカーを確認。未記載設備の有無は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.yc21.co.jp/mangijo/",
@@ -13534,7 +13558,13 @@ const DATA={
           "dish": "金目姿煮御膳"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。",
+          "url": "https://yc21.co.jp/minamimobara/house.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内本文でクラブハウスのロッカールームを確認。未記載設備の有無は推測しない。"
+        }
       },
       "researchSources": [
         "https://www.yc21.co.jp/minamimobara/",
@@ -24121,7 +24151,13 @@ const DATA={
           "priceLabel": "平日 4,950円\n土日祝 8,470円",
           "conditions": "基本ラウンド・昼食付。時期によって割増料金あり。ハーフ料金とは別。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにシャワー室があります。公式トップページには改修工事による一時クローズ案内が掲載されているため、最新の利用可否は来場前にご確認ください。宿泊設備は未確認です。",
+          "url": "https://ashikaga-watarase-golf.jp/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップページ本文のシャワー室改修工事案内から設備の存在を確認。工事後の利用可否と宿泊設備は推測しない。"
+        }
       },
       "id": 400
     },
@@ -24793,7 +24829,13 @@ const DATA={
           "priceLabel": "平日18,500〜20,500円／土日祝26,500〜28,500円",
           "conditions": "季節別のゲスト1R・4名・キャディ乗用カート料金。消費税・利用税・諸経費込み。セルフは各3,190円引き、3名は550円追加。食事条件は予約時にご確認ください。"
         },
-        "stay": null
+        "stay": {
+          "text": "貴重品ロッカーと当日貸しロッカーがあります。浴場・シャワー・宿泊設備は公式利用約款で未確認です。",
+          "url": "https://takane-cc.co.jp/wp3/wp-content/uploads/2022/06/rule.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ゴルフ場利用約款の貴重品保管条項と貸しロッカー条項を実読。未記載設備の有無は推測しない。"
+        }
       },
       "id": 412
     },
@@ -25858,7 +25900,13 @@ const DATA={
         },
         "dining": null,
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式案内で未確認です。",
+          "url": "https://www.tokyogolfclub.jp/wp-content/uploads/2021/06/%E6%96%B0%E3%81%97%E3%81%84%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A62021%E3%82%A2%E3%83%B3%E3%82%AF%E3%83%AB%EF%BC%89.docx.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ドレスコード本文で来場時の着替え場所としてロッカールームを確認。浴場等は推測しない。"
+        }
       },
       "id": 432
     },
@@ -26021,7 +26069,13 @@ const DATA={
           "sourceType": "official"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。",
+          "url": "https://www.yc21.co.jp/heisei/house.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式施設案内本文でクラブハウスのロッカールームを確認。未記載設備の有無は推測しない。"
+        }
       },
       "id": 435
     },
@@ -27932,7 +27986,13 @@ const DATA={
           "dish": "山西牧場の国産特選豚ロースかつ定食",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "男性用・女性用のロッカールーム、脱衣所、大浴場があります。早朝ラウンドスルーではシャワー利用は別途400円で、ロッカーは利用できません。宿泊設備は公式案内で未確認です。",
+          "url": "https://www.omama-gc.com/clubhouse.htm",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式クラブハウス案内で男女別ロッカー・脱衣所・大浴場を確認し、公式プレー料金案内で早朝ラウンドのシャワー料金とロッカー利用不可条件を確認。"
+        },
         "budget": {
           "text": "薄暮ハーフの掲載料金は平日3,000円、土日祝4,700円。18ホールの料金ではありません。",
           "url": "https://www.omama-gc.com/playfee.htm",
@@ -28787,7 +28847,13 @@ const DATA={
           "priceLabel": "平日 12,570〜13,560円\n土日祝 16,970〜18,510円",
           "conditions": "公式の税込表示額。食事別。3名は1名550円追加。キャディ付きは4名1組で1名3,190円追加。季節・日程で変動。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカーがあります。浴場・シャワー・宿泊設備は公式クラブハウス案内で未確認です。",
+          "url": "https://www.tokyo-cc.jp/clubhouse/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式クラブハウス案内本文でロッカーを確認。未記載設備の有無は推測しない。"
+        }
       },
       "id": 484
     },
