@@ -1,0 +1,42 @@
+{
+  "verified": "2026-10-30",
+  "batch": "verified-followup-20261030be.json",
+  "queuedCommit": "0a81fb72dc8c373670a3497301842d012b85db54",
+  "publishedCommit": "151b2b44367466cb10f6db944951888474a7b7bd",
+  "verifiedUpdateRun": {
+    "id": 40985909062,
+    "conclusion": "success",
+    "job": "update",
+    "steps": "all_success"
+  },
+  "pagesRun": {
+    "id": 40985929259,
+    "conclusion": "success"
+  },
+  "dataSha256": {
+    "repository": "7c298ddfd7086a9dd5f7c6084ffe5451f1189ef290900e73baa5b3fbe33d9c53",
+    "public": "7c298ddfd7086a9dd5f7c6084ffe5451f1189ef290900e73baa5b3fbe33d9c53"
+  },
+  "coursePageSha256": {
+    "5": "263822b0792f38187f924f1483fe17c6c1d90e1445dc11713a7663844db3a252",
+    "87": "e009864faa9b1e06d8f4ca6cc2b803447b05977782e8d9d348b11b3e1ebe1159",
+    "88": "04b30e33a3b43e5ce29eb9272e6d06bdc904d0e21782c13f4d1873a836e8f5bf",
+    "280": "4f313780a11a67b6538614c7e165cea9ecd95e16c8e745c1397079e48200d373",
+    "347": "680880c38e08e42f5f08034c92f2f70acd21ab55d114e3e2acda5f86bbfa0fea",
+    "371": "28cf87b766bfde0a45d7712f4b1d865fb493931ca99323436f7c1fc3fd3c2cb1",
+    "437": "a193bc4cfa5079a761f8b7dc3cecdabfca2c81ce1f8c8979803303fc0bec3e8a",
+    "438": "ec950fa029f94fc2b555b9fdeb906297c6b5a364b55c2b4001660cbf3b356e67",
+    "475": "176fc3ff65329d0490c9407490bdb8ab8f610cce22f75cc0fc4c453b427bff1d"
+  },
+  "publishedUpdates": 10,
+  "remaining": {
+    "total": 190,
+    "car": 8,
+    "rail": 23,
+    "dining": 20,
+    "stay": 47,
+    "budget": 84,
+    "scenery": 8
+  },
+  "searchConsole": "not_checked_by_automation"
+}
