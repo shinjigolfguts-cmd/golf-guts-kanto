@@ -1,0 +1,53 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "623ed2d4411e18638dfe7152b6974acb6179b7ef",
+  "scope": "batch cb後に残った実情報未確定34項目を、公式公開資料の範囲で最終整理。未掲載を施設なしと解釈せず、認証・アクセス制限を迂回せず、料金・交通時間・設備・景観を推測しない。",
+  "counts": {
+    "targetFactsAtStartOfCb": 47,
+    "confirmedAndPublishedByCb": 13,
+    "reviewedAndExplicitlyUnresolved": 34,
+    "unprocessed": 0
+  },
+  "entries": [
+    {"id":12,"name":"カメリアヒルズカントリークラブ","field":"budget","url":"https://www.camelliahills.com/price/","result":"reviewed_unresolved","reason":"公式料金ページがメンテナンス表示。現行の対象日・人数・税・食事・割増条件を確認できず、過去料金を転用しない。"},
+    {"id":19,"name":"ベルセルバカントリークラブ 市原コース","field":"budget","url":"https://www.belle-co.com/ichihara/","result":"reviewed_unresolved","reason":"公式本文の取得失敗を再確認。運営元の公開施設紹介にもプレー料金がなく、第三者料金を採用しない。"},
+    {"id":80,"name":"初穂カントリークラブ","field":"dining","url":"https://www.shirasawa-kougen.com/restaurant.html","result":"reviewed_unresolved","reason":"ゴルフ場公式と併設ホテル公式の現行メニュー本文を取得できず、第三者の料理情報を採用しない。"},
+    {"id":80,"name":"初穂カントリークラブ","field":"budget","url":"https://www.hatsuhocc.co.jp/","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、対象日・人数・税・食事・割増条件を確認できない。"},
+    {"id":134,"name":"チェックメイトカントリークラブ","field":"stay","url":"https://checkmate-cc.com/faci.html","result":"reviewed_unresolved","reason":"公式施設ページに浴場・宿泊の明示根拠がなく、未掲載を設備なしと解釈しない。"},
+    {"id":140,"name":"鹿野山ゴルフ倶楽部","field":"budget","url":"https://www.kanozan.co.jp/","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、第三者料金を採用しない。"},
+    {"id":163,"name":"ゴールド栃木プレジデントカントリークラブ","field":"budget","url":"https://www.president-cc.jp/","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、第三者料金を採用しない。"},
+    {"id":234,"name":"富士市原ゴルフクラブ","field":"rail","url":"https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access","result":"reviewed_unresolved","reason":"公式アクセス本文に当施設の鉄道案内がなく、同ページ内の近隣コース情報を転用しない。"},
+    {"id":243,"name":"新千葉カントリー倶楽部","field":"dining","url":"https://www.shinchiba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトで現行レストランメニュー本文を特定できず、第三者情報を採用しない。"},
+    {"id":243,"name":"新千葉カントリー倶楽部","field":"stay","url":"https://www.shinchiba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトで浴場・宿泊の現行条件を特定できず、設備なしとは判断しない。"},
+    {"id":249,"name":"東京クラシッククラブ","field":"budget","url":"https://tokyo-classic.jp/members_login/","result":"reviewed_unresolved","reason":"料金・予約情報は会員ログイン後の案内。認証を迂回せず、一般相場を推測しない。"},
+    {"id":259,"name":"金砂郷カントリークラブ","field":"rail","url":"https://www.kanasago.com/access/","result":"reviewed_unresolved","reason":"公式案内に常陸大宮駅の地図表記はあるが、駅からの交通手段・所要時間はなく推測しない。"},
+    {"id":300,"name":"ダイヤグリーン倶楽部","field":"stay","url":"https://www.daiyagreen.com/","result":"reviewed_unresolved","reason":"公式施設案内で浴場・宿泊条件の判読可能な本文を確認できず、設備なしとは判断しない。"},
+    {"id":314,"name":"水戸グリーンカントリークラブ 山方コース","field":"rail","url":"https://www.mgcc.jp/access/","result":"reviewed_unresolved","reason":"公式アクセス本文は所在地・電話・地図のみで、駅からの移動手段・時間を推測しない。"},
+    {"id":339,"name":"益子ヒルズゴルフクラブ","field":"rail","url":"https://www.mashikohills.com/accesse.html","result":"reviewed_unresolved","reason":"公式案内は真岡IC・笠間西ICからの車情報のみで、駅名や時間を推測しない。"},
+    {"id":348,"name":"G7カントリー倶楽部","field":"rail","url":"https://www.g7cc.co.jp/access.html","result":"reviewed_unresolved","reason":"公式アクセス本文・車ルート資料に駅からの所要時間の根拠がなく、推測しない。"},
+    {"id":357,"name":"桃里カントリー倶楽部","field":"stay","url":"https://www.touricc.com/clubhouse.html","result":"reviewed_unresolved","reason":"公式クラブハウス本文に浴場・宿泊の明示がなく、未掲載を設備なしと解釈しない。"},
+    {"id":365,"name":"矢板カントリークラブ","field":"rail","url":"https://yaita-cc.com/access","result":"reviewed_unresolved","reason":"公式アクセス本文に鉄道利用の明示がなく、駅や時間を推測しない。"},
+    {"id":367,"name":"ロイヤルカントリークラブ","field":"scenery","url":"https://www.royalcc.co.jp/course.html","result":"reviewed_unresolved","reason":"公式ページに旧ホール画像・動画を含むとの注記があり、旧資料を現行景観へ転用しない。"},
+    {"id":384,"name":"足利カントリークラブ 飛駒コース","field":"budget","url":"https://www.ashikaga-cc.com/information/price/","result":"reviewed_unresolved","reason":"公開料金表は2026年4〜6月分で対象期間終了。別コースの予約額も転用しない。"},
+    {"id":390,"name":"LiVE MAX GOLF CLUB 栃木","field":"rail","url":"https://www.livemax-golfclub.com/access/","result":"reviewed_unresolved","reason":"公式アクセス本文は車距離・駐車場情報のみで、駅からの移動案内を推測しない。"},
+    {"id":397,"name":"都賀カンツリー倶楽部","field":"budget","url":"https://www.tsugacc.co.jp/","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、第三者料金を採用しない。"},
+    {"id":427,"name":"児玉カントリー倶楽部","field":"stay","url":"https://www.kodama-cc.jp/","result":"reviewed_unresolved","reason":"公式施設本文を取得できず、名称が近い別施設の設備情報を転用しない。"},
+    {"id":427,"name":"児玉カントリー倶楽部","field":"budget","url":"https://www.kodama-cc.jp/fee.html","result":"reviewed_unresolved","reason":"公式料金本文を取得できず、名称が近い別施設の料金を転用しない。"},
+    {"id":432,"name":"東京ゴルフ倶楽部","field":"dining","url":"https://www.tokyogolfclub.jp/infomation/20230604/","result":"reviewed_unresolved","reason":"公式で確認できるのは2023年の食堂利用時間案内。現行メニュー・提供内容の根拠にはしない。"},
+    {"id":449,"name":"下仁田カントリークラブ","field":"budget","url":"https://www.shimonitacc.com/reservation.html","result":"reviewed_unresolved","reason":"料金は登録後の日付別予約カレンダーで案内。公開本文から対象日・人数・税・食事・割増を確認できない。"},
+    {"id":450,"name":"桐生カントリークラブ","field":"budget","url":"https://www.kiryucc.com/reservation.html","result":"reviewed_unresolved","reason":"料金は登録後の日付別予約カレンダーで案内。公開本文から対象日・人数・税・食事・割増を確認できない。"},
+    {"id":453,"name":"髙梨子倶楽部","field":"rail","url":"https://www.takanashiclub.jp/access.html","result":"reviewed_unresolved","reason":"公式アクセス本文に最寄駅・所要時間の明示がなく、推測しない。"},
+    {"id":465,"name":"太田双葉カントリークラブ","field":"rail","url":"https://www.ota-futaba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトはHTTP 403。アクセス制限を迂回せず、第三者交通情報を採用しない。"},
+    {"id":465,"name":"太田双葉カントリークラブ","field":"stay","url":"https://www.ota-futaba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトはHTTP 403。アクセス制限を迂回せず、第三者設備情報から有無を断定しない。"},
+    {"id":465,"name":"太田双葉カントリークラブ","field":"budget","url":"https://www.ota-futaba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトはHTTP 403。アクセス制限を迂回せず、第三者料金を採用しない。"},
+    {"id":465,"name":"太田双葉カントリークラブ","field":"scenery","url":"https://www.ota-futaba-cc.co.jp/","result":"reviewed_unresolved","reason":"公式サイトはHTTP 403。アクセス制限を迂回せず、第三者画像から現行景観を推測しない。"},
+    {"id":486,"name":"相模野カントリー倶楽部","field":"stay","url":"https://sagamino-cc.jp/club-house.html","result":"reviewed_unresolved","reason":"公式ページは見出し・画像中心で浴場・宿泊の明示根拠が不足。画像の外観から設備を推測しない。"}
+  ],
+  "publication": {
+    "confirmedFactsBatch": "verified-followup-20261030cb.json",
+    "confirmedFactsCommit": "623ed2d4411e18638dfe7152b6974acb6179b7ef",
+    "publicPagesChecked": ["courses/241.html", "courses/243.html", "courses/300.html", "courses/455.html"],
+    "note": "34項目は、既に公開ページに公式調査先と未確認理由を掲載済み。新しい確定事実がないためdata.jsを再変更しない。"
+  },
+  "searchConsole": "非公開ステータスは確認していない。"
+}
