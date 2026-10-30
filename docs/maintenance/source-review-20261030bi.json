@@ -1,0 +1,18 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "22aa81692456581797beb504dd0b82e47f48d048",
+  "items": [
+    {"id": 125, "name": "東京五日市カントリー倶楽部", "field": "stay", "status": "content_verified", "url": "https://www.itukaiti.co.jp/facility/", "finding": "公式施設一覧でロッカーを確認。浴場・宿泊は未確認。"},
+    {"id": 156, "name": "大利根カントリークラブ", "field": "stay", "status": "content_verified", "url": "https://www.ohtone.co.jp/forvisitors/", "finding": "来場者向け公式本文でロッカーでの靴の履き替えを確認。"},
+    {"id": 180, "name": "成田フェアフィールドゴルフクラブ", "field": "stay", "status": "content_verified", "url": "https://www.naritaff.com/rules/", "finding": "公式施設利用約款で通常ロッカーと貴重品ロッカーを確認。過去の浴場案内は現在条件に使わない。"},
+    {"id": 261, "name": "桜の宮ゴルフ倶楽部", "field": "stay", "status": "content_verified", "url": "https://www.sakuranomiyagc.jp/facility_other.html", "finding": "公式施設案内で貴重品ロッカーを確認。"},
+    {"id": 283, "name": "桜ゴルフ倶楽部", "field": "stay", "status": "content_verified", "url": "https://www.sakurasgo.com/facility.html", "finding": "公式施設案内で男女ロッカー、男女浴室、サウナを確認。"},
+    {"id": 309, "name": "ノースショアカントリークラブ", "field": "stay", "status": "content_verified", "url": "https://nscc.golftk.com/img/dresscode_manner.pdf", "finding": "公式マナーPDFでロッカールームの利用案内を確認。"},
+    {"id": 314, "name": "水戸グリーンカントリークラブ 山方コース", "field": "stay", "status": "content_verified", "url": "https://www.mgcc.jp/event/", "finding": "公式営業案内で2026年からのゲストロッカー使用料110円を確認。"},
+    {"id": 335, "name": "杉ノ郷カントリークラブ", "field": "stay", "status": "content_verified_with_condition", "url": "https://suginosato.co.jp/fee.html", "finding": "公式料金ページの対象プランでロッカー・風呂利用不可を確認。通常営業全体へは一般化しない。"},
+    {"id": 339, "name": "益子ヒルズゴルフクラブ", "field": "stay", "status": "content_verified", "url": "https://www.mashikohills.com/fee.html", "finding": "公式料金ページで浴室はシャワー、ロッカー費150円を確認。"},
+    {"id": 84, "name": "ダイナミックゴルフ千葉", "field": "stay", "status": "not_adopted_wrong_branch", "url": "https://dynamic-golf.jp/", "finding": "シャワーの記載は成田店の施設欄で、千葉店には記載がないため採用しない。"},
+    {"id": 86, "name": "ダイナミックゴルフ茂原", "field": "stay", "status": "not_adopted_no_official_claim", "url": "https://dynamic-golf.jp/", "finding": "茂原店の施設欄に浴場・シャワーの記載がないが、不存在とは判断せず未確認を維持。"},
+    {"id": 112, "name": "吉見ゴルフ場", "field": "stay", "status": "not_adopted_ambiguous_course", "url": "https://river-golf.com/yoshimi/", "finding": "グループ他場や限定営業日の浴室案内は確認できたが、吉見の通常営業設備を特定できず採用しない。"}
+  ]
+}
