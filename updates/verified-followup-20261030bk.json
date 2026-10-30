@@ -1,0 +1,37 @@
+{
+  "baseSha256": "bc8b3762f465b768475aeb54cc9c1acfdc2e8d271f8f4568519b1830c4cd0701",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 139,
+      "name": "PGM市原カントリークラブ",
+      "field": "stay",
+      "before": null,
+      "after": {
+        "text": "ロッカーと浴室があり、利用時は220円（税込）です。ロッカーを利用しない場合と、スルー・ハーフプレーでは浴室も利用できません。貴重品ロッカーは通常ロッカーを利用しない場合も使えます。宿泊設備は公式案内で確認できていません。",
+        "url": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/course_news/658b66f2/tmp_main_r_174_edit_confirm_1703634659.pdf",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM公式のロッカー・浴室利用案内で、男女ロッカー、浴室、貴重品ロッカー、料金と利用制限を確認。宿泊は確認できないため未確認として区別。",
+        "conditions": "2024年4月1日から、ロッカー・浴室利用は220円（税込）。ロッカー利用なし、スルー・ハーフプレーはロッカー・浴室利用不可。年次会員はロッカー料金請求なし。"
+      },
+      "evidenceNote": "PGM公式PDFの設備・料金・プラン別制限を実読。"
+    },
+    {
+      "id": 440,
+      "name": "PGM武蔵ゴルフクラブ",
+      "field": "dining",
+      "before": null,
+      "after": {
+        "text": "メインダイニングで、武蔵御膳、国産鶏のフレッシュトマト煮込み、海老フライ、ペスカトーレ、粗挽きハンバーグなどを提供しています。朝食・デザート・パーティーメニューも掲載されています。",
+        "url": "https://www.pacificgolf.co.jp/musashi/restaurant.asp",
+        "checked": "2026-10-30",
+        "sourceType": "official",
+        "basis": "PGM武蔵ゴルフクラブ公式レストランページの現行メニュー本文を確認。",
+        "conditions": "季節や月により献立・提供内容が変わる場合があります。"
+      },
+      "evidenceNote": "公式レストランページのメニュー名と区分を実読。"
+    }
+  ]
+}
