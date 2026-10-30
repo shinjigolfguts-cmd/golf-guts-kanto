@@ -1,0 +1,23 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "8714669d0521159b12a262cdf1e994ff48524e9d",
+  "adopted": [
+    {"id": 41, "field": "budget", "source": "https://www.matsuogolfclub.jp/guide/", "reason": "公式本文の料金確認方法、1R・4バッグ・セルフ・昼食付き等の条件、バッグ割増を記録。総額は推測しない。"},
+    {"id": 59, "field": "budget", "source": "https://bristol-hill.com/", "reason": "公式予約導線を確認したが一般公開総額を本文で検証できず、未確認理由を記録。"},
+    {"id": 183, "field": "budget", "source": "https://kamagaya-cc.co.jp/fee", "reason": "公式料金構成と会員紹介等の予約条件を確認。外部表示枠の金額は補わない。"},
+    {"id": 186, "field": "budget", "source": "https://www.kunocc.co.jp/reservation/", "reason": "公式でプレー・ゲスト料金の確認先が会員専用ページであることを確認。"},
+    {"id": 216, "field": "budget", "source": "https://www.yc21.co.jp/mangijo/fee.html", "reason": "公式本文は自社予約での料金公開を案内するが具体的総額は未掲載。"},
+    {"id": 218, "field": "budget", "source": "https://www.yc21.co.jp/yamadagolf/fee.html", "reason": "公式本文の料金条件を確認。第三者予約価格やJavaScript表示の未検証額は採用しない。"},
+    {"id": 258, "field": "rail", "source": "https://www.katsuragaoka.com/access/", "reason": "公式アクセスは車経路のみで、駅・鉄道・送迎条件を確認できないため未確認として整理。"},
+    {"id": 287, "field": "stay", "source": "https://www.shiraho.jp/", "reason": "公式交通・料金案内で浴場・シャワー・宿泊設備を確認できず、設備なしとは断定しない。"},
+    {"id": 287, "field": "budget", "source": "https://www.shiraho.jp/fee.html", "reason": "公式料金表の対象時点を2026年の現行表として確定できず、古い金額を転用しない。"},
+    {"id": 303, "field": "stay", "source": "https://www.tukubane.com/", "reason": "公式サイト本文で浴場・シャワー・宿泊設備を確認できず、第三者情報は採用しない。"},
+    {"id": 318, "field": "budget", "source": "https://onewaygc.co.jp/fee/", "reason": "公式月別料金表が画像中心で、金額とプラン条件を本文として安全に照合できないため推測しない。"}
+  ],
+  "notAdopted": [
+    {"id": 234, "fields": ["rail"], "source": "https://reserve.accordiagolf.com/golfCourse/chiba/fujiichihara/access/", "reason": "公式詳細では送迎バスなしを確認できるが、現行の最寄駅と駅からの所要時間を本文で確認できない。"},
+    {"id": 241, "fields": ["rail", "dining", "stay", "budget", "scenery"], "source": "https://www.katoricc.com/", "reason": "公式サイトの本文取得が安定せず、HTTP応答だけで各項目を確認済みにしない。"},
+    {"id": 243, "fields": ["rail", "dining", "stay", "budget", "scenery"], "source": "https://www.shinchiba-cc.co.jp/", "reason": "公式サイト内に利用規約等はあるが、各未入力項目の現行本文をまとめて検証できない。"},
+    {"id": 246, "fields": ["car", "rail", "budget"], "source": "https://www.brickandwood.jp/official/access/", "reason": "公式アクセスは予約制バス等を案内するが、駅・ICからの所要時間と現行料金総額を確認できない。"}
+  ]
+}
