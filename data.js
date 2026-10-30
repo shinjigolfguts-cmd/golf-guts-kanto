@@ -170,7 +170,13 @@ const DATA={
           "priceLabel": "薄暮9H：平日5,440円\n土日祝6,715円",
           "conditions": "9ホールの料金で18ホールではありません。乗用カートセルフ・予約制・1名不可。月曜・木曜は薄暮受付なし。ロッカー・浴室利用不可。"
         },
-        "scenery": null
+        "scenery": {
+          "text": "広々としたスケールでフラットに展開する18ホール。適度なアンジュレーションを生かした、多彩なコース景観です。",
+          "url": "https://www.h-abiko-cc.com/group/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式グループ案内本文で、広々としたスケール、フラットな18ホール、適度なアンジュレーションを確認。"
+        }
       },
       "officialUrl": "https://www.h-abiko-cc.com/information/price/"
     },
@@ -10732,7 +10738,14 @@ const DATA={
           "sourceType": "official",
           "basis": "公式施設案内の浴室見出し・案内文・写真キャプションを確認。温泉や宿泊施設の有無を推測しない。"
         },
-        "budget": null,
+        "budget": {
+          "text": "第2水曜日（冬季は火・水）のワンウェイスルー・セルフプレーデーは、ビジター14,930円（税込）です。メンバー同伴ビジター9,930円、メンバー紹介ビジター11,930円、伊香保温泉宿泊者ビジター13,930円です。",
+          "url": "https://www.ikahocc.co.jp/onewayself.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式ワンウェイスルー・セルフプレーデー案内本文の開催曜日、区分別税込料金、通常予約との相違を確認。",
+          "conditions": "限定10組。原則第2水曜日、冬季は毎週火・水曜日。通常のキャディ付き予約は料金・予約時間が異なり、フロントへ電話確認が必要です。"
+        },
         "scenery": {
           "text": "杉や桧の林、大きな樹木に囲まれたフェアウェイ。水沢山を間近に、遠くに赤城山を望みます。",
           "url": "https://www.ikahocc.co.jp/course.html",
@@ -13672,7 +13685,14 @@ const DATA={
           "basis": "公式ページ本文を確認。",
           "dish": "金目姿煮御膳"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10月30日時点の公式予約カレンダーには、平日セルフ・昼食付き11,800円と、朝食バイキング・昼食付き12,800円のプランが掲載されています。",
+          "url": "https://www.yc21.co.jp/minamimobara/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式トップの現行予約カレンダーでプラン名、平日、セルフ、食事条件、表示料金を確認。",
+          "conditions": "日付・空き状況により選べるプランと料金が変わります。予約時に公式カレンダーで対象日、人数、追加料金を確認してください。"
+        },
         "stay": {
           "text": "クラブハウスにロッカールームがあります。浴場・シャワー・宿泊設備は公式施設案内で未確認です。",
           "url": "https://yc21.co.jp/minamimobara/house.html",
@@ -15170,7 +15190,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式アクセス案内。所要時間は目安。"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "クラブハウスから望む、美しくおおらかな景観を公式の歴史ページで紹介しています。",
+          "url": "https://www.takanodaicc.or.jp/history/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式歴史ページ本文のクラブハウスからの景観説明を確認。"
+        },
         "dining": {
           "text": "公式パーティーメニューでは和牛ミニッツステーキを含むプランを案内。朝食にはベーコンエッグセットを用意しています。料理の提供日はご利用時にご確認ください。",
           "url": "https://www.takanodaicc.or.jp/facility/restaurant/",
@@ -17752,7 +17778,14 @@ const DATA={
           "dish": "鰻の棒寿司と常陸秋そば御膳",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10月30日開催「秋の美味しいものカップ」は、セルフ13,800円、キャディ付き18,200円です。",
+          "url": "https://www.summit-golf-club.jp/date/2026/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式2026年イベント案内で開催日、イベント名、セルフ・キャディ付き料金、料金に含む内容を確認。",
+          "conditions": "2026年10月30日のイベント限定例。昼食、練習コイン1枚、参加費込み。通常日や別イベントの料金ではありません。"
+        },
         "stay": {
           "text": "浴槽から外の池へ視線が続くように設計された広い浴室があります。男性サウナも備え、2026年の公式案内では上下2段の座席へリニューアルしています。",
           "url": "https://www.summit-golf-club.jp/news/2783/",
@@ -18131,7 +18164,14 @@ const DATA={
           "dish": "瑞穂牛サーロインステーキ",
           "sourceType": "official"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年10月1日～12月31日のゴルフのみプランは、ビジター平日が10月9,600円、11～12月9,800円、土日祝が10月15,600円、11～12月14,600円です。",
+          "url": "https://www.resol-golf.jp/uploads/recommend/2026/p5_260709195228.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式秋プランPDFを目視・テキスト確認し、期間、除外日、月別・曜日別ビジター料金、含有項目と割増を確認。",
+          "conditions": "12月27～31日は対象外。昼食・カート代・消費税・ゴルフ場利用税込み。2バッグ割増は平日1,100円、土日祝2,200円。3バッグ割増なし。9月15日～11月30日はRESOL CUP参加料1,100円が別途必要です。"
+        },
         "stay": {
           "text": "ホテルとフェアウェイフロントヴィラ、天然温泉を備える滞在型施設。",
           "url": "https://www.resol-golf.jp/kuji/",
@@ -25236,7 +25276,14 @@ const DATA={
           "basis": "公式ページ本文・料金表で確認",
           "dish": "埼玉うまいもん丼"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年4月1日からのゲストグリーンフィ（税別）は、ハイシーズンが平日14,000円・土日祝21,000円、オフシーズンが平日12,000円・土日祝18,000円です。",
+          "url": "https://www.hmcc.co.jp/wp1/wp-content/uploads/2026/03/1c734aabd3ed4df11730b0f9b5811ddd.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金改定PDFで適用開始日、季節区分別ゲストグリーンフィ、キャディ・カートフィとセルフ控除を確認。",
+          "conditions": "表示額は総額ではなくゲストグリーンフィのみで税別です。キャディ・カートフィは4バッグ6,200円、3バッグ6,700円、2バッグ7,700円（各税別）などが別途必要。セルフは組人数別の控除、2人乗りカートは追加料金があります。予約時に総額を確認してください。"
+        },
         "stay": {
           "text": "公式クラブハウス案内に浴室を掲載しています。",
           "url": "https://www.hmcc.co.jp/facility/",
@@ -25435,7 +25482,13 @@ const DATA={
           "checked": "2026-10-24",
           "basis": "公式ページ本文・案内図で確認"
         },
-        "scenery": null,
+        "scenery": {
+          "text": "長瀞の丘陵から秩父連山を望み、ダイナミックな打ち下ろしや変化のあるレイアウトが大自然と調和する景観です。",
+          "url": "https://www.kanbun-group.co.jp/ncc/course.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コース案内本文で長瀞丘陵、秩父連山、打ち下ろし、変化のあるレイアウトと自然との調和を確認。"
+        },
         "car": {
           "text": "公式交通案内に車の経路を掲載しています。",
           "url": "https://www.kanbun-group.co.jp/ncc/access.html",
@@ -25456,7 +25509,14 @@ const DATA={
           "sourceType": "official",
           "dish": "冷や汁そうめん"
         },
-        "budget": null,
+        "budget": {
+          "text": "2026年4月以降のアフタヌーンプレーは、ゲスト2名以上で平日3,700円、土日祝4,700円（税込）です。",
+          "url": "https://www.kanbun-group.co.jp/ncc/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページで2026年4月以降のアフタヌーン料金、人数区分、支払・施設利用条件を確認。",
+          "conditions": "アフタヌーン限定料金。平日の1名組み合わせは4,300円、土日祝の1名組み合わせは利用不可。前金制・現金払いで、浴室・ロッカーは利用できません。スタート時間は変わる場合があります。"
+        },
         "stay": {
           "text": "公式料金ページ掲載のアフタヌーン等の対象プランでは、浴室・ロッカー等の施設を利用できません。通常営業時の利用条件は公式本文で確認できていません。",
           "url": "https://www.kanbun-group.co.jp/ncc/fee.html",
