@@ -21763,7 +21763,13 @@ const DATA={
           "dish": "秋の深山蕎麦"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "通常ロッカーと貴重品ロッカーがあります。浴場・宿泊設備の現在の利用条件は公式案内で確認できていません。",
+          "url": "https://thomson-cc.com/yakkan.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式利用約款の第8条・第10条で通常ロッカーと貴重品ロッカーを確認。浴場・宿泊は未確認。"
+        }
       },
       "id": 356
     },
@@ -22093,7 +22099,13 @@ const DATA={
           "priceLabel": "平日例5,590円／土曜例12,990円",
           "conditions": "2026年10/26・30完全セルフステーキデー、10/31通常土曜の例。4B1R乗用カート・昼食・消費税・利用税・基金含む。土日祝2B+2,200円。"
         },
-        "stay": null
+        "stay": {
+          "text": "ロッカールーム、貴重品ロッカー、お風呂があります。公式案内では宿泊施設はありません。",
+          "url": "https://banryugolf.com/higashinomiya/course/index.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式コースガイドの施設情報でロッカー、貴重品ロッカー、お風呂を確認し、宿泊施設なしの明記も確認。"
+        }
       },
       "id": 362
     },
@@ -23602,7 +23614,13 @@ const DATA={
           "priceLabel": "公式掲載ゲスト・セルフ料金",
           "conditions": "4～6月・10～12月は平日メンバー紹介、土日祝メンバー同伴。7～9月・1～3月は全日メンバー紹介。4～6月・10～12月の日曜日にはメンバー専用枠あり。食事の含有・人数条件・適用日は予約時に確認。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスにロッカールームとバスルームがあります。宿泊設備は公式施設案内で確認できていません。",
+          "url": "https://www.taiheiyoclub.co.jp/course/hillcrest/guide.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "佐野ヒルクレストコース公式施設案内でロッカールームとバスルームを確認。宿泊は未確認。"
+        }
       },
       "id": 387
     },
@@ -24637,7 +24655,14 @@ const DATA={
           "priceLabel": "秋の掲載例 平日26,000円／土曜36,000円",
           "conditions": "2026年10月の掲載例は平日26,000円、土曜36,000円。1R・4バッグ・キャディ付き、消費税・利用税込。食事などの追加費用は予約時にご確認ください。会員同伴・紹介が原則です。"
         },
-        "stay": null
+        "stay": {
+          "text": "会員向け年間シューズロッカーは4,400円です。浴場・宿泊設備は公式案内で確認できていません。",
+          "url": "https://www.ishizaka-gc.com/fee/",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金案内で会員向け年間シューズロッカー料金を確認。浴場・宿泊は未確認。",
+          "conditions": "会員向け年間契約のシューズロッカー。"
+        }
       },
       "id": 405
     },
@@ -25425,7 +25450,14 @@ const DATA={
           "dish": "冷や汁そうめん"
         },
         "budget": null,
-        "stay": null
+        "stay": {
+          "text": "公式料金ページ掲載のアフタヌーン等の対象プランでは、浴室・ロッカー等の施設を利用できません。通常営業時の利用条件は公式本文で確認できていません。",
+          "url": "https://www.kanbun-group.co.jp/ncc/fee.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式料金ページで対象プランの浴室・ロッカー等利用不可を確認。通常営業全体へ一般化せず限定条件として記録。",
+          "conditions": "前金制・現金払い等が案内される公式料金ページ掲載の対象プラン。通常営業全体の設備有無を示すものではない。"
+        }
       },
       "id": 419
     },
@@ -25535,7 +25567,13 @@ const DATA={
           "priceLabel": "ビジター 平日33,000円／土曜42,000円",
           "conditions": "ビジターは平日33,000円・土曜42,000円。3〜4バッグのキャディ代・利用税・消費税込、飲食別。2バッグは1,100円加算。ゲストは会員紹介・同伴が原則で、ビジター受入日・枠は限定されます。"
         },
-        "stay": null
+        "stay": {
+          "text": "クラブハウスに冷暖房付きのロッカーがあります。浴場・宿泊設備は公式案内で確認できていません。",
+          "url": "https://www.ranzan.cc/wp-content/uploads/2026/01/RANZAN2024spring_4C.pdf",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式会報でロッカーへの冷暖房設置とラウンド後の着替え利用を確認。浴場・宿泊は未確認。"
+        }
       },
       "id": 421
     },
@@ -28842,7 +28880,15 @@ const DATA={
           "dish": "秋鯖の竜田揚げ",
           "sourceType": "official"
         },
-        "stay": null,
+        "stay": {
+          "text": "ロッカールームとバスルームがあります。夏季（7月21日～9月末頃）はバスルームがシャワーのみの利用となります。",
+          "url": "https://www.taiheiyoclub.co.jp/course/takasaki/topics/lrhh7f000000p4rm.html",
+          "checked": "2026-10-30",
+          "sourceType": "official",
+          "basis": "公式夏季案内でバスルームのシャワー限定期間を確認し、公式施設案内でロッカールームを確認。",
+          "conditions": "夏季のシャワー限定期間は7月21日から9月末頃の予定。",
+          "supportingUrl": "https://www.taiheiyoclub.co.jp/course/takasaki/guide.html"
+        },
         "budget": {
           "text": "ゲストのセルフ料金は平日8,420円、土日祝15,240円。消費税込みで、ゴルフ場利用税600円・振興基金30円・育成協力金50円は別途。",
           "url": "https://www.taiheiyoclub.co.jp/course/takasaki/price.html",
