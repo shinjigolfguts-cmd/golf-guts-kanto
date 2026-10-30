@@ -1,0 +1,71 @@
+{
+  "baseSha256": "dd647613ff3645672794a212ca03408e09325d49b33e9173a9a216c7e83ea216",
+  "reviewed": true,
+  "reviewer": "Codex official primary content review",
+  "updates": [
+    {
+      "id": 282,
+      "name": "ゴルフ5カントリーサニーフィールド",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "平日限定の1泊2ラウンド『ゴルフ満喫プラン』は、3～12月のビジター料金が16,520円です。", "url": "https://www.alpen-group.net/sunnyfield/cottage/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式コテージ案内で2026年4月改定後の1泊2R料金、対象月、食事・税条件を確認。", "conditions": "平日限定。サニーフィールドとかさまフォレストの1泊2プレー、昼食2回・朝食1回付き。消費税・ゴルフ場利用税込み。3～12月のビジター料金。", "priceVerified": true, "priceLabel": "平日1泊2R・16,520円"},
+      "evidenceNote": "公式宿泊ページで2026年改定料金とパッケージ内容を確認。"
+    },
+    {
+      "id": 345,
+      "name": "鹿沼72カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "平日限定のおしどり夫婦パックは、10～12月が夫婦2名で13,400円です。乗用カート・セルフプレー・昼食付きです。", "url": "https://kanuma72.jp/plan/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式お得プランページで対象月、2名合計額、プレースタイル、除外日を確認。", "conditions": "夫婦2名の合計プレー代。平日限定。4月30日、5月1～2日、12月30～31日および年末年始・GW・定休日開放デーは対象外。キャディ付は別料金。", "priceVerified": true, "priceLabel": "夫婦2名・13,400円"},
+      "evidenceNote": "公式プラン本文を実読し、1人料金と誤認しないよう2名合計条件を明記。"
+    },
+    {
+      "id": 349,
+      "name": "新宇都宮カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "併設ロッジの1泊朝食付き料金は、2名以上利用で1人4,350円、1名利用で5,500円です。", "url": "https://shinutsu.com/fee/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式料金案内でロッジ宿泊料金と朝食条件を確認。プレー料金は埋込カレンダーのため転用しない。", "conditions": "ロッジ和室の宿泊料金。1泊朝食込み。プレー料金は含まない。然寿庵は別料金。", "priceVerified": true, "priceLabel": "ロッジ2名以上・1人4,350円"},
+      "evidenceNote": "公式料金ページの宿泊料金を確認し、プレー料金ではないことを明記。"
+    },
+    {
+      "id": 351,
+      "name": "鹿沼プレミアゴルフ倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "2026年4月4日以降の通年料金は、平日が税込総額4,940円、土日祝・特別料金日が税込総額7,800円です。", "url": "https://www.kanuma-premier.jp/fee.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式料金ページで2026年4月4日以降の通年料金、セルフ・乗用カート・1R条件を確認。", "conditions": "乗用カート、セルフプレー、1ラウンド。キャディ付は4Bで1人3,300円、3Bで4,400円、2Bで6,600円加算。", "priceVerified": true, "priceLabel": "平日・税込総額4,940円"},
+      "evidenceNote": "公式通年料金の適用開始日と総額、プレースタイルを確認。"
+    },
+    {
+      "id": 408,
+      "name": "鴻巣カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "開場50周年企画の対象日（5日・15日・25日）は、2027年1～2月のゲスト料金が平日セルフ9,555円、土日祝セルフ12,555円です。", "url": "https://kcc.kanbun-group.co.jp/announcement/23a4", "checked": "2026-10-30", "sourceType": "official", "basis": "公式2026年2月告知で対象期間、対象日、ゲスト料金、税・昼食・人数条件を確認。", "conditions": "2027年1～2月の5日・15日・25日。消費税・ゴルフ場利用税込み、昼食別。貸切・特別優待期間・オープンコンペは対象外。4名未満は追加料金あり。", "priceVerified": true, "priceLabel": "対象日・平日セルフ9,555円"},
+      "evidenceNote": "公式開場50周年企画の将来有効期間を確認し、通常料金ではないことを条件化。"
+    },
+    {
+      "id": 409,
+      "name": "高麗川カントリークラブ",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "登録家族の2026年トップシーズン料金は、平日16,940～17,140円、土日祝20,740～20,940円です。", "url": "https://www.komagawacc.co.jp/news/37028.html", "checked": "2026-10-30", "sourceType": "official", "basis": "公式料金改定案内で2026年1月3日からの登録家族料金、季節区分、税・利用税条件を確認。", "conditions": "登録家族制度の料金。トップシーズンは3～6月・9～12月。消費税込み、月により利用税1,000～1,200円込み。一般ビジター料金ではない。", "priceVerified": true, "priceLabel": "登録家族・平日16,940円～"},
+      "evidenceNote": "公式料金改定告知を実読し、対象者・対象月・幅のある利用税込額を明記。"
+    },
+    {
+      "id": 430,
+      "name": "ザ ナショナルカントリー倶楽部 埼玉",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "メンバー料金は通常期（3～6月・9～12月）が平日6,210円、土日祝7,750円です。食事代1,540円分が付きます。", "url": "https://national-cc.jp/saitama/member/", "checked": "2026-10-30", "sourceType": "official", "basis": "公式メンバーページで通常期・オフシーズンの税込料金と食事条件を確認。", "conditions": "メンバー料金。通常期は3～6月・9～12月。税込、食事代1,540円分付き。未使用差額の返金なし。ビジター料金ではない。", "priceVerified": true, "priceLabel": "メンバー通常期・平日6,210円"},
+      "evidenceNote": "公式メンバー料金表を実読し、対象者・対象月・食事条件を明記。"
+    },
+    {
+      "id": 453,
+      "name": "髙梨子倶楽部",
+      "field": "budget",
+      "before": null,
+      "after": {"text": "2026年度の友の会会員料金は、通常期が平日5,690円・土日祝8,880円、土日祝ハイシーズンが9,980円です。", "url": "https://www.onogi.jp/tomo/top.html", "checked": "2026-10-30", "sourceType": "official", "basis": "施設公式サイトから案内される友の会ページで2026年度料金と期間区分を確認。", "conditions": "友の会会員料金。ハイシーズンは2026年10月24日～2027年1月3日の土日祝で、2Bは2,200円加算。一般ビジター料金ではない。", "priceVerified": true, "priceLabel": "友の会通常期・平日5,690円"},
+      "evidenceNote": "公式友の会ページで対象年度、会員区分、ハイシーズン期間を確認。"
+    }
+  ]
+}
