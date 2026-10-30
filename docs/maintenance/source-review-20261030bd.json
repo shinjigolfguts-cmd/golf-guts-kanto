@@ -1,0 +1,57 @@
+{
+  "checked": "2026-10-30",
+  "baseline": "10a7f3f1c6e27e01e4209c6a8f4fb9e0492ab59b",
+  "items": [
+    {
+      "id": 50,
+      "name": "勝浦ゴルフ倶楽部",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://katsuuragolf.com/fee/",
+      "finding": "公式料金案内でお風呂とロッカーの設備、薄暮プレー時のロッカー・お風呂・レストラン利用不可条件を確認。宿泊設備は未確認。"
+    },
+    {
+      "id": 108,
+      "name": "千葉夷隅ゴルフクラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://www.chibaisumi.jp/rule02.html",
+      "finding": "公式利用規則で浴場の存在と、いれずみ・ファッションタトゥーがある場合の入浴制限を確認。"
+    },
+    {
+      "id": 123,
+      "name": "GMG八王子ゴルフ場",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://gmg.kanbun-group.co.jp/facility",
+      "supportingUrl": "https://gmg.kanbun-group.co.jp/fp/tos",
+      "finding": "公式施設案内でロッカーと浴室を確認。公式利用約款で入れ墨のある方の入浴を断る条件を確認。宿泊設備は未確認。"
+    },
+    {
+      "id": 215,
+      "name": "東急セブンハンドレッドクラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://tokyu700.jp/access/",
+      "finding": "公式アクセス案内でドライバー控室にシャワー施設、仮眠室、和室、リビング等を備えることを確認。プレーヤー向け浴場や宿泊設備へ一般化しない。"
+    },
+    {
+      "id": 407,
+      "name": "熊谷ゴルフクラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://kumagaya-gc.com/%E6%B5%B4%E5%AE%A4%E7%94%A8%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E8%A2%8B%E9%85%8D%E5%B8%83%E7%B5%82%E4%BA%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+      "supportingUrl": "https://kumagaya-gc.com/facility/",
+      "finding": "公式お知らせで浴室用ビニール袋の配布終了を確認し、浴室設備の存在を確認。営業時間・宿泊設備は未確認。"
+    },
+    {
+      "id": 434,
+      "name": "飯能ゴルフクラブ",
+      "field": "stay",
+      "status": "content_verified",
+      "url": "https://hannogc.co.jp/news.html",
+      "supportingUrl": "https://www.hannogc.co.jp/life.html",
+      "finding": "公式お知らせで浴場の通常利用を、公式クラブライフ案内で会員家族の練習利用時の浴場利用を確認。宿泊設備は未確認。"
+    }
+  ]
+}
