@@ -1,0 +1,39 @@
+{
+  "verified": "2026-10-30",
+  "batch": "verified-followup-20261030bd.json",
+  "queuedCommit": "c674fa590ba6c228ef777bfc04f2acd00a77b9c6",
+  "publishedCommit": "316232c39b553d6998a08e1d4e5a95a422ed1a23",
+  "verifiedUpdateRun": {
+    "id": 40984729999,
+    "conclusion": "success",
+    "job": "update",
+    "steps": "all_success"
+  },
+  "pagesRun": {
+    "id": 40984751290,
+    "conclusion": "success"
+  },
+  "dataSha256": {
+    "repository": "5ac4ee9b6ba92fdf1b79acb6590262f1c8c49a2cab9ca707ab37f10071eeade3",
+    "public": "5ac4ee9b6ba92fdf1b79acb6590262f1c8c49a2cab9ca707ab37f10071eeade3"
+  },
+  "coursePageSha256": {
+    "50": "89a35f4c34938865d4e2bbaacac33aa08fd5140950e0e8a7f9564c174050fb94",
+    "108": "7cad83cecf91eb74e7ea352b0500bdf1c6ab657e3feb2d47a082af9c871bea1c",
+    "123": "62df69532ab2bdfe70677e42ea8c2a4af56620ef81757c16a31c0c15a811e643",
+    "215": "cdc3efdcf4768a83ec8717d8b9ad5e764ae4fa936562967da1a84edc8c982e3f",
+    "407": "e96428c8d421a30af01a94ca43128052be2293461c94a3994edcc4a4c6432010",
+    "434": "b39910171263fc413efc496f6380e973bb71e1cd69185b7186a6c2ffb87e9776"
+  },
+  "publishedUpdates": 6,
+  "remaining": {
+    "total": 200,
+    "car": 8,
+    "rail": 23,
+    "dining": 24,
+    "stay": 53,
+    "budget": 84,
+    "scenery": 8
+  },
+  "searchConsole": "not_checked_by_automation"
+}
