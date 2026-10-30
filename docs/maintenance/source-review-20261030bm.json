@@ -1,0 +1,22 @@
+{
+  "checked": "2026-10-30",
+  "baseMain": "85b89c487983d2dc08c299249b60e3a19c8b4aea",
+  "adopted": [
+    {"id": 12, "field": "dining", "source": "https://www.camelliahills.com/topics/1687", "reason": "公式最新情報で予約制テイクアウトの商品と注文条件を確認。"},
+    {"id": 163, "field": "dining", "source": "https://www.president-cc.jp/restaurant.html", "reason": "公式レストラン本文で現行のランチ・朝食・パーティーメニューを確認。"},
+    {"id": 306, "field": "rail", "source": "https://tonegc.co.jp/", "reason": "公式アクセス欄でJR成田線2駅からの距離と所要時間を確認。"},
+    {"id": 321, "field": "rail", "source": "https://www.itakocc.jp/access/", "reason": "公式アクセスで高速バスと水郷潮来からの予約制送迎条件を確認。"},
+    {"id": 334, "field": "dining", "source": "https://www.taka-golf.co.jp/restaurant.html", "reason": "公式レストラン本文でランチと食事券付きセットの料理名を確認。"},
+    {"id": 458, "field": "stay", "source": "https://www.tokyu-golf-resort.com/faq/", "reason": "運営元公式FAQでロッカー、お風呂、シャワーを確認し、個別施設ページと照合。"}
+  ],
+  "notAdopted": [
+    {"id": 258, "fields": ["rail"], "source": "https://www.katsuragaoka.com/access/", "reason": "公式アクセス本文は車経路のみで、鉄道・送迎条件を確認できない。"},
+    {"id": 259, "fields": ["rail"], "source": "https://www.kanasago.com/access/", "reason": "公式アクセス本文は車経路のみで、鉄道・送迎条件を確認できない。"},
+    {"id": 309, "fields": ["rail"], "source": "https://nscc.golftk.com/access.html", "reason": "公式交通案内は車経路のみで、鉄道・送迎条件を確認できない。"},
+    {"id": 310, "fields": ["rail"], "source": "https://kabayagc.com/access/", "reason": "公式アクセス本文は車経路のみで、鉄道・送迎条件を確認できない。"},
+    {"id": 324, "fields": ["rail"], "source": "https://shimodate.co.jp/access", "reason": "公式案内図に下館駅はあるが、駅からの所要時間・移動手段を本文で確認できず地図から推測しない。"},
+    {"id": 326, "fields": ["rail"], "source": "https://www.asia-shimodate.com/access.html", "reason": "公式アクセス本文は車経路のみで、第三者サイトの駅情報を採用しない。"},
+    {"id": 335, "fields": ["dining"], "source": "https://www.suginosato.co.jp/restaurant.html", "reason": "公式ページはメニュー画像の見出しのみで、料理名を本文として確認できず画像内容を推測しない。"},
+    {"id": 357, "fields": ["stay"], "source": "https://www.touricc.com/", "reason": "公式本文で浴室・宿泊の具体的設備を確認できず、第三者サイトの設備情報を採用しない。"}
+  ]
+}
