@@ -1,0 +1,84 @@
+{
+  "baseSha256": "bdd67cc34dcf3558b994f802374abd7552a9809fb671138afff28cfb9eb9aa0d",
+  "baseMain": "7a1c6e53b98b1918b99f1bf6824856b498abbe68",
+  "reviewed": true,
+  "reviewer": "dot — actual official document text reviewed2026-10-31JST; independent LOCAL source QA passed; old10/29 evidence not refetched",
+  "scope": "3 stay fields only: accommodation absence at53 and exact facility bathing conditions199/213. Other3497 fields unchanged; marker274 remains; local33 unchanged.",
+  "updates": [
+    {
+      "id": 199,
+      "name": "紫カントリークラブ あやめコース",
+      "field": "stay",
+      "before": {
+        "text": "公式施設案内に男性用・女性用のお風呂を掲載。温泉・宿泊設備、営業時間やプラン別の利用制限は未確認です。",
+        "url": "https://www.murasaki-cc.co.jp/ayame/facility.html",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設ページの館内設備一覧の男女別のお風呂キャプションを内容確認。掲載された設備を超える推測はしない。"
+      },
+      "after": {
+        "text": "公式施設案内に男性用・女性用のお風呂を掲載（2026年10月29日確認）。公式利用約款では、刺青（タトゥー等）がある方の浴場利用をお断りする場合があるとしています。温泉・宿泊設備、具体的な営業時間やプラン別の利用制限は未確認です。",
+        "url": "https://www.murasaki-cc.co.jp/ayame/facility.html",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "2026-10-31 JSTに公式あやめコース利用約款第5条本文の「お断りすることがあります」と(6)の刺青（タトゥー等）のある方の浴場利用を照合。絶対禁止と強めず、他項の利用拒絶事由との属性関係も推測しない。男女浴場の存在は既存2026-10-29施設一覧確認を保持し、今回施設ページを再読したとはしない。第6条は営業時間を施設側が定め臨時変更する一般条項で具体時刻ではないため、営業時間・プラン条件等の未確認を残す。",
+        "supportingUrls": [
+          "https://www.murasaki-cc.co.jp/ayame/agreement.html"
+        ]
+      },
+      "evidenceNote": "2026-10-31 JSTに公式あやめコース利用約款第5条本文の「お断りすることがあります」と(6)の刺青（タトゥー等）のある方の浴場利用を照合。絶対禁止と強めず、他項の利用拒絶事由との属性関係も推測しない。男女浴場の存在は既存2026-10-29施設一覧確認を保持し、今回施設ページを再読したとはしない。第6条は営業時間を施設側が定め臨時変更する一般条項で具体時刻ではないため、営業時間・プラン条件等の未確認を残す。",
+      "markerRemoved": false,
+      "reviewStatus": "official_partial_stay_fact_and_conditions"
+    },
+    {
+      "id": 53,
+      "name": "木更津東カントリークラブ",
+      "field": "stay",
+      "before": {
+        "text": "クラブハウスに大浴場があります。利用時間・営業条件は公式サイトでご確認ください。宿泊施設の有無は未確認です。",
+        "url": "https://www.resol-golf.jp/kisarazuhigashi/clubhouse/",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式クラブハウス案内の大浴場欄で設置を確認。宿泊施設の有無や浴室の利用時間は断定しない。"
+      },
+      "after": {
+        "text": "クラブハウスに大浴場があります（2026年10月29日確認）。公式FAQでは、宿泊施設は併設していないと案内されています。具体的な浴場利用時間・営業条件は未確認です。",
+        "url": "https://www.resol-golf.jp/kisarazuhigashi/clubhouse/",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "2026-10-31 JSTに公式FAQの「宿泊施設について教えてください」への回答で宿泊施設を併設していない旨を確認。近隣宿泊案内を場内施設と扱わない。大浴場の存在は既存2026-10-29クラブハウス確認を保持し、今回そのページを再読したとはしない。浴場利用時間・営業条件は引き続き未確認であり、宿泊有無1件の解消を欄全体の確認完了としない。",
+        "supportingUrls": [
+          "https://www.resol-golf.jp/kisarazuhigashi/faq/"
+        ]
+      },
+      "evidenceNote": "2026-10-31 JSTに公式FAQの「宿泊施設について教えてください」への回答で宿泊施設を併設していない旨を確認。近隣宿泊案内を場内施設と扱わない。大浴場の存在は既存2026-10-29クラブハウス確認を保持し、今回そのページを再読したとはしない。浴場利用時間・営業条件は引き続き未確認であり、宿泊有無1件の解消を欄全体の確認完了としない。",
+      "markerRemoved": false,
+      "reviewStatus": "official_partial_stay_fact_and_conditions"
+    },
+    {
+      "id": 213,
+      "name": "千葉カントリークラブ 川間コース",
+      "field": "stay",
+      "before": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で15分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID213は車15分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+      },
+      "after": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で15分と案内しています（2026年10月29日確認）。川間ゴルフ場の公式利用約款では、刺青・タトゥーのある方、泥酔の方、他人に感染の恐れのある病気の方の入浴をお断りするとしています。宿泊料金込みのプラン、コース内の浴室の詳細・利用時間や宿泊設備は未確認です。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "2026-10-31 JSTに公式利用約款の川間ゴルフ場専用部分（見出しL191以降）第18条本文「お断りします」と(5)の入浴条件を照合。野田・梅郷部分を川間に転用せず、適用外の例外や特定の疾病・個人への該当性を判断しない。ATAGO HOTELのコース外宿泊案内・車15分は既存2026-10-29確認を保持し、今回ホテル案内を再読したとはしない。入浴規定から浴室の詳細・温泉・具体的営業時間・場内宿泊設備を推定しない。",
+        "supportingUrls": [
+          "https://www.chibacc.co.jp/term"
+        ]
+      },
+      "evidenceNote": "2026-10-31 JSTに公式利用約款の川間ゴルフ場専用部分（見出しL191以降）第18条本文「お断りします」と(5)の入浴条件を照合。野田・梅郷部分を川間に転用せず、適用外の例外や特定の疾病・個人への該当性を判断しない。ATAGO HOTELのコース外宿泊案内・車15分は既存2026-10-29確認を保持し、今回ホテル案内を再読したとはしない。入浴規定から浴室の詳細・温泉・具体的営業時間・場内宿泊設備を推定しない。",
+      "markerRemoved": false,
+      "reviewStatus": "official_partial_stay_fact_and_conditions"
+    }
+  ]
+}
