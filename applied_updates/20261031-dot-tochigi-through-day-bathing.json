@@ -1,0 +1,35 @@
+{
+  "baseSha256": "03ab4cc34cd19df0bf95c2dfb9f2841a3506eccbc003e2615171b9a63ba2d62a",
+  "baseMain": "89948d321dd13f458266d411f7a57799a619a2c2",
+  "reviewed": true,
+  "reviewer": "dot official-text review and independent LOCAL34-check QA,2026-10-31 JST",
+  "scope": "337 stay only; narrowly attributed through-play-day bath/locker condition; no unknown removal",
+  "candidateSHA256": "92c7e5c2f9edaf4a76faf20de4b0c3be9da4c3a98e5103f6eb6535a40ce0d836",
+  "sourceEvidenceSHA256": "3f830d5664b2e86d802bba6089f46dc6a366e1cb22a0e1544233375b9a062df4",
+  "independentSourceQASHA256": "40453450fe684b482007b73e783dac17838b026d826ae7b02e656f8e4a8479bd",
+  "updates": [
+    {
+      "id": 337,
+      "name": "東都栃木カントリー倶楽部",
+      "field": "stay",
+      "before": {
+        "text": "公式施設紹介に浴室を掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
+        "url": "https://www.toto-motors.co.jp/golf/tochigi/facility.htm",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "公式施設紹介の浴室・お風呂の見出しと本文を確認。他施設や周辺ホテルの情報と混同しない。"
+      },
+      "after": {
+        "text": "公式施設紹介に浴室を掲載（2026年10月29日確認）。公式の「ご予約の前に」では、「スループレーデー」は浴室・ロッカールームを利用できないと案内しています。対象日の実施予定、その他のプラン別利用条件、浴室営業時間、温泉の区分・宿泊設備は未確認です。",
+        "url": "https://aps.toto-motors.co.jp/golf/tochigi/images/pdf/GB%E3%81%94%E4%BA%88%E7%B4%84%E3%81%AE%E5%89%8D%E3%81%AB.pdf",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "公式予約注意PDFの「スループレーデー」と浴室・ロッカールーム利用不可の記載を確認。一般のスループレーや通常日全般へ拡張しない。元の浴室掲載情報は2026年10月29日の確認分を保持。",
+        "supportingUrls": [
+          "https://www.toto-motors.co.jp/golf/tochigi/facility.htm"
+        ]
+      },
+      "evidenceNote": "公式の予約前PDF L2が対象とする「スループレーデー」に限り、浴室・ロッカールーム利用不可を記録。一般のスループレーや通常日へ拡張しない。旧浴室掲載の確認日2026-10-29は本文に保持。発行日不明、画像確認Cache missで未視認という限界は監査記録へ保存。独立LOCAL原典・候補34検査PASS。"
+    }
+  ]
+}
