@@ -1,0 +1,85 @@
+{
+  "baseSha256": "5329fa352370a8705ea1b321c3b9734f4dc49b4f48f429c3763763384f844082",
+  "baseMain": "dbdc94a2410ad697dc246d4ec642e2d3e2ce4868",
+  "reviewed": true,
+  "reviewer": "dot — actual official document text reviewed2026-10-31JST; independent LOCAL source QA passed; old10/29 evidence not refetched",
+  "scope": "2 stay fields194/212 and1 dining493: exact bathing rules and non-player restaurant-use condition. Other3497 fields unchanged; marker274 remains; local33 unchanged.",
+  "updates": [
+    {
+      "id": 194,
+      "name": "千葉カントリークラブ 梅郷コース",
+      "field": "stay",
+      "before": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID194は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+      },
+      "after": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分と案内しています（2026年10月29日確認）。野田・梅郷ゴルフ場の公式利用約款では、刺青・タトゥーのある方、泥酔の方、他人に感染の恐れのある病気の方の入浴をお断りするとしています。宿泊料金込みのプラン、コース内の浴室の詳細・利用時間や宿泊設備は未確認です。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "2026-10-31 JSTに保存した公式利用約款の野田・梅郷ゴルフ場共通部分（見出しL13、第18条L158/164）の入浴条件をLOCAL本文照合。ID194は梅郷コースで、川間専用の後半条項を転用していない。原典の「お断りします」の強度を保持し、適用外例外・疾病名・個人の該当性は推定しない。ATAGO HOTELはコース外で車10分の既存10/29確認を保持、今回宿泊案内を再取得・再確認していない。入浴規定から浴室詳細・営業時間・場内宿泊設備を推定しない。",
+        "supportingUrls": [
+          "https://www.chibacc.co.jp/term"
+        ]
+      },
+      "evidenceNote": "2026-10-31 JSTに保存した公式利用約款の野田・梅郷ゴルフ場共通部分（見出しL13、第18条L158/164）の入浴条件をLOCAL本文照合。ID194は梅郷コースで、川間専用の後半条項を転用していない。原典の「お断りします」の強度を保持し、適用外例外・疾病名・個人の該当性は推定しない。ATAGO HOTELはコース外で車10分の既存10/29確認を保持、今回宿泊案内を再取得・再確認していない。入浴規定から浴室詳細・営業時間・場内宿泊設備を推定しない。",
+      "markerRemoved": false,
+      "reviewStatus": "official_specific_facility_conditions"
+    },
+    {
+      "id": 212,
+      "name": "千葉カントリークラブ 野田コース",
+      "field": "stay",
+      "before": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分との案内です。宿泊料金込みのプランやコース内浴室・宿泊設備は未確認。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-29",
+        "sourceType": "official",
+        "basis": "共通の公式宿泊案内に各コース別所要時間を明記。ID212は車10分。外部ホテルを場内宿泊設備としない。交通状況による変動あり。"
+      },
+      "after": {
+        "text": "公式の宿泊案内でコース外のATAGO HOTELなどを紹介。ATAGO HOTELから当コースまでは車で10分と案内しています（2026年10月29日確認）。野田・梅郷ゴルフ場の公式利用約款では、刺青・タトゥーのある方、泥酔の方、他人に感染の恐れのある病気の方の入浴をお断りするとしています。宿泊料金込みのプラン、コース内の浴室の詳細・利用時間や宿泊設備は未確認です。",
+        "url": "https://www.chibacc.co.jp/traffic/stay",
+        "checked": "2026-10-31",
+        "sourceType": "official",
+        "basis": "2026-10-31 JSTに保存した公式利用約款の野田・梅郷ゴルフ場共通部分（見出しL13、第18条L158/164）の入浴条件をLOCAL本文照合。ID212は野田コースで、川間専用の後半条項を転用していない。原典の「お断りします」の強度を保持し、適用外例外・疾病名・個人の該当性は推定しない。ATAGO HOTELはコース外で車10分の既存10/29確認を保持、今回宿泊案内を再取得・再確認していない。入浴規定から浴室詳細・営業時間・場内宿泊設備を推定しない。",
+        "supportingUrls": [
+          "https://www.chibacc.co.jp/term"
+        ]
+      },
+      "evidenceNote": "2026-10-31 JSTに保存した公式利用約款の野田・梅郷ゴルフ場共通部分（見出しL13、第18条L158/164）の入浴条件をLOCAL本文照合。ID212は野田コースで、川間専用の後半条項を転用していない。原典の「お断りします」の強度を保持し、適用外例外・疾病名・個人の該当性は推定しない。ATAGO HOTELはコース外で車10分の既存10/29確認を保持、今回宿泊案内を再取得・再確認していない。入浴規定から浴室詳細・営業時間・場内宿泊設備を推定しない。",
+      "markerRemoved": false,
+      "reviewStatus": "official_specific_facility_conditions"
+    },
+    {
+      "id": 493,
+      "name": "鎌倉パブリックゴルフ場",
+      "field": "dining",
+      "before": {
+        "text": "公式メニューに「大海老の鎌倉丼」を掲載。「三崎マグロ丼」などの和食も選べます。",
+        "url": "https://kamakura-pg.com/facility/restaurant/",
+        "checked": "2026-10-24",
+        "basis": "公式サイトの本文を確認",
+        "dish": "大海老の鎌倉丼"
+      },
+      "after": {
+        "text": "公式メニューに「大海老の鎌倉丼」を掲載。「三崎マグロ丼」などの和食も選べます（2026年10月24日確認）。公式FAQでは、プレーヤー以外もレストランを利用でき、伝票を受け取って自動精算機で精算する案内です。",
+        "url": "https://kamakura-pg.com/facility/restaurant/",
+        "checked": "2026-10-31",
+        "basis": "2026-10-31 JSTに公式FAQのレストラン欄L79–80で、プレーヤー以外の利用が可能であることと、伝票を受け取って自動精算機で精算する方式を確認。既存の大海老の鎌倉丼・三崎マグロ丼は2026-10-24のメニュー確認を日付付きで保持し、今回レストランメニューを再取得・再確認したとはしない。現在の全料理・価格・営業時間・予約条件を新たに確定しない。",
+        "dish": "大海老の鎌倉丼",
+        "sourceType": "official",
+        "supportingUrls": [
+          "https://kamakura-pg.com/qa/"
+        ]
+      },
+      "evidenceNote": "2026-10-31 JSTに公式FAQのレストラン欄L79–80で、プレーヤー以外の利用が可能であることと、伝票を受け取って自動精算機で精算する方式を確認。既存の大海老の鎌倉丼・三崎マグロ丼は2026-10-24のメニュー確認を日付付きで保持し、今回レストランメニューを再取得・再確認したとはしない。現在の全料理・価格・営業時間・予約条件を新たに確定しない。",
+      "markerRemoved": false,
+      "reviewStatus": "official_specific_facility_conditions"
+    }
+  ]
+}
