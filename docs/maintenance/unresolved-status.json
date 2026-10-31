@@ -1,18 +1,18 @@
 {
-  "dataSha256": "d3750b745cfe6c8809c74edb3540edbc942c5a5dd327344a1a852ac3de59a26d",
+  "dataSha256": "ec2429239547dd7c9003eef8edd8e5743cadcff8dae482e7613528819a1cd799",
   "scope": "comparison.text marker inventory; not factual completeness",
   "pattern": "未確認|確認でき(?:てい(?:ません|ない)|ません|ない|ず|なかった)|取得でき(?:てい(?:ません|ない)|ません|ない|ず|なかった)|不明",
   "counts": {
-    "play": 17,
+    "play": 11,
     "car": 4,
     "rail": 32,
-    "dining": 22,
+    "dining": 21,
     "stay": 169,
     "budget": 23,
     "scenery": 6
   },
-  "fieldCount": 273,
-  "courseCount": 225,
+  "fieldCount": 266,
+  "courseCount": 218,
   "entries": [
     {
       "id": 0,
@@ -231,14 +231,6 @@
       "checked": "2026-10-29"
     },
     {
-      "id": 72,
-      "name": "那須陽光ゴルフクラブ",
-      "field": "dining",
-      "text": "夕食は「おまかせ会席膳」「牛すき鍋」「牛しゃぶ」を案内。2名以上、3日前までの予約制で、クラブハウス内レストランで提供します。夕食はコースのみで、内容は季節・仕入れにより変わる場合があります。昼食の具体的な料理は未確認です。",
-      "url": "https://golf.nasusunlight.jp/restaurant",
-      "checked": "2026-10-29"
-    },
-    {
       "id": 77,
       "name": "那須霞ヶ城 ゴルフ＆ホテルリゾート",
       "field": "dining",
@@ -394,9 +386,9 @@
       "id": 128,
       "name": "八王子カントリークラブ",
       "field": "play",
-      "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=13016",
-      "checked": "2026-10-22〜23"
+      "text": "18ホール・パー72。公式距離表ではレギュラー6,231ヤード、バック6,595ヤード、フロント5,741ヤード、ゴールド5,099ヤードです。詳しい起伏やホールごとのレイアウトは未確認です。",
+      "url": "https://www.hachiojicc.co.jp/course/",
+      "checked": "2026-10-31"
     },
     {
       "id": 128,
@@ -455,14 +447,6 @@
       "checked": "2026-10-30"
     },
     {
-      "id": 138,
-      "name": "一の宮カントリークラブ",
-      "field": "play",
-      "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=12003",
-      "checked": "2026-10-22〜23"
-    },
-    {
       "id": 139,
       "name": "PGM市原カントリークラブ",
       "field": "car",
@@ -511,28 +495,12 @@
       "checked": "2026-10-22〜23"
     },
     {
-      "id": 149,
-      "name": "高坂カントリークラブ",
-      "field": "play",
-      "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11028",
-      "checked": "2026-10-22〜23"
-    },
-    {
       "id": 150,
       "name": "飯能くすの樹カントリー倶楽部",
       "field": "stay",
       "text": "浴槽のある浴室を公式施設写真で確認できます。温泉・サウナ・宿泊設備、現在の利用時間やプラン別制限は未確認です。",
       "url": "https://booking.pacificgolf.co.jp/?cc_id=75&p=guide.gallery#house_official",
       "checked": "2026-10-29"
-    },
-    {
-      "id": 152,
-      "name": "リバーサイドフェニックスゴルフクラブ",
-      "field": "play",
-      "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=11058",
-      "checked": "2026-10-22〜23"
     },
     {
       "id": 153,
@@ -559,22 +527,6 @@
       "checked": "2026-10-30"
     },
     {
-      "id": 159,
-      "name": "美浦ゴルフ倶楽部",
-      "field": "play",
-      "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8089",
-      "checked": "2026-10-22〜23"
-    },
-    {
-      "id": 160,
-      "name": "セゴビアゴルフクラブ イン チヨダ",
-      "field": "play",
-      "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=8054",
-      "checked": "2026-10-22〜23"
-    },
-    {
       "id": 163,
       "name": "ゴールド栃木プレジデントカントリークラブ",
       "field": "play",
@@ -596,14 +548,6 @@
       "field": "play",
       "text": "18ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
       "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=50135",
-      "checked": "2026-10-22〜23"
-    },
-    {
-      "id": 167,
-      "name": "プレステージカントリークラブ",
-      "field": "play",
-      "text": "36ホールのゴルフ場。詳しい起伏やレイアウトの比較情報は未確認。",
-      "url": "https://www.kga.gr.jp/club/club_detail.php?club_id=9092",
       "checked": "2026-10-22〜23"
     },
     {
