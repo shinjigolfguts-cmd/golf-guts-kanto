@@ -1,5 +1,5 @@
 {
-  "dataSha256": "ec2429239547dd7c9003eef8edd8e5743cadcff8dae482e7613528819a1cd799",
+  "dataSha256": "03ab4cc34cd19df0bf95c2dfb9f2841a3506eccbc003e2615171b9a63ba2d62a",
   "scope": "comparison.text marker inventory; not factual completeness",
   "pattern": "未確認|確認でき(?:てい(?:ません|ない)|ません|ない|ず|なかった)|取得でき(?:てい(?:ません|ない)|ません|ない|ず|なかった)|不明",
   "counts": {
