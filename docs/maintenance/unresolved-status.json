@@ -1,5 +1,5 @@
 {
-  "dataSha256": "03ab4cc34cd19df0bf95c2dfb9f2841a3506eccbc003e2615171b9a63ba2d62a",
+  "dataSha256": "2d92859bc5ee1284580cb53f8e2d09fc10ee22d8ed1613c1827860af879aab7a",
   "scope": "comparison.text marker inventory; not factual completeness",
   "pattern": "未確認|確認でき(?:てい(?:ません|ない)|ません|ない|ず|なかった)|取得でき(?:てい(?:ません|ない)|ません|ない|ず|なかった)|不明",
   "counts": {
@@ -1402,9 +1402,9 @@
       "id": 337,
       "name": "東都栃木カントリー倶楽部",
       "field": "stay",
-      "text": "公式施設紹介に浴室を掲載。温泉の区分、浴室営業時間・プラン別制限、宿泊設備は未確認です。",
-      "url": "https://www.toto-motors.co.jp/golf/tochigi/facility.htm",
-      "checked": "2026-10-29"
+      "text": "公式施設紹介に浴室を掲載（2026年10月29日確認）。公式の「ご予約の前に」では、「スループレーデー」は浴室・ロッカールームを利用できないと案内しています。対象日の実施予定、その他のプラン別利用条件、浴室営業時間、温泉の区分・宿泊設備は未確認です。",
+      "url": "https://aps.toto-motors.co.jp/golf/tochigi/images/pdf/GB%E3%81%94%E4%BA%88%E7%B4%84%E3%81%AE%E5%89%8D%E3%81%AB.pdf",
+      "checked": "2026-10-31"
     },
     {
       "id": 339,
