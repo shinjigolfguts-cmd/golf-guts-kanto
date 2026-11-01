@@ -1,6 +1,7 @@
 """Render crawlable course pages from the current verified data; no invented facts."""
 import json,html
 from pathlib import Path
+from source_links import supplementary_sources
 R=Path(__file__).resolve().parents[1]; origin='https://shinjigolfguts-cmd.github.io/golf-guts-kanto/'
 d=json.loads((R/'data.js').read_text().split('=',1)[1].strip().rstrip(';'));esc=lambda v:html.escape(str(v),quote=True)
 labels={'play':'プレーの特徴','car':'車でのアクセス','rail':'電車でのアクセス','dining':'食事','stay':'宿泊・お風呂','budget':'予算の目安','scenery':'景色'}
@@ -20,7 +21,7 @@ for c in d['courses']:
   body+=f'<section><h2>{label}</h2><p>{esc(f["text"])}</p>'
   if f.get('conditions'):body+=f'<p>{esc(f["conditions"])}</p>'
   body+=f'<a href="{esc(f["url"])}" rel="noopener noreferrer">出典を確認する</a>'
-  for source in f.get('supportingUrls',[]):
+  for source in supplementary_sources(f):
    body+=f' <a href="{esc(source)}" rel="noopener noreferrer">補足の出典</a>'
   body+=f'<small>情報確認：{esc(f.get("checked","未確認"))}</small></section>'
  body+=f'<p><a href="{esc(c.get("officialUrl") or c["url"])}" rel="noopener noreferrer">公式案内・予約条件を確認する</a></p>'
