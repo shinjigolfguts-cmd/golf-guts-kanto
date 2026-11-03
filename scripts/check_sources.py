@@ -9,6 +9,8 @@ from urllib.error import HTTPError
 from urllib.parse import quote, urldefrag, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
+from source_links import supplementary_sources
+
 ROOT = Path(__file__).resolve().parents[1]
 REPORT = ROOT / "reports" / "source-check.json"
 
@@ -28,6 +30,11 @@ def collect_urls(value, urls):
                 for link in item:
                     if isinstance(link, str) and urlsplit(link.strip()).scheme in ("http", "https"):
                         urls.add(urldefrag(link.strip())[0])
+            if key == "sources":
+                # Match the displayed non-image list alias only. Preserve the
+                # canonical collector and do not include menuImageUrl.
+                for link in supplementary_sources({"sources": item}):
+                    urls.add(urldefrag(link)[0])
             collect_urls(item, urls)
     elif isinstance(value, list):
         for item in value:
